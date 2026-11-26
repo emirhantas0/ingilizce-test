@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#6d28d9">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<title>5 Dakikada İngilizce</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<style>
+:root{
+  --bg:#f5f3fa; --surface:#ffffff; --surface-2:#f0ecf9; --line:#e4dff0;
+  --text:#1b1630; --muted:#665f80; --brand:#6d28d9; --brand-2:#8b5cf6; --brand-soft:#ede6fc;
+  --ok:#0b8a5f; --ok-soft:#dff5ec; --bad:#c8304f; --bad-soft:#fde8ec; --warn:#9a6700; --warn-soft:#fff3d6;
+  --star:#f5a623; --logo-l:93%; --shadow:0 1px 2px rgba(27,22,48,.06),0 4px 16px rgba(27,22,48,.06);
+  --r:18px; --font:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#110c1d; --surface:#1b1529; --surface-2:#251d38; --line:#30274a;
+  --text:#f2eefc; --muted:#a79fc2; --brand:#a78bfa; --brand-2:#c4b5fd; --brand-soft:#2a2045;
+  --logo-l:26%; --ok:#34d399; --ok-soft:#12352a; --bad:#fb7185; --bad-soft:#3a1622; --warn:#fbbf24; --warn-soft:#3a2c0c;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.25);
+}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font-family:var(--font);font-size:16px;line-height:1.45;-webkit-tap-highlight-color:transparent}
+button{font:inherit;color:inherit;border:0;background:none;cursor:pointer;touch-action:manipulation}
+button:focus-visible,a:focus-visible{outline:3px solid var(--brand-2);outline-offset:2px}
+svg.i{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
+.wrap{max-width:560px;margin:0 auto;padding:0 16px}
+[hidden]{display:none!important}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* ---------- Home ---------- */
+#home{padding-bottom:calc(24px + env(safe-area-inset-bottom))}
+.topbar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);padding-top:env(safe-area-inset-top)}
+.home-head{display:flex;align-items:center;gap:12px;padding:14px 0}
+.home-head img{width:44px;height:44px;border-radius:12px;object-fit:cover}
+.home-head .t{flex:1;min-width:0}
+.home-head h1{font-size:20px;margin:0;line-height:1.2}
+.home-head p{margin:2px 0 0;color:var(--muted);font-size:14px}
+.icon-btn{position:relative;width:44px;height:44px;border-radius:12px;display:grid;place-items:center;color:var(--text)}
+.icon-btn:hover{background:var(--surface-2)}
+.badge{position:absolute;top:6px;right:6px;min-width:18px;height:18px;padding:0 5px;border-radius:9px;background:var(--bad);color:#fff;font-size:11px;font-weight:700;display:grid;place-items:center}
+.overall{background:var(--surface);border-radius:var(--r);box-shadow:var(--shadow);padding:16px;margin:4px 0 16px}
+.overall .row{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font-size:15px}
+.overall b{font-size:22px}
+.bar{height:8px;border-radius:4px;background:var(--surface-2);overflow:hidden;margin-top:10px}
+.bar>i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--brand),var(--brand-2));border-radius:4px;transition:width .3s}
+.continue{display:flex;align-items:center;gap:12px;width:100%;text-align:left;background:var(--brand);color:#fff;border-radius:var(--r);padding:14px 16px;margin-bottom:20px;box-shadow:var(--shadow)}
+@media (prefers-color-scheme:dark){.continue{color:#160d29}}
+.continue .t{flex:1;min-width:0}
+.continue small{display:block;opacity:.85;font-size:13px}
+.continue strong{display:block;font-size:17px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.section-title{font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.lessons{display:grid;gap:10px;margin:0;padding:0;list-style:none}
+.lesson{display:flex;align-items:center;gap:12px;width:100%;text-align:left;background:var(--surface);border-radius:var(--r);padding:12px;box-shadow:var(--shadow);border:2px solid transparent}
+.lesson:hover{border-color:var(--brand-soft)}
+.lesson.next{border-color:var(--brand)}
+.lesson .logo{width:56px;height:56px;border-radius:14px;flex:none;display:grid;place-items:center;overflow:hidden}
+.lesson .logo img{width:78%;height:78%;object-fit:contain}
+.lesson .t{flex:1;min-width:0}
+.lesson .n{font-size:13px;color:var(--muted);font-weight:600;display:flex;gap:8px;align-items:center}
+.lesson .s{font-size:16px;font-weight:600;line-height:1.3;margin-top:1px;overflow-wrap:anywhere}
+.lesson .meta{display:flex;align-items:center;gap:10px;margin-top:6px}
+.lesson .bar{flex:1;margin:0;height:6px}
+.lesson .pct{font-size:12px;color:var(--muted);min-width:34px;text-align:right}
+.stars{display:inline-flex;gap:1px}
+.stars svg{width:16px;height:16px;stroke:var(--star);stroke-width:1.8;fill:none}
+.stars svg.on{fill:var(--star)}
+.tag{font-size:11px;font-weight:700;padding:2px 7px;border-radius:6px;background:var(--brand-soft);color:var(--brand)}
+.tag.done{background:var(--ok-soft);color:var(--ok)}
+.notice{border-radius:14px;padding:12px 14px;margin:0 0 16px;font-size:14px;background:var(--warn-soft);color:var(--text);border:1px solid color-mix(in srgb,var(--warn) 35%,transparent)}
+.notice b{color:var(--warn)}
+.loading{padding:40px 0;text-align:center;color:var(--muted)}
+
+/* ---------- Lesson ---------- */
+#lesson{min-height:100vh;min-height:100dvh;display:flex;flex-direction:column}
+.lhead{display:flex;align-items:center;gap:6px;padding:8px 0}
+.lhead .t{flex:1;min-width:0;text-align:center}
+.lhead h2{font-size:16px;margin:0;line-height:1.25}
+.lhead p{margin:0;font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.lprog{display:flex;align-items:center;gap:10px;padding:0 0 10px;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.lprog .bar{flex:1;margin:0}
+.lmain{flex:1;display:flex;flex-direction:column;gap:12px;padding-bottom:12px}
+.card{background:var(--surface);border-radius:22px;box-shadow:var(--shadow);padding:20px 18px;display:flex;flex-direction:column;gap:14px;min-height:200px}
+.card .lbl{font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);display:flex;align-items:center;gap:8px}
+.tr{font-size:clamp(22px,6.2vw,30px);font-weight:700;line-height:1.3;overflow-wrap:anywhere;margin:0}
+.en-box{border-top:1px dashed var(--line);padding-top:14px;margin-top:auto}
+.reveal{display:inline-flex;align-items:center;gap:8px;padding:10px 14px;border-radius:12px;background:var(--surface-2);font-weight:600;font-size:15px;min-height:44px}
+.en{font-size:clamp(18px,5vw,22px);font-weight:600;color:var(--brand);line-height:1.35;overflow-wrap:anywhere;margin:0}
+.alts{margin:6px 0 0;padding:0;list-style:none;font-size:15px;color:var(--muted)}
+.alts li::before{content:"ya da: ";font-weight:600}
+.fb{border-radius:16px;padding:12px 14px;min-height:56px;font-size:15px;display:flex;flex-direction:column;justify-content:center;gap:4px;background:var(--surface);box-shadow:var(--shadow)}
+.fb.ok{background:var(--ok-soft)}
+.fb.bad{background:var(--bad-soft)}
+.fb.info{background:var(--surface-2)}
+.fb .h{font-weight:700;display:flex;align-items:center;gap:6px}
+.fb.ok .h{color:var(--ok)} .fb.bad .h{color:var(--bad)}
+.fb .heard{color:var(--muted);overflow-wrap:anywhere}
+.fb .diff{overflow-wrap:anywhere;line-height:1.6}
+.fb .diff span{padding:1px 3px;border-radius:4px}
+.fb .diff .miss{background:color-mix(in srgb,var(--bad) 22%,transparent);color:var(--text);font-weight:700}
+.controls>.wrap{width:100%}
+.controls{position:sticky;bottom:0;z-index:4;background:linear-gradient(to top,var(--bg) 82%,transparent);padding:14px 0 calc(12px + env(safe-area-inset-bottom));display:flex;flex-direction:column;gap:10px}
+.mic{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;min-height:60px;border-radius:18px;background:var(--brand);color:#fff;font-size:18px;font-weight:700;box-shadow:0 6px 18px color-mix(in srgb,var(--brand) 40%,transparent)}
+@media (prefers-color-scheme:dark){.mic{color:#160d29}}
+.mic svg.i{width:26px;height:26px}
+.mic.on{background:var(--bad);animation:pulse 1.4s ease-in-out infinite}
+.mic.self{background:var(--surface);color:var(--text);box-shadow:var(--shadow)}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 0 color-mix(in srgb,var(--bad) 45%,transparent)}50%{box-shadow:0 0 0 10px transparent}}
+.selfrow{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.selfrow button{min-height:52px;border-radius:14px;font-weight:700}
+.selfrow .y{background:var(--ok);color:#fff}.selfrow .n2{background:var(--surface);box-shadow:var(--shadow)}
+.tools{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}
+.tool{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;min-height:58px;border-radius:14px;background:var(--surface);box-shadow:var(--shadow);font-size:12.5px;font-weight:600;color:var(--text);padding:4px 2px}
+.tool:disabled{opacity:.4;cursor:default}
+.tool.active{background:var(--brand-soft);color:var(--brand)}
+.stats{display:flex;justify-content:center;gap:18px;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.stats b{color:var(--text);font-size:15px}
+.stats .c b{color:var(--ok)} .stats .p b{color:var(--warn)}
+
+/* ---------- Sheets / dialogs ---------- */
+.scrim{position:fixed;inset:0;background:rgba(10,6,20,.5);z-index:40;display:flex;align-items:flex-end;justify-content:center;animation:fade .15s}
+@media (min-width:600px){.scrim{align-items:center}}
+.sheet{background:var(--surface);width:100%;max-width:520px;max-height:88dvh;overflow:auto;border-radius:22px 22px 0 0;padding:20px 18px calc(18px + env(safe-area-inset-bottom));animation:up .2s ease-out}
+@media (min-width:600px){.sheet{border-radius:22px}}
+.sheet h3{margin:0 0 6px;font-size:19px}
+.sheet p{margin:0 0 14px;color:var(--muted)}
+.sheet .x{float:right;margin:-8px -6px 0 0}
+.opt{display:flex;align-items:center;gap:12px;width:100%;text-align:left;min-height:56px;padding:10px 4px;border-bottom:1px solid var(--line);font-size:16px}
+.opt:last-child{border-bottom:0}
+.opt .t{flex:1}.opt small{display:block;color:var(--muted);font-size:13px}
+.switch{width:46px;height:28px;border-radius:14px;background:var(--line);position:relative;flex:none;transition:background .2s}
+.switch::after{content:"";position:absolute;top:3px;left:3px;width:22px;height:22px;border-radius:50%;background:#fff;transition:transform .2s;box-shadow:0 1px 3px rgba(0,0,0,.2)}
+.opt[aria-checked="true"] .switch{background:var(--brand)}
+.opt[aria-checked="true"] .switch::after{transform:translateX(18px)}
+.btn{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;min-height:52px;border-radius:14px;font-weight:700;font-size:16px;margin-top:10px;background:var(--surface-2)}
+.btn.primary{background:var(--brand);color:#fff}
+@media (prefers-color-scheme:dark){.btn.primary{color:#160d29}}
+.btn.danger{background:var(--bad-soft);color:var(--bad)}
+.done-stars{display:flex;justify-content:center;gap:8px;margin:6px 0 10px}
+.done-stars svg{width:44px;height:44px;stroke:var(--star);stroke-width:1.6;fill:none}
+.done-stars svg.on{fill:var(--star)}
+.done-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:6px 0 8px;text-align:center}
+.done-grid div{background:var(--surface-2);border-radius:14px;padding:10px 4px;font-size:13px;color:var(--muted)}
+.done-grid b{display:block;font-size:22px;color:var(--text)}
+.cl{border-left:3px solid var(--brand-soft);padding:2px 0 2px 12px;margin:0 0 14px}
+.cl .d{font-size:13px;color:var(--muted);font-weight:600}
+.cl ul{margin:4px 0 0;padding-left:18px}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translateX(-50%);background:var(--text);color:var(--bg);padding:10px 16px;border-radius:12px;font-size:14px;z-index:60;max-width:90vw;text-align:center;animation:up .2s}
+@keyframes fade{from{opacity:0}} @keyframes up{from{transform:translateY(24px);opacity:0}}
+.toast{animation:none}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+@media (min-height:760px){.card{min-height:240px}}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-mic" viewBox="0 0 24 24"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><path d="M12 19v3"/></symbol>
+  <symbol id="i-stop" viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12" rx="2"/></symbol>
+  <symbol id="i-vol" viewBox="0 0 24 24"><path d="M11 5 6 9H2v6h4l5 4V5Z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a10 10 0 0 1 0 14"/></symbol>
+  <symbol id="i-slow" viewBox="0 0 24 24"><path d="M11 5 6 9H2v6h4l5 4V5Z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/></symbol>
+  <symbol id="i-skip" viewBox="0 0 24 24"><path d="m5 4 10 8-10 8V4Z"/><path d="M19 5v14"/></symbol>
+  <symbol id="i-prev" viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></symbol>
+  <symbol id="i-next" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></symbol>
+  <symbol id="i-back" viewBox="0 0 24 24"><path d="m12 19-7-7 7-7"/><path d="M19 12H5"/></symbol>
+  <symbol id="i-more" viewBox="0 0 24 24"><circle cx="12" cy="5" r="1.2"/><circle cx="12" cy="12" r="1.2"/><circle cx="12" cy="19" r="1.2"/></symbol>
+  <symbol id="i-bell" viewBox="0 0 24 24"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24"><path d="m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1L12 2Z"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></symbol>
+  <symbol id="i-eye" viewBox="0 0 24 24"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></symbol>
+  <symbol id="i-eyeoff" viewBox="0 0 24 24"><path d="M9.9 4.2A9.8 9.8 0 0 1 12 4c7 0 10 8 10 8a18 18 0 0 1-2.2 3.3"/><path d="M6.6 6.6C3.6 8.6 2 12 2 12s3 8 10 8a9.7 9.7 0 0 0 5.4-1.6"/><path d="M14.1 14.1a3 3 0 1 1-4.2-4.2"/><path d="m2 2 20 20"/></symbol>
+  <symbol id="i-play" viewBox="0 0 24 24"><path d="m6 3 14 9-14 9V3Z"/></symbol>
+  <symbol id="i-reset" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></symbol>
+  <symbol id="i-sync" viewBox="0 0 24 24"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/></symbol>
+</svg>
+
+<!-- ================= HOME ================= -->
+<main id="home">
+  <div class="topbar"><div class="wrap home-head">
+    <img id="modLogo" alt="" width="44" height="44">
+    <div class="t"><h1>5 Dakikada İngilizce</h1><p id="modName">Modül</p></div>
+    <button class="icon-btn" id="bellBtn" aria-label="Yenilikler"><svg class="i"><use href="#i-bell"/></svg><span class="badge" id="bellBadge" hidden></span></button>
+  </div></div>
+  <div class="wrap">
+    <div id="srNotice"></div>
+    <section class="overall" aria-label="Genel ilerleme">
+      <div class="row"><span>Tamamlanan ders</span><span><b id="doneCount">0</b> / <span id="totalCount">0</span></span></div>
+      <div class="bar"><i id="overallBar"></i></div>
+    </section>
+    <button class="continue" id="continueBtn" hidden>
+      <div class="t"><small>Kaldığın yerden devam et</small><strong id="continueName"></strong></div>
+      <svg class="i"><use href="#i-play"/></svg>
+    </button>
+    <h2 class="section-title">Dersler</h2>
+    <ul class="lessons" id="lessonList"><li class="loading">Dersler yükleniyor…</li></ul>
+  </div>
+</main>
+
+<!-- ================= LESSON ================= -->
+<main id="lesson" hidden>
+  <div class="topbar"><div class="wrap">
+    <div class="lhead">
+      <button class="icon-btn" id="homeBtn" aria-label="Ders listesine dön"><svg class="i"><use href="#i-back"/></svg></button>
+      <div class="t"><h2 id="lTitle"></h2><p id="lSub"></p></div>
+      <button class="icon-btn" id="menuBtn" aria-label="Ders ayarları"><svg class="i"><use href="#i-more"/></svg></button>
+    </div>
+    <div class="lprog"><div class="bar" aria-hidden="true"><i id="lBar"></i></div><span id="lPos">1 / 1</span></div>
+  </div></div>
+
+  <div class="wrap lmain">
+    <article class="card" aria-live="polite">
+      <div class="lbl">Türkçesi</div>
+      <p class="tr" id="trText" lang="tr"></p>
+      <div class="en-box">
+        <button class="reveal" id="revealBtn"><svg class="i"><use href="#i-eye"/></svg><span>İngilizcesini göster</span></button>
+        <div id="enWrap" hidden>
+          <p class="en" id="enText" lang="en"></p>
+          <ul class="alts" id="altList" lang="en"></ul>
+        </div>
+      </div>
+    </article>
+    <div class="fb info" id="fb" role="status" aria-live="polite"><span class="heard" id="fbHint">Mikrofona dokun ve cümlenin İngilizcesini söyle.</span></div>
+  </div>
+
+  <div class="controls"><div class="wrap" style="display:flex;flex-direction:column;gap:10px">
+    <button class="mic" id="micBtn"><svg class="i"><use href="#i-mic"/></svg><span id="micLabel">Konuş</span></button>
+    <div class="selfrow" id="selfRow" hidden>
+      <button class="y" id="selfYes">Doğru söyledim</button>
+      <button class="n2" id="selfNo">Tekrar deneyeceğim</button>
+    </div>
+    <div class="tools">
+      <button class="tool" id="prevBtn" aria-label="Önceki cümle"><svg class="i"><use href="#i-prev"/></svg>Geri</button>
+      <button class="tool" id="listenBtn" aria-label="İngilizcesini dinle"><svg class="i"><use href="#i-vol"/></svg>Dinle</button>
+      <button class="tool" id="slowBtn" aria-label="Yavaş dinle"><svg class="i"><use href="#i-slow"/></svg>Yavaş</button>
+      <button class="tool" id="passBtn" aria-label="Pas geç, sonra tekrar sor"><svg class="i"><use href="#i-skip"/></svg>Pas</button>
+      <button class="tool" id="nextBtn" aria-label="Sonraki cümle"><svg class="i"><use href="#i-next"/></svg>İleri</button>
+    </div>
+    <div class="stats"><span class="c">Doğru <b id="sCorrect">0</b></span><span class="p">Pas <b id="sPass">0</b></span><span>Kalan <b id="sLeft">0</b></span></div>
+  </div></div>
+</main>
+
+<div id="layer"></div>
+
+<script>
+"use strict";
+/* =========================================================
+   5 Dakikada İngilizce — konuşma alıştırması (v2)
+   Aynı data.json + lessons/*.json dosyalarıyla çalışır.
+   ========================================================= */
+const APP_VERSION = '2.0';
+const MOD = (() => {
+  const m = location.pathname.match(/module-?(\d+)/i);
+  const n = m ? m[1] : (document.documentElement.dataset.module || '2');
+  return { n, key: 'module' + n };
+})();
+
+/* ---------- küçük yardımcılar ---------- */
+const $ = id => document.getElementById(id);
+const store = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+  del(k) { try { localStorage.removeItem(k); } catch {} },
+  raw(k) { try { return localStorage.getItem(k); } catch { return null; } }
+};
+const getJSON = (url, fresh) => fetch(url, { cache: fresh ? 'reload' : 'no-cache' }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
+const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+const icon = (name, cls) => { const s = document.createElementNS('http://www.w3.org/2000/svg', 'svg'); s.setAttribute('class', 'i' + (cls ? ' ' + cls : '')); const u = document.createElementNS('http://www.w3.org/2000/svg', 'use'); u.setAttribute('href', '#i-' + name); s.appendChild(u); return s; };
+function starsEl(n, cls = 'stars') { const w = el('span', cls); w.setAttribute('aria-label', n + ' yıldız'); for (let i = 0; i < 3; i++) w.appendChild(icon('star', i < n ? 'on' : '')); return w; }
+let toastT; function toast(msg) { document.querySelectorAll('.toast').forEach(t => t.remove()); const t = el('div', 'toast', msg); document.body.appendChild(t); clearTimeout(toastT); toastT = setTimeout(() => t.remove(), 2600); }
+
+/* =========================================================
+   CEVAP KONTROLÜ
+   ========================================================= */
+const Match = (() => {
+  const ONES = ['zero','one','two','three','four','five','six','seven','eight','nine','ten','eleven','twelve','thirteen','fourteen','fifteen','sixteen','seventeen','eighteen','nineteen'];
+  const TENS = ['','','twenty','thirty','forty','fifty','sixty','seventy','eighty','ninety'];
+  const numWords = n => n < 20 ? ONES[n] : TENS[Math.floor(n / 10)] + (n % 10 ? ' ' + ONES[n % 10] : '');
+  const SAME = { okay: 'ok', alright: 'all right', colour: 'color', favourite: 'favorite', centre: 'center', theatre: 'theater', neighbour: 'neighbor', mum: 'mom', grey: 'gray', travelling: 'traveling', cancelled: 'canceled', programme: 'program', realise: 'realize', organise: 'organize', mr: 'mister', mrs: 'missus', ms: 'miss', dr: 'doctor', st: 'street', cannot: 'can not', gonna: 'going to', wanna: 'want to', gotta: 'got to' };
+  const TR_NAMES = new Set(['ali','mehmet','ahmet','fatma','zeynep','elif','emre','murat','mustafa','hasan','huseyin','hakan','kemal','selim','burak','ece','merve','esra','ayten','aylin','berk','cem','deniz','kerem','oguz','serkan','tolga','volkan','yusuf','ataturk','istanbul','ankara','izmir','bakirkoy','kadikoy','besiktas','galatasaray','fenerbahce','trabzon','antalya','bursa']);
+  const NAME = 'qqname';
+  const NEG = new Set(['not', 'no', 'never', 'nothing', 'nobody', 'none']);
+
+  // Hedef cümlede: Türkçe harf içeren kelimeler ve bilinen Türkçe özel isimler → joker
+  function markNames(s) {
+    return s.replace(/[A-Za-zÀ-ɏ]+/g, (w, off) => {
+      if (/[çğıöşüÇĞİÖŞÜ]/.test(w)) return NAME;
+      const f = fold(w.toLowerCase());
+      if (/^[A-Z]/.test(w) && off > 0 && TR_NAMES.has(f)) return NAME;
+      return w;
+    });
+  }
+  function fold(s) { return s.replace(/ı/g, 'i').normalize('NFD').replace(/[̀-ͯ]/g, ''); }
+
+  // Metni karşılaştırılabilir kelime dizilerine çevir (kısaltmalar için birden çok olası açılım)
+  function variants(text, isTarget) {
+    let s = String(text || '');
+    if (isTarget) s = markNames(s);
+    s = fold(s.toLowerCase()).replace(/[’‘`´]/g, "'");
+    s = s.replace(/\b([ap])\.\s?m\b\.?/g, '$1m').replace(/(\d),(?=\d{3}\b)/g, '$1').replace(/(\d):(\d)/g, '$1 $2').replace(/(\d)\.(\d)/g, '$1 point $2')
+         .replace(/%/g, ' percent').replace(/&/g, ' and ').replace(/\$(\d+)/g, '$1 dollars');
+    s = s.replace(/\bcan't\b/g, 'can not').replace(/\bwon't\b/g, 'will not').replace(/\bshan't\b/g, 'shall not')
+         .replace(/\bain't\b/g, 'is not').replace(/n't\b/g, ' not').replace(/'m\b/g, ' am').replace(/'re\b/g, ' are')
+         .replace(/'ve\b/g, ' have').replace(/'ll\b/g, ' will').replace(/\bo'clock\b/g, 'oclock');
+    if (isTarget) s = s.replace(new RegExp(NAME + "'?s\\b", 'g'), NAME);
+    s = s.replace(/[^a-z0-9' ]+/g, ' ');
+    let toks = s.split(/\s+/).filter(Boolean).flatMap(t => {
+      if (/^\d+$/.test(t)) { const n = +t; return n < 100 ? numWords(n).split(' ') : [t]; }
+      const m = SAME[t.replace(/'/g, '')]; return m ? m.split(' ') : [t];
+    });
+    // 's ve 'd belirsiz: hepsini dene (is / has / iyelik; would / had)
+    let out = [[]];
+    for (const t of toks) {
+      let opts;
+      const m = t.match(/^(.+)'(s|d)$/);
+      if (m && m[1] !== NAME) opts = m[2] === 's' ? [[m[1] + 's'], [m[1], 'is'], [m[1], 'has']] : [[m[1], 'would'], [m[1], 'had'], [m[1] + 'd']];
+      else opts = [[t.replace(/'/g, '')]];
+      const next = [];
+      for (const o of out) for (const p of opts) { if (next.length < 24) next.push(o.concat(p)); }
+      out = next;
+    }
+    return out.map(a => a.filter(Boolean));
+  }
+
+  // T tam olarak S'ye uyuyor mu? (joker isim 1-3 kelimeyi karşılar)
+  function fullMatch(T, S, i = 0, j = 0) {
+    if (i === T.length) return j === S.length;
+    if (T[i] === NAME) { for (let k = 1; k <= 3 && j + k <= S.length; k++) { if (NEG.has(S[j + k - 1])) break; if (fullMatch(T, S, i + 1, j + k)) return true; } return false; }
+    return j < S.length && T[i] === S[j] && fullMatch(T, S, i + 1, j + 1);
+  }
+  // Baş ve sonda en fazla 2 fazladan kelimeye ("yes", "uh" gibi) izin ver; ortada değil.
+  function tokensMatch(T, S) {
+    if (fullMatch(T, S)) return true;
+    if (T.length < 3) return false;           // kısa cümlelerde fazlalığa izin yok
+    for (let a = 0; a <= 2; a++) for (let b = 0; b <= 2; b++) {
+      if (a + b === 0 || a + b > S.length) continue;
+      const extra = S.slice(0, a).concat(S.slice(S.length - b));
+      if (extra.some(w => NEG.has(w))) continue; // "I am tired" ≠ "I am tired not"
+      if (fullMatch(T, S.slice(a, S.length - b))) return true;
+    }
+    return false;
+  }
+  function targetsOf(item) {
+    const list = [item.en, ...(item.alt || [])];
+    // "Turn on / Switch on" → her biri ayrı doğru cevap
+    return list.flatMap(t => String(t).includes('/') ? [...String(t).split('/').map(x => x.trim()).filter(Boolean), String(t).replace(/\//g, ' ')] : [t]);
+  }
+  function check(item, heardList) {
+    const targets = targetsOf(item).flatMap(t => variants(t, true));
+    for (const h of heardList) for (const S of variants(h, false)) for (const T of targets) if (T.length && tokensMatch(T, S)) return true;
+    return false;
+  }
+  // Yanlışta: hedef cümlenin hangi kelimeleri duyulmadı?
+  function diff(item, heard) {
+    const heardToks = variants(heard, false)[0] || [];
+    let best = null;
+    for (const t of targetsOf(item)) {
+      const pool = heardToks.slice();
+      const words = String(t).split(/\s+/).filter(Boolean).map(w => {
+        const v = variants(w, true)[0] || [];
+        const ok = v.length > 0 && v.every(x => { if (x === NAME) return pool.length > 0; const k = pool.indexOf(x); if (k < 0) return false; pool.splice(k, 1); return true; });
+        return { w, ok };
+      });
+      const score = words.filter(x => x.ok).length / Math.max(words.length, 1);
+      if (!best || score > best.score) best = { score, words };
+    }
+    return best;
+  }
+  return { check, diff, variants, targetsOf };
+})();
+
+/* =========================================================
+   KONUŞMA (tanıma + sesli okuma)
+   ========================================================= */
+const SR = window.SpeechRecognition || window.webkitSpeechRecognition || null;
+const synth = window.speechSynthesis || null;
+const UA = navigator.userAgent;
+const isIOS = /iP(hone|ad|od)/.test(UA) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+let enVoice = null;
+function pickVoice() {
+  if (!synth) return;
+  const vs = synth.getVoices();
+  enVoice = vs.find(v => v.lang === 'en-US' && /Google|Samantha|Aria|Jenny/i.test(v.name)) || vs.find(v => v.lang === 'en-US') || vs.find(v => /^en/i.test(v.lang)) || null;
+}
+if (synth) { pickVoice(); synth.onvoiceschanged = pickVoice; }
+function say(text, lang, rate, onend) {
+  if (!synth) { onend && onend(); return; }
+  synth.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = lang; u.rate = rate;
+  if (lang.startsWith('en') && enVoice) u.voice = enVoice;
+  let fired = false; const done = () => { if (!fired) { fired = true; onend && onend(); } };
+  u.onend = done; u.onerror = done;
+  synth.speak(u);
+  if (onend) setTimeout(done, 1500 + text.length * 140); // bazı tarayıcılarda onend gelmiyor
+}
+function sayList(texts, rate, onend) { const [h, ...rest] = texts; if (!h) { onend && onend(); return; } say(h, 'en-US', rate, () => setTimeout(() => sayList(rest, rate, onend), 250)); }
+
+let audioCtx = null;
+function beep(ok) {
+  try {
+    audioCtx = audioCtx || new (window.AudioContext || window.webkitAudioContext)();
+    const t = audioCtx.currentTime, o = audioCtx.createOscillator(), g = audioCtx.createGain();
+    o.type = 'sine'; o.frequency.setValueAtTime(ok ? 660 : 220, t); if (ok) o.frequency.setValueAtTime(880, t + 0.09);
+    g.gain.setValueAtTime(0.12, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.28);
+    o.connect(g); g.connect(audioCtx.destination); o.start(t); o.stop(t + 0.3);
+  } catch {}
+}
+
+/* =========================================================
+   DURUM
+   ========================================================= */
+const settings = Object.assign({ autoTR: store.raw('auto_tr_voice') === 'true', autoListen: true, sound: true }, store.get('v2_settings', {}));
+const saveSettings = () => store.set('v2_settings', settings);
+let lessons = [];           // data.json
+let L = null;               // açık ders: {meta, items}
+let P = null;               // ilerleme
+let rec = null, listening = false, wantAuto = false, silentStreak = 0, revealed = false, busy = false;
+
+const progKey = id => `v2_progress_${MOD.key}_${id}`;
+const starKey = id => `speaking_stars_${MOD.key}_${id}`;   // eski uygulamayla aynı anahtar
+const getStars = id => Math.max(0, Math.min(3, parseInt(store.raw(starKey(id)) || '0', 10) || 0));
+const lessonNo = m => String(m.title || m.name || ('#Lesson ' + m.id)).replace(/#?\s*lesson\s*/i, '').trim();
+
+function freshProgress(n) { return { v: 2, queue: [...Array(n).keys()], pos: 0, correct: {}, passed: {}, requeued: {}, done: false }; }
+function loadProgress(meta, n) {
+  let p = store.get(progKey(meta.id), null);
+  if (!p || !Array.isArray(p.queue)) {
+    p = freshProgress(n);
+    const old = store.get(`lesson_progress_${MOD.key}_${meta.id}`, null); // eski sürümden kaldığı yer
+    if (old && Number.isFinite(old.index)) p.pos = Math.max(0, Math.min(old.index, n - 1));
+  }
+  p.queue = p.queue.filter(i => i < n);
+  if (p.queue.length === 0) p = freshProgress(n);
+  p.pos = Math.max(0, Math.min(p.pos, p.queue.length));
+  return p;
+}
+const saveProgress = () => { if (L && P) store.set(progKey(L.meta.id), P); };
+function summary(meta) {
+  const p = store.get(progKey(meta.id), null);
+  if (!p || !p.queue) { const o = store.get(`lesson_progress_${MOD.key}_${meta.id}`, null); return { pct: 0, started: !!o, done: false }; }
+  return { pct: p.done ? 1 : p.pos / Math.max(p.queue.length, 1), started: p.pos > 0 || p.done, done: p.done };
+}
+
+/* =========================================================
+   ANA SAYFA
+   ========================================================= */
+function renderHome() {
+  $('modName').textContent = `Modül ${MOD.n} · Konuşma alıştırması`;
+  const list = $('lessonList'); list.textContent = '';
+  const playable = lessons.filter(l => l.file);
+  let done = 0, firstOpen = null;
+  for (const m of lessons) {
+    const li = el('li');
+    const b = el('button', 'lesson');
+    const s = m.file ? summary(m) : { pct: 0 };
+    const stars = getStars(m.id);
+    if (stars > 0 || s.done) done++;
+    if (m.file && !firstOpen && !(stars > 0 || s.done)) { firstOpen = m; b.classList.add('next'); }
+    const logo = el('div', 'logo'); logo.style.background = `hsl(${(m.id * 47) % 360} 75% var(--logo-l))`;
+    const img = new Image(); img.alt = ''; img.loading = 'lazy'; img.src = 'logos/' + (m.logo || `lessonlogo${m.id}.svg`); img.onerror = () => img.remove();
+    logo.appendChild(img);
+    const t = el('div', 't');
+    const n = el('div', 'n', 'Ders ' + lessonNo(m));
+    if (stars > 0 || s.done) n.appendChild(el('span', 'tag done', 'Tamamlandı'));
+    else if (s.started) n.appendChild(el('span', 'tag', 'Devam ediyor'));
+    t.appendChild(n);
+    t.appendChild(el('div', 's', m.file ? (m.subTitle || '') : 'Yakında'));
+    const meta = el('div', 'meta');
+    const bar = el('div', 'bar'); const bi = el('i'); bi.style.width = Math.round(s.pct * 100) + '%'; bar.appendChild(bi);
+    meta.appendChild(bar); meta.appendChild(el('span', 'pct', Math.round(s.pct * 100) + '%')); meta.appendChild(starsEl(stars));
+    t.appendChild(meta);
+    b.append(logo, t);
+    if (m.file) b.onclick = () => openLesson(m); else { b.disabled = true; b.style.opacity = .55; }
+    li.appendChild(b); list.appendChild(li);
+  }
+  $('doneCount').textContent = done; $('totalCount').textContent = playable.length;
+  $('overallBar').style.width = (playable.length ? done / playable.length * 100 : 0) + '%';
+  const lastId = store.get(`v2_last_${MOD.key}`, null);
+  const last = lessons.find(l => l.id === lastId && l.file);
+  const target = (last && !summary(last).done) ? last : firstOpen;
+  if (target) {
+    $('continueBtn').hidden = false;
+    $('continueName').textContent = `Ders ${lessonNo(target)} — ${target.subTitle || ''}`;
+    $('continueBtn').firstElementChild.firstElementChild.textContent = (last && target === last) ? 'Kaldığın yerden devam et' : 'Sıradaki ders';
+    $('continueBtn').onclick = () => openLesson(target);
+  } else $('continueBtn').hidden = true;
+}
+function renderSrNotice() {
+  const box = $('srNotice'); box.textContent = '';
+  if (SR) return;
+  const n = el('div', 'notice');
+  const b = el('b', null, 'Bu tarayıcı konuşmayı tanıyamıyor. ');
+  n.appendChild(b);
+  n.appendChild(document.createTextNode(isIOS
+    ? 'iPhone/iPad\'de uygulamayı Safari ile açın. Bu sırada cevabı kendin kontrol ederek çalışabilirsin.'
+    : 'Chrome, Edge veya Safari kullanın. Bu sırada cevabı kendin kontrol ederek çalışabilirsin.'));
+  box.appendChild(n);
+}
+
+/* =========================================================
+   DERS EKRANI
+   ========================================================= */
+async function openLesson(meta, fresh) {
+  try {
+    const raw = await getJSON(meta.file, fresh);
+    const items = raw.map(x => ({ tr: String(x.tr || x.Turkish || '').trim(), en: String(x.en || x.English || '').replace(/\s+/g, ' ').trim(), alt: (x.alt || []).map(a => String(a).replace(/\s+/g, ' ').trim()) }))
+                     .filter(x => x.tr && x.en);
+    if (!items.length) throw new Error('empty');
+    L = { meta, items }; P = loadProgress(meta, items.length);
+    store.set(`v2_last_${MOD.key}`, meta.id);
+    $('lTitle').textContent = 'Ders ' + lessonNo(meta);
+    $('lSub').textContent = meta.subTitle || '';
+    show('lesson');
+    if (P.done || P.pos >= P.queue.length) { renderCard(false); finish(true); }
+    else renderCard(true);
+  } catch (e) {
+    toast('Ders yüklenemedi. İnternet bağlantını kontrol et.');
+  }
+}
+function show(which) {
+  stopListening();
+  $('home').hidden = which !== 'home'; $('lesson').hidden = which !== 'lesson';
+  window.scrollTo(0, 0);
+  if (which === 'home') { if (synth) synth.cancel(); renderHome(); }
+}
+const curIdx = () => P.queue[Math.min(P.pos, P.queue.length - 1)];
+const curItem = () => L.items[curIdx()];
+
+function renderCard(speak) {
+  if (!L) return;
+  const item = curItem();
+  revealed = false;
+  $('trText').textContent = item.tr;
+  $('enText').textContent = item.en;
+  const al = $('altList'); al.textContent = '';
+  item.alt.forEach(a => al.appendChild(el('li', null, a)));
+  setReveal(false);
+  setFb('info', SR ? 'Mikrofona dokun ve cümlenin İngilizcesini söyle.' : 'İngilizcesini sesli söyle, sonra cevabı göster ve kendin kontrol et.');
+  if (!SR) { $('selfRow').hidden = true; $('micBtn').hidden = false; }
+  updateStats();
+  saveProgress();
+  if (speak && settings.autoTR) say(item.tr, 'tr-TR', 1, null);
+}
+function updateStats() {
+  const total = P.queue.length, pos = Math.min(P.pos, total - 1);
+  $('lPos').textContent = `${pos + 1} / ${total}`;
+  $('lBar').style.width = (P.done ? 100 : (P.pos / total) * 100) + '%';
+  const c = Object.keys(P.correct).length;
+  const p = Object.keys(P.passed).filter(k => !P.correct[k]).length;
+  $('sCorrect').textContent = c; $('sPass').textContent = p; $('sLeft').textContent = Math.max(total - P.pos, 0);
+  $('prevBtn').disabled = P.pos <= 0;
+}
+function setReveal(on) {
+  revealed = on;
+  $('enWrap').hidden = !on;
+  const b = $('revealBtn'); b.textContent = '';
+  b.append(icon(on ? 'eyeoff' : 'eye'), el('span', null, on ? 'Gizle' : 'İngilizcesini göster'));
+  b.setAttribute('aria-expanded', on);
+}
+function setFb(kind, text, extra) {
+  const fb = $('fb'); fb.className = 'fb ' + kind; fb.textContent = '';
+  if (kind === 'ok' || kind === 'bad') {
+    const h = el('div', 'h'); h.append(icon(kind === 'ok' ? 'check' : 'x'), el('span', null, text)); fb.appendChild(h);
+  } else fb.appendChild(el('span', 'heard', text));
+  if (extra) fb.appendChild(extra);
+}
+
+function next(auto) {
+  if (P.pos < P.queue.length - 1) { P.pos++; renderCard(!auto); if (auto) autoListenAfterPrompt(); }
+  else { P.pos = P.queue.length; finish(false); }
+}
+function prev() { if (P.pos > 0) { stopListening(); P.pos = Math.min(P.pos, P.queue.length - 1) - 1; renderCard(true); } }
+function pass() {
+  stopListening();
+  const idx = curIdx();
+  if (!P.correct[idx]) P.passed[idx] = true;
+  // Pas geçilen cümle dersin sonuna bir kez daha eklenir
+  if (!P.requeued[idx] && P.pos < P.queue.length - 1) { P.requeued[idx] = true; P.queue.splice(P.pos, 1); P.queue.push(idx); renderCard(true); }
+  else next(false);
+}
+function markCorrect(auto) {
+  const idx = curIdx();
+  P.correct[idx] = true; delete P.passed[idx];
+  saveProgress(); updateStats();
+  if (settings.sound) beep(true);
+  setTimeout(() => next(auto), 650);
+}
+
+function finish(silent) {
+  stopListening();
+  P.done = true; P.pos = P.queue.length; saveProgress(); updateStats();
+  const total = L.items.length, c = Object.keys(P.correct).length;
+  const ratio = c / total;
+  const s = c === 0 ? 0 : ratio >= 0.9 ? 3 : ratio >= 0.6 ? 2 : 1;
+  if (s > getStars(L.meta.id)) store.set(starKey(L.meta.id), s);
+  const passedLeft = Object.keys(P.passed).filter(k => !P.correct[k]).map(Number);
+  const missing = [...Array(total).keys()].filter(i => !P.correct[i]);
+  sheet(sh => {
+    sh.appendChild(el('h3', null, silent ? 'Bu dersi bitirdin' : 'Tebrikler, ders bitti!'));
+    sh.appendChild(el('p', null, `Ders ${lessonNo(L.meta)} — ${L.meta.subTitle || ''}`));
+    sh.appendChild(starsEl(s, 'done-stars'));
+    const g = el('div', 'done-grid');
+    [['Doğru', c], ['Pas', passedLeft.length], ['Toplam', total]].forEach(([k, v]) => { const d = el('div'); d.append(el('b', null, v), document.createTextNode(k)); g.appendChild(d); });
+    sh.appendChild(g);
+    if (missing.length && missing.length < total) {
+      const b = el('button', 'btn primary', `Eksik kalan ${missing.length} cümleyi çalış`);
+      b.onclick = () => { closeSheet(false); restart(missing); }; sh.appendChild(b);
+    }
+    const r = el('button', 'btn' + (missing.length && missing.length < total ? '' : ' primary'), 'Dersi baştan başlat');
+    r.prepend(icon('reset')); r.onclick = () => { closeSheet(false); restart(null); }; sh.appendChild(r);
+    const h = el('button', 'btn', 'Ders listesine dön'); h.onclick = () => closeSheet(); sh.appendChild(h);
+  }, goHome);
+}
+function restart(onlyIdx) {
+  const n = L.items.length;
+  if (onlyIdx) { P.queue = onlyIdx.slice(); P.pos = 0; P.done = false; P.requeued = {}; }
+  else P = freshProgress(n);
+  saveProgress(); renderCard(true);
+}
+
+/* ---------- tanıma ---------- */
+function setMic(state) {
+  const b = $('micBtn'); b.classList.toggle('on', state === 'on');
+  b.firstElementChild.firstElementChild.setAttribute('href', state === 'on' ? '#i-stop' : '#i-mic');
+  $('micLabel').textContent = state === 'on' ? 'Dinliyorum… (durdur)' : (SR ? 'Konuş' : 'Cevabı göster ve kontrol et');
+  b.classList.toggle('self', !SR);
+}
+function stopListening() {
+  wantAuto = false;
+  if (rec) { try { rec.onend = null; rec.abort(); } catch {} rec = null; }
+  listening = false; if (L) setMic('off');
+}
+function startListening() {
+  if (!SR || listening || !L || P.done) return;
+  if (synth) synth.cancel();
+  let r;
+  try {
+    r = new SR(); r.lang = 'en-US'; r.continuous = false; r.interimResults = true; r.maxAlternatives = 5;
+  } catch { return; }
+  rec = r; let finalHeard = null, outcome = null;
+  r.onstart = () => { listening = true; setMic('on'); setFb('info', 'Dinliyorum… cümleyi söyle.'); };
+  r.onresult = e => {
+    const res = e.results[e.results.length - 1];
+    if (!res.isFinal) { setFb('info', '“' + res[0].transcript.trim() + '”'); return; }
+    const alts = []; for (let i = 0; i < res.length; i++) alts.push(res[i].transcript.trim());
+    // continuous=false olsa da bazı tarayıcılar sonucu parçalara böler: birleştirilmiş hâli de dene
+    if (e.results.length > 1) alts.unshift(Array.from(e.results).map(x => x[0].transcript.trim()).join(' '));
+    finalHeard = alts;
+  };
+  r.onerror = e => {
+    outcome = e.error;
+    if (e.error === 'not-allowed' || e.error === 'service-not-allowed') { wantAuto = false; setFb('bad', 'Mikrofon izni verilmedi', el('span', 'heard', 'Tarayıcının adres çubuğundaki kilit/mikrofon simgesinden bu siteye mikrofon izni ver, sonra tekrar dene.')); }
+    else if (e.error === 'network') { wantAuto = false; setFb('bad', 'İnternet bağlantısı gerekli', el('span', 'heard', 'Konuşma tanıma için tarayıcı internete bağlanmalı.')); }
+    else if (e.error === 'audio-capture') { wantAuto = false; setFb('bad', 'Mikrofon bulunamadı', el('span', 'heard', 'Cihazda çalışan bir mikrofon olduğundan emin ol.')); }
+  };
+  r.onend = () => {
+    listening = false; rec = null; setMic('off');
+    if (!L || !P || P.done) return;
+    if (finalHeard && finalHeard.length) {
+      silentStreak = 0;
+      const item = curItem();
+      if (Match.check(item, finalHeard)) {
+        setFb('ok', 'Harika, doğru!', el('span', 'heard', '“' + finalHeard[0] + '”'));
+        markCorrect(settings.autoListen);
+      } else {
+        if (settings.sound) beep(false);
+        const d = Match.diff(item, finalHeard[0]);
+        const box = el('div');
+        box.appendChild(el('div', 'heard', 'Duyulan: “' + finalHeard[0] + '”'));
+        if (revealed && d) {
+          const dv = el('div', 'diff'); dv.lang = 'en';
+          d.words.forEach((w, i) => { if (i) dv.appendChild(document.createTextNode(' ')); dv.appendChild(el('span', w.ok ? '' : 'miss', w.w)); });
+          box.appendChild(dv);
+        } else box.appendChild(el('div', 'heard', 'İpucu için “İngilizcesini göster”e dokun.'));
+        setFb('bad', 'Tam olmadı, tekrar dene', box);
+        if (settings.autoListen && wantAuto) setTimeout(() => wantAuto && startListening(), 1200);
+      }
+    } else if (!outcome || outcome === 'no-speech') {
+      silentStreak++;
+      setFb('info', 'Ses duyulmadı. Mikrofona dokunup tekrar dene.');
+      if (settings.autoListen && wantAuto && silentStreak < 2) setTimeout(() => wantAuto && startListening(), 400);
+      else wantAuto = false;
+    }
+  };
+  try { r.start(); } catch { rec = null; listening = false; setMic('off'); }
+}
+function autoListenAfterPrompt() {
+  if (!SR || !settings.autoListen) return;
+  wantAuto = true;
+  const item = curItem();
+  const go = () => setTimeout(() => wantAuto && !listening && startListening(), 250);
+  if (settings.autoTR) say(item.tr, 'tr-TR', 1, go); else go();
+}
+
+/* ---------- sayfalar arası katman ---------- */
+let sheetClose = null;
+function sheet(build, onClose) {
+  closeSheet();
+  const scrim = el('div', 'scrim'); const sh = el('div', 'sheet'); sh.setAttribute('role', 'dialog'); sh.setAttribute('aria-modal', 'true');
+  scrim.appendChild(sh); build(sh);
+  scrim.addEventListener('click', e => { if (e.target === scrim) closeSheet(); });
+  $('layer').appendChild(scrim);
+  sheetClose = onClose || null;
+  const f = sh.querySelector('button'); if (f) f.focus({ preventScroll: true });
+}
+function closeSheet(runCb = true) { const s = $('layer').firstChild; if (s) { s.remove(); const c = sheetClose; sheetClose = null; if (runCb && c) c(); } }
+function confirmBox(title, text, okText, onOk) {
+  sheet(sh => {
+    sh.appendChild(el('h3', null, title)); sh.appendChild(el('p', null, text));
+    const ok = el('button', 'btn danger', okText); ok.onclick = () => { closeSheet(false); onOk(); };
+    const no = el('button', 'btn', 'Vazgeç'); no.onclick = closeSheet;
+    sh.append(ok, no);
+  });
+}
+function optSwitch(label, sub, key) {
+  const b = el('button', 'opt'); b.setAttribute('role', 'switch'); b.setAttribute('aria-checked', settings[key]);
+  const t = el('span', 't', label); if (sub) t.appendChild(el('small', null, sub));
+  b.append(t, el('span', 'switch'));
+  b.onclick = () => { settings[key] = !settings[key]; saveSettings(); b.setAttribute('aria-checked', settings[key]); };
+  return b;
+}
+function openMenu() {
+  stopListening();
+  sheet(sh => {
+    const x = el('button', 'icon-btn x'); x.setAttribute('aria-label', 'Kapat'); x.appendChild(icon('x')); x.onclick = closeSheet; sh.appendChild(x);
+    sh.appendChild(el('h3', null, 'Ders ayarları'));
+    sh.appendChild(el('p', null, `Ders ${lessonNo(L.meta)} · ${L.items.length} cümle`));
+    sh.appendChild(optSwitch('Türkçe cümleyi sesli oku', 'Her yeni cümlede Türkçesi okunur', 'autoTR'));
+    sh.appendChild(optSwitch('Otomatik dinle', 'Doğru cevaptan sonra mikrofon kendiliğinden açılır', 'autoListen'));
+    sh.appendChild(optSwitch('Ses efektleri', 'Doğru/yanlış sesi', 'sound'));
+    const up = el('button', 'opt'); up.append(icon('sync'), el('span', 't', 'Dersi güncelle')); up.lastChild.appendChild(el('small', null, 'Hocanın son değişikliklerini indir, ilerlemen korunur'));
+    up.onclick = () => { closeSheet(false); openLesson(L.meta, true).then(() => toast('Ders güncellendi')); };
+    const rs = el('button', 'opt'); rs.append(icon('reset'), el('span', 't', 'Dersi baştan başlat')); rs.lastChild.appendChild(el('small', null, 'Bu dersteki ilerleme sıfırlanır, yıldızlar kalır'));
+    rs.onclick = () => confirmBox('Ders sıfırlansın mı?', 'Bu dersteki doğru ve pas kayıtların silinecek. Kazandığın yıldızlar kalır.', 'Evet, baştan başlat', () => restart(null));
+    sh.append(up, rs);
+  });
+}
+async function openChangelog() {
+  let data = [];
+  try { data = await getJSON('changelog.json'); } catch {}
+  sheet(sh => {
+    const x = el('button', 'icon-btn x'); x.setAttribute('aria-label', 'Kapat'); x.appendChild(icon('x')); x.onclick = closeSheet; sh.appendChild(x);
+    sh.appendChild(el('h3', null, 'Yenilikler'));
+    sh.appendChild(el('p', null, 'Uygulama sürümü ' + APP_VERSION));
+    if (!data.length) sh.appendChild(el('p', null, 'Henüz duyuru yok.'));
+    data.slice().sort((a, b) => b.id - a.id).forEach(e => {
+      const c = el('div', 'cl'); c.appendChild(el('div', 'd', (e.date || '') + (e.version ? ' · V.' + e.version : '')));
+      const ul = el('ul'); (e.items || []).forEach(i => ul.appendChild(el('li', null, i))); c.appendChild(ul); sh.appendChild(c);
+    });
+  });
+  if (data.length) store.set('changelog_last_id', Math.max(...data.map(d => d.id || 0)));
+  $('bellBadge').hidden = true;
+}
+
+/* ---------- olaylar ---------- */
+function goHome() { if (history.state && history.state.l != null) history.back(); else show('home'); }
+$('homeBtn').onclick = goHome;
+$('menuBtn').onclick = openMenu;
+$('bellBtn').onclick = openChangelog;
+$('revealBtn').onclick = () => setReveal(!revealed);
+$('prevBtn').onclick = prev;
+$('nextBtn').onclick = () => { stopListening(); next(false); };
+$('passBtn').onclick = pass;
+$('listenBtn').onclick = () => { stopListening(); const it = curItem(); sayList([it.en, ...it.alt], 0.95); };
+$('slowBtn').onclick = () => { stopListening(); say(curItem().en, 'en-US', 0.6, null); };
+$('micBtn').onclick = () => {
+  if (!SR) { setReveal(true); $('micBtn').hidden = true; $('selfRow').hidden = false; return; }
+  if (listening) { stopListening(); setFb('info', 'Durduruldu. Hazır olunca tekrar dokun.'); }
+  else { wantAuto = true; silentStreak = 0; startListening(); }
+};
+$('selfYes').onclick = () => { $('selfRow').hidden = true; $('micBtn').hidden = false; setFb('ok', 'Harika!'); markCorrect(false); };
+$('selfNo').onclick = () => { $('selfRow').hidden = true; $('micBtn').hidden = false; setReveal(false); setFb('info', 'Tekrar söyle, sonra cevabı kontrol et.'); };
+document.addEventListener('keydown', e => {
+  if ($('lesson').hidden || $('layer').firstChild || e.target.closest('input,textarea')) return;
+  if (e.code === 'Space') { e.preventDefault(); $('micBtn').click(); }
+  else if (e.key === 'ArrowRight') $('nextBtn').click();
+  else if (e.key === 'ArrowLeft') $('prevBtn').click();
+  else if (e.key === 'Enter') { e.preventDefault(); setReveal(!revealed); }
+});
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeSheet(); });
+document.addEventListener('visibilitychange', () => { if (document.hidden) { stopListening(); if (synth) synth.cancel(); } });
+window.addEventListener('popstate', () => { if (!$('lesson').hidden) show('home'); });
+const _open = openLesson; openLesson = async (m, f) => { if ($('lesson').hidden) history.pushState({ l: m.id }, ''); return _open(m, f); };
+
+/* ---------- başlat ---------- */
+(function init() {
+  const logo = $('modLogo'); logo.src = `module${MOD.n}logo.webp`; logo.onerror = () => { logo.onerror = null; logo.src = 'logo.webp'; };
+  setMic('off'); renderSrNotice();
+  getJSON('data.json').then(d => { lessons = d.filter(x => x && x.id != null); renderHome(); })
+    .catch(() => { $('lessonList').textContent = ''; $('lessonList').appendChild(el('li', 'loading', 'Dersler yüklenemedi. İnternet bağlantını kontrol edip sayfayı yenile.')); });
+  getJSON('changelog.json').then(d => { const last = +store.raw('changelog_last_id') || 0; const n = d.filter(x => x.id > last).length; if (n) { $('bellBadge').hidden = false; $('bellBadge').textContent = n; } }).catch(() => {});
+  if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) navigator.serviceWorker.register('sw.js').catch(() => {});
+})();
+</script>
+</body>
+</html>

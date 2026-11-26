@@ -1,0 +1,2902 @@
+[
+  {
+    "id": 1,
+    "tr": "Pazar sabahı buradayım.",
+    "en": "I'm here on Sunday morning."
+  },
+  {
+    "id": 2,
+    "tr": "Pazar sabahı burada değilim.",
+    "en": "I'm not here on Sunday morning."
+  },
+  {
+    "id": 3,
+    "tr": "Pazar sabahı burada mıyım?",
+    "en": "Am I here on Sunday morning?"
+  },
+  {
+    "id": 4,
+    "tr": "Pazar sabahı burada değil miyim?",
+    "en": "Aren't I here on Sunday morning?"
+  },
+  {
+    "id": 5,
+    "tr": "Cuma öğleden sonra otobüsteyim.",
+    "en": "I'm on the bus on Friday afternoon."
+  },
+  {
+    "id": 6,
+    "tr": "Cuma öğleden sonra otobüste değilim.",
+    "en": "I'm not on the bus on Friday afternoon."
+  },
+  {
+    "id": 7,
+    "tr": "Cuma öğleden sonra otobüste miyim?",
+    "en": "Am I on the bus on Friday afternoon?"
+  },
+  {
+    "id": 8,
+    "tr": "Cuma öğleden sonra otobüste değil miyim?",
+    "en": "Aren't I on the bus on Friday afternoon?"
+  },
+  {
+    "id": 9,
+    "tr": "Cumartesi akşamı televizyondayız.",
+    "en": "We're on TV on Saturday evening."
+  },
+  {
+    "id": 10,
+    "tr": "Cumartesi akşamı televizyonda değiliz.",
+    "en": "We aren't on TV on Saturday evening."
+  },
+  {
+    "id": 11,
+    "tr": "Cumartesi akşamı televizyonda mıyız?",
+    "en": "Are we on TV on Saturday evening?"
+  },
+  {
+    "id": 12,
+    "tr": "Cumartesi akşamı televizyonda değil miyiz?",
+    "en": "Aren't we on TV on Saturday evening?"
+  },
+  {
+    "id": 13,
+    "tr": "Perşembe öğlen meşgulüm.",
+    "en": "I'm busy on Thursday noon."
+  },
+  {
+    "id": 14,
+    "tr": "Perşembe öğlen meşgul değilim.",
+    "en": "I'm not busy on Thursday noon."
+  },
+  {
+    "id": 15,
+    "tr": "Perşembe öğlen meşgul müyüm?",
+    "en": "Am I busy on Thursday noon?"
+  },
+  {
+    "id": 16,
+    "tr": "Perşembe öğlen meşgul değil miyim?",
+    "en": "Aren't I busy on Thursday noon?"
+  },
+  {
+    "id": 17,
+    "tr": "Pazar gecesi meşgul değilim.",
+    "en": "I'm not busy on Sunday night."
+  },
+  {
+    "id": 18,
+    "tr": "Pazar gecesi meşgulüm.",
+    "en": "I'm busy on Sunday night."
+  },
+  {
+    "id": 19,
+    "tr": "Pazar gecesi meşgul değil miyim?",
+    "en": "Aren't I busy on Sunday night?"
+  },
+  {
+    "id": 20,
+    "tr": "Pazar gecesi meşgul müyüm?",
+    "en": "Am I busy on Sunday night?"
+  },
+  {
+    "id": 21,
+    "tr": "Çarşamba akşamı hazırım.",
+    "en": "I'm ready on Wednesday evening."
+  },
+  {
+    "id": 22,
+    "tr": "Çarşamba akşamı hazır değilim.",
+    "en": "I'm not ready on Wednesday evening."
+  },
+  {
+    "id": 23,
+    "tr": "Çarşamba akşamı hazır mıyım?",
+    "en": "Am I ready on Wednesday evening?"
+  },
+  {
+    "id": 24,
+    "tr": "Çarşamba akşamı hazır değil miyim?",
+    "en": "Aren't I ready on Wednesday evening?"
+  },
+  {
+    "id": 25,
+    "tr": "Cuma sabahı yorgunum.",
+    "en": "I'm tired on Friday morning."
+  },
+  {
+    "id": 26,
+    "tr": "Cuma sabahı yorgun değilim.",
+    "en": "I'm not tired on Friday morning."
+  },
+  {
+    "id": 27,
+    "tr": "Cuma sabahı yorgun muyum?",
+    "en": "Am I tired on Friday morning?"
+  },
+  {
+    "id": 28,
+    "tr": "Cuma sabahı yorgun değil miyim?",
+    "en": "Aren't I tired on Friday morning?"
+  },
+  {
+    "id": 29,
+    "tr": "Cumartesi gecesi heyecanlıyım.",
+    "en": "I'm excited on Saturday night."
+  },
+  {
+    "id": 30,
+    "tr": "Cumartesi gecesi heyecanlı değilim.",
+    "en": "I'm not excited on Saturday night."
+  },
+  {
+    "id": 31,
+    "tr": "Cumartesi gecesi heyecanlı mıyım?",
+    "en": "Am I excited on Saturday night?"
+  },
+  {
+    "id": 32,
+    "tr": "Cumartesi gecesi heyecanlı değil miyim?",
+    "en": "Aren't I excited on Saturday night?"
+  },
+  {
+    "id": 33,
+    "tr": "Pazartesi sabahı açım.",
+    "en": "I'm hungry on Monday morning."
+  },
+  {
+    "id": 34,
+    "tr": "Pazartesi sabahı aç değilim.",
+    "en": "I'm not hungry on Monday morning."
+  },
+  {
+    "id": 35,
+    "tr": "Pazartesi sabahı aç mıyım?",
+    "en": "Am I hungry on Monday morning?"
+  },
+  {
+    "id": 36,
+    "tr": "Pazartesi sabahı aç değil miyim?",
+    "en": "Aren't I hungry on Monday morning?"
+  },
+  {
+    "id": 37,
+    "tr": "Toplantıda değiller.",
+    "en": "They aren't in the meeting."
+  },
+  {
+    "id": 38,
+    "tr": "Toplantıdalar.",
+    "en": "They're in the meeting."
+  },
+  {
+    "id": 39,
+    "tr": "Toplantıda değiller mi?",
+    "en": "Aren't they in the meeting?"
+  },
+  {
+    "id": 40,
+    "tr": "Toplantıdalar mı?",
+    "en": "Are they in the meeting?"
+  },
+  {
+    "id": 41,
+    "tr": "Kapıdayım.",
+    "en": "I'm at the door."
+  },
+  {
+    "id": 42,
+    "tr": "Kapıda değilim.",
+    "en": "I'm not at the door."
+  },
+  {
+    "id": 43,
+    "tr": "Kapıda mıyım?",
+    "en": "Am I at the door?"
+  },
+  {
+    "id": 44,
+    "tr": "Kapıda değil miyim?",
+    "en": "Aren't I at the door?"
+  },
+  {
+    "id": 45,
+    "tr": "Kapımdalar.",
+    "en": "They're at my door."
+  },
+  {
+    "id": 46,
+    "tr": "Kapımda değiller.",
+    "en": "They aren't at my door."
+  },
+  {
+    "id": 47,
+    "tr": "Kapımdalar mı?",
+    "en": "Are they at my door?"
+  },
+  {
+    "id": 48,
+    "tr": "Kapımda değiller mi?",
+    "en": "Aren't they at my door?"
+  },
+  {
+    "id": 49,
+    "tr": "Penceremdeki kedi mutlu.",
+    "en": "The cat at my window is happy."
+  },
+  {
+    "id": 50,
+    "tr": "Penceremdeki kedi mutlu değil.",
+    "en": "The cat at my window isn't happy."
+  },
+  {
+    "id": 51,
+    "tr": "Penceremdeki kedi mutlu mu?",
+    "en": "Is the cat at my window happy?"
+  },
+  {
+    "id": 52,
+    "tr": "Penceremdeki kedi mutlu değil mi?",
+    "en": "Isn't the cat at my window happy?"
+  },
+  {
+    "id": 53,
+    "tr": "Zemindeki renk kötü.",
+    "en": "The color on the floor is bad."
+  },
+  {
+    "id": 54,
+    "tr": "Zemindeki renk kötü değil.",
+    "en": "The color on the floor isn't bad."
+  },
+  {
+    "id": 55,
+    "tr": "Zemindeki renk kötü mü?",
+    "en": "Is the color on the floor bad?"
+  },
+  {
+    "id": 56,
+    "tr": "Zemindeki renk kötü değil mi?",
+    "en": "Isn't the color on the floor bad?"
+  },
+  {
+    "id": 57,
+    "tr": "Duvardaki resimler eski.",
+    "en": "The pictures on the wall are old."
+  },
+  {
+    "id": 58,
+    "tr": "Duvardaki resimler eski değil.",
+    "en": "The pictures on the wall aren't old."
+  },
+  {
+    "id": 59,
+    "tr": "Duvardaki resimler eski mi?",
+    "en": "Are the pictures on the wall old?"
+  },
+  {
+    "id": 60,
+    "tr": "Duvardaki resimler eski değil mi?",
+    "en": "Aren't the pictures on the wall old?"
+  },
+  {
+    "id": 61,
+    "tr": "Masadaki bardak boş.",
+    "en": "The glass on the table is empty."
+  },
+  {
+    "id": 62,
+    "tr": "Masadaki bardak boş değil.",
+    "en": "The glass on the table isn't empty."
+  },
+  {
+    "id": 63,
+    "tr": "Masadaki bardak boş mu?",
+    "en": "Is the glass on the table empty?"
+  },
+  {
+    "id": 64,
+    "tr": "Masadaki bardak boş değil mi?",
+    "en": "Isn't the glass on the table empty?"
+  },
+  {
+    "id": 65,
+    "tr": "Sandalyedeki çocuk benim.",
+    "en": "The child on the chair is mine."
+  },
+  {
+    "id": 66,
+    "tr": "Sandalyedeki çocuk benim değilim.",
+    "en": "The child on the chair isn't mine."
+  },
+  {
+    "id": 67,
+    "tr": "Sandalyedeki çocuk benim mi?",
+    "en": "Is the child on the chair mine?"
+  },
+  {
+    "id": 68,
+    "tr": "Sandalyedeki çocuk benim değil mi?",
+    "en": "Isn't the child on the chair mine?"
+  },
+  {
+    "id": 69,
+    "tr": "Yataktaki kitap senin.",
+    "en": "The book on the bed is yours."
+  },
+  {
+    "id": 70,
+    "tr": "Yataktaki kitap senin değil.",
+    "en": "The book on the bed isn't yours."
+  },
+  {
+    "id": 71,
+    "tr": "Yataktaki kitap senin mi?",
+    "en": "Is the book on the bed yours?"
+  },
+  {
+    "id": 72,
+    "tr": "Yataktaki kitap senin değil mi?",
+    "en": "Isn't the book on the bed yours?"
+  },
+  {
+    "id": 73,
+    "tr": "Halıdaki leke kötü.",
+    "en": "The stain on the carpet is bad."
+  },
+  {
+    "id": 74,
+    "tr": "Halıdaki leke kötü değil.",
+    "en": "The stain on the carpet isn't bad."
+  },
+  {
+    "id": 75,
+    "tr": "Halıdaki leke kötü mü?",
+    "en": "Is the stain on the carpet bad?"
+  },
+  {
+    "id": 76,
+    "tr": "Halıdaki leke kötü değil mi?",
+    "en": "Isn't the stain on the carpet bad?"
+  },
+  {
+    "id": 77,
+    "tr": "Ormandaki kuşlar özgür.",
+    "en": "The birds in the forest are free."
+  },
+  {
+    "id": 78,
+    "tr": "Ormandaki kuşlar özgür değil.",
+    "en": "The birds in the forest aren't free."
+  },
+  {
+    "id": 79,
+    "tr": "Ormandaki kuşlar özgür mü?",
+    "en": "Are the birds in the forest free?"
+  },
+  {
+    "id": 80,
+    "tr": "Ormandaki kuşlar özgür değil mi?",
+    "en": "Aren't the birds in the forest free?"
+  },
+  {
+    "id": 81,
+    "tr": "Ağaçlardaki yapraklar yeşil.",
+    "en": "The leaves on the trees are green."
+  },
+  {
+    "id": 82,
+    "tr": "Ağaçlardaki yapraklar yeşil değil.",
+    "en": "The leaves on the trees aren't green."
+  },
+  {
+    "id": 83,
+    "tr": "Ağaçlardaki yapraklar yeşil mi?",
+    "en": "Are the leaves on the trees green?"
+  },
+  {
+    "id": 84,
+    "tr": "Ağaçlardaki yapraklar yeşil değil mi?",
+    "en": "Aren't the leaves on the trees green?"
+  },
+  {
+    "id": 85,
+    "tr": "Pantolonum eski.",
+    "en": "My trousers are old."
+  },
+  {
+    "id": 86,
+    "tr": "Pantolonum eski değil.",
+    "en": "My trousers aren't old."
+  },
+  {
+    "id": 87,
+    "tr": "Pantolonum eski mi?",
+    "en": "Are my trousers old?"
+  },
+  {
+    "id": 88,
+    "tr": "Pantolonum eski değil mi?",
+    "en": "Aren't my trousers old?"
+  },
+  {
+    "id": 89,
+    "tr": "Şortum yeni.",
+    "en": "My shorts are new."
+  },
+  {
+    "id": 90,
+    "tr": "Şortum yeni değil.",
+    "en": "My shorts aren't new."
+  },
+  {
+    "id": 91,
+    "tr": "Şortum yeni mi?",
+    "en": "Are my shorts new?"
+  },
+  {
+    "id": 92,
+    "tr": "Şortum yeni değil mi?",
+    "en": "Aren't my shorts new?"
+  },
+  {
+    "id": 93,
+    "tr": "Çoraplarım kirli.",
+    "en": "My socks are dirty."
+  },
+  {
+    "id": 94,
+    "tr": "Çoraplarım kirli değil.",
+    "en": "My socks aren't dirty."
+  },
+  {
+    "id": 95,
+    "tr": "Çoraplarım kirli mi?",
+    "en": "Are my socks dirty?"
+  },
+  {
+    "id": 96,
+    "tr": "Çoraplarım kirli değil mi?",
+    "en": "Aren't my socks dirty?"
+  },
+  {
+    "id": 97,
+    "tr": "Kotum pahalı.",
+    "en": "My jeans are expensive."
+  },
+  {
+    "id": 98,
+    "tr": "Kotum pahalı değil.",
+    "en": "My jeans aren't expensive."
+  },
+  {
+    "id": 99,
+    "tr": "Kotum pahalı mı?",
+    "en": "Are my jeans expensive?"
+  },
+  {
+    "id": 100,
+    "tr": "Kotum pahalı değil mi?",
+    "en": "Aren't my jeans expensive?"
+  },
+  {
+    "id": 101,
+    "tr": "Hava yağmurlu.",
+    "en": "The weather is rainy."
+  },
+  {
+    "id": 102,
+    "tr": "Hava yağmurlu değil.",
+    "en": "The weather isn't rainy."
+  },
+  {
+    "id": 103,
+    "tr": "Hava yağmurlu mu?",
+    "en": "Is the weather rainy?"
+  },
+  {
+    "id": 104,
+    "tr": "Hava yağmurlu değil mü?",
+    "en": "Isn't the weather rainy?"
+  },
+  {
+    "id": 105,
+    "tr": "Hava karlı.",
+    "en": "The weather is snowy."
+  },
+  {
+    "id": 106,
+    "tr": "Hava karlı değil.",
+    "en": "The weather isn't snowy."
+  },
+  {
+    "id": 107,
+    "tr": "Hava karlı mı?",
+    "en": "Is the weather snowy?"
+  },
+  {
+    "id": 108,
+    "tr": "Hava karlı değil mi?",
+    "en": "Isn't the weather snowy?"
+  },
+  {
+    "id": 109,
+    "tr": "Hava güneşli.",
+    "en": "It's sunny."
+  },
+  {
+    "id": 110,
+    "tr": "Hava güneşli değil.",
+    "en": "It isn't sunny."
+  },
+  {
+    "id": 111,
+    "tr": "Hava güneşli mi?",
+    "en": "Is it sunny?"
+  },
+  {
+    "id": 112,
+    "tr": "Hava güneşli değil mi?",
+    "en": "Isn't it sunny?"
+  },
+  {
+    "id": 113,
+    "tr": "Hava sisli.",
+    "en": "It's foggy."
+  },
+  {
+    "id": 114,
+    "tr": "Hava sisli değil.",
+    "en": "It isn't foggy."
+  },
+  {
+    "id": 115,
+    "tr": "Hava sisli mi?",
+    "en": "Is it foggy?"
+  },
+  {
+    "id": 116,
+    "tr": "Hava sisli değil mi?",
+    "en": "Isn't it foggy?"
+  },
+  {
+    "id": 117,
+    "tr": "Hava soğuk.",
+    "en": "The weather is cold."
+  },
+  {
+    "id": 118,
+    "tr": "Hava soğuk değil.",
+    "en": "The weather isn't cold."
+  },
+  {
+    "id": 119,
+    "tr": "Hava soğuk mu?",
+    "en": "Is the weather cold?"
+  },
+  {
+    "id": 120,
+    "tr": "Hava soğuk değil mi?",
+    "en": "Isn't the weather cold?"
+  },
+  {
+    "id": 121,
+    "tr": "Hava sıcak.",
+    "en": "The weather is hot."
+  },
+  {
+    "id": 122,
+    "tr": "Hava sıcak değil.",
+    "en": "The weather isn't hot."
+  },
+  {
+    "id": 123,
+    "tr": "Hava sıcak mı?",
+    "en": "Is the weather hot?"
+  },
+  {
+    "id": 124,
+    "tr": "Hava sıcak değil mi?",
+    "en": "Isn't the weather hot?"
+  },
+  {
+    "id": 125,
+    "tr": "Hava bulutlu.",
+    "en": "The weather is cloudy."
+  },
+  {
+    "id": 126,
+    "tr": "Hava bulutlu değil.",
+    "en": "The weather isn't cloudy."
+  },
+  {
+    "id": 127,
+    "tr": "Hava bulutlu mu?",
+    "en": "Is the weather cloudy?"
+  },
+  {
+    "id": 128,
+    "tr": "Hava bulutlu değil mi?",
+    "en": "Isn't the weather cloudy?"
+  },
+  {
+    "id": 129,
+    "tr": "O meşgul.",
+    "en": "It's busy."
+  },
+  {
+    "id": 130,
+    "tr": "O meşgul değil.",
+    "en": "It isn't busy."
+  },
+  {
+    "id": 131,
+    "tr": "O meşgul mü?",
+    "en": "Is it busy?"
+  },
+  {
+    "id": 132,
+    "tr": "O meşgul değil mi?",
+    "en": "Isn't it busy?"
+  },
+  {
+    "id": 133,
+    "tr": "O yoğun.",
+    "en": "It's busy."
+  },
+  {
+    "id": 134,
+    "tr": "O yoğun değil.",
+    "en": "It isn't busy."
+  },
+  {
+    "id": 135,
+    "tr": "O yoğun mu?",
+    "en": "Is it busy?"
+  },
+  {
+    "id": 136,
+    "tr": "O yoğun değil mi?",
+    "en": "Isn't it busy?"
+  },
+  {
+    "id": 137,
+    "tr": "O yorgun.",
+    "en": "It's tired."
+  },
+  {
+    "id": 138,
+    "tr": "O yorgun değil.",
+    "en": "It isn't tired."
+  },
+  {
+    "id": 139,
+    "tr": "O yorgun mu?",
+    "en": "Is it tired?"
+  },
+  {
+    "id": 140,
+    "tr": "O yorgun değil mi?",
+    "en": "Isn't it tired?"
+  },
+  {
+    "id": 141,
+    "tr": "O pahalı.",
+    "en": "It's expensive."
+  },
+  {
+    "id": 142,
+    "tr": "O pahalı değil.",
+    "en": "It isn't expensive."
+  },
+  {
+    "id": 143,
+    "tr": "O pahalı mı?",
+    "en": "Is it expensive?"
+  },
+  {
+    "id": 144,
+    "tr": "O pahalı değil mi?",
+    "en": "Isn't it expensive?"
+  },
+  {
+    "id": 145,
+    "tr": "Hava rüzgarlı.",
+    "en": "It's windy."
+  },
+  {
+    "id": 146,
+    "tr": "Hava rüzgarlı değil.",
+    "en": "It isn't windy."
+  },
+  {
+    "id": 147,
+    "tr": "Hava rüzgarlı mı?",
+    "en": "Is it windy?"
+  },
+  {
+    "id": 148,
+    "tr": "Hava rüzgarlı değil mi?",
+    "en": "Isn't it windy?"
+  },
+  {
+    "id": 149,
+    "tr": "Kirliler.",
+    "en": "They're dirty."
+  },
+  {
+    "id": 150,
+    "tr": "Kirli değiller.",
+    "en": "They aren't dirty."
+  },
+  {
+    "id": 151,
+    "tr": "Kirliler mi?",
+    "en": "Are they dirty?"
+  },
+  {
+    "id": 152,
+    "tr": "Kirli değiller mi?",
+    "en": "Aren't they dirty?"
+  },
+  {
+    "id": 153,
+    "tr": "Yorgunlar.",
+    "en": "They're tired."
+  },
+  {
+    "id": 154,
+    "tr": "Yorgun değiller.",
+    "en": "They aren't tired."
+  },
+  {
+    "id": 155,
+    "tr": "Yorgunlar mı?",
+    "en": "Are they tired?"
+  },
+  {
+    "id": 156,
+    "tr": "Yorgun değiller mi?",
+    "en": "Aren't they tired?"
+  },
+  {
+    "id": 157,
+    "tr": "Hazırlar.",
+    "en": "They're ready."
+  },
+  {
+    "id": 158,
+    "tr": "Hazır değiller.",
+    "en": "They aren't ready."
+  },
+  {
+    "id": 159,
+    "tr": "Hazırlar mı?",
+    "en": "Are they ready?"
+  },
+  {
+    "id": 160,
+    "tr": "Hazır değiller mi?",
+    "en": "Aren't they ready?"
+  },
+  {
+    "id": 161,
+    "tr": "O yeşil.",
+    "en": "It's green."
+  },
+  {
+    "id": 162,
+    "tr": "O yeşil değil.",
+    "en": "It isn't green."
+  },
+  {
+    "id": 163,
+    "tr": "O yeşil mi?",
+    "en": "Is it green?"
+  },
+  {
+    "id": 164,
+    "tr": "O yeşil değil mi?",
+    "en": "Isn't it green?"
+  },
+  {
+    "id": 165,
+    "tr": "O kırmızı.",
+    "en": "It's red."
+  },
+  {
+    "id": 166,
+    "tr": "O kırmızı değil.",
+    "en": "It isn't red."
+  },
+  {
+    "id": 167,
+    "tr": "O kırmızı mı?",
+    "en": "Is it red?"
+  },
+  {
+    "id": 168,
+    "tr": "O kırmızı değil mi?",
+    "en": "Isn't it red?"
+  },
+  {
+    "id": 169,
+    "tr": "O sarı.",
+    "en": "It's yellow."
+  },
+  {
+    "id": 170,
+    "tr": "O sarı değil.",
+    "en": "It isn't yellow."
+  },
+  {
+    "id": 171,
+    "tr": "O sarı mı?",
+    "en": "Is it yellow?"
+  },
+  {
+    "id": 172,
+    "tr": "O sarı değil mi?",
+    "en": "Isn't it yellow?"
+  },
+  {
+    "id": 173,
+    "tr": "O zor.",
+    "en": "It's hard."
+  },
+  {
+    "id": 174,
+    "tr": "O zor değil.",
+    "en": "It isn't hard."
+  },
+  {
+    "id": 175,
+    "tr": "O zor mu?",
+    "en": "Is it hard?"
+  },
+  {
+    "id": 176,
+    "tr": "O zor değil mi?",
+    "en": "Isn't it hard?"
+  },
+  {
+    "id": 177,
+    "tr": "O kolay.",
+    "en": "It's easy."
+  },
+  {
+    "id": 178,
+    "tr": "O kolay değil.",
+    "en": "It isn't easy."
+  },
+  {
+    "id": 179,
+    "tr": "O kolay mı?",
+    "en": "Is it easy?"
+  },
+  {
+    "id": 180,
+    "tr": "O kolay değil mi?",
+    "en": "Isn't it easy?"
+  },
+  {
+    "id": 181,
+    "tr": "Onunlayım. (Erkek)",
+    "en": "I'm with him."
+  },
+  {
+    "id": 182,
+    "tr": "Onunla değilim. (Erkek)",
+    "en": "I'm not with him."
+  },
+  {
+    "id": 183,
+    "tr": "Onunla mıyım? (Erkek)",
+    "en": "Am I with him?"
+  },
+  {
+    "id": 184,
+    "tr": "Onunla değil miyim? (Erkek)",
+    "en": "Aren't I with him?"
+  },
+  {
+    "id": 185,
+    "tr": "Onunlalar. (Kadın)",
+    "en": "They're with her."
+  },
+  {
+    "id": 186,
+    "tr": "Onunla değiller. (Kadın)",
+    "en": "They aren't with her."
+  },
+  {
+    "id": 187,
+    "tr": "Onunlalar mı? (Kadın)",
+    "en": "Are they with her?"
+  },
+  {
+    "id": 188,
+    "tr": "Onunla değiller mi? (Kadın)",
+    "en": "Aren't they with her?"
+  },
+  {
+    "id": 189,
+    "tr": "Onlar bizimle.",
+    "en": "They're with us."
+  },
+  {
+    "id": 190,
+    "tr": "Onlar bizimle değil.",
+    "en": "They aren't with us."
+  },
+  {
+    "id": 191,
+    "tr": "Onlar bizimle mi?",
+    "en": "Are they with us?"
+  },
+  {
+    "id": 192,
+    "tr": "Onlar bizimle değil mi?",
+    "en": "Aren't they with us?"
+  },
+  {
+    "id": 193,
+    "tr": "Biz onlarlayız.",
+    "en": "We're with them."
+  },
+  {
+    "id": 194,
+    "tr": "Biz onlarla değiliz.",
+    "en": "We aren't with them."
+  },
+  {
+    "id": 195,
+    "tr": "Biz onlarla mıyız?",
+    "en": "Are we with them?"
+  },
+  {
+    "id": 196,
+    "tr": "Biz onlarla değil miyiz?",
+    "en": "Aren't we with them?"
+  },
+  {
+    "id": 197,
+    "tr": "Sen bizimlesin.",
+    "en": "You're with us."
+  },
+  {
+    "id": 198,
+    "tr": "Sen bizimle değilsin.",
+    "en": "You aren't with us."
+  },
+  {
+    "id": 199,
+    "tr": "Sen bizimle misin?",
+    "en": "Are you with us?"
+  },
+  {
+    "id": 200,
+    "tr": "Sen bizimle değil misin?",
+    "en": "Aren't you with us?"
+  },
+  {
+    "id": 201,
+    "tr": "O, onunla. (Erkek, Kadınla)",
+    "en": "He is with her."
+  },
+  {
+    "id": 202,
+    "tr": "O, onunla değil. (Erkek, Kadınla)",
+    "en": "He isn't with her."
+  },
+  {
+    "id": 203,
+    "tr": "O, onunla mı? (Erkek, Kadınla)",
+    "en": "Is he with her?"
+  },
+  {
+    "id": 204,
+    "tr": "O, onunla değil mi? (Erkek, Kadınla)",
+    "en": "Isn't he with her?"
+  },
+  {
+    "id": 205,
+    "tr": "O, onunla. (Kadın, Erkekle)",
+    "en": "She is with him."
+  },
+  {
+    "id": 206,
+    "tr": "O, onunla değil. (Kadın, Erkekle)",
+    "en": "She isn't with him."
+  },
+  {
+    "id": 207,
+    "tr": "O, onunla mı? (Kadın, Erkekle)",
+    "en": "Is she with him?"
+  },
+  {
+    "id": 208,
+    "tr": "O, onunla değil mi? (Kadın, Erkekle)",
+    "en": "Isn't she with him?"
+  },
+  {
+    "id": 209,
+    "tr": "Çocuklar benimle.",
+    "en": "The children are with me."
+  },
+  {
+    "id": 210,
+    "tr": "Çocuklar benimle değil.",
+    "en": "The children aren't with me."
+  },
+  {
+    "id": 211,
+    "tr": "Çocuklar benimle mi?",
+    "en": "Are the children with me?"
+  },
+  {
+    "id": 212,
+    "tr": "Çocuklar benimle değil mi?",
+    "en": "Aren't the children with me?"
+  },
+  {
+    "id": 213,
+    "tr": "Annem onlarla.",
+    "en": "My mother is with them."
+  },
+  {
+    "id": 214,
+    "tr": "Annem onlarla değil.",
+    "en": "My mother isn't with them."
+  },
+  {
+    "id": 215,
+    "tr": "Annem onlarla mı?",
+    "en": "Is my mother with them?"
+  },
+  {
+    "id": 216,
+    "tr": "Annem onlarla değil mi?",
+    "en": "Isn't my mother with them?"
+  },
+  {
+    "id": 217,
+    "tr": "Bu senin için.",
+    "en": "This is for you."
+  },
+  {
+    "id": 218,
+    "tr": "Bu senin için değil.",
+    "en": "This isn't for you."
+  },
+  {
+    "id": 219,
+    "tr": "Bu senin için mi?",
+    "en": "Is this for you?"
+  },
+  {
+    "id": 220,
+    "tr": "Bu senin için değil mi?",
+    "en": "Isn't this for you?"
+  },
+  {
+    "id": 221,
+    "tr": "Bunlar senin için.",
+    "en": "These are for you."
+  },
+  {
+    "id": 222,
+    "tr": "Bunlar senin için değil.",
+    "en": "These aren't for you."
+  },
+  {
+    "id": 223,
+    "tr": "Bunlar senin için mi?",
+    "en": "Are these for you?"
+  },
+  {
+    "id": 224,
+    "tr": "Bunlar senin için değil mi?",
+    "en": "Aren't these for you?"
+  },
+  {
+    "id": 225,
+    "tr": "Bunlar senin çocukların için.",
+    "en": "These are for your children."
+  },
+  {
+    "id": 226,
+    "tr": "Bunlar senin çocukların için değil.",
+    "en": "These aren't for your children."
+  },
+  {
+    "id": 227,
+    "tr": "Bunlar senin çocukların için mi?",
+    "en": "Are these for your children?"
+  },
+  {
+    "id": 228,
+    "tr": "Bunlar senin çocukların için değil mi?",
+    "en": "Aren't these for your children?"
+  },
+  {
+    "id": 229,
+    "tr": "Şunlar bizim için.",
+    "en": "Those are for us."
+  },
+  {
+    "id": 230,
+    "tr": "Şunlar bizim için değil.",
+    "en": "Those aren't for us."
+  },
+  {
+    "id": 231,
+    "tr": "Şunlar bizim için mi?",
+    "en": "Are those for us?"
+  },
+  {
+    "id": 232,
+    "tr": "Şunlar bizim için değil mi?",
+    "en": "Aren't those for us?"
+  },
+  {
+    "id": 233,
+    "tr": "Şunlar arkadaşlarımız için.",
+    "en": "Those are for our friends."
+  },
+  {
+    "id": 234,
+    "tr": "Şunlar arkadaşlarımız için değil.",
+    "en": "Those aren't for our friends."
+  },
+  {
+    "id": 235,
+    "tr": "Şunlar arkadaşlarımız için mi?",
+    "en": "Are those for our friends?"
+  },
+  {
+    "id": 236,
+    "tr": "Şunlar arkadaşlarımız için değil mi?",
+    "en": "Aren't those for our friends?"
+  },
+  {
+    "id": 237,
+    "tr": "Seninleyim.",
+    "en": "I'm with you."
+  },
+  {
+    "id": 238,
+    "tr": "Seninle değilim.",
+    "en": "I'm not with you."
+  },
+  {
+    "id": 239,
+    "tr": "Seninle miyim?",
+    "en": "Am I with you?"
+  },
+  {
+    "id": 240,
+    "tr": "Seninle değil miyim?",
+    "en": "Aren't I with you?"
+  },
+  {
+    "id": 241,
+    "tr": "Onunlayım. (Erkek)",
+    "en": "I'm with him."
+  },
+  {
+    "id": 242,
+    "tr": "Onunla değilim. (Erkek)",
+    "en": "I'm not with him."
+  },
+  {
+    "id": 243,
+    "tr": "Onunla mıyım? (Erkek)",
+    "en": "Am I with him?"
+  },
+  {
+    "id": 244,
+    "tr": "Onunla değil miyim? (Erkek)",
+    "en": "Aren't I with him?"
+  },
+  {
+    "id": 245,
+    "tr": "Onunlayım. (Kadın)",
+    "en": "I'm with her."
+  },
+  {
+    "id": 246,
+    "tr": "Onunla değilim. (Kadın)",
+    "en": "I'm not with her."
+  },
+  {
+    "id": 247,
+    "tr": "Onunla mıyım? (Kadın)",
+    "en": "Am I with her?"
+  },
+  {
+    "id": 248,
+    "tr": "Onunla değil miyim? (Kadın)",
+    "en": "Aren't I with her?"
+  },
+  {
+    "id": 249,
+    "tr": "Onunlayım. (Cansız/Hayvan)",
+    "en": "I'm with it."
+  },
+  {
+    "id": 250,
+    "tr": "Onunla değilim. (Cansız/Hayvan)",
+    "en": "I'm not with it."
+  },
+  {
+    "id": 251,
+    "tr": "Onunla mısın? (Cansız/Hayvan)",
+    "en": "Are you with it?"
+  },
+  {
+    "id": 252,
+    "tr": "Onunla değil miyim? (Cansız/Hayvan)",
+    "en": "Aren't I with it?"
+  },
+  {
+    "id": 253,
+    "tr": "Onunlalar. (Kadın)",
+    "en": "They're with her."
+  },
+  {
+    "id": 254,
+    "tr": "Onunla değiller. (Kadın)",
+    "en": "They aren't with her."
+  },
+  {
+    "id": 255,
+    "tr": "Onunlalar mı? (Kadın)",
+    "en": "Are they with her?"
+  },
+  {
+    "id": 256,
+    "tr": "Onunla değiller mi? (Kadın)",
+    "en": "Aren't they with her?"
+  },
+  {
+    "id": 257,
+    "tr": "Onunlayız. (Erkek)",
+    "en": "We're with him."
+  },
+  {
+    "id": 258,
+    "tr": "Onunla değiliz. (Erkek)",
+    "en": "We aren't with him."
+  },
+  {
+    "id": 259,
+    "tr": "Onunla mıyız? (Erkek)",
+    "en": "Are we with him?"
+  },
+  {
+    "id": 260,
+    "tr": "Onunla değil miyiz? (Erkek)",
+    "en": "Aren't we with him?"
+  },
+  {
+    "id": 261,
+    "tr": "Onlarlayız.",
+    "en": "We are with them."
+  },
+  {
+    "id": 262,
+    "tr": "Onlarla değiliz.",
+    "en": "We aren't with them."
+  },
+  {
+    "id": 263,
+    "tr": "Onlarla mıyız?",
+    "en": "Are we with them?"
+  },
+  {
+    "id": 264,
+    "tr": "Onlarla değil miyiz?",
+    "en": "Aren't we with them?"
+  },
+  {
+    "id": 265,
+    "tr": "Onlar benimle.",
+    "en": "They're with me."
+  },
+  {
+    "id": 266,
+    "tr": "Onlar benimle değil.",
+    "en": "They aren't with me."
+  },
+  {
+    "id": 267,
+    "tr": "Onlar benimle mi?",
+    "en": "Are they with me?"
+  },
+  {
+    "id": 268,
+    "tr": "Onlar benimle değil mi?",
+    "en": "Aren't they with me?"
+  },
+  {
+    "id": 269,
+    "tr": "Ben onlarla değilim.",
+    "en": "I'm not with them."
+  },
+  {
+    "id": 270,
+    "tr": "Ben onlarlayım.",
+    "en": "I'm with them."
+  },
+  {
+    "id": 271,
+    "tr": "Ben onlarla değil miyim?",
+    "en": "Aren't I with them?"
+  },
+  {
+    "id": 272,
+    "tr": "Ben onlarla mıyım?",
+    "en": "Am I with them?"
+  },
+  {
+    "id": 273,
+    "tr": "Onlar bizimle değil.",
+    "en": "They aren't with us."
+  },
+  {
+    "id": 274,
+    "tr": "Onlar bizimle.",
+    "en": "They're with us."
+  },
+  {
+    "id": 275,
+    "tr": "Onlar bizimle değil mi?",
+    "en": "Aren't they with us?"
+  },
+  {
+    "id": 276,
+    "tr": "Onlar bizimle mi?",
+    "en": "Are they with us?"
+  },
+  {
+    "id": 277,
+    "tr": "Sen bizden değilsin.",
+    "en": "You aren't from us."
+  },
+  {
+    "id": 278,
+    "tr": "Sen bizdensin.",
+    "en": "You're from us."
+  },
+  {
+    "id": 279,
+    "tr": "Sen bizden değil misin?",
+    "en": "Aren't you from us?"
+  },
+  {
+    "id": 280,
+    "tr": "Sen bizden misin?",
+    "en": "Are you from us?"
+  },
+  {
+    "id": 281,
+    "tr": "Biz onlardan değiliz.",
+    "en": "We aren't from them."
+  },
+  {
+    "id": 282,
+    "tr": "Biz onlardanız.",
+    "en": "We're from them."
+  },
+  {
+    "id": 283,
+    "tr": "Biz onlardan değil miyiz?",
+    "en": "Aren't we from them?"
+  },
+  {
+    "id": 284,
+    "tr": "Biz onlardan mıyız?",
+    "en": "Are we from them?"
+  },
+  {
+    "id": 285,
+    "tr": "Annem onların arkadaşlarıyla.",
+    "en": "My mother is with their friends."
+  },
+  {
+    "id": 286,
+    "tr": "Annem onların arkadaşlarıyla değil.",
+    "en": "My mother isn't with their friends."
+  },
+  {
+    "id": 287,
+    "tr": "Annem onların arkadaşlarıyla mı?",
+    "en": "Is my mother with their friends?"
+  },
+  {
+    "id": 288,
+    "tr": "Annem onların arkadaşlarıyla değil mi?",
+    "en": "Isn't my mother with their friends?"
+  },
+  {
+    "id": 289,
+    "tr": "Onların arkadaşları benimle.",
+    "en": "Their friends are with me."
+  },
+  {
+    "id": 290,
+    "tr": "Onların arkadaşları benimle değil.",
+    "en": "Their friends aren't with me."
+  },
+  {
+    "id": 291,
+    "tr": "Onların arkadaşları benimle mi?",
+    "en": "Are their friends with me?"
+  },
+  {
+    "id": 292,
+    "tr": "Onların arkadaşları benimle değil mi?",
+    "en": "Aren't their friends with me?"
+  },
+  {
+    "id": 293,
+    "tr": "Onlarınkiler bizimkilerle.",
+    "en": "Theirs are with ours."
+  },
+  {
+    "id": 294,
+    "tr": "Onlarınkiler bizimkilerle değil.",
+    "en": "Theirs aren't with ours."
+  },
+  {
+    "id": 295,
+    "tr": "Onlarınkiler bizimkilerle mi?",
+    "en": "Are theirs with ours?"
+  },
+  {
+    "id": 296,
+    "tr": "Onlarınkiler bizimkilerle değil mi?",
+    "en": "Aren't theirs with ours?"
+  },
+  {
+    "id": 297,
+    "tr": "Bu senin için.",
+    "en": "This is for you."
+  },
+  {
+    "id": 298,
+    "tr": "Bu senin için değil.",
+    "en": "This isn't for you."
+  },
+  {
+    "id": 299,
+    "tr": "Bu senin için mi?",
+    "en": "Is this for you?"
+  },
+  {
+    "id": 300,
+    "tr": "Bu senin için değil mi?",
+    "en": "Isn't this for you?"
+  },
+  {
+    "id": 301,
+    "tr": "Şu benim için.",
+    "en": "That is for me."
+  },
+  {
+    "id": 302,
+    "tr": "Şu benim için değil.",
+    "en": "That isn't for me."
+  },
+  {
+    "id": 303,
+    "tr": "Şu benim için mi?",
+    "en": "Is that for me?"
+  },
+  {
+    "id": 304,
+    "tr": "Şu benim için değil mi?",
+    "en": "Isn't that for me?"
+  },
+  {
+    "id": 305,
+    "tr": "Onlar bizim için.",
+    "en": "They are for us."
+  },
+  {
+    "id": 306,
+    "tr": "Onlar bizim için değil.",
+    "en": "They aren't for us."
+  },
+  {
+    "id": 307,
+    "tr": "Onlar bizim için mi?",
+    "en": "Are they for us?"
+  },
+  {
+    "id": 308,
+    "tr": "Onlar bizim için değil mi?",
+    "en": "Aren't they for us?"
+  },
+  {
+    "id": 309,
+    "tr": "Bu para benden.",
+    "en": "This money is from me."
+  },
+  {
+    "id": 310,
+    "tr": "Bu para benden değil.",
+    "en": "This money isn't from me."
+  },
+  {
+    "id": 311,
+    "tr": "Bu para benden mi?",
+    "en": "Is this money from me?"
+  },
+  {
+    "id": 312,
+    "tr": "Bu para benden değil mi?",
+    "en": "Isn't this money from me?"
+  },
+  {
+    "id": 313,
+    "tr": "Kitabım onlardan.",
+    "en": "My book is from them."
+  },
+  {
+    "id": 314,
+    "tr": "Kitabım onlardan değil.",
+    "en": "My book isn't from them."
+  },
+  {
+    "id": 315,
+    "tr": "Kitabım onlardan mı?",
+    "en": "Is my book from them?"
+  },
+  {
+    "id": 316,
+    "tr": "Kitabım onlardan değil mi?",
+    "en": "Isn't my book from them?"
+  },
+  {
+    "id": 317,
+    "tr": "Sen onların okulundansın.",
+    "en": "You are from their school."
+  },
+  {
+    "id": 318,
+    "tr": "Sen onların okulundan değilsin.",
+    "en": "You aren't from their school."
+  },
+  {
+    "id": 319,
+    "tr": "Sen onların okulundan mısın?",
+    "en": "Are you from their school?"
+  },
+  {
+    "id": 320,
+    "tr": "Sen onların okulundan değil misin?",
+    "en": "Aren't you from their school?"
+  },
+  {
+    "id": 321,
+    "tr": "Okuldan önce seninleyim.",
+    "en": "I'm with you before the school."
+  },
+  {
+    "id": 322,
+    "tr": "Okuldan önce seninle değilim.",
+    "en": "I'm not with you before the school."
+  },
+  {
+    "id": 323,
+    "tr": "Okuldan önce seninle miyim?",
+    "en": "Am I with you before the school?"
+  },
+  {
+    "id": 324,
+    "tr": "Okuldan önce seninle değil miyim?",
+    "en": "Aren't I with you before the school?"
+  },
+  {
+    "id": 325,
+    "tr": "Senden sonra onunlayım. (Kadın)",
+    "en": "I'm with her after you."
+  },
+  {
+    "id": 326,
+    "tr": "Senden sonra onunla değilim. (Kadın)",
+    "en": "I'm not with her after you."
+  },
+  {
+    "id": 327,
+    "tr": "Senden sonra onunla mıyım? (Kadın)",
+    "en": "Am I with her after you?"
+  },
+  {
+    "id": 328,
+    "tr": "Senden sonra onunla değil miyim? (Kadın)",
+    "en": "Aren't I with her after you?"
+  },
+  {
+    "id": 329,
+    "tr": "Bizimkiler seninle.",
+    "en": "Ours are with you."
+  },
+  {
+    "id": 330,
+    "tr": "Bizimkiler seninle değil.",
+    "en": "Ours aren't with you."
+  },
+  {
+    "id": 331,
+    "tr": "Bizimkiler seninle mi?",
+    "en": "Are ours with you?"
+  },
+  {
+    "id": 332,
+    "tr": "Bizimkiler seninle değil mi?",
+    "en": "Aren't ours with you?"
+  },
+  {
+    "id": 333,
+    "tr": "Arabam bahçenizde.",
+    "en": "My car is in your garden."
+  },
+  {
+    "id": 334,
+    "tr": "Arabam bahçenizde değil.",
+    "en": "My car isn't in your garden."
+  },
+  {
+    "id": 335,
+    "tr": "Arabam bahçenizde mi?",
+    "en": "Is my car in your garden?"
+  },
+  {
+    "id": 336,
+    "tr": "Arabam bahçenizde değil mi?",
+    "en": "Isn't my car in your garden?"
+  },
+  {
+    "id": 337,
+    "tr": "Araban bahçemizde.",
+    "en": "Your car is in our garden."
+  },
+  {
+    "id": 338,
+    "tr": "Araban bahçemizde değil.",
+    "en": "Your car isn't in our garden."
+  },
+  {
+    "id": 339,
+    "tr": "Araban bahçemizde mi?",
+    "en": "Is your car in our garden?"
+  },
+  {
+    "id": 340,
+    "tr": "Araban bahçemizde değil mi?",
+    "en": "Isn't your car in our garden?"
+  },
+  {
+    "id": 341,
+    "tr": "Param senin cebinde.",
+    "en": "My money is in your pocket."
+  },
+  {
+    "id": 342,
+    "tr": "Param senin cebinde değil.",
+    "en": "My money isn't in your pocket."
+  },
+  {
+    "id": 343,
+    "tr": "Param senin cebinde mi?",
+    "en": "Is my money in your pocket?"
+  },
+  {
+    "id": 344,
+    "tr": "Param senin cebinde değil mi?",
+    "en": "Isn't my money in your pocket?"
+  },
+  {
+    "id": 345,
+    "tr": "Senin paran benim cebimde.",
+    "en": "Your money is in my pocket."
+  },
+  {
+    "id": 346,
+    "tr": "Senin paran benim cebimde değil.",
+    "en": "Your money isn't in my pocket."
+  },
+  {
+    "id": 347,
+    "tr": "Senin paran benim cebimde mi?",
+    "en": "Is your money in my pocket?"
+  },
+  {
+    "id": 348,
+    "tr": "Senin paran benim cebimde değil mi?",
+    "en": "Isn't your money in my pocket?"
+  },
+  {
+    "id": 349,
+    "tr": "Seninki benim cebimde.",
+    "en": "Yours is in my pocket."
+  },
+  {
+    "id": 350,
+    "tr": "Seninki benim cebimde değil.",
+    "en": "Yours isn't in my pocket."
+  },
+  {
+    "id": 351,
+    "tr": "Seninki benim cebimde mi?",
+    "en": "Is yours in my pocket?"
+  },
+  {
+    "id": 352,
+    "tr": "Seninki benim cebimde değil mi?",
+    "en": "Isn't yours in my pocket?"
+  },
+  {
+    "id": 353,
+    "tr": "Arkadaşlarımız onlarla.",
+    "en": "Our friends are with them."
+  },
+  {
+    "id": 354,
+    "tr": "Arkadaşlarımız onlarla değil.",
+    "en": "Our friends aren't with them."
+  },
+  {
+    "id": 355,
+    "tr": "Arkadaşlarımız onlarla mı?",
+    "en": "Are our friends with them?"
+  },
+  {
+    "id": 356,
+    "tr": "Arkadaşlarımız onlarla değil mi?",
+    "en": "Aren't our friends with them?"
+  },
+  {
+    "id": 357,
+    "tr": "Senin arkadaşın bizimle.",
+    "en": "Your friend is with us."
+  },
+  {
+    "id": 358,
+    "tr": "Senin arkadaşın bizimle değil.",
+    "en": "Your friend isn't with us."
+  },
+  {
+    "id": 359,
+    "tr": "Senin arkadaşın bizimle mi?",
+    "en": "Is your friend with us?"
+  },
+  {
+    "id": 360,
+    "tr": "Senin arkadaşın bizimle değil mi?",
+    "en": "Isn't your friend with us?"
+  },
+  {
+    "id": 361,
+    "tr": "Senden sonra buradayım.",
+    "en": "I'm here after you."
+  },
+  {
+    "id": 362,
+    "tr": "Senden sonra burada değilim.",
+    "en": "I'm not here after you."
+  },
+  {
+    "id": 363,
+    "tr": "Senden sonra burada mıyım?",
+    "en": "Am I here after you?"
+  },
+  {
+    "id": 364,
+    "tr": "Senden sonra burada değil miyim?",
+    "en": "Aren't I here after you?"
+  },
+  {
+    "id": 365,
+    "tr": "Onlardan önce okuldayım.",
+    "en": "I'm at the school before them."
+  },
+  {
+    "id": 366,
+    "tr": "Onlardan önce okulda değilim.",
+    "en": "I'm not at the school before them."
+  },
+  {
+    "id": 367,
+    "tr": "Onlardan önce okulda mısın?",
+    "en": "Are you at the school before them?"
+  },
+  {
+    "id": 368,
+    "tr": "Onlardan önce okulda değil miyim?",
+    "en": "Aren't I at the school before them?"
+  },
+  {
+    "id": 369,
+    "tr": "Okulumdan sonra onlarlayım.",
+    "en": "I'm with them after my school."
+  },
+  {
+    "id": 370,
+    "tr": "Okulumdan sonra onlarla değilim.",
+    "en": "I'm not with them after my school."
+  },
+  {
+    "id": 371,
+    "tr": "Okulumdan sonra onlarla mıyım?",
+    "en": "Am I with them after my school?"
+  },
+  {
+    "id": 372,
+    "tr": "Okulumdan sonra onlarla değil miyim?",
+    "en": "Aren't I with them after my school?"
+  },
+  {
+    "id": 373,
+    "tr": "Senin yüzünden buradayım.",
+    "en": "I'm here because of you."
+  },
+  {
+    "id": 374,
+    "tr": "Senin yüzünden burada değilim.",
+    "en": "I'm not here because of you."
+  },
+  {
+    "id": 375,
+    "tr": "Senin yüzünden burada mıyım?",
+    "en": "Am I here because of you?"
+  },
+  {
+    "id": 376,
+    "tr": "Senin yüzünden burada değil miyim?",
+    "en": "Aren't I here because of you?"
+  },
+  {
+    "id": 377,
+    "tr": "Onlar yüzünden okulumdayım.",
+    "en": "I'm at my school because of them."
+  },
+  {
+    "id": 378,
+    "tr": "Onlar yüzünden okulumda değilim.",
+    "en": "I'm not at my school because of them."
+  },
+  {
+    "id": 379,
+    "tr": "Onlar yüzünden okulumda mıyım?",
+    "en": "Am I at my school because of them?"
+  },
+  {
+    "id": 380,
+    "tr": "Onlar yüzünden okulumda değil miyim?",
+    "en": "Aren't I at my school because of them?"
+  },
+  {
+    "id": 381,
+    "tr": "Bizim yüzümüzden mutsuzlar.",
+    "en": "They are unhappy because of us."
+  },
+  {
+    "id": 382,
+    "tr": "Bizim yüzümüzden mutsuz değiller.",
+    "en": "They aren't unhappy because of us."
+  },
+  {
+    "id": 383,
+    "tr": "Bizim yüzümüzden mutsuzlar mı?",
+    "en": "Are they unhappy because of us?"
+  },
+  {
+    "id": 384,
+    "tr": "Bizim yüzümüzden mutsuz değiller mi?",
+    "en": "Aren't they unhappy because of us?"
+  },
+  {
+    "id": 385,
+    "tr": "Sizin yüzünüzden sinirliyim.",
+    "en": "I'm angry because of you."
+  },
+  {
+    "id": 386,
+    "tr": "Sizin yüzünüzden sinirli değilim.",
+    "en": "I'm not angry because of you."
+  },
+  {
+    "id": 387,
+    "tr": "Bizim yüzümüzden sinirli misin?",
+    "en": "Are you angry because of us?"
+  },
+  {
+    "id": 388,
+    "tr": "Bizim yüzümüzden sinirli değil misin?",
+    "en": "Aren't you angry because of us?"
+  },
+  {
+    "id": 389,
+    "tr": "Onun yüzünden oradayım. (Erkek)",
+    "en": "I'm there because of him."
+  },
+  {
+    "id": 390,
+    "tr": "Onun yüzünden orada değilim. (Erkek)",
+    "en": "I'm not there because of him."
+  },
+  {
+    "id": 391,
+    "tr": "Onun yüzünden orada mısın? (Erkek)",
+    "en": "Are you there because of him?"
+  },
+  {
+    "id": 392,
+    "tr": "Onun yüzünden orada değil misin? (Erkek)",
+    "en": "Aren't you there because of him?"
+  },
+  {
+    "id": 393,
+    "tr": "Bizimkiler burada.",
+    "en": "Ours are here."
+  },
+  {
+    "id": 394,
+    "tr": "Bizimkiler burada değil.",
+    "en": "Ours aren't here."
+  },
+  {
+    "id": 395,
+    "tr": "Bizimkiler burada mı?",
+    "en": "Are ours here?"
+  },
+  {
+    "id": 396,
+    "tr": "Bizimkiler burada değil mi?",
+    "en": "Aren't ours here?"
+  },
+  {
+    "id": 397,
+    "tr": "Onlarınkiler orada.",
+    "en": "Theirs are there."
+  },
+  {
+    "id": 398,
+    "tr": "Onlarınkiler orada değil.",
+    "en": "Theirs aren't there."
+  },
+  {
+    "id": 399,
+    "tr": "Onlarınkiler orada mı?",
+    "en": "Are theirs there?"
+  },
+  {
+    "id": 400,
+    "tr": "Onlarınkiler orada değil mi?",
+    "en": "Aren't theirs there?"
+  },
+  {
+    "id": 401,
+    "tr": "Evdeyim.",
+    "en": "I'm at home."
+  },
+  {
+    "id": 402,
+    "tr": "Evde değilim.",
+    "en": "I'm not at home."
+  },
+  {
+    "id": 403,
+    "tr": "Evde misin?",
+    "en": "Are you at home?"
+  },
+  {
+    "id": 404,
+    "tr": "Evde değil misin?",
+    "en": "Aren't you at home?"
+  },
+  {
+    "id": 405,
+    "tr": "Evdesin.",
+    "en": "You're at home."
+  },
+  {
+    "id": 406,
+    "tr": "Evde değilsin.",
+    "en": "You aren't at home."
+  },
+  {
+    "id": 407,
+    "tr": "Evdeler mi?",
+    "en": "Are they at home?"
+  },
+  {
+    "id": 408,
+    "tr": "Evde değiller mi?",
+    "en": "Aren't they at home?"
+  },
+  {
+    "id": 409,
+    "tr": "O evde. (Erkek)",
+    "en": "He is at home."
+  },
+  {
+    "id": 410,
+    "tr": "O evde değil. (Erkek)",
+    "en": "He isn't at home."
+  },
+  {
+    "id": 411,
+    "tr": "O evde mi? (Erkek)",
+    "en": "Is he at home?"
+  },
+  {
+    "id": 412,
+    "tr": "O evde değil mi? (Erkek)",
+    "en": "Isn't he at home?"
+  },
+  {
+    "id": 413,
+    "tr": "O okulda. (Kadın)",
+    "en": "She is at the school."
+  },
+  {
+    "id": 414,
+    "tr": "O okulda değil. (Kadın)",
+    "en": "She isn't at the school."
+  },
+  {
+    "id": 415,
+    "tr": "O okulda mi? (Kadın)",
+    "en": "Is she at the school?"
+  },
+  {
+    "id": 416,
+    "tr": "O okulda değil mi? (Kadın)",
+    "en": "Isn't she at the school?"
+  },
+  {
+    "id": 417,
+    "tr": "Bahçede. (cansız)",
+    "en": "It's in the garden."
+  },
+  {
+    "id": 418,
+    "tr": "Bahçede değil (cansız).",
+    "en": "It isn't in the garden."
+  },
+  {
+    "id": 419,
+    "tr": "Bahçede mi (cansız)?",
+    "en": "Is it in the garden?"
+  },
+  {
+    "id": 420,
+    "tr": "Bahçede değil mi (cansız)?",
+    "en": "Isn't it in the garden?"
+  },
+  {
+    "id": 421,
+    "tr": "Biz buradayız.",
+    "en": "We are here."
+  },
+  {
+    "id": 422,
+    "tr": "Biz burada değiliz.",
+    "en": "We aren't here."
+  },
+  {
+    "id": 423,
+    "tr": "Biz burada mıyız?",
+    "en": "Are we here?"
+  },
+  {
+    "id": 424,
+    "tr": "Biz burada değil miyiz?",
+    "en": "Aren't we here?"
+  },
+  {
+    "id": 425,
+    "tr": "Siz oradasınız.",
+    "en": "You are there."
+  },
+  {
+    "id": 426,
+    "tr": "Siz orada değilsiniz.",
+    "en": "You aren't there."
+  },
+  {
+    "id": 427,
+    "tr": "Siz orada mısınız?",
+    "en": "Are you there?"
+  },
+  {
+    "id": 428,
+    "tr": "Siz orada değil misiniz?",
+    "en": "Aren't you there?"
+  },
+  {
+    "id": 429,
+    "tr": "Onlar benimle.",
+    "en": "They are with me."
+  },
+  {
+    "id": 430,
+    "tr": "Onlar benimle değil.",
+    "en": "They aren't with me."
+  },
+  {
+    "id": 431,
+    "tr": "Onlar benimle mi?",
+    "en": "Are they with me?"
+  },
+  {
+    "id": 432,
+    "tr": "Onlar benimle değil mi?",
+    "en": "Aren't they with me?"
+  },
+  {
+    "id": 433,
+    "tr": "Çocuklar okulda.",
+    "en": "The children are in the school."
+  },
+  {
+    "id": 434,
+    "tr": "Çocuklar okulda değil.",
+    "en": "The children aren't in the school."
+  },
+  {
+    "id": 435,
+    "tr": "Çocuklar okulda mı?",
+    "en": "Are the children in the school?"
+  },
+  {
+    "id": 436,
+    "tr": "Çocuklar okulda değil mi?",
+    "en": "Aren't the children in the school?"
+  },
+  {
+    "id": 437,
+    "tr": "Annem seninle.",
+    "en": "My mother is with you."
+  },
+  {
+    "id": 438,
+    "tr": "Annem seninle değil.",
+    "en": "My mother isn't with you."
+  },
+  {
+    "id": 439,
+    "tr": "Annem seninle mi?",
+    "en": "Is my mother with you?"
+  },
+  {
+    "id": 440,
+    "tr": "Annem seninle değil mi?",
+    "en": "Isn't my mother with you?"
+  },
+  {
+    "id": 441,
+    "tr": "Okuldaki çocuklar mutlu.",
+    "en": "The children in the school are happy."
+  },
+  {
+    "id": 442,
+    "tr": "Okuldaki çocuklar mutlu değil.",
+    "en": "The children in the school aren't happy."
+  },
+  {
+    "id": 443,
+    "tr": "Okuldaki çocuklar mutlu mu?",
+    "en": "Are the children in the school happy?"
+  },
+  {
+    "id": 444,
+    "tr": "Okuldaki çocuklar mutlu değil mi?",
+    "en": "Isn't the children in the school happy?"
+  },
+  {
+    "id": 445,
+    "tr": "Türkiye'deki insanlar yorgun.",
+    "en": "The people in Turkey are tired."
+  },
+  {
+    "id": 446,
+    "tr": "Türkiye'deki insanlar yorgun değil.",
+    "en": "The people in Turkey aren't tired."
+  },
+  {
+    "id": 447,
+    "tr": "Türkiye'deki insanlar yorgun mu?",
+    "en": "Are the people in Turkey tired?"
+  },
+  {
+    "id": 448,
+    "tr": "Türkiye'deki insanlar yorgun değil mi?",
+    "en": "Aren't the people in Turkey tired?"
+  },
+  {
+    "id": 449,
+    "tr": "Okulun bahçesi büyük.",
+    "en": "The garden of the school is big."
+  },
+  {
+    "id": 450,
+    "tr": "Okulun bahçesi büyük değil.",
+    "en": "The garden of the school isn't big."
+  },
+  {
+    "id": 451,
+    "tr": "Okulun bahçesi büyük mü?",
+    "en": "Is the garden of the school big?"
+  },
+  {
+    "id": 452,
+    "tr": "Okulun bahçesi büyük değil mi?",
+    "en": "Isn't the garden of the school big?"
+  },
+  {
+    "id": 453,
+    "tr": "Annemin arkadaşları yaşlı.",
+    "en": "The friends of my mother are old."
+  },
+  {
+    "id": 454,
+    "tr": "Annemin arkadaşları yaşlı değil.",
+    "en": "The friends of my mother aren't old."
+  },
+  {
+    "id": 455,
+    "tr": "Annemin arkadaşları yaşlı mı?",
+    "en": "Are the friends of my mother old?"
+  },
+  {
+    "id": 456,
+    "tr": "Annemin arkadaşları yaşlı değil mi?",
+    "en": "Aren't the friends of my mother old?"
+  },
+  {
+    "id": 457,
+    "tr": "Masadaki su soğuk.",
+    "en": "The water on the table is cold."
+  },
+  {
+    "id": 458,
+    "tr": "Masadaki su soğuk değil.",
+    "en": "The water on the table isn't cold."
+  },
+  {
+    "id": 459,
+    "tr": "Masadaki su soğuk mu?",
+    "en": "Is the water on the table cold?"
+  },
+  {
+    "id": 460,
+    "tr": "Masadaki su soğuk değil mi?",
+    "en": "Isn't the water on the table cold?"
+  },
+  {
+    "id": 461,
+    "tr": "Ali bizim için burada.",
+    "en": "Ali is here for us."
+  },
+  {
+    "id": 462,
+    "tr": "Ali bizim için burada değil.",
+    "en": "Ali isn't here for us."
+  },
+  {
+    "id": 463,
+    "tr": "Ali bizim için burada mı?",
+    "en": "Is Ali here for us?"
+  },
+  {
+    "id": 464,
+    "tr": "Ali bizim için burada değil mi?",
+    "en": "Isn't Ali here for us?"
+  },
+  {
+    "id": 465,
+    "tr": "Arkadaşlarım için Ankara'dayım.",
+    "en": "I'm in Ankara for my friends."
+  },
+  {
+    "id": 466,
+    "tr": "Arkadaşlarım için Ankara'da değilim.",
+    "en": "I'm not in Ankara for my friends."
+  },
+  {
+    "id": 467,
+    "tr": "Arkadaşlarım için Ankara'da mıyım?",
+    "en": "Am I in Ankara for my friends?"
+  },
+  {
+    "id": 468,
+    "tr": "Arkadaşlarım için Ankara'da değil miyim?",
+    "en": "Aren't I in Ankara for my friends?"
+  },
+  {
+    "id": 469,
+    "tr": "Okul için trendeler.",
+    "en": "They are on the train for the school."
+  },
+  {
+    "id": 470,
+    "tr": "Okul için trende değiller.",
+    "en": "They aren't on the train for the school."
+  },
+  {
+    "id": 471,
+    "tr": "Okul için trendeler mi?",
+    "en": "Are they on the train for the school?"
+  },
+  {
+    "id": 472,
+    "tr": "Okul için trende değiller mi?",
+    "en": "Aren't they on the train for the school?"
+  },
+  {
+    "id": 473,
+    "tr": "Kedi, salondaki halının üstünde.",
+    "en": "The cat is on the carpet in the living room."
+  },
+  {
+    "id": 474,
+    "tr": "Kedi, salondaki halının üstünde değil.",
+    "en": "The cat isn't on the carpet in the living room."
+  },
+  {
+    "id": 475,
+    "tr": "Kedi, salondaki halının üstünde mi?",
+    "en": "Is the cat on the carpet in the living room?"
+  },
+  {
+    "id": 476,
+    "tr": "Kedi, salondaki halının üstünde değil mi?",
+    "en": "Isn't the cat on the carpet in the living room?"
+  },
+  {
+    "id": 477,
+    "tr": "Kızgınım.",
+    "en": "I'm angry."
+  },
+  {
+    "id": 478,
+    "tr": "Kızgın değilim.",
+    "en": "I'm not angry."
+  },
+  {
+    "id": 479,
+    "tr": "Kızgın mısın?",
+    "en": "Are you angry?"
+  },
+  {
+    "id": 480,
+    "tr": "Kızgın değil misin?",
+    "en": "Aren't you angry?"
+  },
+  {
+    "id": 481,
+    "tr": "Kızgınsın.",
+    "en": "You're angry."
+  },
+  {
+    "id": 482,
+    "tr": "Kızgın değilsin.",
+    "en": "You aren't angry."
+  },
+  {
+    "id": 483,
+    "tr": "Kızgınlar mı?",
+    "en": "Are they angry?"
+  },
+  {
+    "id": 484,
+    "tr": "Kızgın değiller mi?",
+    "en": "Aren't they angry?"
+  },
+  {
+    "id": 485,
+    "tr": "Ali aç.",
+    "en": "Ali is hungry."
+  },
+  {
+    "id": 486,
+    "tr": "Ali aç değil.",
+    "en": "Ali isn't hungry."
+  },
+  {
+    "id": 487,
+    "tr": "Ali aç mı?",
+    "en": "Is Ali hungry?"
+  },
+  {
+    "id": 488,
+    "tr": "Ali aç değil mi?",
+    "en": "Isn't Ali hungry?"
+  },
+  {
+    "id": 489,
+    "tr": "Ayşe Türkiye'den.",
+    "en": "Ayşe is from Turkey."
+  },
+  {
+    "id": 490,
+    "tr": "Ayşe Türkiye'den değil.",
+    "en": "Ayşe isn't from Turkey."
+  },
+  {
+    "id": 491,
+    "tr": "Ayşe Türkiye'den mi?",
+    "en": "Is Ayşe from Turkey?"
+  },
+  {
+    "id": 492,
+    "tr": "Ayşe Türkiye'den değil mi?",
+    "en": "Isn't Ayşe from Turkey?"
+  },
+  {
+    "id": 493,
+    "tr": "Senin kedin salonda.",
+    "en": "Your cat is in the living room."
+  },
+  {
+    "id": 494,
+    "tr": "Senin kedin salonda değil.",
+    "en": "Your cat isn't in the living room."
+  },
+  {
+    "id": 495,
+    "tr": "Senin kedin salonda mı?",
+    "en": "Is your cat in the living room?"
+  },
+  {
+    "id": 496,
+    "tr": "Senin kedin salonda değil mi?",
+    "en": "Isn't your cat in the living room?"
+  },
+  {
+    "id": 497,
+    "tr": "Arabamız sokağın sonunda.",
+    "en": "Our car is at the end of the street."
+  },
+  {
+    "id": 498,
+    "tr": "Arabamız sokağın sonunda değil.",
+    "en": "Our car isn't at the end of the street."
+  },
+  {
+    "id": 499,
+    "tr": "Arabamız sokağın sonunda mı?",
+    "en": "Is our car at the end of the street?"
+  },
+  {
+    "id": 500,
+    "tr": "Arabamız sokağın sonunda değil mi?",
+    "en": "Isn't our car at the end of the street?"
+  },
+  {
+    "id": 501,
+    "tr": "Ocak ayında İstanbul'dasınız.",
+    "en": "You are in Istanbul in January."
+  },
+  {
+    "id": 502,
+    "tr": "Ocak ayında İstanbul'da değilsiniz.",
+    "en": "You aren't in Istanbul in January."
+  },
+  {
+    "id": 503,
+    "tr": "Ocak ayında İstanbul'da mısınız?",
+    "en": "Are you in Istanbul in January?"
+  },
+  {
+    "id": 504,
+    "tr": "Ocak ayında İstanbul'da değil misiniz?",
+    "en": "Aren't you in Istanbul in January?"
+  },
+  {
+    "id": 505,
+    "tr": "Okuldan sonra evdeyim.",
+    "en": "I'm at home after the school."
+  },
+  {
+    "id": 506,
+    "tr": "Okuldan sonra evde değilim.",
+    "en": "I'm not at home after the school."
+  },
+  {
+    "id": 507,
+    "tr": "Okuldan sonra evde miyim?",
+    "en": "Am I at home after the school?"
+  },
+  {
+    "id": 508,
+    "tr": "Okuldan sonra evde değil miyim?",
+    "en": "Aren't I at home after the school?"
+  },
+  {
+    "id": 509,
+    "tr": "Bu araba senin için.",
+    "en": "This car is for you."
+  },
+  {
+    "id": 510,
+    "tr": "Bu araba senin için değil.",
+    "en": "This car isn't for you."
+  },
+  {
+    "id": 511,
+    "tr": "Bu araba senin için mi?",
+    "en": "Is this car for you?"
+  },
+  {
+    "id": 512,
+    "tr": "Bu araba senin için değil mi?",
+    "en": "Isn't this car for you?"
+  },
+  {
+    "id": 513,
+    "tr": "Benim ülkem güçlü.",
+    "en": "My country is strong."
+  },
+  {
+    "id": 514,
+    "tr": "Benim ülkem güçlü değil.",
+    "en": "My country isn't strong."
+  },
+  {
+    "id": 515,
+    "tr": "Benim ülkem güçlü mü?",
+    "en": "Is my country strong?"
+  },
+  {
+    "id": 516,
+    "tr": "Benim ülkem güçlü değil mi?",
+    "en": "Isn't my country strong?"
+  },
+  {
+    "id": 517,
+    "tr": "Baban salı günü ofiste.",
+    "en": "Your father is at the office on Tuesday."
+  },
+  {
+    "id": 518,
+    "tr": "Baban salı günü ofiste değil.",
+    "en": "Your father isn't at the office on Tuesday."
+  },
+  {
+    "id": 519,
+    "tr": "Baban salı günü ofiste mi?",
+    "en": "Is your father at the office on Tuesday?"
+  },
+  {
+    "id": 520,
+    "tr": "Baban salı günü ofiste değil mi?",
+    "en": "Isn't your father at the office on Tuesday?"
+  },
+  {
+    "id": 521,
+    "tr": "Televizyondaki insanlar zengin.",
+    "en": "The people on the TV are rich."
+  },
+  {
+    "id": 522,
+    "tr": "Televizyondaki insanlar zengin değil.",
+    "en": "The people on the TV aren't rich."
+  },
+  {
+    "id": 523,
+    "tr": "Televizyondaki insanlar zengin mi?",
+    "en": "Are the people on the TV rich?"
+  },
+  {
+    "id": 524,
+    "tr": "Televizyondaki insanlar zengin değil mi?",
+    "en": "Aren't the people on the TV rich?"
+  },
+  {
+    "id": 525,
+    "tr": "Denizdeki insanlar mutlu.",
+    "en": "The people in the sea are happy."
+  },
+  {
+    "id": 526,
+    "tr": "Denizdeki insanlar mutlu değil.",
+    "en": "The people in the sea aren't happy."
+  },
+  {
+    "id": 527,
+    "tr": "Denizdeki insanlar mutlu mu?",
+    "en": "Are the people in the sea happy?"
+  },
+  {
+    "id": 528,
+    "tr": "Denizdeki insanlar mutlu değil mi?",
+    "en": "Aren't the people in the sea happy?"
+  },
+  {
+    "id": 529,
+    "tr": "Ben cuma akşamı senin için hazırım.",
+    "en": "I'm ready for you on Friday evening."
+  },
+  {
+    "id": 530,
+    "tr": "Ben cuma akşamı senin için hazır değilim.",
+    "en": "I'm not ready for you on Friday evening."
+  },
+  {
+    "id": 531,
+    "tr": "Ben cuma akşamı senin için hazır mıyım?",
+    "en": "Am I ready for you on Friday evening?"
+  },
+  {
+    "id": 532,
+    "tr": "Ben cuma akşamı senin için hazır değil miyim?",
+    "en": "Aren't I ready for you on Friday evening?"
+  },
+  {
+    "id": 533,
+    "tr": "Bizim şehrimiz güzel.",
+    "en": "Our city is beautiful."
+  },
+  {
+    "id": 534,
+    "tr": "Bizim şehrimiz güzel değil.",
+    "en": "Our city isn't beautiful."
+  },
+  {
+    "id": 535,
+    "tr": "Bizim şehrimiz güzel mi?",
+    "en": "Is our city beautiful?"
+  },
+  {
+    "id": 536,
+    "tr": "Bizim şehrimiz güzel değil mi?",
+    "en": "Isn't our city beautiful?"
+  },
+  {
+    "id": 537,
+    "tr": "Yazın ağustos ayında ailemle beraber Antalya'dayım.",
+    "en": "I'm in Antalya with my family in August in the summer."
+  },
+  {
+    "id": 538,
+    "tr": "Yazın ağustos ayında ailemle beraber Antalya'da değilim.",
+    "en": "I'm not in Antalya with my family in August in the summer."
+  },
+  {
+    "id": 539,
+    "tr": "Yazın ağustos ayında ailenle beraber Antalya'da mısın?",
+    "en": "Are you in Antalya with your family in August in the summer?"
+  },
+  {
+    "id": 540,
+    "tr": "Yazın ağustos ayında ailenle beraber Antalya'da değil misin?",
+    "en": "Aren't you in Antalya with your family in August in the summer?"
+  },
+  {
+    "id": 541,
+    "tr": "Hafta sonu kız kardeşimle beraber restorandayız.",
+    "en": "We are in the restaurant with my sister at the weekend."
+  },
+  {
+    "id": 542,
+    "tr": "Hafta sonu kız kardeşimle beraber restoranda değiliz.",
+    "en": "We aren't in the restaurant with my sister at the weekend."
+  },
+  {
+    "id": 543,
+    "tr": "Hafta sonu kız kardeşimle beraber restoranda mıyız?",
+    "en": "Are we in the restaurant with my sister at the weekend?"
+  },
+  {
+    "id": 544,
+    "tr": "Hafta sonu kız kardeşimle beraber restoranda değil miyiz?",
+    "en": "Aren't we in the restaurant with my sister at the weekend?"
+  },
+  {
+    "id": 545,
+    "tr": "Evdeki köpek, bir kediyle beraber mutfakta.",
+    "en": "The dog in the house is in the kitchen with a cat."
+  },
+  {
+    "id": 546,
+    "tr": "Evdeki köpek, bir kediyle beraber mutfakta değil.",
+    "en": "The dog in the house isn't in the kitchen with a cat."
+  },
+  {
+    "id": 547,
+    "tr": "Evdeki köpek, bir kediyle beraber mutfakta mı?",
+    "en": "Is the dog in the house in the kitchen with a cat?"
+  },
+  {
+    "id": 548,
+    "tr": "Evdeki köpek, bir kediyle beraber mutfakta değil mi?",
+    "en": "Isn't the dog in the house in the kitchen with a cat?"
+  },
+  {
+    "id": 549,
+    "tr": "Kalbimdeki kadın benimle.",
+    "en": "The woman in my heart is with me."
+  },
+  {
+    "id": 550,
+    "tr": "Kalbimdeki kadın benimle değil.",
+    "en": "The woman in my heart isn't with me."
+  },
+  {
+    "id": 551,
+    "tr": "Kalbimdeki kadın benimle mi?",
+    "en": "Is the woman in my heart with me?"
+  },
+  {
+    "id": 552,
+    "tr": "Kalbimdeki kadın benimle değil mi?",
+    "en": "Isn't the woman in my heart with me?"
+  },
+  {
+    "id": 553,
+    "tr": "Ofisten arkadaşlarım bir parti için işten sonra bir restoranda.",
+    "en": "My friends from the office are in a restaurant after work for a party."
+  },
+  {
+    "id": 554,
+    "tr": "Ofisten arkadaşlarım bir parti için işten sonra bir restoranda değil.",
+    "en": "My friends from the office aren't in a restaurant after work for a party."
+  },
+  {
+    "id": 555,
+    "tr": "Ofisten arkadaşlarım bir parti için işten sonra bir restoranda mı?",
+    "en": "Are my friends from the office in a restaurant after work for a party?"
+  },
+  {
+    "id": 556,
+    "tr": "Ofisten arkadaşlarım bir parti için işten sonra bir restoranda değil mi?",
+    "en": "Aren't my friends from the office in a restaurant after work for a party?"
+  },
+  {
+    "id": 557,
+    "tr": "Babamın ailesi bayram için köyde.",
+    "en": "The family of my father is in the village for the Eid."
+  },
+  {
+    "id": 558,
+    "tr": "Babamın ailesi bayram için köyde değil.",
+    "en": "The family of my father isn't in the village for the Eid."
+  },
+  {
+    "id": 559,
+    "tr": "Babamın ailesi bayram için köyde mi?",
+    "en": "Is the family of my father in the village for the Eid?"
+  },
+  {
+    "id": 560,
+    "tr": "Babamın ailesi bayram için köyde değil mi?",
+    "en": "Isn't the family of my father in the village for the Eid?"
+  },
+  {
+    "id": 561,
+    "tr": "Arkadaşımın gözlükleri burada.",
+    "en": "The glasses of my friend are here."
+  },
+  {
+    "id": 562,
+    "tr": "Arkadaşımın gözlükleri burada değil.",
+    "en": "The glasses of my friend aren't here."
+  },
+  {
+    "id": 563,
+    "tr": "Arkadaşımın gözlükleri burada mı?",
+    "en": "Are the glasses of my friend glasses here?"
+  },
+  {
+    "id": 564,
+    "tr": "Arkadaşımın gözlükleri burada değil mi?",
+    "en": "Aren't the glasses of my friend here?"
+  },
+  {
+    "id": 565,
+    "tr": "İyiyim.",
+    "en": "I'm good."
+  },
+  {
+    "id": 566,
+    "tr": "İyi değilim.",
+    "en": "I'm not good."
+  },
+  {
+    "id": 567,
+    "tr": "İyi miyim?",
+    "en": "Am I good?"
+  },
+  {
+    "id": 568,
+    "tr": "İyi değil miyim?",
+    "en": "Aren't I good?"
+  },
+  {
+    "id": 569,
+    "tr": "Meşguller.",
+    "en": "They are busy."
+  },
+  {
+    "id": 570,
+    "tr": "Meşgul değiller.",
+    "en": "They aren't busy."
+  },
+  {
+    "id": 571,
+    "tr": "Meşguller mi?",
+    "en": "Are they busy?"
+  },
+  {
+    "id": 572,
+    "tr": "Meşgul değiller mi?",
+    "en": "Aren't they busy?"
+  },
+  {
+    "id": 573,
+    "tr": "Bugün meşgulüm.",
+    "en": "I'm busy today."
+  },
+  {
+    "id": 574,
+    "tr": "Bugün meşgul değilim.",
+    "en": "I'm not busy today."
+  },
+  {
+    "id": 575,
+    "tr": "Bugün meşgul müyüm?",
+    "en": "Am I busy today?"
+  },
+  {
+    "id": 576,
+    "tr": "Bugün meşgul değil miyim?",
+    "en": "Aren't I busy today?"
+  },
+  {
+    "id": 577,
+    "tr": "Bahçedeki elmalar kırmızı.",
+    "en": "The apples in the garden are red."
+  },
+  {
+    "id": 578,
+    "tr": "Bahçedeki elmalar kırmızı değil.",
+    "en": "The apples in the garden aren't red."
+  },
+  {
+    "id": 579,
+    "tr": "Bahçedeki elmalar kırmızı mı?",
+    "en": "Are the apples in the garden red?"
+  },
+  {
+    "id": 580,
+    "tr": "Bahçedeki elmalar kırmızı değil mi?",
+    "en": "Aren't the apples in the garden red?"
+  }
+]

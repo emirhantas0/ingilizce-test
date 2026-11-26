@@ -1,0 +1,421 @@
+[
+  { "id": 1, "tr": "Oynuyorum.", "en": "I play" },
+  { "id": 2, "tr": "Oynamıyorum.", "en": "I don't play" },
+  { "id": 3, "tr": "Oynuyor muyum?", "en": "Do I play?" },
+  { "id": 4, "tr": "Oynamıyor muyum?", "en": "Don't I play?" },
+
+  { "id": 5, "tr": "Oynuyorsun.", "en": "You play" },
+  { "id": 6, "tr": "Oynamıyorsun.", "en": "You don't play" },
+  { "id": 7, "tr": "Oynuyor musun?", "en": "Do you play?" },
+  { "id": 8, "tr": "Oynamıyor musun?", "en": "Don't you play?" },
+
+  { "id": 9, "tr": "Ali oynuyor.", "en": "Ali plays" },
+  { "id": 10, "tr": "Ali oynamıyor.", "en": "Ali doesn't play" },
+  { "id": 11, "tr": "Ali oynuyor mu?", "en": "Does Ali play?" },
+  { "id": 12, "tr": "Ali oynamıyor mu?", "en": "Doesn't Ali play?" },
+
+  { "id": 13, "tr": "Ayşe oynuyor.", "en": "Ayşe plays" },
+  { "id": 14, "tr": "Ayşe oynamıyor.", "en": "Ayşe doesn't play" },
+  { "id": 15, "tr": "Ayşe oynuyor mu?", "en": "Does Ayşe play?" },
+  { "id": 16, "tr": "Ayşe oynamıyor mu?", "en": "Doesn't Ayşe play?" },
+
+  { "id": 17, "tr": "Kedim oynuyor.", "en": "My cat plays" },
+  { "id": 18, "tr": "Kedim oynamıyor.", "en": "My cat doesn't play" },
+  { "id": 19, "tr": "Kedim oynuyor mu?", "en": "Does my cat play?" },
+  { "id": 20, "tr": "Kedim oynamıyor mu?", "en": "Doesn't my cat play?" },
+
+  { "id": 21, "tr": "Oynuyoruz.", "en": "We play" },
+  { "id": 22, "tr": "Oynamıyoruz.", "en": "We don't play" },
+  { "id": 23, "tr": "Oynuyor muyuz?", "en": "Do we play?" },
+  { "id": 24, "tr": "Oynamıyor muyuz?", "en": "Don't we play?" },
+
+  { "id": 25, "tr": "Oynuyorsunuz.", "en": "You play" },
+  { "id": 26, "tr": "Oynamıyorsunuz.", "en": "You don't play" },
+  { "id": 27, "tr": "Oynuyor musunuz?", "en": "Do you play?" },
+  { "id": 28, "tr": "Oynamıyor musunuz?", "en": "Don't you play?" },
+
+  { "id": 29, "tr": "Oynuyorlar.", "en": "They play" },
+  { "id": 30, "tr": "Oynamıyorlar.", "en": "They don't play" },
+  { "id": 31, "tr": "Oynuyorlar mı?", "en": "Do they play?" },
+  { "id": 32, "tr": "Oynamıyorlar mı?", "en": "Don't they play?" },
+
+  { "id": 33, "tr": "Geliyorum.", "en": "I come" },
+  { "id": 34, "tr": "Gelmiyorum.", "en": "I don't come" },
+  { "id": 35, "tr": "Geliyor muyum?", "en": "Do I come?" },
+  { "id": 36, "tr": "Gelmiyor muyum?", "en": "Don't I come?" },
+
+  { "id": 37, "tr": "Geliyorsun.", "en": "You come" },
+  { "id": 38, "tr": "Gelmiyorsun.", "en": "You don't come" },
+  { "id": 39, "tr": "Geliyor musun?", "en": "Do you come?" },
+  { "id": 40, "tr": "Gelmiyor musun?", "en": "Don't you come?" },
+
+  { "id": 41, "tr": "Ali geliyor.", "en": "Ali comes" },
+  { "id": 42, "tr": "Ali gelmiyor.", "en": "Ali doesn't come" },
+  { "id": 43, "tr": "Ali geliyor mu?", "en": "Does Ali come?" },
+  { "id": 44, "tr": "Ali gelmiyor mu?", "en": "Doesn't Ali come?" },
+
+  { "id": 45, "tr": "Ayşe gidiyor.", "en": "Ayşe goes" },
+  { "id": 46, "tr": "Ayşe gitmiyor.", "en": "Ayşe doesn't go" },
+  { "id": 47, "tr": "Ayşe gidiyor mu?", "en": "Does Ayşe go?" },
+  { "id": 48, "tr": "Ayşe gitmiyor mu?", "en": "Doesn't Ayşe go?" },
+
+  { "id": 49, "tr": "Murat yiyor.", "en": "Murat eats" },
+  { "id": 50, "tr": "Murat yemiyor.", "en": "Murat doesn't eat" },
+  { "id": 51, "tr": "Murat yiyor mu?", "en": "Does Murat eat?" },
+  { "id": 52, "tr": "Murat yemiyor mu?", "en": "Doesn't Murat eat?" },
+
+  { "id": 53, "tr": "Ahmet arkadaşlarıyla çay içiyor.", "en": "Ahmet drinks tea with his friends" },
+  { "id": 54, "tr": "Ahmet arkadaşlarıyla çay içmiyor.", "en": "Ahmet doesn't drink tea with his friends" },
+  { "id": 55, "tr": "Ahmet arkadaşlarıyla çay içiyor mu?", "en": "Does Ahmet drink tea with his friends?" },
+  { "id": 56, "tr": "Ahmet arkadaşlarıyla çay içmiyor mu?", "en": "Doesn't Ahmet drink tea with his friends?" },
+
+  { "id": 57, "tr": "Ahmet onlarla çay içiyor.", "en": "Ahmet drinks tea with them" },
+  { "id": 58, "tr": "Ahmet onlarla çay içmiyor.", "en": "Ahmet doesn't drink tea with them" },
+  { "id": 59, "tr": "Ahmet onlarla çay içiyor mu?", "en": "Does Ahmet drink tea with them?" },
+  { "id": 60, "tr": "Ahmet onlarla çay içmiyor mu?", "en": "Doesn't Ahmet drink tea with them?" },
+
+  { "id": 61, "tr": "Ayşe koşuyor.", "en": "Ayşe runs" },
+  { "id": 62, "tr": "Ayşe koşmuyor.", "en": "Ayşe doesn't run" },
+  { "id": 63, "tr": "Ayşe koşuyor mu?", "en": "Does Ayşe run?" },
+  { "id": 64, "tr": "Ayşe koşmuyor mu?", "en": "Doesn't Ayşe run?" },
+
+  { "id": 65, "tr": "Murat müzik dinliyor.", "en": "Murat listens to music" },
+  { "id": 66, "tr": "Murat müzik dinlemiyor.", "en": "Murat doesn't listen to music" },
+  { "id": 67, "tr": "Murat müzik dinliyor mu?", "en": "Does Murat listen to music?" },
+  { "id": 68, "tr": "Murat müzik dinlemiyor mu?", "en": "Doesn't Murat listen to music?" },
+
+  { "id": 69, "tr": "Kedi uyuyor.", "en": "The cat sleeps" },
+  { "id": 70, "tr": "Kedi uyumuyor.", "en": "The cat doesn't sleep" },
+  { "id": 71, "tr": "Kedi uyuyor mu?", "en": "Does the cat sleep?" },
+  { "id": 72, "tr": "Kedi uyumuyor mu?", "en": "Doesn't the cat sleep?" },
+
+  { "id": 73, "tr": "Bahçedeki kedi koşuyor.", "en": "The cat in the garden runs" },
+  { "id": 74, "tr": "Bahçedeki kedi koşmuyor.", "en": "The cat in the garden doesn't run" },
+  { "id": 75, "tr": "Bahçedeki kedi koşuyor mu?", "en": "Does the cat in the garden run?" },
+  { "id": 76, "tr": "Bahçedeki kedi koşmuyor mu?", "en": "Doesn't the cat in the garden run?" },
+
+  { "id": 77, "tr": "Bahçedeki kedi yiyor.", "en": "The cat in the garden eats" },
+  { "id": 78, "tr": "Bahçedeki kedi yemiyor.", "en": "The cat in the garden doesn't eat" },
+  { "id": 79, "tr": "Bahçedeki kedi yiyor mu?", "en": "Does the cat in the garden eat?" },
+  { "id": 80, "tr": "Bahçedeki kedi yemiyor mu?", "en": "Doesn't the cat in the garden eat?" },
+
+  { "id": 81, "tr": "Bahçedeki kedi içiyor.", "en": "The cat in the garden drinks" },
+  { "id": 82, "tr": "Bahçedeki kedi içmiyor.", "en": "The cat in the garden doesn't drink" },
+  { "id": 83, "tr": "Bahçedeki kedi içiyor mu?", "en": "Does the cat in the garden drink?" },
+  { "id": 84, "tr": "Bahçedeki kedi içmiyor mu?", "en": "Doesn't the cat in the garden drink?" },
+
+  { "id": 85, "tr": "Bahçedeki kediler içiyor.", "en": "The cats in the garden drink" },
+  { "id": 86, "tr": "Bahçedeki kediler içmiyor.", "en": "The cats in the garden don't drink" },
+  { "id": 87, "tr": "Bahçedeki kediler içiyor mu?", "en": "Do the cats in the garden drink?" },
+  { "id": 88, "tr": "Bahçedeki kediler içmiyor mu?", "en": "Don't the cats in the garden drink?" },
+
+  { "id": 89, "tr": "Bahçedeki kediler yiyor.", "en": "The cats in the garden eat" },
+  { "id": 90, "tr": "Bahçedeki kediler yemiyor.", "en": "The cats in the garden don't eat" },
+  { "id": 91, "tr": "Bahçedeki kediler yiyor mu?", "en": "Do the cats in the garden eat?" },
+  { "id": 92, "tr": "Bahçedeki kediler yemiyor mu?", "en": "Don't the cats in the garden eat?" },
+
+  { "id": 93, "tr": "Ayşe arkadaşlarıyla beraber kahve içiyor.", "en": "Ayşe drinks coffee with her friends" },
+  { "id": 94, "tr": "Ayşe arkadaşlarıyla beraber kahve içmiyor.", "en": "Ayşe doesn't drink coffee with her friends" },
+  { "id": 95, "tr": "Ayşe arkadaşlarıyla beraber kahve içiyor mu?", "en": "Does Ayşe drink coffee with her friends?" },
+  { "id": 96, "tr": "Ayşe arkadaşlarıyla beraber kahve içmiyor mu?", "en": "Doesn't Ayşe drink coffee with her friends?" },
+
+  { "id": 97, "tr": "Biz arkadaşlarımızla beraber sinemaya gidiyoruz.", "en": "We go to the cinema with our friends" },
+  { "id": 98, "tr": "Biz arkadaşlarımızla beraber sinemaya gitmiyoruz.", "en": "We don't go to the cinema with our friends" },
+  { "id": 99, "tr": "Siz arkadaşlarınızla beraber sinemaya gidiyor musunuz?", "en": "Do you go to the cinema with your friends?" },
+  { "id": 100, "tr": "Siz arkadaşlarınızla beraber sinemaya gitmiyor musunuz?", "en": "Don't you go to the cinema with your friends?" },
+
+  { "id": 101, "tr": "Kedi öğleden sonra bahçede yemek yiyor.", "en": "The cat eats food in the garden in the afternoon" },
+  { "id": 102, "tr": "Kedi öğleden sonra bahçede yemek yemiyor.", "en": "The cat doesn't eat food in the garden in the afternoon" },
+  { "id": 103, "tr": "Kedi öğleden sonra bahçede yemek yiyor mu?", "en": "Does the cat eat food in the garden in the afternoon?" },
+  { "id": 104, "tr": "Kedi öğleden sonra bahçede yemek yemiyor mu?", "en": "Doesn't the cat eat food in the garden in the afternoon?" },
+
+  { "id": 105, "tr": "Kedi bahçede köpeklerle beraber süt içiyor.", "en": "The cat drinks milk with dogs in the garden" },
+  { "id": 106, "tr": "Kedi bahçede köpeklerle beraber süt içmiyor.", "en": "The cat doesn't drink milk with dogs in the garden" },
+  { "id": 107, "tr": "Kedi bahçede köpeklerle beraber süt içiyor mu?", "en": "Does the cat drink milk with dogs in the garden?" },
+  { "id": 108, "tr": "Kedi bahçede köpeklerle beraber süt içmiyor mu?", "en": "Doesn't the cat drink milk with dogs in the garden?" },
+
+  { "id": 109, "tr": "Kediler içiyor.", "en": "The cats drink" },
+  { "id": 110, "tr": "Kediler içmiyor.", "en": "The cats don't drink" },
+  { "id": 111, "tr": "Kediler içiyor mu?", "en": "Do the cats drink?" },
+  { "id": 112, "tr": "Kediler içmiyor mu?", "en": "Don't the cats drink?" },
+
+  { "id": 113, "tr": "Kedi içiyor.", "en": "The cat drinks" },
+  { "id": 114, "tr": "Kedi içmiyor.", "en": "The cat doesn't drink" },
+  { "id": 115, "tr": "Kedi içiyor mu?", "en": "Does the cat drink?" },
+  { "id": 116, "tr": "Kedi içmiyor mu?", "en": "Doesn't the cat drink?" },
+
+  { "id": 117, "tr": "Annem yiyor.", "en": "My mother eats" },
+  { "id": 118, "tr": "Annem yemiyor.", "en": "My mother doesn't eat" },
+  { "id": 119, "tr": "Annen yiyor mu?", "en": "Does your mother eat?" },
+  { "id": 120, "tr": "Annen yemiyor mu?", "en": "Doesn't your mother eat?" },
+
+  { "id": 121, "tr": "Babam içiyor.", "en": "My father drinks" },
+  { "id": 122, "tr": "Babam içmiyor.", "en": "My father doesn't drink" },
+  { "id": 123, "tr": "Baban içiyor mu?", "en": "Does your father drink?" },
+  { "id": 124, "tr": "Baban içmiyor mu?", "en": "Doesn't your father drink?" },
+
+  { "id": 125, "tr": "Kedilerimle oynuyorum.", "en": "I play with my cats" },
+  { "id": 126, "tr": "Kedilerimle oynamıyorum.", "en": "I don't play with my cats" },
+  { "id": 127, "tr": "Kedilerinle oynuyor musun?", "en": "Do you play with your cats?" },
+  { "id": 128, "tr": "Kedilerinle oynamıyor musun?", "en": "Don't you play with your cats?" },
+
+  { "id": 129, "tr": "Okuldan sonra koşuyorum.", "en": "I run after the school" },
+  { "id": 130, "tr": "Okuldan sonra koşmuyorum.", "en": "I don't run after the school" },
+  { "id": 131, "tr": "Okuldan sonra koşuyor musun?", "en": "Do you run after the school?" },
+  { "id": 132, "tr": "Okuldan sonra koşmuyor musun?", "en": "Don't you run after the school?" },
+
+  { "id": 133, "tr": "Tatilden sonra çalışıyorsun.", "en": "You work after the holiday" },
+  { "id": 134, "tr": "Tatilden sonra çalışmıyorsun.", "en": "You don't work after the holiday" },
+  { "id": 135, "tr": "Tatilden sonra çalışıyor musun?", "en": "Do you work after the holiday?" },
+  { "id": 136, "tr": "Tatilden sonra çalışmıyor musun?", "en": "Don't you work after the holiday?" },
+
+  { "id": 137, "tr": "Ayşe tatilden önce çalışıyor.", "en": "Ayşe works before the holiday" },
+  { "id": 138, "tr": "Ayşe tatilden önce çalışmıyor.", "en": "Ayşe doesn't work before the holiday" },
+  { "id": 139, "tr": "Ayşe tatilden önce çalışıyor mu?", "en": "Does Ayşe work before the holiday?" },
+  { "id": 140, "tr": "Ayşe tatilden önce çalışmıyor mu?", "en": "Doesn't Ayşe work before the holiday?" },
+
+  { "id": 141, "tr": "Arkadaşlarımla oynuyorum.", "en": "I play with my friends" },
+  { "id": 142, "tr": "Arkadaşlarımla oynamıyorum.", "en": "I don't play with my friends" },
+  { "id": 143, "tr": "Arkadaşlarınla oynuyor musun?", "en": "Do you play with your friends?" },
+  { "id": 144, "tr": "Arkadaşlarınla oynamıyor musun?", "en": "Don't you play with your friends?" },
+
+  { "id": 145, "tr": "Çocuklarla oynuyorsun.", "en": "You play with children" },
+  { "id": 146, "tr": "Çocuklarla oynamıyorsun.", "en": "You don't play with children" },
+  { "id": 147, "tr": "Çocuklarla oynuyor musun?", "en": "Do you play with children?" },
+  { "id": 148, "tr": "Çocuklarla oynamıyor musun?", "en": "Don't you play with children?" },
+
+  { "id": 149, "tr": "Ali kitaplarını satıyor.", "en": "Ali sells his books" },
+  { "id": 150, "tr": "Ali kitaplarını satmıyor.", "en": "Ali doesn't sell his books" },
+  { "id": 151, "tr": "Ali kitaplarını satıyor mu?", "en": "Does Ali sell his books?" },
+  { "id": 152, "tr": "Ali kitaplarını satmıyor mu?", "en": "Doesn't Ali sell his books?" },
+
+  { "id": 153, "tr": "Ayşe arabasını satıyor.", "en": "Ayşe sells her car" },
+  { "id": 154, "tr": "Ayşe arabasını satmıyor.", "en": "Ayşe doesn't sell her car" },
+  { "id": 155, "tr": "Ayşe arabasını satıyor mu?", "en": "Does Ayşe sell her car?" },
+  { "id": 156, "tr": "Ayşe arabasını satmıyor mu?", "en": "Doesn't Ayşe sell her car?" },
+
+  { "id": 157, "tr": "Murat evini satıyor.", "en": "Murat sells his house" },
+  { "id": 158, "tr": "Murat evini satmıyor.", "en": "Murat doesn't sell his house" },
+  { "id": 159, "tr": "Murat evini satıyor mu?", "en": "Does Murat sell his house?" },
+  { "id": 160, "tr": "Murat evini satmıyor mu?", "en": "Doesn't Murat sell his house?" },
+
+  { "id": 161, "tr": "Ayşe bir araba satın alıyor.", "en": "Ayşe buys a car" },
+  { "id": 162, "tr": "Ayşe bir araba satın almıyor.", "en": "Ayşe doesn't buy a car" },
+  { "id": 163, "tr": "Ayşe bir araba satın alıyor mu?", "en": "Does Ayşe buy a car?" },
+  { "id": 164, "tr": "Ayşe bir araba satın almıyor mu?", "en": "Doesn't Ayşe buy a car?" },
+
+  { "id": 165, "tr": "Murat bir ev satın alıyor.", "en": "Murat buys a house" },
+  { "id": 166, "tr": "Murat bir ev satın almıyor.", "en": "Murat doesn't buy a house" },
+  { "id": 167, "tr": "Murat bir ev satın alıyor mu?", "en": "Does Murat buy a house?" },
+  { "id": 168, "tr": "Murat bir ev satın almıyor mu?", "en": "Doesn't Murat buy a house?" },
+
+  { "id": 169, "tr": "Onlar bir bardak su satın alıyor.", "en": "They buy a glass of water" },
+  { "id": 170, "tr": "Onlar bir bardak su satın almıyor.", "en": "They don't buy a glass of water" },
+  { "id": 171, "tr": "Onlar bir bardak su satın alıyor mu?", "en": "Do they buy a glass of water?" },
+  { "id": 172, "tr": "Onlar bir bardak su satın almıyor mu?", "en": "Don't they buy a glass of water?" },
+
+  { "id": 173, "tr": "Kız kardeşim oyuncaklarıyla oynuyor.", "en": "My sister plays with her toys" },
+  { "id": 174, "tr": "Kız kardeşim oyuncaklarıyla oynamıyor.", "en": "My sister doesn't play with her toys" },
+  { "id": 175, "tr": "Kız kardeşin oyuncaklarıyla oynuyor mu?", "en": "Does your sister play with her toys?" },
+  { "id": 176, "tr": "Kız kardeşin oyuncaklarıyla oynamıyor mu?", "en": "Doesn't your sister play with her toys?" },
+
+  { "id": 177, "tr": "Kedim bizimle oynuyor.", "en": "My cat plays with us" },
+  { "id": 178, "tr": "Kedim bizimle oynamıyor.", "en": "My cat doesn't play with us" },
+  { "id": 179, "tr": "Kedim bizimle oynuyor mu?", "en": "Does my cat play with us?" },
+  { "id": 180, "tr": "Kedim bizimle oynamıyor mu?", "en": "Doesn't my cat play with us?" },
+
+  { "id": 181, "tr": "Kedilerim onlarla oynuyor.", "en": "My cats play with them" },
+  { "id": 182, "tr": "Kedilerim onlarla oynamıyor.", "en": "My cats don't play with them" },
+  { "id": 183, "tr": "Kedilerin onlarla oynuyor mu?", "en": "Do your cats play with them?" },
+  { "id": 184, "tr": "Kedilerin onlarla oynamıyor mu?", "en": "Don't your cats play with them?" },
+
+  { "id": 185, "tr": "Okuldaki kedi bahçede süt içiyor.", "en": "The cat in the school drinks milk in the garden" },
+  { "id": 186, "tr": "Okuldaki kedi bahçede süt içmiyor.", "en": "The cat in the school doesn't drink milk in the garden" },
+  { "id": 187, "tr": "Okuldaki kedi bahçede süt içiyor mu?", "en": "Does the cat in the school drink milk in the garden?" },
+  { "id": 188, "tr": "Okuldaki kedi bahçede süt içmiyor mu?", "en": "Doesn't the cat in the school drink milk in the garden?" },
+
+  { "id": 189, "tr": "Annemin arkadaşları benim için Ankara’dan geliyor.", "en": " The friends of my mother come from Ankara for me" },
+  { "id": 190, "tr": "Annemin arkadaşları benim için Ankara’dan gelmiyor.", "en": "The friends of my mother don't come from Ankara for me" },
+  { "id": 191, "tr": "Annemin arkadaşları benim için Ankara’dan geliyor mu?", "en": "Do the friends of my mother come from Ankara for me?" },
+  { "id": 192, "tr": "Annemin arkadaşları benim için Ankara’dan gelmiyor mu?", "en": "Don't the friends of my mother come from Ankara for me?" },
+
+  { "id": 193, "tr": "Ali benim için Ankara’dan geliyor.", "en": "Ali comes from Ankara for me" },
+  { "id": 194, "tr": "Ali benim için Ankara’dan gelmiyor.", "en": "Ali doesn't come from Ankara for me" },
+  { "id": 195, "tr": "Ali senin için Ankara’dan geliyor mu?", "en": "Does Ali come from Ankara for you?" },
+  { "id": 196, "tr": "Ali senin için Ankara’dan gelmiyor mu?", "en": "Doesn't Ali come from Ankara for you?" },
+
+  { "id": 197, "tr": "Arkadaşım benimle pizza yiyor.", "en": "My friend eats pizza with me" },
+  { "id": 198, "tr": "Arkadaşım benimle pizza yemiyor.", "en": "My friend doesn't eat pizza with me" },
+  { "id": 199, "tr": "Arkadaşın seninle pizza yiyor mu?", "en": "Does your friend eat pizza with you?" },
+  { "id": 200, "tr": "Arkadaşın seninle pizza yemiyor mu?", "en": "Doesn't your friend eat pizza with you?" },
+
+  { "id": 201, "tr": "Arkadaşlarım benimle hamburger yiyor.", "en": "My friends eat hamburger with me" },
+  { "id": 202, "tr": "Arkadaşlarım benimle hamburger yemiyor.", "en": "My friends don't eat hamburger with me" },
+  { "id": 203, "tr": "Arkadaşların seninle hamburger yiyor mu?", "en": "Do your friends eat hamburger with you?" },
+  { "id": 204, "tr": "Arkadaşların seninle hamburger yemiyor mu?", "en": "Don't your friends eat hamburger with you?" },
+
+  { "id": 205, "tr": "Ayşe her gün saat 7’de uyanıyor.", "en": "Ayşe wakes up at 7 o'clock every day" },
+  { "id": 206, "tr": "Ayşe her gün saat 7’de uyanmıyor.", "en": "Ayşe doesn't wake up at 7 o'clock every day" },
+  { "id": 207, "tr": "Ayşe her gün saat 7’de uyanıyor mu?", "en": "Does Ayşe wake up at 7 o'clock every day?" },
+  { "id": 208, "tr": "Ayşe her gün saat 7’de uyanmıyor mu?", "en": "Doesn't Ayşe wake up at 7 o'clock every day?" },
+
+  { "id": 209, "tr": "Sen her gün saat 11’de uyuyorsun.", "en": "You sleep at 11 o'clock every day" },
+  { "id": 210, "tr": "Sen her gün saat 11’de uyumuyorsun.", "en": "You don't sleep at 11 o'clock every day" },
+  { "id": 211, "tr": "Sen her gün saat 11’de mi uyuyorsun?", "en": "Do you sleep at 11 o'clock every day?" },
+  { "id": 212, "tr": "Sen her gün saat 11’de uyumuyor musun?", "en": "Don't you sleep at 11 o'clock every day?" },
+
+  { "id": 213, "tr": "Kedimiz her gün saat 11’de uyuyor.", "en": "Our cat sleeps at 11 o'clock every day" },
+  { "id": 214, "tr": "Kedimiz her gün saat 11’de uyumuyor.", "en": "Our cat doesn't sleep at 11 o'clock every day" },
+  { "id": 215, "tr": "Kedimiz her gün saat 11’de uyuyor mu?", "en": "Does our cat sleep at 11 o'clock every day?" },
+  { "id": 216, "tr": "Kedimiz her gün saat 11’de uyumuyor mu?", "en": "Doesn't our cat sleep at 11 o'clock every day?" },
+
+  { "id": 217, "tr": "Kedilerimiz her gün saat 11’de uyuyor.", "en": "Our cats sleep at 11 o'clock every day" },
+  { "id": 218, "tr": "Kedilerimiz her gün saat 11’de uyumuyor.", "en": "Our cats don't sleep at 11 o'clock every day" },
+  { "id": 219, "tr": "Kedilerimiz her gün saat 11’de uyuyor mu?", "en": "Do our cats sleep at 11 o'clock every day?" },
+  { "id": 220, "tr": "Kedilerimiz her gün saat 11’de uyumuyor mu?", "en": "Don't our cats sleep at 11 o'clock every day?" },
+
+  { "id": 221, "tr": "Bizimkiler bizim için bir ev satın alıyor.", "en": "Ours buy a house for us" },
+  { "id": 222, "tr": "Bizimkiler bizim için bir ev satın almıyor.", "en": "Ours don't buy a house for us" },
+  { "id": 223, "tr": "Bizimkiler bizim için bir ev satın alıyor mu?", "en": "Do ours buy a house for us?" },
+  { "id": 224, "tr": "Bizimkiler bizim için bir ev satın almıyor mu?", "en": "Don't ours buy a house for us?" },
+
+  { "id": 225, "tr": "Bizimki bizim için bir ev satın alıyor.", "en": "Ours buys a house for us" },
+  { "id": 226, "tr": "Bizimki bizim için bir ev satın almıyor.", "en": "Ours doesn't buy a house for us" },
+  { "id": 227, "tr": "Bizimki bizim için bir ev satın alıyor mu?", "en": "Does ours buy a house for us?" },
+  { "id": 228, "tr": "Bizimki bizim için bir ev satın almıyor mu?", "en": "Doesn't ours buy a house for us?" },
+
+  { "id": 229, "tr": "Bizimkiler satın alıyor.", "en": "Ours buy" },
+  { "id": 230, "tr": "Bizimkiler satın almıyor.", "en": "Ours don't buy" },
+  { "id": 231, "tr": "Bizimkiler satın alıyor mu?", "en": "Do ours buy?" },
+  { "id": 232, "tr": "Bizimkiler satın almıyor mu?", "en": "Don't ours buy?" },
+
+  { "id": 233, "tr": "Bizimki satın alıyor.", "en": "Ours buys" },
+  { "id": 234, "tr": "Bizimki satın almıyor.", "en": "Ours doesn't buy" },
+  { "id": 235, "tr": "Bizimki satın alıyor mu?", "en": "Does ours buy?" },
+  { "id": 236, "tr": "Bizimki satın almıyor mu?", "en": "Doesn't ours buy?" },
+
+  { "id": 237, "tr": "Gitmek istiyorum.", "en": "I want to go" },
+  { "id": 238, "tr": "Gitmek istemiyorum.", "en": "I don't want to go" },
+  { "id": 239, "tr": "Gitmek istiyor muyum?", "en": "Do I want to go?" },
+  { "id": 240, "tr": "Gitmek istemiyor muyum?", "en": "Don't I want to go?" },
+
+  { "id": 241, "tr": "Bizimle gitmek istiyorsun.", "en": "You want to go with us" },
+  { "id": 242, "tr": "Bizimle gitmek istemiyorsun.", "en": "You don't want to go with us" },
+  { "id": 243, "tr": "Bizimle gitmek istiyor musun?", "en": "Do you want to go with us?" },
+  { "id": 244, "tr": "Bizimle gitmek istemiyor musun?", "en": "Don't you want to go with us?" },
+
+  { "id": 245, "tr": "Kedi onlarla oynamak istiyor.", "en": "The cat wants to play with them" },
+  { "id": 246, "tr": "Kedi onlarla oynamak istemiyor.", "en": "The cat doesn't want to play with them" },
+  { "id": 247, "tr": "Kedi onlarla oynamak istiyor mu?", "en": "Does the cat want to play with them?" },
+  { "id": 248, "tr": "Kedi onlarla oynamak istemiyor mu?", "en": "Doesn't the cat want to play with them?" },
+
+  { "id": 249, "tr": "Kedilerim onlarla oynamak istiyor.", "en": "My cats want to play with them" },
+  { "id": 250, "tr": "Kedilerim onlarla oynamak istemiyor.", "en": "My cats don't want to play with them" },
+  { "id": 251, "tr": "Kedilerim onlarla oynamak istiyor mu?", "en": "Do my cats want to play with them?" },
+  { "id": 252, "tr": "Kedilerim onlarla oynamak istemiyor mu?", "en": "Don't my cats want to play with them?" },
+
+  { "id": 253, "tr": "Ayşe bilmek istiyor.", "en": "Ayşe wants to know" },
+  { "id": 254, "tr": "Ayşe bilmek istemiyor.", "en": "Ayşe doesn't want to know" },
+  { "id": 255, "tr": "Ayşe bilmek istiyor mu?", "en": "Does Ayşe want to know?" },
+  { "id": 256, "tr": "Ayşe bilmek istemiyor mu?", "en": "Doesn't Ayşe want to know?" },
+
+  { "id": 257, "tr": "Oğlun İngilizce öğrenmek istiyor.", "en": "Your son wants to learn English" },
+  { "id": 258, "tr": "Oğlun İngilizce öğrenmek istemiyor.", "en": "Your son doesn't want to learn English" },
+  { "id": 259, "tr": "Oğlun İngilizce öğrenmek istiyor mu?", "en": "Does your son want to learn English?" },
+  { "id": 260, "tr": "Oğlun İngilizce öğrenmek istemiyor mu?", "en": "Doesn't your son want to learn English?" },
+
+  { "id": 261, "tr": "Sen ailenle beraber Amerika’da yaşamak istiyorsun.", "en": "You want to live in America with your family" },
+  { "id": 262, "tr": "Sen ailenle beraber Amerika’da yaşamak istemiyorsun.", "en": "You don't want to live in America with your family" },
+  { "id": 263, "tr": "Sen ailenle beraber Amerika’da yaşamak istiyor musun?", "en": "Do you want to live in America with your family?" },
+  { "id": 264, "tr": "Sen ailenle beraber Amerika’da yaşamak istemiyor musun?", "en": "Don't you want to live in America with your family?" },
+
+  { "id": 265, "tr": "Ailemle beraber Amerika’da yaşamak istiyorum.", "en": "I want to live in America with my family" },
+  { "id": 266, "tr": "Ailemle beraber Amerika’da yaşamak istemiyorum.", "en": "I don't want to live in America with my family" },
+  { "id": 267, "tr": "Ailemle beraber Amerika’da yaşamak istiyor muyum?", "en": "Do I want to live in America with my family?" },
+  { "id": 268, "tr": "Ailemle beraber Amerika’da yaşamak istemiyor muyum?", "en": "Don't I want to live in America with my family?" },
+
+  { "id": 269, "tr": "Ayşe ailesiyle beraber Almanya’da yaşamak istiyor.", "en": "Ayşe wants to live in Germany with her family" },
+  { "id": 270, "tr": "Ayşe ailesiyle beraber Almanya’da yaşamak istemiyor.", "en": "Ayşe doesn't want to live in Germany with her family" },
+  { "id": 271, "tr": "Ayşe ailesiyle beraber Almanya’da yaşamak istiyor mu?", "en": "Does Ayşe want to live in Germany with her family?" },
+  { "id": 272, "tr": "Ayşe ailesiyle beraber Almanya’da yaşamak istemiyor mu?", "en": "Doesn't Ayşe want to live in Germany with her family?" },
+
+  { "id": 273, "tr": "Mustafa ailesiyle beraber İngiltere’de yaşamak istiyor.", "en": "Mustafa wants to live in England with his family" },
+  { "id": 274, "tr": "Mustafa ailesiyle beraber İngiltere’de yaşamak istemiyor.", "en": "Mustafa doesn't want to live in England with his family" },
+  { "id": 275, "tr": "Mustafa ailesiyle beraber İngiltere’de yaşamak istiyor mu?", "en": "Does Mustafa want to live in England with his family?" },
+  { "id": 276, "tr": "Mustafa ailesiyle beraber İngiltere’de yaşamak istemiyor mu?", "en": "Doesn't Mustafa want to live in England with his family?" },
+
+  { "id": 277, "tr": "Çocuklarımızla beraber burada yaşamak istiyoruz.", "en": "We want to live here with our children" },
+  { "id": 278, "tr": "Çocuklarımızla beraber burada yaşamak istemiyoruz.", "en": "We don't want to live here with our children" },
+  { "id": 279, "tr": "Çocuklarımızla beraber burada yaşamak istiyor muyuz?", "en": "Do we want to live here with our children?" },
+  { "id": 280, "tr": "Çocuklarımızla beraber burada yaşamak istemiyor muyuz?", "en": "Don't we want to live here with our children?" },
+
+  { "id": 281, "tr": "Arkadaşlarımızla beraber İngilizce öğrenmek istiyoruz.", "en": "We want to learn English with our friends" },
+  { "id": 282, "tr": "Arkadaşlarımızla beraber İngilizce öğrenmek istemiyoruz.", "en": "We don't want to learn English with our friends" },
+  { "id": 283, "tr": "Arkadaşlarımızla beraber İngilizce öğrenmek istiyor muyuz?", "en": "Do we want to learn English with our friends?" },
+  { "id": 284, "tr": "Arkadaşlarımızla beraber İngilizce öğrenmek istemiyor muyuz?", "en": "Don't we want to learn English with our friends?" },
+
+  { "id": 285, "tr": "Sorunların ardından her şeyi bilmek istiyorlar.", "en": "They want to know everything after the problems" },
+  { "id": 286, "tr": "Sorunların ardından her şeyi bilmek istemiyorlar.", "en": "They don't want to know everything after the problems" },
+  { "id": 287, "tr": "Sorunların ardından her şeyi bilmek istiyorlar mı?", "en": "Do they want to know everything after the problems?" },
+  { "id": 288, "tr": "Sorunların ardından her şeyi bilmek istemiyorlar mı?", "en": "Don't they want to know everything after the problems?" },
+
+  { "id": 289, "tr": "Evimi satın almak istiyorlar.", "en": "They want to buy my house" },
+  { "id": 290, "tr": "Evimi satın almak istemiyorlar.", "en": "They don't want to buy my house" },
+  { "id": 291, "tr": "Evinizi satın almak istiyorlar mı?", "en": "Do they want to buy your house?" },
+  { "id": 292, "tr": "Evinizi satın almak istemiyorlar mı?", "en": "Don't they want to buy your house?" },
+
+  { "id": 293, "tr": "Arkadaşım arabasını satmak istiyor.", "en": "My friend wants to sell his car" },
+  { "id": 294, "tr": "Arkadaşım arabasını satmak istemiyor.", "en": "My friend doesn't want to sell his car" },
+  { "id": 295, "tr": "Arkadaşın arabasını satmak istiyor mu?", "en": "Does your friend want to sell his car?" },
+  { "id": 296, "tr": "Arkadaşın arabasını satmak istemiyor mu?", "en": "Doesn't your friend want to sell his car?" },
+
+  { "id": 297, "tr": "Ali okuldan sonra eve geliyor.", "en": "Ali comes home after the school" },
+  { "id": 298, "tr": "Ali okuldan sonra eve gelmiyor.", "en": "Ali doesn't come home after the school" },
+  { "id": 299, "tr": "Ali okuldan sonra eve geliyor mu?", "en": "Does Ali come home after the school?" },
+  { "id": 300, "tr": "Ali okuldan sonra eve gelmiyor mu?", "en": "Doesn't Ali come home after the school?" },
+
+  { "id": 301, "tr": "Kedim öğleden sonra süt içmek istiyor.", "en": "My cat wants to drink milk in the afternoon" },
+  { "id": 302, "tr": "Kedim öğleden sonra süt içmek istemiyor.", "en": "My cat doesn't want to drink milk in the afternoon" },
+  { "id": 303, "tr": "Kedim öğleden sonra süt içmek istiyor mu?", "en": "Does your cat want to drink milk in the afternoon?" },
+  { "id": 304, "tr": "Kedim öğleden sonra süt içmek istemiyor mu?", "en": "Doesn't your cat want to drink milk in the afternoon?" },
+
+  { "id": 305, "tr": "Ali ailesi hakkında konuşmak istiyor.", "en": "Ali wants to talk about his family" },
+  { "id": 306, "tr": "Ali ailesi hakkında konuşmak istemiyor.", "en": "Ali doesn't want to talk about his family" },
+  { "id": 307, "tr": "Ali ailesi hakkında konuşmak istiyor mu?", "en": "Does Ali want to talk about his family?" },
+  { "id": 308, "tr": "Ali ailesi hakkında konuşmak istemiyor mu?", "en": "Doesn't Ali want to talk about his family?" },
+
+  { "id": 309, "tr": "Kızım için bir sürpriz yapmak istiyorum.", "en": "I want to make a surprise for my daughter" },
+  { "id": 310, "tr": "Kızım için bir sürpriz yapmak istemiyorum.", "en": "I don't want to make a surprise for my daughter" },
+  { "id": 311, "tr": "Kızım için bir sürpriz yapmak istiyor muyum?", "en": "Do I want to make a surprise for my daughter?" },
+  { "id": 312, "tr": "Kızım için bir sürpriz yapmak istemiyor muyum?", "en": "Don't I want to make a surprise for my daughter?" },
+
+  { "id": 313, "tr": "Pazar günü çocuklarım için akşam yemeği yapmak istiyorlar.", "en": "They want to make dinner for my children on Sunday" },
+  { "id": 314, "tr": "Pazar günü çocuklarım için akşam yemeği yapmak istemiyorlar.", "en": "They don't want to make dinner for my children on Sunday" },
+  { "id": 315, "tr": "Pazar günü çocuklarım için akşam yemeği yapmak istiyorlar mı?", "en": "Do they want to make dinner for my children on Sunday?" },
+  { "id": 316, "tr": "Pazar günü çocuklarım için akşam yemeği yapmak istemiyorlar mı?", "en": "Don't they want to make dinner for my children on Sunday?" },
+
+  { "id": 317, "tr": "Bu yatakta uyumak istiyorum.", "en": "I want to sleep in this bed" },
+  { "id": 318, "tr": "Bu yatakta uyumak istemiyorum.", "en": "I don't want to sleep in this bed" },
+  { "id": 319, "tr": "Bu yatakta uyumak istiyor muyum?", "en": "Do I want to sleep in this bed?" },
+  { "id": 320, "tr": "Bu yatakta uyumak istemiyor muyum?", "en": "Don't I want to sleep in this bed?" },
+
+  { "id": 321, "tr": "Ali iki bardak su istiyor.", "en": "Ali wants two glasses of water" },
+  { "id": 322, "tr": "Ali iki bardak su istemiyor.", "en": "Ali doesn't want two glasses of water" },
+  { "id": 323, "tr": "Ali iki bardak su istiyor mu?", "en": "Does Ali want two glasses of water?" },
+  { "id": 324, "tr": "Ali iki bardak su istemiyor mu?", "en": "Doesn't Ali want two glasses of water?" },
+
+  { "id": 325, "tr": "Ayşe üç bardak çay içmek istiyor.", "en": "Ayşe wants to drink three glasses of tea" },
+  { "id": 326, "tr": "Ayşe üç bardak çay içmek istemiyor.", "en": "Ayşe doesn't want to drink three glasses of tea" },
+  { "id": 327, "tr": "Ayşe üç bardak çay içmek istiyor mu?", "en": "Does Ayşe want to drink three glasses of tea?" },
+  { "id": 328, "tr": "Ayşe üç bardak çay içmek istemiyor mu?", "en": "Doesn't Ayşe want to drink three glasses of tea?" },
+
+  { "id": 329, "tr": "Masanın üstündeki kitabı almak istiyorum.", "en": "I want to take the book on the table" },
+  { "id": 330, "tr": "Masanın üstündeki kitabı almak istemiyorum.", "en": "I don't want to take the book on the table" },
+  { "id": 331, "tr": "Masanın üstündeki kitabı almak istiyor muyum?", "en": "Do I want to take the book on the table?" },
+  { "id": 332, "tr": "Masanın üstündeki kitabı almak istemiyor muyum?", "en": "Don't I want to take the book on the table?" },
+
+  { "id": 333, "tr": "Masanın yanındaki kediye süt vermek istiyorum.", "en": "I want to give milk to the cat beside the table" },
+  { "id": 334, "tr": "Masanın yanındaki kediye süt vermek istemiyorum.", "en": "I don't want to give milk to the cat beside the table" },
+  { "id": 335, "tr": "Masanın yanındaki kediye süt vermek istiyor muyum?", "en": "Do I want to give milk to the cat beside the table?" },
+  { "id": 336, "tr": "Masanın yanındaki kediye süt vermek istemiyor muyum?", "en": "Don't I want to give milk to the cat beside the table?" }
+]

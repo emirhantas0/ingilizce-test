@@ -1,6 +1,9 @@
-# 5 Dakikada İngilizce — Modül 2 (test sürümü 2.0)
+# 5 Dakikada İngilizce — yeni sürüm (2.0) test deposu
 
-Konuşma alıştırması uygulamasının yeniden yazılmış sürümü. Ders içeriği (`data.json`, `lessons/`, `logos/`) orijinal
-[Module-2](https://github.com/5dakikadaingilizce/Module-2) deposundan alınmıştır.
+| Modül | Adres |
+| --- | --- |
+| Modül 1 | https://emirhantas0.github.io/ingilizce-test/Module-1/ |
+| Modül 2 | https://emirhantas0.github.io/ingilizce-test/ |
 
-Telefonda denemek için: Settings → Pages → Branch: `main` / `(root)` → Save. Birkaç dakika sonra site açılır.
+Ders içeriği (`data.json`, `lessons/`, `logos/`) orijinal
+[Module-1](https://github.com/5dakikadaingilizce/Module-1) ve [Module-2](https://github.com/5dakikadaingilizce/Module-2) depolarından alınmıştır.

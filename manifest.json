@@ -1,13 +1,21 @@
 {
-  "name": "5 Dakikada İngilizce",
-  "short_name": "İngilizce",
+  "name": "5 Dakikada İngilizce – Modül 2",
+  "short_name": "Modül 2",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f5f3fa",
   "theme_color": "#6d28d9",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }

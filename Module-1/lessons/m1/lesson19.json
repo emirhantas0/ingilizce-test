@@ -1,0 +1,861 @@
+[
+  { "id": 1, "tr": "Okuldayım.", "en": "I am at the school." },
+  { "id": 2, "tr": "Okulda değilim.", "en": "I am not at the school." },
+  { "id": 3, "tr": "Okulda mısın?", "en": "Are you at the school?" },
+  { "id": 4, "tr": "Okulda değil misin?", "en": "Aren't you at the school?" },
+
+  { "id": 5, "tr": "İşteyim.", "en": "I am at work." },
+  { "id": 6, "tr": "İşte değilim.", "en": "I am not at work." },
+  { "id": 7, "tr": "İşte misin?", "en": "Are you at work?" },
+  { "id": 8, "tr": "İşte değil misin?", "en": "Aren't you at work?" },
+
+  { "id": 9, "tr": "Ofisteyim.", "en": "I am in the office." },
+  { "id": 10, "tr": "Ofiste değilim.", "en": "I am not in the office." },
+  { "id": 11, "tr": "Ofiste misin?", "en": "Are you in the office?" },
+  { "id": 12, "tr": "Ofiste değil misin?", "en": "Aren't you in the office?" },
+
+  { "id": 13, "tr": "Evdeyim.", "en": "I am at home." },
+  { "id": 14, "tr": "Evde değilim.", "en": "I am not at home." },
+  { "id": 15, "tr": "Evde misin?", "en": "Are you at home?" },
+  { "id": 16, "tr": "Evde değil misin?", "en": "Aren't you at home?" },
+
+  { "id": 17, "tr": "Okuldasın.", "en": "You are at the school." },
+  { "id": 18, "tr": "Okulda değilsin.", "en": "You aren't at the school." },
+  { "id": 19, "tr": "Okulda mısın?", "en": "Are you at the school?" },
+  { "id": 20, "tr": "Okulda değil misin?", "en": "Aren't you at the school?" },
+
+  { "id": 21, "tr": "Hastanedeler.", "en": "They are at the hospital." },
+  { "id": 22, "tr": "Hastanede değiller.", "en": "They aren't at the hospital." },
+  { "id": 23, "tr": "Hastanedeler mi?", "en": "Are they at the hospital?" },
+  { "id": 24, "tr": "Hastanede değiller mi?", "en": "Aren't they at the hospital?" },
+
+  { "id": 25, "tr": "O (Erkek) otobüs durağında.", "en": "He is at the bus stop." },
+  { "id": 26, "tr": "O (Erkek) otobüs durağında değil.", "en": "He isn't at the bus stop." },
+  { "id": 27, "tr": "O (Erkek) otobüs durağında mı?", "en": "Is he at the bus stop?" },
+  { "id": 28, "tr": "O (Erkek) otobüs durağında değil mi?", "en": "Isn't he at the bus stop?" },
+
+  { "id": 29, "tr": "Marmaray'dayım.", "en": "I am on the Marmaray." },
+  { "id": 30, "tr": "Marmaray'da değilim.", "en": "I am not on the Marmaray." },
+  { "id": 31, "tr": "Marmaray'da mısın?", "en": "Are you on the Marmaray?" },
+  { "id": 32, "tr": "Marmaray'da değil misin?", "en": "Aren't you on the Marmaray?" },
+
+  { "id": 33, "tr": "Metrodasın.", "en": "You are on the subway." },
+  { "id": 34, "tr": "Metroda değilsin.", "en": "You aren't on the subway." },
+  { "id": 35, "tr": "Metroda mısınm?", "en": "Are you on the subway?" },
+  { "id": 36, "tr": "Metroda değil misin?", "en": "Aren't you on the subway?" },
+
+  { "id": 37, "tr": "Havaalanındayız.", "en": "We are at the airport." },
+  { "id": 38, "tr": "Havaalanında değiliz.", "en": "We aren't at the airport." },
+  { "id": 39, "tr": "Havaalanında mısınız?", "en": "Are you at the airport?" },
+  { "id": 40, "tr": "Havaalanında değil misiniz?", "en": "Aren't you at the airport?" },
+
+  { "id": 41, "tr": "Sokaktayım.", "en": "I am on the street." },
+  { "id": 42, "tr": "Sokakta değilim.", "en": "I am not on the street." },
+  { "id": 43, "tr": "Sokakta mısın?", "en": "Are you on the street?" },
+  { "id": 44, "tr": "Sokakta değil misin?", "en": "Aren't you on the street?" },
+
+  { "id": 45, "tr": "Arabalar caddede.", "en": "The cars are on the street." },
+  { "id": 46, "tr": "Arabalar caddede değil.", "en": "The cars aren't on the street." },
+  { "id": 47, "tr": "Arabalar caddede mi?", "en": "Are the cars on the street?" },
+  { "id": 48, "tr": "Arabalar caddede değil mi?", "en": "Aren't the cars on the street?" },
+
+  { "id": 49, "tr": "Yoldalar.", "en": "They are on the road." },
+  { "id": 50, "tr": "Yolda değiller.", "en": "They aren't on the road." },
+  { "id": 51, "tr": "Yoldalar mı?", "en": "Are they on the road?" },
+  { "id": 52, "tr": "Yolda değiller mi?", "en": "Aren't they on the road?" },
+
+  { "id": 53, "tr": "Sen evindesin.", "en": "You are in your home." },
+  { "id": 54, "tr": "Evinde değilsin.", "en": "You aren't in your home." },
+  { "id": 55, "tr": "Evinde misin?", "en": "Are you in your home?" },
+  { "id": 56, "tr": "Evinde değil misin?", "en": "Aren't you in your home?" },
+
+  { "id": 57, "tr": "Evimdeyim.", "en": "I am in my home." },
+  { "id": 58, "tr": "Evimde değilim.", "en": "I am not in my home." },
+  { "id": 59, "tr": "Evimde miyim?", "en": "Am I in my home?" },
+  { "id": 60, "tr": "Evimde değil miyim?", "en": "Aren't I in my home?" },
+
+  { "id": 61, "tr": "Ali evinde.", "en": "Ali is in his home." },
+  { "id": 62, "tr": "Ali evinde değil.", "en": "Ali isn't in his home." },
+  { "id": 63, "tr": "Ali evinde mi?", "en": "Is Ali in his home?" },
+  { "id": 64, "tr": "Ali evinde değil mi?", "en": "Isn't Ali in his home?" },
+
+  { "id": 65, "tr": "Ayşe okulunda.", "en": "Ayşe is in her school." },
+  { "id": 66, "tr": "Ayşe okulunda değil.", "en": "Ayşe isn't in her school." },
+  { "id": 67, "tr": "Ayşe okulunda mı?", "en": "Is Ayşe in her school?" },
+  { "id": 68, "tr": "Ayşe okulunda değil mi?", "en": "Isn't Ayşe in her school?" },
+
+  { "id": 69, "tr": "Biz işimizdeyiz.", "en": "We are at our work." },
+  { "id": 70, "tr": "İşimizde değiliz.", "en": "We aren't at our work." },
+  { "id": 71, "tr": "İşimizde miyiz?", "en": "Are we at our work?" },
+  { "id": 72, "tr": "İşimizde değil miyiz?", "en": "Aren't we at our work?" },
+
+  { "id": 73, "tr": "Onlar bizim işimizdeler.", "en": "They are at our work." },
+  { "id": 74, "tr": "Onlar Bizim işimizde değiller.", "en": "They aren't at our work." },
+  { "id": 75, "tr": "Onlar Bizim işimizdeler mi?", "en": "Are they at our work?" },
+  { "id": 76, "tr": "Onlar Bizim işimizde değiller mi?", "en": "Aren't they at our work?" },
+
+  { "id": 77, "tr": "Senin ofisindeyim.", "en": "I am in your office." },
+  { "id": 78, "tr": "Ofisinde değilim.", "en": "I am not in your office." },
+  { "id": 79, "tr": "Ofisinde misin?", "en": "Are you in your office?" },
+  { "id": 80, "tr": "Ofisinde değil misin?", "en": "Aren't you in your office?" },
+
+  { "id": 81, "tr": "Okulumuzdalar.", "en": "They are in our school." },
+  { "id": 82, "tr": "Okulumuzda değiller.", "en": "They aren't in our school." },
+  { "id": 83, "tr": "Okulumuzdalar mı?", "en": "Are they in our school?" },
+  { "id": 84, "tr": "Okulumuzda değiller mi?", "en": "Aren't they in our school?" },
+
+  { "id": 85, "tr": "Onlar bu hastanedeler.", "en": "They are in this hospital." },
+  { "id": 86, "tr": "Bu hastanede değiller.", "en": "They aren't in this hospital." },
+  { "id": 87, "tr": "Bu hastanedeler mi?", "en": "Are they in this hospital?" },
+  { "id": 88, "tr": "Bu hastanede değiller mi?", "en": "Aren't they in this hospital?" },
+
+  { "id": 89, "tr": "Şu okuldasın.", "en": "You are in that school." },
+  { "id": 90, "tr": "Şu okulda değilsin.", "en": "You aren't in that school." },
+  { "id": 91, "tr": "Şu okulda mısın?", "en": "Are you in that school?" },
+  { "id": 92, "tr": "Şu okulda değil misin?", "en": "Aren't you in that school?" },
+
+  { "id": 93, "tr": "Onlar için okuldayım.", "en": "I am at the school for them." },
+  { "id": 94, "tr": "Onlar için okulda değilim.", "en": "I am not at the school for them." },
+  { "id": 95, "tr": "Onlar için okulda mısın?", "en": "Are you at the school for them?" },
+  { "id": 96, "tr": "Onlar için okulda değil misin?", "en": "Aren't you at the school for them?" },
+
+  { "id": 97, "tr": "Bir evdeyim.", "en": "I am in a house." },
+  { "id": 98, "tr": "Bir evde değilim.", "en": "I am not in a house." },
+  { "id": 99, "tr": "Bir evde misin?", "en": "Are you in a house?" },
+  { "id": 100, "tr": "Bir evde değil misin?", "en": "Aren't you in a house?" },
+
+  { "id": 101, "tr": "Hayatımdaki insanlar önemlidir.", "en": "The people in my life are important." },
+  { "id": 102, "tr": "Hayatımdaki insanlar önemli değil.", "en": "The people in my life aren't important." },
+  { "id": 103, "tr": "Hayatındaki insanlar önemli mi?", "en": "Are the people in your life important?" },
+  { "id": 104, "tr": "Hayatındaki insanlar önemli değil mi?", "en": "Aren't the people in your life important?" },
+
+  { "id": 105, "tr": "Kitaplardaki hikayeler ilginçtir.", "en": "The stories in the books are interesting." },
+  { "id": 106, "tr": "Kitaplardaki hikayeler ilginç değil.", "en": "The stories in the books aren't interesting." },
+  { "id": 107, "tr": "Kitaplardaki hikayeler ilginç mi?", "en": "Are the stories in the books interesting?" },
+  { "id": 108, "tr": "Kitaplardaki hikayeler ilginç değil mi?", "en": "Aren't the stories in the books interesting?" },
+
+  { "id": 109, "tr": "Şarkıdaki sözler ilginç.", "en": "The lyrics in the song are interesting." },
+  { "id": 110, "tr": "Şarkıdaki sözler ilginç değil.", "en": "The lyrics in the song aren't interesting." },
+  { "id": 111, "tr": "Şarkıdaki sözler ilginç mi?", "en": "Are the lyrics in the song interesting?" },
+  { "id": 112, "tr": "Şarkıdaki sözler ilginç değil mi?", "en": "Aren't the lyrics in the song interesting?" },
+
+  { "id": 113, "tr": "Yağmurdaki otobüs çok eski.", "en": "The bus in the rain is very old." },
+  { "id": 114, "tr": "Yağmurdaki otobüs çok eski değil.", "en": "The bus in the rain isn't very old." },
+  { "id": 115, "tr": "Yağmurdaki otobüs çok eski mi?", "en": "Is the bus in the rain very old?" },
+  { "id": 116, "tr": "Yağmurdaki otobüs çok eski değil mi?", "en": "Isn't the bus in the rain very old?" },
+
+  { "id": 117, "tr": "Fırtınadayım.", "en": "I am in the storm." },
+  { "id": 118, "tr": "Fırtınada değilim.", "en": "I am not in the storm." },
+  { "id": 119, "tr": "Fırtınada mısın?", "en": "Are you in the storm?" },
+  { "id": 120, "tr": "Fırtınada değil misin?", "en": "Aren't you in the storm?" },
+
+  { "id": 121, "tr": "Toplantı için hazırım.", "en": "I am ready for the meeting." },
+  { "id": 122, "tr": "Toplantı için hazır değilim.", "en": "I am not ready for the meeting." },
+  { "id": 123, "tr": "Toplantı için hazır mısın?", "en": "Are you ready for the meeting?" },
+  { "id": 124, "tr": "Toplantı için hazır değil misin?", "en": "Aren't you ready for the meeting?" },
+
+  { "id": 125, "tr": "Salı günü Ankara'dasın.", "en": "You are in Ankara on Tuesday." },
+  { "id": 126, "tr": "Salı günü Ankara'da değilsin.", "en": "You aren't in Ankara on Tuesday." },
+  { "id": 127, "tr": "Salı günü Ankara'da mısın?", "en": "Are you in Ankara on Tuesday?" },
+  { "id": 128, "tr": "Salı günü Ankara'da değil misin?", "en": "Aren't you in Ankara on Tuesday?" },
+
+  { "id": 129, "tr": "Çarşamba günü onlarlayım.", "en": "I am with them on Wednesday." },
+  { "id": 130, "tr": "Çarşamba günü onlarla değilim.", "en": "I am not with them on Wednesday." },
+  { "id": 131, "tr": "Çarşamba günü onlarla mısın?", "en": "Are you with them on Wednesday?" },
+  { "id": 132, "tr": "Çarşamba günü onlarla değil misin?", "en": "Aren't you with them on Wednesday?" },
+
+  { "id": 133, "tr": "Perşembe günü evdeyim.", "en": "I am at home on Thursday." },
+  { "id": 134, "tr": "Perşembe günü evde değilim.", "en": "I am not at home on Thursday." },
+  { "id": 135, "tr": "Perşembe günü evde misin?", "en": "Are you at home on Thursday?" },
+  { "id": 136, "tr": "Perşembe günü evde değil misin?", "en": "Aren't you at home on Thursday?" },
+
+  { "id": 137, "tr": "Cuma öğleden sonra seninleler.", "en": "They are with you on Friday afternoon." },
+  { "id": 138, "tr": "Cuma öğleden sonra seninle değiller.", "en": "They aren't with you on Friday afternoon." },
+  { "id": 139, "tr": "Cuma öğleden sonra seninleler mi?", "en": "Are they with you on Friday afternoon?" },
+  { "id": 140, "tr": "Cuma öğleden sonra seninle değiller mi?", "en": "Aren't they with you on Friday afternoon?" },
+
+  { "id": 141, "tr": "Cumartesi akşamı bir partidesiniz.", "en": "You are at a party on Saturday evening." },
+  { "id": 142, "tr": "Cumartesi akşamı bir partide değilsiniz.", "en": "You aren't at a party on Saturday evening." },
+  { "id": 143, "tr": "Cumartesi akşamı bir partide miyiz?", "en": "Are we at a party on Saturday evening?" },
+  { "id": 144, "tr": "Cumartesi akşamı bir partide değil miyiz?", "en": "Aren't we at a party on Saturday evening?" },
+
+  { "id": 145, "tr": "Pazar sabahı kahvaltıdayız.", "en": "We are at breakfast on Sunday morning." },
+  { "id": 146, "tr": "Pazar sabahı kahvaltıda değiliz.", "en": "We aren't at breakfast on Sunday morning." },
+  { "id": 147, "tr": "Pazar sabahı kahvaltıda mısınız?", "en": "Are you at breakfast on Sunday morning?" },
+  { "id": 148, "tr": "Pazar sabahı kahvaltıda değil misiniz?", "en": "Aren't you at breakfast on Sunday morning?" },
+
+  { "id": 149, "tr": "İlkbaharda mutluyum.", "en": "I am happy in the spring." },
+  { "id": 150, "tr": "İlkbaharda mutlu değilim.", "en": "I am not happy in the spring." },
+  { "id": 151, "tr": "İlkbaharda mutlu musun?", "en": "Are you happy in the spring?" },
+  { "id": 152, "tr": "İlkbaharda mutlu değil misin?", "en": "Aren't you happy in the spring?" },
+
+  { "id": 153, "tr": "Sonbaharda hüzünlüsün.", "en": "You are sad in the autumn." },
+  { "id": 154, "tr": "Sonbaharda hüzünlü değilsin.", "en": "You aren't sad in the autumn." },
+  { "id": 155, "tr": "Sonbaharda hüzünlü müsün?", "en": "Are you sad in the autumn?" },
+  { "id": 156, "tr": "Sonbaharda hüzünlü değil misin?", "en": "Aren't you sad in the autumn?" },
+
+  { "id": 157, "tr": "Yazları Antalya'dayız.", "en": "We are in Antalya in the summers." },
+  { "id": 158, "tr": "Yazları Antalya'da değiliz.", "en": "We aren't in Antalya in the summers." },
+  { "id": 159, "tr": "Yazları Antalya'da mısınız?", "en": "Are you in Antalya in the summers?" },
+  { "id": 160, "tr": "Yazları Antalya'da değil misiniz?", "en": "Aren't you in Antalya in the summers?" },
+
+  { "id": 161, "tr": "Kışları evdesiniz.", "en": "You are at home in the winters." },
+  { "id": 162, "tr": "Kışları evde değilsiniz.", "en": "You aren't at home in the winters." },
+  { "id": 163, "tr": "Kışları evde miyiz?", "en": "Are we at home in the winters?" },
+  { "id": 164, "tr": "Kışları evde değil miyiz?", "en": "Aren't we at home in the winters?" },
+
+  { "id": 165, "tr": "Ocak ayında ailemleyim.", "en": "I am with my family in January." },
+  { "id": 166, "tr": "Ocak ayında ailemle değilim.", "en": "I am not with my family in January." },
+  { "id": 167, "tr": "Ocak ayında ailenle misin?", "en": "Are you with your family in January?" },
+  { "id": 168, "tr": "Ocak ayında ailenle değil misin?", "en": "Aren't you with your family in January?" },
+
+  { "id": 169, "tr": "Şubat ayında senin köyündeyiz.", "en": "We are in your village in February." },
+  { "id": 170, "tr": "Şubat ayında senin köyünde değiliz.", "en": "We aren't in your village in February." },
+  { "id": 171, "tr": "Şubat ayında senin köyünde misiniz?", "en": "Are you in your village in February?" },
+  { "id": 172, "tr": "Şubat ayında senin köyünde değil misiniz?", "en": "Aren't you in your village in February?" },
+
+  { "id": 173, "tr": "Mart ayında çocuklarımlayım.", "en": "I am with my children in March." },
+  { "id": 174, "tr": "Mart ayında çocuklarımla değilim.", "en": "I am not with my children in March." },
+  { "id": 175, "tr": "Mart ayında çocuklarınla mısın?", "en": "Are you with your children in March?" },
+  { "id": 176, "tr": "Mart ayında çocuklarınla değil misin?", "en": "Aren't you with your children in March?" },
+
+  { "id": 177, "tr": "Ali Nisan'da senin köyünde.", "en": "Ali is in your village in April." },
+  { "id": 178, "tr": "Ali Nisan'da senin köyünde değil.", "en": "Ali isn't in your village in April." },
+  { "id": 179, "tr": "Ali Nisan'da senin köyünde mi?", "en": "Is Ali in your village in April?" },
+  { "id": 180, "tr": "Ali Nisan'da senin köyünde değil mi?", "en": "Isn't Ali in your village in April?" },
+
+  { "id": 181, "tr": "Ayşe Haziran'da tatilde.", "en": "Ayşe is on holiday in June." },
+  { "id": 182, "tr": "Ayşe Haziran'da tatilde değil.", "en": "Ayşe isn't on holiday in June." },
+  { "id": 183, "tr": "Ayşe Haziran'da tatilde mi?", "en": "Is Ayşe on holiday in June?" },
+  { "id": 184, "tr": "Ayşe Haziran'da tatilde değil mi?", "en": "Isn't Ayşe on holiday in June?" },
+
+  { "id": 185, "tr": "Siz Temmuz'da ofistesiniz.", "en": "You are in the office in July." },
+  { "id": 186, "tr": "Siz Temmuz'da ofiste değilsiniz.", "en": "You aren't in the office in July." },
+  { "id": 187, "tr": "Siz Temmuz'da ofiste misiniz?", "en": "Are you in the office in July?" },
+  { "id": 188, "tr": "Siz Temmuz'da ofiste değil misiniz?", "en": "Aren't you in the office in July?" },
+
+  { "id": 189, "tr": "Arkadaşlarım Eylülde Bodrum'da.", "en": "My friends are in Bodrum in September." },
+  { "id": 190, "tr": "Arkadaşlarım Eylülde Bodrum'da değil.", "en": "My friends aren't in Bodrum in September." },
+  { "id": 191, "tr": "Arkadaşlarım Eylülde Bodrum'da mı?", "en": "Are my friends in Bodrum in September?" },
+  { "id": 192, "tr": "Arkadaşlarım Eylülde Bodrum'da değil mi?", "en": "Aren't my friends in Bodrum in September?" },
+
+  { "id": 193, "tr": "Ekimde Ankara'dayım.", "en": "I am in Ankara in October." },
+  { "id": 194, "tr": "Ekimde Ankara'da değilim.", "en": "I am not in Ankara in October." },
+  { "id": 195, "tr": "Ekimde Ankara'da mısın?", "en": "Are you in Ankara in October?" },
+  { "id": 196, "tr": "Ekimde Ankara'da değil misin?", "en": "Aren't you in Ankara in October?" },
+
+  { "id": 197, "tr": "Kasımda Avrupa'dalar.", "en": "They are in Europe in November." },
+  { "id": 198, "tr": "Kasımda Avrupa'da değiller.", "en": "They aren't in Europe in November." },
+  { "id": 199, "tr": "Kasımda Avrupa'dalar mı?", "en": "Are they in Europe in November?" },
+  { "id": 200, "tr": "Kasımda Avrupa'da değiller mi?", "en": "Aren't they in Europe in November?" },
+
+  { "id": 201, "tr": "Aralıkta yorgunum.", "en": "I am tired in December." },
+  { "id": 202, "tr": "Aralıkta yorgun değilim.", "en": "I am not tired in December." },
+  { "id": 203, "tr": "Aralıkta yorgun musun?", "en": "Are you tired in December?" },
+  { "id": 204, "tr": "Aralıkta yorgun değil misin?", "en": "Aren't you tired in December?" },
+
+  { "id": 205, "tr": "Doğum günümde mutluyum.", "en": "I am happy on my birthday." },
+  { "id": 206, "tr": "Doğum günümde mutlu değilim.", "en": "I am not happy on my birthday." },
+  { "id": 207, "tr": "Doğum gününde mutlu musun?", "en": "Are you happy on your birthday?" },
+  { "id": 208, "tr": "Doğum gününde mutlu değil misin?", "en": "Aren't you happy on your birthday?" },
+
+  { "id": 209, "tr": "Senin doğum gününde buradayım.", "en": "I am here on your birthday." },
+  { "id": 210, "tr": "Senin doğum gününde burada değilim.", "en": "I am not here on your birthday." },
+  { "id": 211, "tr": "Benim doğum gününde burada mısın?", "en": "Are you here on my birthday?" },
+  { "id": 212, "tr": "Benim doğum gününde burada değil misin?", "en": "Aren't you here on my birthday?" },
+
+  { "id": 213, "tr": "Arkadaşlarımla tatildeyim.", "en": "I am on holiday with my friends." },
+  { "id": 214, "tr": "Arkadaşlarımla tatilde değilim.", "en": "I am not on holiday with my friends." },
+  { "id": 215, "tr": "Arkadaşlarınla tatilde misin?", "en": "Are you on holiday with your friends?" },
+  { "id": 216, "tr": "Arkadaşlarınla tatilde değil misin?", "en": "Aren't you on holiday with your friends?" },
+
+  { "id": 217, "tr": "Yılbaşında sizinleyim.", "en": "I am with you on the new year." },
+  { "id": 218, "tr": "Yılbaşında sizinle değilim.", "en": "I am not with you on the new year." },
+  { "id": 219, "tr": "Yılbaşında bizimle misin?", "en": "Are you with us on the new year?" },
+  { "id": 220, "tr": "Yılbaşında bizimle değil misin?", "en": "Aren't you with us on the new year?" },
+
+  { "id": 221, "tr": "Yeni yılda buradalar.", "en": "They are here in the new year." },
+  { "id": 222, "tr": "Yeni yılda burada değiller.", "en": "They aren't here in the new year." },
+  { "id": 223, "tr": "Yeni yılda buradalar mı?", "en": "Are they here in the new year?" },
+  { "id": 224, "tr": "Yeni yılda burada değiller mi?", "en": "Aren't they here in the new year?" },
+
+  { "id": 225, "tr": "Ailem bayramda tatilde.", "en": "My family is on holiday on the bayram." },
+  { "id": 226, "tr": "Ailem bayramda tatilde değil.", "en": "My family isn't on holiday on the bayram." },
+  { "id": 227, "tr": "Ailen bayramda tatilde mi?", "en": "Is your family on holiday on the bayram?" },
+  { "id": 228, "tr": "Ailen bayramda tatilde değil mi?", "en": "Isn't your family on holiday on the bayram?" },
+
+  { "id": 229, "tr": "Kızım sabahları sinirlidir.", "en": "My daughter is angry in the mornings." },
+  { "id": 230, "tr": "Kızım sabahları sinirli değildir.", "en": "My daughter isn't angry in the mornings." },
+  { "id": 231, "tr": "Kızın sabahları sinirli midir?", "en": "Is your daughter angry in the mornings?" },
+  { "id": 232, "tr": "Kızın sabahları sinirli değil midir?", "en": "Isn't your daughter angry in the mornings?" },
+
+  { "id": 233, "tr": "Müdürüm öğlenleyin toplantıda.", "en": "My manager is in the meeting at noon." },
+  { "id": 234, "tr": "Müdürüm öğlenleyin toplantıda değil.", "en": "My manager isn't in the meeting at noon." },
+  { "id": 235, "tr": "Müdürün öğlenleyin toplantıda mı?", "en": "Is your manager in the meeting at noon?" },
+  { "id": 236, "tr": "Müdürün öğlenleyin toplantıda değil mi?", "en": "Isn't your manager in the meeting at noon?" },
+
+  { "id": 237, "tr": "Öğleden sonra seninleyiz.", "en": "We are with you in the afternoon." },
+  { "id": 238, "tr": "Öğleden sonra seninle değiliz.", "en": "We aren't with you in the afternoon." },
+  { "id": 239, "tr": "Öğleden sonra bizimle misiniz?", "en": "Are you with us in the afternoon?" },
+  { "id": 240, "tr": "Öğleden sonra bizimle değil misiniz?", "en": "Aren't you with us in the afternoon?" },
+
+  { "id": 241, "tr": "Akşamleyin bir partideyim.", "en": "I am at a party in the evening." },
+  { "id": 242, "tr": "Akşamleyin bir partide değilim.", "en": "I am not at a party in the evening." },
+  { "id": 243, "tr": "Akşamleyin bir partide misin?", "en": "Are you at a party in the evening?" },
+  { "id": 244, "tr": "Akşamleyin bir partide değil misin?", "en": "Aren't you at a party in the evening?" },
+
+  { "id": 245, "tr": "Öğrenciler öğlenleyin burada.", "en": "The students are here at noon." },
+  { "id": 246, "tr": "Öğrenciler öğlenleyin burada değil.", "en": "The students aren't here at noon." },
+  { "id": 247, "tr": "Öğrenciler öğlenleyin burada mı?", "en": "Are the students here at noon?" },
+  { "id": 248, "tr": "Öğrenciler öğlenleyin burada değil mi?", "en": "Aren't the students here at noon?" },
+
+  { "id": 249, "tr": "Şu anda meşgulüm.", "en": "I am busy right now." },
+  { "id": 250, "tr": "Şu anda meşgul değilim.", "en": "I am not busy right now." },
+  { "id": 251, "tr": "Şu anda meşgul müsün?", "en": "Are you busy right now?" },
+  { "id": 252, "tr": "Şu anda meşgul değil misin?", "en": "Aren't you busy right now?" },
+
+  { "id": 253, "tr": "Hafta sonunda oradayım.", "en": "I am there at the weekend." },
+  { "id": 254, "tr": "Hafta sonunda orada değilim.", "en": "I am not there at the weekend." },
+  { "id": 255, "tr": "Hafta sonunda orada mısın?", "en": "Are you there at the weekend?" },
+  { "id": 256, "tr": "Hafta sonunda orada değil misin?", "en": "Aren't you there at the weekend?" },
+
+  { "id": 257, "tr": "Haftanın sonunda seninleyim.", "en": "I am with you at the end of the week." },
+  { "id": 258, "tr": "Haftanın sonunda seninle değilim.", "en": "I am not with you at the end of the week." },
+  { "id": 259, "tr": "Haftanın sonunda benimle misin?", "en": "Are you with me at the end of the week?" },
+  { "id": 260, "tr": "Haftanın sonunda benimle değil misin?", "en": "Aren't you with me at the end of the week?" },
+
+  { "id": 261, "tr": "Yılın başında Ankara'dalar.", "en": "They are in Ankara at the beginning of the year." },
+  { "id": 262, "tr": "Yılın başında Ankara'da değiller.", "en": "They aren't in Ankara at the beginning of the year." },
+  { "id": 263, "tr": "Yılın başında Ankara'dalar mı?", "en": "Are they in Ankara at the beginning of the year?" },
+  { "id": 264, "tr": "Yılın başında Ankara'da değiller mi?", "en": "Aren't they in Ankara at the beginning of the year?" },
+
+  { "id": 265, "tr": "Günün sonunda yorgunum.", "en": "I am tired at the end of the day." },
+  { "id": 266, "tr": "Günün sonunda yorgun değilim.", "en": "I am not tired at the end of the day." },
+  { "id": 267, "tr": "Günün sonunda yorgun musun?", "en": "Are you tired at the end of the day?" },
+  { "id": 268, "tr": "Günün sonunda yorgun değil misin?", "en": "Aren't you tired at the end of the day?" },
+
+  { "id": 269, "tr": "Doğum günüm için heyecanlıyım.", "en": "I am excited for my birthday." },
+  { "id": 270, "tr": "Doğum günüm için heyecanlı değilim.", "en": "I am not excited for my birthday." },
+  { "id": 271, "tr": "Doğum günün için heyecanlı mısın?", "en": "Are you excited for your birthday?" },
+  { "id": 272, "tr": "Doğum günün için heyecanlı değil misin?", "en": "Aren't you excited for your birthday?" },
+
+  { "id": 273, "tr": "Sürpriz senin için.", "en": "The surprise is for you." },
+  { "id": 274, "tr": "Sürpriz senin için değil.", "en": "The surprise isn't for you." },
+  { "id": 275, "tr": "Sürpriz benim için mi?", "en": "Is the surprise for me?" },
+  { "id": 276, "tr": "Sürpriz benim için değil mi?", "en": "Isn't the surprise for me?" },
+
+  { "id": 277, "tr": "Toplantıdayım.", "en": "I am in a meeting." },
+  { "id": 278, "tr": "Toplantıda değilim.", "en": "I am not in a meeting." },
+  { "id": 279, "tr": "Toplantıda mısın?", "en": "Are you in a meeting?" },
+  { "id": 280, "tr": "Toplantıda değil misin?", "en": "Aren't you in a meeting?" },
+
+  { "id": 281, "tr": "Arkadaşlarımla trendeyim.", "en": "I am on the train with my friends." },
+  { "id": 282, "tr": "Arkadaşlarımla trende değilim.", "en": "I am not on the train with my friends." },
+  { "id": 283, "tr": "Arkadaşlarınla trende misin?", "en": "Are you on the train with your friends?" },
+  { "id": 284, "tr": "Arkadaşlarınla trende değil misin?", "en": "Aren't you on the train with your friends?" },
+
+  { "id": 285, "tr": "İnsanlarla otobüsteyim.", "en": "I am on the bus with the people." },
+  { "id": 286, "tr": "İnsanlarla otobüste değilim.", "en": "I am not on the bus with the people." },
+  { "id": 287, "tr": "İnsanlarla otobüste misin?", "en": "Are you on the bus with the people?" },
+  { "id": 288, "tr": "İnsanlarla otobüste değil misin?", "en": "Aren't you on the bus with the people?" },
+
+  { "id": 289, "tr": "3 adamla uçaktayım.", "en": "I am on the plane with three men." },
+  { "id": 290, "tr": "3 adamla uçakta değilim.", "en": "I am not on the plane with three men." },
+  { "id": 291, "tr": "3 adamla uçakta mısın?", "en": "Are you on the plane with three men?" },
+  { "id": 292, "tr": "3 adamla uçakta değil misin?", "en": "Aren't you on the plane with three men?" },
+
+  { "id": 293, "tr": "Köpeğimle arabadayım.", "en": "I am in the car with my dog." },
+  { "id": 294, "tr": "Köpeğimle arabada değilim.", "en": "I am not in the car with my dog." },
+  { "id": 295, "tr": "Köpeğinle arabada mısın?", "en": "Are you in the car with your dog?" },
+  { "id": 296, "tr": "Köpeğinle arabada değil misin?", "en": "Aren't you in the car with your dog?" },
+
+  { "id": 297, "tr": "Bisikletteyim.", "en": "I am on the bicycle." },
+  { "id": 298, "tr": "Bisiklette değilim.", "en": "I am not on the bicycle." },
+  { "id": 299, "tr": "Bisiklette misin?", "en": "Are you on the bicycle?" },
+  { "id": 300, "tr": "Bisiklette değil misin?", "en": "Aren't you on the bicycle?" },
+
+  { "id": 301, "tr": "Arkadaşımla taksideyim.", "en": "I am in the taxi with my friend." },
+  { "id": 302, "tr": "Arkadaşımla takside değilim.", "en": "I am not in the taxi with my friend." },
+  { "id": 303, "tr": "Arkadaşınla takside misin?", "en": "Are you in the taxi with your friend?" },
+  { "id": 304, "tr": "Arkadaşınla takside değil misin?", "en": "Aren't you in the taxi with your friend?" },
+
+  { "id": 305, "tr": "Yarın köydeyim.", "en": "I am in the village tomorrow." },
+  { "id": 306, "tr": "Yarın köyde değilim.", "en": "I am not in the village tomorrow." },
+  { "id": 307, "tr": "Yarın köyde misin?", "en": "Are you in the village tomorrow?" },
+  { "id": 308, "tr": "Yarın köyde değil misin?", "en": "Aren't you in the village tomorrow?" },
+
+  { "id": 309, "tr": "Köylerdeki yollar çok kötü.", "en": "The roads in the villages are very bad." },
+  { "id": 310, "tr": "Köylerdeki yollar çok kötü değil.", "en": "The roads in the villages aren't very bad." },
+  { "id": 311, "tr": "Köylerdeki yollar çok kötü mü?", "en": "Are the roads in the villages very bad?" },
+  { "id": 312, "tr": "Köylerdeki yollar çok kötü değil mü?", "en": "Aren't the roads in the villages very bad?" },
+
+  { "id": 313, "tr": "Almanya'daki insanlar mutlu.", "en": "The people in Germany are happy." },
+  { "id": 314, "tr": "Almanya'daki insanlar mutlu değil.", "en": "The people in Germany aren't happy." },
+  { "id": 315, "tr": "Almanya'daki insanlar mutlu mu?", "en": "Are the people in Germany happy?" },
+  { "id": 316, "tr": "Almanya'daki insanlar mutlu değil mi?", "en": "Aren't the people in Germany happy?" },
+
+  { "id": 317, "tr": "Amerika'daki insanlar şaşkın.", "en": "The people in America are surprised." },
+  { "id": 318, "tr": "Amerika'daki insanlar şaşkın değil.", "en": "The people in America aren't surprised." },
+  { "id": 319, "tr": "Amerika'daki insanlar şaşkın mı?", "en": "Are the people in America surprised?" },
+  { "id": 320, "tr": "Amerika'daki insanlar şaşkın değil mi?", "en": "Aren't the people in America surprised?" },
+
+  { "id": 321, "tr": "Rusya'daki insanlar endişeli.", "en": "The people in Russia are worried." },
+  { "id": 322, "tr": "Rusya'daki insanlar endişeli değil.", "en": "The people in Russia aren't worried." },
+  { "id": 323, "tr": "Rusya'daki insanlar endişeli mi?", "en": "Are the people in Russia worried?" },
+  { "id": 324, "tr": "Rusya'daki insanlar endişeli değil mi?", "en": "Aren't the people in Russia worried?" },
+
+  { "id": 325, "tr": "İtalya'daki insanlar çılgın.", "en": "The people in Italy are crazy." },
+  { "id": 326, "tr": "İtalya'daki insanlar çılgın değil.", "en": "The people in Italy aren't crazy." },
+  { "id": 327, "tr": "İtalya'daki insanlar çılgın mı?", "en": "Are the people in Italy crazy?" },
+  { "id": 328, "tr": "İtalya'daki insanlar çılgın değil mi?", "en": "Aren't the people in Italy crazy?" },
+
+  { "id": 329, "tr": "Yunanistan'daki insanlar tembel.", "en": "The people in Greece are lazy." },
+  { "id": 330, "tr": "Yunanistan'daki insanlar tembel değil.", "en": "The people in Greece aren't lazy." },
+  { "id": 331, "tr": "Yunanistan'daki insanlar tembel mi?", "en": "Are the people in Greece lazy?" },
+  { "id": 332, "tr": "Yunanistan'daki insanlar tembel değil mi?", "en": "Aren't the people in Greece lazy?" },
+
+  { "id": 333, "tr": "Fransa'daki insanlar zengin.", "en": "The people in France are rich." },
+  { "id": 334, "tr": "Fransa'daki insanlar zengin değil.", "en": "The people in France aren't rich." },
+  { "id": 335, "tr": "Fransa'daki insanlar zengin mi?", "en": "Are the people in France rich?" },
+  { "id": 336, "tr": "Fransa'daki insanlar zengin değil mi?", "en": "Aren't the people in France rich?" },
+
+  { "id": 337, "tr": "İstanbul'daki insanlar yorgun.", "en": "The people in Istanbul are tired." },
+  { "id": 338, "tr": "İstanbul'daki insanlar yorgun değil.", "en": "The people in Istanbul aren't tired." },
+  { "id": 339, "tr": "İstanbul'daki insanlar yorgun mu?", "en": "Are the people in Istanbul tired?" },
+  { "id": 340, "tr": "İstanbul'daki insanlar yorgun değil mi?", "en": "Aren't the people in Istanbul tired?" },
+
+  { "id": 341, "tr": "Anadolu'daki insanlar güçlü.", "en": "The people in Anatolia are strong." },
+  { "id": 342, "tr": "Anadolu'daki insanlar güçlü değil.", "en": "The people in Anatolia aren't strong." },
+  { "id": 343, "tr": "Anadolu'daki insanlar güçlü mü?", "en": "Are the people in Anatolia strong?" },
+  { "id": 344, "tr": "Anadolu'daki insanlar güçlü değil mi?", "en": "Aren't the people in Anatolia strong?" },
+
+  { "id": 345, "tr": "Bahçedeki elmalar kırmızı.", "en": "The apples in the garden are red." },
+  { "id": 346, "tr": "Bahçedeki elmalar kırmızı değil.", "en": "The apples in the garden aren't red." },
+  { "id": 347, "tr": "Bahçedeki elmalar kırmızı mı?", "en": "Are the apples in the garden red?" },
+  { "id": 348, "tr": "Bahçedeki elmalar kırmızı değil mi?", "en": "Aren't the apples in the garden red?" },
+
+  { "id": 349, "tr": "Gelecekteyim.", "en": "I am in the future." },
+  { "id": 350, "tr": "Gelecekte değilim.", "en": "I am not in the future." },
+  { "id": 351, "tr": "Gelecekte misin?", "en": "Are you in the future?" },
+  { "id": 352, "tr": "Gelecekte değil misin?", "en": "Aren't you in the future?" },
+
+  { "id": 353, "tr": "Geçmişteyiz.", "en": "We are in the past." },
+  { "id": 354, "tr": "Geçmişte değiliz.", "en": "We aren't in the past." },
+  { "id": 355, "tr": "Geçmişte misiniz?", "en": "Are you in the past?" },
+  { "id": 356, "tr": "Geçmişte değil misiniz?", "en": "Aren't you in the past?" },
+
+  { "id": 357, "tr": "Bilgisayardayım.", "en": "I am on the computer." },
+  { "id": 358, "tr": "Bilgisayarda değilim.", "en": "I am not on the computer." },
+  { "id": 359, "tr": "Bilgisayarda mısın?", "en": "Are you on the computer?" },
+  { "id": 360, "tr": "Bilgisayarda değil misin?", "en": "Aren't you on the computer?" },
+
+  { "id": 361, "tr": "Amcam televizyonda.", "en": "My uncle is on the TV." },
+  { "id": 362, "tr": "Amcam televizyonda değil.", "en": "My uncle isn't on the TV." },
+  { "id": 363, "tr": "Amcan televizyonda mı?", "en": "Is your uncle on the TV?" },
+  { "id": 364, "tr": "Amcan televizyonda değil mi?", "en": "Isn't your uncle on the TV?" },
+
+  { "id": 365, "tr": "Teyzem radyoda.", "en": "My aunt is on the radio." },
+  { "id": 366, "tr": "Teyzem radyoda değil.", "en": "My aunt isn't on the radio." },
+  { "id": 367, "tr": "Teyzen radyoda mı?", "en": "Is your aunt on the radio?" },
+  { "id": 368, "tr": "Teyzen radyoda değil mi?", "en": "Isn't your aunt on the radio?" },
+
+  { "id": 369, "tr": "İnternetteler.", "en": "They are on the internet." },
+  { "id": 370, "tr": "İnternette değiller.", "en": "They aren't on the internet." },
+  { "id": 371, "tr": "İnternetteler mi?", "en": "Are they on the internet?" },
+  { "id": 372, "tr": "İnternette değiller mi?", "en": "Aren't they on the internet?" },
+
+  { "id": 373, "tr": "Facebook'tayım.", "en": "I am on Facebook." },
+  { "id": 374, "tr": "Facebook'ta değilim.", "en": "I am not on Facebook." },
+  { "id": 375, "tr": "Facebook'ta mısın?", "en": "Are you on Facebook?" },
+  { "id": 376, "tr": "Facebook'ta değil misin?", "en": "Aren't you on Facebook?" },
+
+  { "id": 377, "tr": "Instagram'dayım.", "en": "I am on Instagram." },
+  { "id": 378, "tr": "Instagram'da değilim.", "en": "I am not on Instagram." },
+  { "id": 379, "tr": "Instagram'da mısın?", "en": "Are you on Instagram?" },
+  { "id": 380, "tr": "Instagram'da değil misin?", "en": "Aren't you on Instagram?" },
+
+  { "id": 381, "tr": "Ali Tiktok'ta.", "en": "Ali is on Tiktok." },
+  { "id": 382, "tr": "Ali Tiktok'ta değil.", "en": "Ali isn't on Tiktok." },
+  { "id": 383, "tr": "Ali Tiktok'ta mı?", "en": "Is Ali on Tiktok?" },
+  { "id": 384, "tr": "Ali Tiktok'ta değil mi?", "en": "Isn't Ali on Tiktok?" },
+
+  { "id": 385, "tr": "Telefondayım.", "en": "I am on the phone." },
+  { "id": 386, "tr": "Telefonda değilim.", "en": "I am not on the phone." },
+  { "id": 387, "tr": "Telefonda mısın?", "en": "Are you on the phone?" },
+  { "id": 388, "tr": "Telefonda değil misin?", "en": "Aren't you on the phone?" },
+
+  { "id": 389, "tr": "Banyodaki halı çok çirkin.", "en": "The carpet in the bathroom is very ugly." },
+  { "id": 390, "tr": "Banyodaki halı çirkin değil.", "en": "The carpet in the bathroom isn't ugly." },
+  { "id": 391, "tr": "Banyodaki halı çirkin mi?", "en": "Is the carpet in the bathroom ugly?" },
+  { "id": 392, "tr": "Banyodaki halı çirkin değil mi?", "en": "Isn't the carpet in the bathroom ugly?" },
+
+  { "id": 393, "tr": "Sınıftaki masa çok eski.", "en": "The table in the classroom is very old." },
+  { "id": 394, "tr": "Sınıftaki masa çok eski değil.", "en": "The table in the classroom isn't very old." },
+  { "id": 395, "tr": "Sınıftaki masa çok eski mi?", "en": "Is the table in the classroom very old?" },
+  { "id": 396, "tr": "Sınıftaki masa çok eski değil mi?", "en": "Isn't the table in the classroom very old?" },
+
+  { "id": 397, "tr": "Sinemadaki insanlar heyecanlı.", "en": "The people in the cinema are excited." },
+  { "id": 398, "tr": "Sinemadaki insanlar heyecanlı değil.", "en": "The people in the cinema aren't excited." },
+  { "id": 399, "tr": "Sinemadaki insanlar heyecanlı mı?", "en": "Are the people in the cinema excited?" },
+  { "id": 400, "tr": "Sinemadaki insanlar heyecanlı değil mi?", "en": "Aren't the people in the cinema excited?" },
+
+  { "id": 401, "tr": "Saat birde oradayım.", "en": "I am there at one o'clock." },
+  { "id": 402, "tr": "Saat birde orada değilim.", "en": "I am not there at one o'clock." },
+  { "id": 403, "tr": "Saat birde orada mısın?", "en": "Are you there at one o'clock?" },
+  { "id": 404, "tr": "Saat birde orada değil misin?", "en": "Aren't you there at one o'clock?" },
+
+  { "id": 405, "tr": "Saat ikide evdeyim.", "en": "I am at home at two o'clock." },
+  { "id": 406, "tr": "Saat ikide evde değilim.", "en": "I am not at home at two o'clock." },
+  { "id": 407, "tr": "Saat ikide evde misin?", "en": "Are you at home at two o'clock?" },
+  { "id": 408, "tr": "Saat ikide evde değil misin?", "en": "Aren't you at home at two o'clock?" },
+
+  { "id": 409, "tr": "Saat üçte ofisteyiz.", "en": "We are in the office at three o'clock." },
+  { "id": 410, "tr": "Saat üçte ofiste değiliz.", "en": "We aren't in the office at three o'clock." },
+  { "id": 411, "tr": "Saat üçte ofiste misiniz?", "en": "Are you in the office at three o'clock?" },
+  { "id": 412, "tr": "Saat üçte ofiste değil misiniz?", "en": "Aren't you in the office at three o'clock?" },
+
+  { "id": 413, "tr": "Saat dörtte hastanedeyim.", "en": "I am at the hospital at four o'clock." },
+  { "id": 414, "tr": "Saat dörtte hastanede değilim.", "en": "I am not at the hospital at four o'clock." },
+  { "id": 415, "tr": "Saat dörtte hastanede misin?", "en": "Are you at the hospital at four o'clock?" },
+  { "id": 416, "tr": "Saat dörtte hastanede değil misin?", "en": "Aren't you at the hospital at four o'clock?" },
+
+  { "id": 417, "tr": "Saat altıda ormandayım.", "en": "I am in the forest at six o'clock." },
+  { "id": 418, "tr": "Saat altıda ormanda değilim.", "en": "I am not in the forest at six o'clock." },
+  { "id": 419, "tr": "Saat altıda ormanda mısın?", "en": "Are you in the forest at six o'clock?" },
+  { "id": 420, "tr": "Saat altıda ormanda değil misin?", "en": "Aren't you in the forest at six o'clock?" },
+
+  { "id": 421, "tr": "Saat yedide evimdeyim.", "en": "I am in my home at seven o'clock." },
+  { "id": 422, "tr": "Saat yedide evimde değilim.", "en": "I am not in my home at seven o'clock." },
+  { "id": 423, "tr": "Saat yedide evinde misin?", "en": "Are you in your home at seven o'clock?" },
+  { "id": 424, "tr": "Saat yedide evinde değil misin?", "en": "Aren't you in your home at seven o'clock?" },
+
+  { "id": 425, "tr": "Saat sekizde salondayım.", "en": "I am in the living room at eight o'clock." },
+  { "id": 426, "tr": "Saat sekizde salonda değilim.", "en": "I am not in the living room at eight o'clock." },
+  { "id": 427, "tr": "Saat sekizde salonda mısın?", "en": "Are you in the living room at eight o'clock?" },
+  { "id": 428, "tr": "Saat sekizde salonda değil misin?", "en": "Aren't you in the living room at eight o'clock?" },
+
+  { "id": 429, "tr": "Saat dokuzda yataktayım.", "en": "I am in the bed at nine o'clock." },
+  { "id": 430, "tr": "Saat dokuzda yatakta değilim.", "en": "I am not in the bed at nine o'clock." },
+  { "id": 431, "tr": "Saat dokuzda yatakta mısın?", "en": "Are you in the bed at nine o'clock?" },
+  { "id": 432, "tr": "Saat dokuzda yatakta değil misin?", "en": "Aren't you in the bed at nine o'clock?" },
+
+  { "id": 433, "tr": "Saat onda buradalar.", "en": "They are here at ten o'clock." },
+  { "id": 434, "tr": "Saat onda burada değiller.", "en": "They aren't here at ten o'clock." },
+  { "id": 435, "tr": "Saat onda buradalar mı?", "en": "Are they here at ten o'clock?" },
+  { "id": 436, "tr": "Saat onda burada değiller mi?", "en": "Aren't they here at ten o'clock?" },
+
+  { "id": 437, "tr": "Saat on birde oradasınız.", "en": "You are there at eleven o'clock." },
+  { "id": 438, "tr": "Saat on birde orada değilsiniz.", "en": "You aren't there at eleven o'clock." },
+  { "id": 439, "tr": "Saat on birde orada mıyız?", "en": "Are we there at eleven o'clock?" },
+  { "id": 440, "tr": "Saat on birde orada değil miyiz?", "en": "Aren't we there at eleven o'clock?" },
+
+  { "id": 441, "tr": "Arkadaşlarım saat on ikide ofiste.", "en": "My friends are in the office at twelve o'clock." },
+  { "id": 442, "tr": "Arkadaşlarım saat on ikide ofiste değil.", "en": "My friends aren't in the office at twelve o'clock." },
+  { "id": 443, "tr": "Arkadaşlarım saat on ikide ofiste mi?", "en": "Are my friends in the office at twelve o'clock?" },
+  { "id": 444, "tr": "Arkadaşlarım saat on ikide ofiste değil mi?", "en": "Aren't my friends in the office at twelve o'clock?" },
+
+  { "id": 445, "tr": "Annem öğlenleyin arkadaşlarıyla beraber.", "en": "My mother is with her friends at noon." },
+  { "id": 446, "tr": "Annem öğlenleyin arkadaşlarıyla değil.", "en": "My mother isn't with her friends at noon." },
+  { "id": 447, "tr": "Annen öğlenleyin arkadaşlarıyla mı?", "en": "Is your mother with her friends at noon?" },
+  { "id": 448, "tr": "Annen öğlenleyin arkadaşlarıyla değil mi?", "en": "Isn't your mother with her friends at noon?" },
+
+  { "id": 449, "tr": "Geceleyin odamdayım.", "en": "I am in my room at night." },
+  { "id": 450, "tr": "Geceleyin odamda değilim.", "en": "I am not in my room at night." },
+  { "id": 451, "tr": "Geceleyin odanda mısın?", "en": "Are you in your room at night?" },
+  { "id": 452, "tr": "Geceleyin odanda değil misin?", "en": "Aren't you in your room at night?" },
+
+  { "id": 453, "tr": "Şu anda meşgulüm.", "en": "I am busy right now." },
+  { "id": 454, "tr": "Şu anda meşgul değilim.", "en": "I am not busy right now." },
+  { "id": 455, "tr": "Şu anda meşgul müsün?", "en": "Are you busy right now?" },
+  { "id": 456, "tr": "Şu anda meşgul değil misin?", "en": "Aren't you busy right now?" },
+
+  { "id": 457, "tr": "Hafta sonunda oradayım.", "en": "I am there at the weekend." },
+  { "id": 458, "tr": "Hafta sonunda orada değilim.", "en": "I am not there at the weekend." },
+  { "id": 459, "tr": "Hafta sonunda orada mısın?", "en": "Are you there at the weekend?" },
+  { "id": 460, "tr": "Hafta sonunda orada değil misin?", "en": "Aren't you there at the weekend?" },
+
+  { "id": 461, "tr": "Yılın başında seninleyim.", "en": "I am with you at the beginning of the year." },
+  { "id": 462, "tr": "Yılın başında seninle değilim.", "en": "I am not with you at the beginning of the year." },
+  { "id": 463, "tr": "Yılın başında benimle misin?", "en": "Are you with me at the beginning of the year?" },
+  { "id": 464, "tr": "Yılın başında benimle değil misin?", "en": "Aren't you with me at the beginning of the year?" },
+
+  { "id": 465, "tr": "Günün sonunda evimdeyim.", "en": "I am in my home at the end of the day." },
+  { "id": 466, "tr": "Günün sonunda evimde değilim.", "en": "I am not in my home at the end of the day." },
+  { "id": 467, "tr": "Günün sonunda evinde misin?", "en": "Are you in your home at the end of the day?" },
+  { "id": 468, "tr": "Günün sonunda evinde değil misin?", "en": "Aren't you in your home at the end of the day?" },
+
+  { "id": 469, "tr": "O (erkek) cumartesi günü Ankara'da.", "en": "He is in Ankara on Saturday." },
+  { "id": 470, "tr": "O (erkek) cumartesi günü Ankara'da değil.", "en": "He isn't in Ankara on Saturday." },
+  { "id": 471, "tr": "O (erkek) cumartesi günü Ankara'da mı?", "en": "Is he in Ankara on Saturday?" },
+  { "id": 472, "tr": "O (erkek) cumartesi günü Ankara'da değil mi?", "en": "Isn't he in Ankara on Saturday?" },
+
+  { "id": 473, "tr": "Pazar günü tatildeyim.", "en": "I am on holiday on Sunday." },
+  { "id": 474, "tr": "Pazar günü tatilde değilim.", "en": "I am not on holiday on Sunday." },
+  { "id": 475, "tr": "Pazar günü tatilde misin?", "en": "Are you on holiday on Sunday?" },
+  { "id": 476, "tr": "Pazar günü tatilde değil misin?", "en": "Aren't you on holiday on Sunday?" },
+
+  { "id": 477, "tr": "Doğum günümde onlarlayım.", "en": "I am with them on my birthday." },
+  { "id": 478, "tr": "Doğum günümde onlarla değilim.", "en": "I am not with them on my birthday." },
+  { "id": 479, "tr": "Doğum gününde onlarla mısın?", "en": "Are you with them on your birthday?" },
+  { "id": 480, "tr": "Doğum gününde onlarla değil misin?", "en": "Aren't you with them on your birthday?" },
+
+  { "id": 481, "tr": "Tatilde arkadaşlarımlayım.", "en": "I am with my friends on holiday." },
+  { "id": 482, "tr": "Tatilde arkadaşlarımla değilim.", "en": "I am not with my friends on holiday." },
+  { "id": 483, "tr": "Tatilde arkadaşlarınla mısın?", "en": "Are you with your friends on holiday?" },
+  { "id": 484, "tr": "Tatilde arkadaşlarınla değil misin?", "en": "Aren't you with your friends on holiday?" },
+
+  { "id": 485, "tr": "Eylül ayında hazırım.", "en": "I am ready in September." },
+  { "id": 486, "tr": "Eylül ayında hazır değilim.", "en": "I am not ready in September." },
+  { "id": 487, "tr": "Eylül ayında hazır mısın?", "en": "Are you ready in September?" },
+  { "id": 488, "tr": "Eylül ayında hazır değil misin?", "en": "Aren't you ready in September?" },
+
+  { "id": 489, "tr": "İlkbaharda hazırım.", "en": "I am ready in the spring." },
+  { "id": 490, "tr": "İlkbaharda hazır değilim.", "en": "I am not ready in the spring." },
+  { "id": 491, "tr": "İlkbaharda hazır mısın?", "en": "Are you ready in the spring?" },
+  { "id": 492, "tr": "İlkbaharda hazır değil misin?", "en": "Aren't you ready in the spring?" },
+
+  { "id": 493, "tr": "Yazın buradalar.", "en": "They are here in the summer." },
+  { "id": 494, "tr": "Yazın burada değiller.", "en": "They aren't here in the summer." },
+  { "id": 495, "tr": "Yazın buradalar mı?", "en": "Are they here in the summer?" },
+  { "id": 496, "tr": "Yazın burada değiller mi?", "en": "Aren't they here in the summer?" },
+
+  { "id": 497, "tr": "Sonbaharda oradasınız.", "en": "You are there in the autumn." },
+  { "id": 498, "tr": "Sonbaharda orada değilsiniz.", "en": "You aren't there in the autumn." },
+  { "id": 499, "tr": "Sonbaharda orada mıyız?", "en": "Are we there in the autumn?" },
+  { "id": 500, "tr": "Sonbaharda orada değil miyiz?", "en": "Aren't we there in the autumn?" },
+
+  { "id": 501, "tr": "Kışın oradayım.", "en": "I am there in the winter." },
+  { "id": 502, "tr": "Kışın orada değilim.", "en": "I am not there in the winter." },
+  { "id": 503, "tr": "Kışın orada mısın?", "en": "Are you there in the winter?" },
+  { "id": 504, "tr": "Kışın orada değil misin?", "en": "Aren't you there in the winter?" },
+
+  { "id": 505, "tr": "Bir dakika içinde oradayım.", "en": "I am there in a minute." },
+  { "id": 506, "tr": "Bir dakika içinde orada değilim.", "en": "I am not there in a minute." },
+  { "id": 507, "tr": "Bir dakika içinde orada mısın?", "en": "Are you there in a minute?" },
+  { "id": 508, "tr": "Bir dakika içinde orada değil misin?", "en": "Aren't you there in a minute?" },
+
+  { "id": 509, "tr": "5 dakika içinde hazırım.", "en": "I am ready in 5 minutes." },
+  { "id": 510, "tr": "5 dakika içinde hazır değilim.", "en": "I am not ready in 5 minutes." },
+  { "id": 511, "tr": "5 dakika içinde hazır mısın?", "en": "Are you ready in 5 minutes?" },
+  { "id": 512, "tr": "5 dakika içinde hazır değil misin?", "en": "Aren't you ready in 5 minutes?" },
+
+  { "id": 513, "tr": "5 dakikada oradayım.", "en": "I am there in 5 minutes." },
+  { "id": 514, "tr": "5 dakikada orada değilim.", "en": "I am not there in 5 minutes." },
+  { "id": 515, "tr": "5 dakikada orada mısın?", "en": "Are you there in 5 minutes?" },
+  { "id": 516, "tr": "5 dakikada orada değil misin?", "en": "Aren't you there in 5 minutes?" },
+
+  { "id": 517, "tr": "Bir saatte buradayım.", "en": "I am here in an hour." },
+  { "id": 518, "tr": "Bir saatte burada değilim.", "en": "I am not here in an hour." },
+  { "id": 519, "tr": "Bir saatte burada mısın?", "en": "Are you here in an hour?" },
+  { "id": 520, "tr": "Bir saatte burada değil misin?", "en": "Aren't you here in an hour?" },
+
+  { "id": 521, "tr": "Bir gün içinde seninleyim.", "en": "I am with you in a day." },
+  { "id": 522, "tr": "Bir gün içinde seninle değilim.", "en": "I am not with you in a day." },
+  { "id": 523, "tr": "Bir gün içinde benimle misin?", "en": "Are you with me in a day?" },
+  { "id": 524, "tr": "Bir gün içinde benimle değil misin?", "en": "Aren't you with me in a day?" },
+
+  { "id": 525, "tr": "2 gün içinde Ankara'dayız.", "en": "We are in Ankara in two days." },
+  { "id": 526, "tr": "2 gün içinde Ankara'da değiliz.", "en": "We aren't in Ankara in two days." },
+  { "id": 527, "tr": "2 gün içinde Ankara'da mısınız?", "en": "Are you in Ankara in two days?" },
+  { "id": 528, "tr": "2 gün içinde Ankara'da değil misiniz?", "en": "Aren't you in Ankara in two days?" },
+
+  { "id": 529, "tr": "3 gün içinde Amerika'dasınız.", "en": "You are in America in three days." },
+  { "id": 530, "tr": "3 gün içinde Amerika'da değilsiniz.", "en": "You aren't in America in three days." },
+  { "id": 531, "tr": "3 gün içinde Amerika'da mıyız?", "en": "Are we in America in three days?" },
+  { "id": 532, "tr": "3 gün içinde Amerika'da değil miyiz?", "en": "Aren't we in America in three days?" },
+
+  { "id": 533, "tr": "Dükkandalar.", "en": "They are in the store." },
+  { "id": 534, "tr": "Dükkanda değiller.", "en": "They aren't in the store." },
+  { "id": 535, "tr": "Dükkandalar mı?", "en": "Are they in the store?" },
+  { "id": 536, "tr": "Dükkanda değiller mi?", "en": "Aren't they in the store?" },
+
+  { "id": 537, "tr": "Kafedeler.", "en": "They are in the cafe." },
+  { "id": 538, "tr": "Kafede değiller.", "en": "They aren't in the cafe." },
+  { "id": 539, "tr": "Kafedeler mi?", "en": "Are they in the cafe?" },
+  { "id": 540, "tr": "Kafede değiller mi?", "en": "Aren't they in the cafe?" },
+
+  { "id": 541, "tr": "Restorandayız.", "en": "We are in the restaurant." },
+  { "id": 542, "tr": "Restoranda değiliz.", "en": "We aren't in the restaurant." },
+  { "id": 543, "tr": "Restoranda mısınız?", "en": "Are you in the restaurant?" },
+  { "id": 544, "tr": "Restoranda değil misiniz?", "en": "Aren't you in the restaurant?" },
+
+  { "id": 545, "tr": "Ofiste değilsin.", "en": "You aren't in the office." },
+  { "id": 546, "tr": "Ofistedesin.", "en": "You are in the office." },
+  { "id": 547, "tr": "Ofiste miyim?", "en": "Am I in the office?" },
+  { "id": 548, "tr": "Ofiste değil misin?", "en": "Aren't you in the office?" },
+
+  { "id": 549, "tr": "Oradalar.", "en": "They are there." },
+  { "id": 550, "tr": "Orada değiller.", "en": "They aren't there." },
+  { "id": 551, "tr": "Oradalar mı?", "en": "Are they there?" },
+  { "id": 552, "tr": "Orada değiller mi?", "en": "Aren't they there?" },
+
+  { "id": 553, "tr": "Koltuktayım.", "en": "I am on the sofa." },
+  { "id": 554, "tr": "Koltukta değilim.", "en": "I am not on the sofa." },
+  { "id": 555, "tr": "Koltukta mısın?", "en": "Are you on the sofa?" },
+  { "id": 556, "tr": "Koltukta değil misin?", "en": "Aren't you on the sofa?" },
+
+  { "id": 557, "tr": "Sandalyedeyim.", "en": "I am on the chair." },
+  { "id": 558, "tr": "Sandalyede değilim.", "en": "I am not on the chair." },
+  { "id": 559, "tr": "Sandalyede misin?", "en": "Are you on the chair?" },
+  { "id": 560, "tr": "Sandalyede değil misin?", "en": "Aren't you on the chair?" },
+
+  { "id": 561, "tr": "Masadayım.", "en": "I am at the table." },
+  { "id": 562, "tr": "Masada değilim.", "en": "I am not at the table." },
+  { "id": 563, "tr": "Masada mısın?", "en": "Are you at the table?" },
+  { "id": 564, "tr": "Masada değil misin?", "en": "Aren't you at the table?" },
+
+  { "id": 565, "tr": "Bilgisayardayım.", "en": "I am on the computer." },
+  { "id": 566, "tr": "Bilgisayarda değilim.", "en": "I am not on the computer." },
+  { "id": 567, "tr": "Bilgisayarda mısın?", "en": "Are you on the computer?" },
+  { "id": 568, "tr": "Bilgisayarda değil misin?", "en": "Aren't you on the computer?" },
+
+  { "id": 569, "tr": "Tabaktaki et lezzetli.", "en": "The meat on the plate is delicious." },
+  { "id": 570, "tr": "Tabaktaki et lezzetli değil.", "en": "The meat on the plate isn't delicious." },
+  { "id": 571, "tr": "Tabaktaki et lezzetli mi?", "en": "Is the meat on the plate delicious?" },
+  { "id": 572, "tr": "Tabaktaki et lezzetli değil mi?", "en": "Isn't the meat on the plate delicious?" },
+
+  { "id": 573, "tr": "Bardaktaki su soğuk.", "en": "The water in the glass is cold." },
+  { "id": 574, "tr": "Bardaktaki su soğuk değil.", "en": "The water in the glass isn't cold." },
+  { "id": 575, "tr": "Bardaktaki su soğuk mu?", "en": "Is the water in the glass cold?" },
+  { "id": 576, "tr": "Bardaktaki su soğuk değil mi?", "en": "Isn't the water in the glass cold?" },
+
+  { "id": 577, "tr": "Bu tabaktaki yemek iyi.", "en": "The food on this plate is good." },
+  { "id": 578, "tr": "Bu tabaktaki yemek iyi değil.", "en": "The food on this plate isn't good." },
+  { "id": 579, "tr": "Bu tabaktaki yemek iyi mi?", "en": "Is the food on this plate good?" },
+  { "id": 580, "tr": "Bu tabaktaki yemek iyi değil mi?", "en": "Isn't the food on this plate good?" },
+
+  { "id": 581, "tr": "Çorbadaki sinek çirkin.", "en": "The fly in the soup is ugly." },
+  { "id": 582, "tr": "Çorbadaki sinek çirkin değil.", "en": "The fly in the soup isn't ugly." },
+  { "id": 583, "tr": "Çorbadaki sinek çirkin mi?", "en": "Is the fly in the soup ugly?" },
+  { "id": 584, "tr": "Çorbadaki sinek çirkin değil mi?", "en": "Isn't the fly in the soup ugly?" },
+
+  { "id": 585, "tr": "Bu şişedeki bira soğuk.", "en": "The beer in this bottle is cold." },
+  { "id": 586, "tr": "Bu şişedeki bira soğuk değil.", "en": "The beer in this bottle isn't cold." },
+  { "id": 587, "tr": "Bu şişedeki bira soğuk mu?", "en": "Is the beer in this bottle cold?" },
+  { "id": 588, "tr": "Bu şişedeki bira soğuk değil mi?", "en": "Isn't the beer in this bottle cold?" },
+
+  { "id": 589, "tr": "Bu kasedeki çorba sıcak.", "en": "The soup in this bowl is hot." },
+  { "id": 590, "tr": "Bu kasedeki çorba sıcak değil.", "en": "The soup in this bowl isn't hot." },
+  { "id": 591, "tr": "Bu kasedeki çorba sıcak mı?", "en": "Is the soup in this bowl hot?" },
+  { "id": 592, "tr": "Bu kasedeki çorba sıcak değil mi?", "en": "Isn't the soup in this bowl hot?" },
+
+  { "id": 593, "tr": "Çorbam soğuk.", "en": "My soup is cold." },
+  { "id": 594, "tr": "Çorbam soğuk değil.", "en": "My soup isn't cold." },
+  { "id": 595, "tr": "Çorban soğuk mu?", "en": "Is your soup cold?" },
+  { "id": 596, "tr": "Çorban soğuk değil mi?", "en": "Isn't your soup cold?" },
+
+  { "id": 597, "tr": "Bardağım dolu.", "en": "My glass is full." },
+  { "id": 598, "tr": "Bardağım dolu değil.", "en": "My glass isn't full." },
+  { "id": 599, "tr": "Bardağın dolu mu?", "en": "Is your glass full?" },
+  { "id": 600, "tr": "Bardağın dolu değil mi?", "en": "Isn't your glass full?" },
+
+  { "id": 601, "tr": "Senin tabağın boş.", "en": "Your plate is empty." },
+  { "id": 602, "tr": "Senin tabağın boş değil.", "en": "Your plate isn't empty." },
+  { "id": 603, "tr": "Senin tabağın boş mu?", "en": "Is your plate empty?" },
+  { "id": 604, "tr": "Senin tabağın boş değil mi?", "en": "Isn't your plate empty?" },
+
+  { "id": 605, "tr": "Hikayeler hüzünlü.", "en": "The stories are sad." },
+  { "id": 606, "tr": "Hikayeler hüzünlü değil.", "en": "The stories aren't sad." },
+  { "id": 607, "tr": "Hikayeler hüzünlü mü?", "en": "Are the stories sad?" },
+  { "id": 608, "tr": "Hikayeler hüzünlü değil mi?", "en": "Aren't the stories sad?" },
+
+  { "id": 609, "tr": "Kahvedeki insanlar hüzünlü.", "en": "The people in the coffee shop are sad." },
+  { "id": 610, "tr": "Kahvedeki insanlar hüzünlü değil.", "en": "The people in the coffee shop aren't sad." },
+  { "id": 611, "tr": "Kahvedeki insanlar hüzünlü mü?", "en": "Are the people in the coffee shop sad?" },
+  { "id": 612, "tr": "Kahvedeki insanlar hüzünlü değil mi?", "en": "Aren't the people in the coffee shop sad?" },
+
+  { "id": 613, "tr": "Çayım iyi.", "en": "My tea is good." },
+  { "id": 614, "tr": "Çayım iyi değil.", "en": "My tea isn't good." },
+  { "id": 615, "tr": "Çayın iyi mi?", "en": "Is your tea good?" },
+  { "id": 616, "tr": "Çayın iyi değil mi?", "en": "Isn't your tea good?" },
+
+  { "id": 617, "tr": "Çayım soğuk.", "en": "My tea is cold." },
+  { "id": 618, "tr": "Çayım soğuk değil.", "en": "My tea isn't cold." },
+  { "id": 619, "tr": "Çayın soğuk mu?", "en": "Is your tea cold?" },
+  { "id": 620, "tr": "Çayın soğuk değil mi?", "en": "Isn't your tea cold?" },
+
+  { "id": 621, "tr": "Portakal suyum kötü.", "en": "My orange juice is bad." },
+  { "id": 622, "tr": "Portakal suyum kötü değil.", "en": "My orange juice isn't bad." },
+  { "id": 623, "tr": "Portakal suyun kötü mü?", "en": "Is your orange juice bad?" },
+  { "id": 624, "tr": "Portakal suyun kötü değil mi?", "en": "Isn't your orange juice bad?" },
+
+  { "id": 625, "tr": "Çorbam sıcak değil.", "en": "My soup isn't hot." },
+  { "id": 626, "tr": "Çorbam sıcak.", "en": "My soup is hot." },
+  { "id": 627, "tr": "Çorban sıcak mı?", "en": "Is your soup hot?" },
+  { "id": 628, "tr": "Çorban sıcak değil mi?", "en": "Isn't your soup hot?" },
+
+  { "id": 629, "tr": "Kalbim yorgun.", "en": "My heart is tired." },
+  { "id": 630, "tr": "Kalbim yorgun değil.", "en": "My heart isn't tired." },
+  { "id": 631, "tr": "Kalbin yorgun mu?", "en": "Is your heart tired?" },
+  { "id": 632, "tr": "Kalbin yorgun değil mi?", "en": "Isn't your heart tired?" },
+
+  { "id": 633, "tr": "Aklım meşgul.", "en": "My mind is busy." },
+  { "id": 634, "tr": "Aklım meşgul değil.", "en": "My mind isn't busy." },
+  { "id": 635, "tr": "Aklın meşgul mü?", "en": "Is your mind busy?" },
+  { "id": 636, "tr": "Aklın meşgul değil mi?", "en": "Isn't your mind busy?" },
+
+  { "id": 637, "tr": "Yüreğim boş.", "en": "My heart is empty." },
+  { "id": 638, "tr": "Yüreğim boş değil.", "en": "My heart isn't empty." },
+  { "id": 639, "tr": "Yüreğin boş mu?", "en": "Is your heart empty?" },
+  { "id": 640, "tr": "Yüreğin boş değil mi?", "en": "Isn't your heart empty?" },
+
+  { "id": 641, "tr": "Senin çamaşır makinen eski.", "en": "Your loundry machine is old." },
+  { "id": 642, "tr": "Senin çamaşır makinen eski değil.", "en": "Your loundry machine isn't old." },
+  { "id": 643, "tr": "Senin çamaşır makinen eski mi?", "en": "Is your loundry machine old?" },
+  { "id": 644, "tr": "Senin çamaşır makinen eski değil mi?", "en": "Isn't your loundry machine old?" },
+
+  { "id": 645, "tr": "Bulaşık makinesindeki bulaşıklar temiz.", "en": "The dishes in the dishwasher are clean." },
+  { "id": 646, "tr": "Bulaşık makinesindeki bulaşıklar temiz değil.", "en": "The dishes in the dishwasher aren't clean." },
+  { "id": 647, "tr": "Bulaşık makinesindeki bulaşıklar temiz mi?", "en": "Are the dishes in the dishwasher clean?" },
+  { "id": 648, "tr": "Bulaşık makinesindeki bulaşıklar temiz değil mi?", "en": "Aren't the dishes in the dishwasher clean?" },
+
+  { "id": 649, "tr": "Fırındaki yemek muhteşem.", "en": "The food in the oven is wonderful." },
+  { "id": 650, "tr": "Fırındaki yemek muhteşem değil.", "en": "The food in the oven isn't wonderful." },
+  { "id": 651, "tr": "Fırındaki yemek muhteşem mi?", "en": "Is the food in the oven wonderful?" },
+  { "id": 652, "tr": "Fırındaki yemek muhteşem değil mi?", "en": "Isn't the food in the oven wonderful?" },
+
+  { "id": 653, "tr": "Ocaktaki çorba sıcak.", "en": "The soup on the stove is hot." },
+  { "id": 654, "tr": "Ocaktaki çorba sıcak değil.", "en": "The soup on the stove isn't hot." },
+  { "id": 655, "tr": "Ocaktaki çorba sıcak mı?", "en": "Is the soup on the stove hot?" },
+  { "id": 656, "tr": "Ocaktaki çorba sıcak değil mi?", "en": "Isn't the soup on the stove hot?" },
+
+  { "id": 657, "tr": "Buzdolabındaki meyveler taze.", "en": "The fruits in the fridge are fresh." },
+  { "id": 658, "tr": "Buzdolabındaki meyveler taze değil.", "en": "The fruits in the fridge aren't fresh." },
+  { "id": 659, "tr": "Buzdolabındaki meyveler taze mi?", "en": "Are the fruits in the fridge fresh?" },
+  { "id": 660, "tr": "Buzdolabındaki meyveler taze değil mi?", "en": "Aren't the fruits in the fridge fresh?" },
+
+  { "id": 661, "tr": "Mutfaktaki lamba bozuk.", "en": "The lamp in the kitchen is broken." },
+  { "id": 662, "tr": "Mutfaktaki lamba bozuk değil.", "en": "The lamp in the kitchen isn't broken." },
+  { "id": 663, "tr": "Mutfaktaki lamba bozuk mu?", "en": "Is the lamp in the kitchen broken?" },
+  { "id": 664, "tr": "Mutfaktaki lamba bozuk değil mi?", "en": "Isn't the lamp in the kitchen broken?" },
+
+  { "id": 665, "tr": "Kahvaltıdaki peynir lezzetli.", "en": "The cheese at breakfast is delicious." },
+  { "id": 666, "tr": "Kahvaltıdaki peynir lezzetli değil.", "en": "The cheese at breakfast isn't delicious." },
+  { "id": 667, "tr": "Kahvaltıdaki peynir lezzetli mi?", "en": "Is the cheese at breakfast delicious?" },
+  { "id": 668, "tr": "Kahvaltıdaki peynir lezzetli değil mi?", "en": "Isn't the cheese at breakfast delicious?" },
+
+  { "id": 669, "tr": "Gemideki insanlar zengin.", "en": "The people on the ship are rich." },
+  { "id": 670, "tr": "Gemideki insanlar zengin değil.", "en": "The people on the ship aren't rich." },
+  { "id": 671, "tr": "Gemideki insanlar zengin mi?", "en": "Are the people on the ship rich?" },
+  { "id": 672, "tr": "Gemideki insanlar zengin değil mi?", "en": "Aren't the people on the ship rich?" },
+
+  { "id": 673, "tr": "Sandaldaki adam fakir.", "en": "The man on the boat is poor." },
+  { "id": 674, "tr": "Sandaldaki adam fakir değil.", "en": "The man on the boat isn't poor." },
+  { "id": 675, "tr": "Sandaldaki adam fakir mi?", "en": "Is the man on the boat poor?" },
+  { "id": 676, "tr": "Sandaldaki adam fakir değil mi?", "en": "Isn't the man on the boat poor?" },
+
+  { "id": 677, "tr": "Köprüdeki insanlar sarhoş.", "en": "The people on the bridge are drunk." },
+  { "id": 678, "tr": "Köprüdeki insanlar sarhoş değil.", "en": "The people on the bridge aren't drunk." },
+  { "id": 679, "tr": "Köprüdeki insanlar sarhoş mu?", "en": "Are the people on the bridge drunk?" },
+  { "id": 680, "tr": "Köprüdeki insanlar sarhoş değil mi?", "en": "Aren't the people on the bridge drunk?" },
+
+  { "id": 681, "tr": "Nehirdeki çocuklar mutlu.", "en": "The children in the river are happy." },
+  { "id": 682, "tr": "Nehirdeki çocuklar mutlu değil.", "en": "The children in the river aren't happy." },
+  { "id": 683, "tr": "Nehirdeki çocuklar mutlu mu?", "en": "Are the children in the river happy?" },
+  { "id": 684, "tr": "Nehirdeki çocuklar mutlu değil mi?", "en": "Aren't the children in the river happy?" },
+
+  { "id": 685, "tr": "Denizdeki insanlar üşüyor.", "en": "The people in the sea are cold." },
+  { "id": 686, "tr": "Denizdeki insanlar üşümüyor.", "en": "The people in the sea aren't cold." },
+  { "id": 687, "tr": "Denizdeki insanlar üşüyor mu?", "en": "Are the people in the sea cold?" },
+  { "id": 688, "tr": "Denizdeki insanlar üşümüyor mu?", "en": "Aren't the people in the sea cold?" }
+]
