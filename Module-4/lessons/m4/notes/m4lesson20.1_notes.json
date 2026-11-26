@@ -1,0 +1,16 @@
+{
+  "title": "Notes",
+  "tabs": [
+    {
+      "label": "Fiilden Fiile -1",
+      "type": "examples",
+      "items": [
+        {
+          "color": "pink",
+          "tag": " Fiillerden -> Fiil yapma :  … bişey YAPTIRTMAK …(kime yaptırdığının önemi yoksa)",
+          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr style='border-bottom:1px solid #eee;'><td style='padding:8px;'><span style='color:#FFFF00'>get</span> + <span style='color:#BA55D3'>something</span> + <span style='color:#00FFFF'>V3</span></td><td style='padding:8px;'>Ayşe <span style='color:#FFFF00'>got</span> <span style='color:#BA55D3'>her hair</span> <span style='color:#00FFFF'>done</span>: Ayşe saçlarını yaptırdı.</td></tr><tr><td style='padding:8px;'><span style='color:#FFFF00'>have</span> + <span style='color:#BA55D3'>something</span> + <span style='color:#00FFFF'>V3</span></td><td style='padding:8px;'>I <span style='color:#FFFF00'>had</span> <span style='color:#BA55D3'>my car</span> <span style='color:#00FFFF'>fixed</span>: Arabamı tamir ettirdim.</td></tr></tbody></table>"
+        }
+      ]
+    }
+  ]
+}

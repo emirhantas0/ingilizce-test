@@ -1,0 +1,29 @@
+{
+  "title": "Pasif Cümleler (Passive Voice)",
+  "tabs": [
+    {
+      "label": "Aktif vs Pasif",
+      "type": "table",
+      "headers": ["Tür", "Formül", "Örnek"],
+      "rows": [
+        ["AKTİF CÜMLE", "Özne işi yapandır", "Ali sent the emails."],
+        ["PASİF CÜMLE", "İş başkası tarafından yapılıyorsa", "The emails were sent."],
+        ["BY kullanımı", "Kimin yaptığını belirtmek için by + kişi", "The emails were sent by Ali."],
+        ["GENEL FORMÜL", "Özne + BE (zamana uygun) + V3", "The emails are sent / were sent / will be sent."]
+      ]
+    },
+    {
+      "label": "Zaman Formülleri",
+      "type": "table",
+      "headers": ["Zaman", "Pasif Formül", "Örnek"],
+      "rows": [
+        ["Simple Present", "AM / IS / ARE + V3", "English is spoken here. – Burada İngilizce konuşulur."],
+        ["Simple Past", "WAS / WERE + V3", "The emails were sent. – E-postalar gönderildi."],
+        ["Future", "WILL BE + V3", "The book will be translated. – Kitap çevrilecek."],
+        ["Present Continuous", "IS/ARE + BEING + V3", "The windows are being cleaned. – Pencereler temizleniyor."],
+        ["Past Continuous", "WAS/WERE + BEING + V3", "The emails were being sent. – E-postalar gönderiliyordu."],
+        ["Modal", "MODAL + BE + V3", "It must be done. – Bu yapılmalı."]
+      ]
+    }
+  ]
+}

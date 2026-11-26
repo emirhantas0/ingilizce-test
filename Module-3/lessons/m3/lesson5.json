@@ -1,0 +1,1050 @@
+[
+  {"id": 1, "tr": "Ali yarın okula gidecek.", "en": "Ali will go to the school tomorrow."},
+  {"id": 2, "tr": "Ali yarın okula gitmeyecek.", "en": "Ali won't go to the school tomorrow."},
+  {"id": 3, "tr": "Ali yarın okula gidecek mi?", "en": "Will Ali go to the school tomorrow?"},
+  {"id": 4, "tr": "Ali yarın okula saat kaçta gidecek?", "en": "What time will Ali go to the school tomorrow?"},
+
+  {"id": 5, "tr": "Ayşe bir doktor olacak.", "en": "Ayse will become a doctor."},
+  {"id": 6, "tr": "Ayşe bir doktor olmayacak.", "en": "Ayse won't become a doctor."},
+  {"id": 7, "tr": "Ayşe bir doktor olacak mı?", "en": "Will Ayse become a doctor?"},
+  {"id": 8, "tr": "Ayşe ne zaman doktor olacak?", "en": "When will Ayse become a doctor?"},
+
+  {"id": 9, "tr": "Her şey iyi olacak.", "en": "Everything will be fine."},
+  {"id": 10, "tr": "Her şey iyi olmayacak.", "en": "Everything won't be fine."},
+  {"id": 11, "tr": "Her şey iyi olacak mı?", "en": "Will everything be fine?"},
+  {"id": 12, "tr": "Her şey ne zaman iyi olacak?", "en": "When will everything be fine?"},
+
+  {"id": 13, "tr": "Ayşe öğleden sonra saçlarını yaptıracak.", "en": "Ayse will have her hair done in the afternoon."},
+  {"id": 14, "tr": "Ayşe öğleden sonra saçlarını yaptırmayacak.", "en": "Ayse won't have her hair done in the afternoon."},
+  {"id": 15, "tr": "Ayşe öğleden sonra saçlarını yaptıracak mı?", "en": "Will Ayse have her hair done in the afternoon?"},
+  {"id": 16, "tr": "Ayşe saçlarını ne zaman yaptıracak?", "en": "When will Ayse have her hair done?"},
+
+  {"id": 17, "tr": "Murat bir hafta sonra iyi bir plan yapacak.", "en": "Murat will make a good plan a week later."},
+  {"id": 18, "tr": "Murat bir hafta sonra iyi bir plan yapmayacak.", "en": "Murat won't make a good plan a week later."},
+  {"id": 19, "tr": "Murat bir hafta sonra iyi bir plan yapacak mı?", "en": "Will Murat make a good plan a week later?"},
+  {"id": 20, "tr": "Murat ne zaman iyi bir plan yapacak?", "en": "When will Murat make a good plan?"},
+
+  {"id": 21, "tr": "İki gün sonra çocuklarıma omlet yapacağım.", "en": "I will make an omelette to my children two days later."},
+  {"id": 22, "tr": "İki gün sonra çocuklarıma omlet yapmayacağım.", "en": "I won't make an omelette to my children two days later."},
+  {"id": 23, "tr": "İki gün sonra çocuklarına omlet yapacak mısın?", "en": "Will you make an omelette to your children two days later?"},
+  {"id": 24, "tr": "Ne zaman çocuklarına omlet yapacaksın?", "en": "When will you make an omelette to your children?"},
+
+  {"id": 25, "tr": "Annem gelecek hafta temizlik yapacak.", "en": "My mother will do the cleaning next week."},
+  {"id": 26, "tr": "Annem gelecek hafta temizlik yapmayacak.", "en": "My mother won't do the cleaning next week."},
+  {"id": 27, "tr": "Annen gelecek hafta temizlik yapacak mı?", "en": "Will your mother do the cleaning next week?"},
+  {"id": 28, "tr": "Annen ne zaman temizlik yapacak?", "en": "When will your mother do the cleaning?"},
+
+  {"id": 29, "tr": "Babam üç ay sonra evi satacak.", "en": "My father will sell the house three months later."},
+  {"id": 30, "tr": "Babam üç ay sonra evi satmayacak.", "en": "My father won't sell the house three months later."},
+  {"id": 31, "tr": "Baban üç ay sonra evi satacak mı?", "en": "Will your father sell the house three months later?"},
+  {"id": 32, "tr": "Baban evi ne zaman satacak?", "en": "When will your father sell the house?"},
+
+  {"id": 33, "tr": "Ayşe yarın sabah bulaşıkları yıkayacak.", "en": "Ayse will do the dishes tomorrow morning."},
+  {"id": 34, "tr": "Ayşe yarın sabah bulaşıkları yıkamayacak.", "en": "Ayse won't do the dishes tomorrow morning."},
+  {"id": 35, "tr": "Ayşe yarın sabah bulaşıkları yıkayacak mı?", "en": "Will Ayse do the dishes tomorrow morning?"},
+  {"id": 36, "tr": "Ayşe bulaşıkları ne zaman yıkayacak?", "en": "When will Ayse do the dishes?"},
+
+  {"id": 37, "tr": "Ayşe lezzetli pastalar yapacak.", "en": "Ayse will make delicious cakes."},
+  {"id": 38, "tr": "Ayşe lezzetli pastalar yapmayacak.", "en": "Ayse won't make delicious cakes."},
+  {"id": 39, "tr": "Ayşe lezzetli pastalar yapacak mı?", "en": "Will Ayse make delicious cakes?"},
+  {"id": 40, "tr": "Ayşe neden lezzetli pastalar yapacak?", "en": "Why will Ayse make delicious cakes?"},
+
+  {"id": 41, "tr": "Daha çok zamana ihtiyacımız olacak.", "en": "We will need more time."},
+  {"id": 42, "tr": "Daha çok zamana ihtiyacımız olmayacak.", "en": "We won't need more time."},
+  {"id": 43, "tr": "Daha çok zamana ihtiyacınız olacak mı?", "en": "Will you need more time?"},
+  {"id": 44, "tr": "Neye ihtiyacınız olacak?", "en": "What will you need?"},
+
+  {"id": 45, "tr": "Ali doğruyu söyleyecek.", "en": "Ali will tell the truth."},
+  {"id": 46, "tr": "Ali doğruyu söylemeyecek.", "en": "Ali won't tell the truth."},
+  {"id": 47, "tr": "Ali doğruyu söyleyecek mi?", "en": "Will Ali tell the truth?"},
+  {"id": 48, "tr": "Ali ne zaman doğruyu söyleyecek?", "en": "When will Ali tell the truth?"},
+
+  {"id": 49, "tr": "Murat bana komik hikayeler anlatacak.", "en": "Murat will tell me funny stories."},
+  {"id": 50, "tr": "Murat bana komik hikayeler anlatmayacak.", "en": "Murat won't tell me funny stories."},
+  {"id": 51, "tr": "Murat sana komik hikayeler anlatacak mı?", "en": "Will Murat tell you funny stories?"},
+  {"id": 52, "tr": "Murat sana ne anlatacak?", "en": "What will Murat tell you?"},
+
+  {"id": 53, "tr": "Bu okuldaki öğrenciler 3 dil konuşacak.", "en": "The students in this school will speak 3 languages."},
+  {"id": 54, "tr": "Bu okuldaki öğrenciler 3 dil konuşmayacak.", "en": "The students in this school won't speak 3 languages."},
+  {"id": 55, "tr": "Bu okuldaki öğrenciler 3 dil konuşacak mı?", "en": "Will the students in this school speak 3 languages?"},
+  {"id": 56, "tr": "Bu okuldaki öğrenciler kaç dil konuşacak?", "en": "How many languages will the students in this school speak?"},
+
+  {"id": 57, "tr": "Yarın akşam politika hakkında konuşacağız.", "en": "We will talk about politics tomorrow evening."},
+  {"id": 58, "tr": "Yarın akşam politika hakkında konuşmayacağız.", "en": "We won't talk about politics tomorrow evening."},
+  {"id": 59, "tr": "Yarın akşam politika hakkında konuşacak mısınız?", "en": "Will you talk about politics tomorrow evening?"},
+  {"id": 60, "tr": "Yarın akşam ne hakkında konuşacaksınız?", "en": "What will you talk about tomorrow evening?"},
+
+  {"id": 61, "tr": "Ayşe gelecek ay bu ofiste çalışacak.", "en": "Ayse will work in this office next month."},
+  {"id": 62, "tr": "Ayşe gelecek ay bu ofiste çalışmayacak.", "en": "Ayse won't work in this office next month."},
+  {"id": 63, "tr": "Ayşe gelecek ay bu ofiste çalışacak mı?", "en": "Will Ayse work in this office next month?"},
+  {"id": 64, "tr": "Ayşe gelecek ay nerede çalışacak?", "en": "Where will Ayse work next month?"},
+
+  {"id": 65, "tr": "Murat gelecek yaz İngilizce çalışacak.", "en": "Murat will study English next summer."},
+  {"id": 66, "tr": "Murat gelecek yaz İngilizce çalışmayacak.", "en": "Murat won't study English next summer."},
+  {"id": 67, "tr": "Murat gelecek yaz İngilizce çalışacak mı?", "en": "Will Murat study English next summer?"},
+  {"id": 68, "tr": "Murat ne zaman İngilizce çalışacak?", "en": "When will Murat study English?"},
+
+  {"id": 69, "tr": "Ayşe'nin 3 tane köpeği olacak.", "en": "Ayse will have 3 dogs."},
+  {"id": 70, "tr": "Ayşe'nin 3 tane köpeği olmayacak.", "en": "Ayse won't have 3 dogs."},
+  {"id": 71, "tr": "Ayşe'nin 3 tane köpeği olacak mı?", "en": "Will Ayse have 3 dogs?"},
+  {"id": 72, "tr": "Ayşe'nin kaç tane köpeği olacak?", "en": "How many dogs will Ayse have?"},
+
+  {"id": 73, "tr": "Yorgun olacaksın.", "en": "You will be tired."},
+  {"id": 74, "tr": "Yorgun olmayacaksın.", "en": "You won't be tired."},
+  {"id": 75, "tr": "Yorgun olacak mısın?", "en": "Will you be tired?"},
+  {"id": 76, "tr": "Neden yorgun olmayacaksın ?", "en": "Why won't you be tired?"},
+
+  {"id": 77, "tr": "Başarılı hissedeceksin.", "en": "You will feel successful."},
+  {"id": 78, "tr": "Başarılı hissetmeyeceksin.", "en": "You won't feel successful."},
+  {"id": 79, "tr": "Başarılı hissedecek misin?", "en": "Will you feel successful?"},
+  {"id": 80, "tr": "Nasıl hissedeceksin?", "en": "How will you feel?"},
+
+  {"id": 81, "tr": "Benimle buluşmayı kabul edecekler.", "en": "They will agree to meet with me."},
+  {"id": 82, "tr": "Benimle buluşmayı kabul etmeyecekler.", "en": "They won't agree to meet with me."},
+  {"id": 83, "tr": "Seninle buluşmayı kabul edecekler mi?", "en": "Will they agree to meet with you?"},
+  {"id": 84, "tr": "Seninle buluşmayı neden kabul etmeyecekler?", "en": "Why won't they agree to meet with you?"},
+
+  {"id": 85, "tr": "Başvurumu onaylayacaklar.", "en": "They will approve my application."},
+  {"id": 86, "tr": "Başvurumu onaylamayacaklar.", "en": "They won't approve my application."},
+  {"id": 87, "tr": "Başvurunu onaylayacaklar mı?", "en": "Will they approve your application?"},
+  {"id": 88, "tr": "Ne zaman başvurunu onaylayacaklar?", "en": "When will they approve your application?"},
+
+  {"id": 89, "tr": "Seni reddedecekler.", "en": "They will reject you."},
+  {"id": 90, "tr": "Seni reddetmeyecekler.", "en": "They won't reject you."},
+  {"id": 91, "tr": "Seni reddedecekler mi?", "en": "Will they reject you?"},
+  {"id": 92, "tr": "Kimi reddedecekler?", "en": "Who will they reject?"},
+
+  {"id": 93, "tr": "Annem yarın erken uyuyacak.", "en": "My mother will sleep early tomorrow."},
+  {"id": 94, "tr": "Annem yarın erken uyumayacak.", "en": "My mother won't sleep early tomorrow."},
+  {"id": 95, "tr": "Annen yarın erken uyuyacak mı?", "en": "Will your mother sleep early tomorrow?"},
+  {"id": 96, "tr": "Annen yarın saat kaçtan uyuyacak?", "en": "What time will your mother sleep tomorrow?"},
+
+  {"id": 97, "tr": "Yarın otobüse bineceğim.", "en": "I will get on the bus tomorrow."},
+  {"id": 98, "tr": "Yarın otobüse binmeyeceğim.", "en": "I won't get on the bus tomorrow."},
+  {"id": 99, "tr": "Yarın otobüse binecek misin?", "en": "Will you get on the bus tomorrow?"},
+  {"id": 100, "tr": "Yarın saat kaçta otobüse bineceksin?", "en": "What time will you get on the bus tomorrow?"},
+
+  {"id": 101, "tr": "Yarın gece otobüsten inecekler.", "en": "They will get off the bus tomorrow night."},
+  {"id": 102, "tr": "Yarın gece otobüsten inmeyecekler.", "en": "They won't get off the bus tomorrow night."},
+  {"id": 103, "tr": "Yarın gece otobüsten inecekler mi?", "en": "Will they get off the bus tomorrow night?"},
+  {"id": 104, "tr": "Yarın gece nerede inecekler?", "en": "Where will they get off tomorrow night?"},
+
+  {"id": 105, "tr": "Murat sorular soracak.", "en": "Murat will ask questions."},
+  {"id": 106, "tr": "Murat sorular sormayacak.", "en": "Murat won't ask questions."},
+  {"id": 107, "tr": "Murat sorular soracak mı?", "en": "Will Murat ask questions?"},
+  {"id": 108, "tr": "Murat ne soracak?", "en": "What will Murat ask?"},
+
+  {"id": 109, "tr": "Öğretmen sorularımızı cevaplayacak.", "en": "The teacher will answer our questions."},
+  {"id": 110, "tr": "Öğretmen sorularımızı cevaplamayacak.", "en": "The teacher won't answer our questions."},
+  {"id": 111, "tr": "Öğretmen sorularınızı cevaplayacak mı?", "en": "Will the teacher answer your questions?"},
+  {"id": 112, "tr": "Öğretmen ne zaman soruları cevaplayacak?", "en": "When will the teacher answer the questions?"},
+
+  {"id": 113, "tr": "Ayşe doğum günümde bana bir hediye verecek.", "en": "Ayse will give me a gift on my birthday."},
+  {"id": 114, "tr": "Ayşe doğum günümde bana bir hediye vermeyecek.", "en": "Ayse won't give me a gift on my birthday."},
+  {"id": 115, "tr": "Ayşe doğum gününde sana bir hediye verecek mi?", "en": "Will Ayse give you a gift on your birthday?"},
+  {"id": 116, "tr": "Ayşe sana ne zaman hediye verecek?", "en": "When will Ayse give you a gift?"},
+
+  {"id": 117, "tr": "Kedi birazdan bizimle oynayacak.", "en": "The cat will play with us soon."},
+  {"id": 118, "tr": "Kedi birazdan bizimle oynamayacak.", "en": "The cat won't play with us soon."},
+  {"id": 119, "tr": "Kedi birazdan sizinle oynayacak mı?", "en": "Will the cat play with you soon?"},
+  {"id": 120, "tr": "Kedi kiminle oynayacak?", "en": "Who will the cat play with?"},
+
+  {"id": 121, "tr": "Gelecek ay öğle yemeğimi evden getireceğim.", "en": "I will bring my lunch from home next month."},
+  {"id": 122, "tr": "Gelecek ay öğle yemeğimi evden getirmeyeceğim.", "en": "I won't bring my lunch from home next month."},
+  {"id": 123, "tr": "Gelecek ay öğle yemeğini evden getirecek misin?", "en": "Will you bring your lunch from home next month?"},
+  {"id": 124, "tr": "Gelecek ay öğle yemeğini nereden getireceksin?", "en": "Where will you bring your lunch from next month?"},
+
+  {"id": 125, "tr": "Annem çocukları okuldan alacak.", "en": "My mother will take the children from the school."},
+  {"id": 126, "tr": "Annem çocukları okuldan almayacak.", "en": "My mother won't take the children from the school."},
+  {"id": 127, "tr": "Annen çocukları okuldan alacak mı?", "en": "Will your mother take the children from the school?"},
+  {"id": 128, "tr": "Annen çocukları nereden alacak?", "en": "Where will your mother take the children from?"},
+
+  {"id": 129, "tr": "Annem çocukları okula götürecek.", "en": "My mother will take the children to the school."},
+  {"id": 130, "tr": "Annem çocukları okula götürmeyecek.", "en": "My mother won't take the children to the school."},
+  {"id": 131, "tr": "Annen çocukları okula götürecek mi?", "en": "Will your mother take the children to the school?"},
+  {"id": 132, "tr": "Annen çocukları nereye götürecek?", "en": "Where will your mother take the children?"},
+
+  {"id": 133, "tr": "Yeni bir araba satın alacağız.", "en": "We will buy a new car."},
+  {"id": 134, "tr": "Yeni bir araba satın almayacağız.", "en": "We won't buy a new car."},
+  {"id": 135, "tr": "Yeni bir araba satın alacak mısınız?", "en": "Will you buy a new car?"},
+  {"id": 136, "tr": "Ne zaman yeni bir araba satın alacaksınız?", "en": "When will you buy a new car?"},
+
+  {"id": 137, "tr": "Ayşe evini satacak.", "en": "Ayse will sell her house."},
+  {"id": 138, "tr": "Ayşe evini satmayacak.", "en": "Ayse won't sell her house."},
+  {"id": 139, "tr": "Ayşe evini satacak mı?", "en": "Will Ayse sell her house?"},
+  {"id": 140, "tr": "Ayşe ne zaman evini satacak?", "en": "When will Ayse sell her house?"},
+
+  {"id": 141, "tr": "Onlar hesabı ödeyecek.", "en": "They will pay the bill."},
+  {"id": 142, "tr": "Onlar hesabı ödemeyecek.", "en": "They won't pay the bill."},
+  {"id": 143, "tr": "Onlar hesabı ödeyecek mi?", "en": "Will they pay the bill?"},
+  {"id": 144, "tr": "Onlar hesanı ne zaman ödeyecek?", "en": "When will they pay the bill?"},
+
+  {"id": 145, "tr": "Ali parasını harcayacak.", "en": "Ali will spend his money."},
+  {"id": 146, "tr": "Ali parasını harcamayacak.", "en": "Ali won't spend his money."},
+  {"id": 147, "tr": "Ali parasını harcayacak mı?", "en": "Will Ali spend his money?"},
+  {"id": 148, "tr": "Ali ne zaman parasını harcayacak?", "en": "When will Ali spend his money?"},
+
+  {"id": 149, "tr": "Ali gelecek sene ucuz bir ev kiralayacak.", "en": "Ali will rent a cheap house next year."},
+  {"id": 150, "tr": "Ali gelecek sene ucuz bir ev kiralamayacak.", "en": "Ali won't rent a cheap house next year."},
+  {"id": 151, "tr": "Ali gelecek sene ucuz bir ev kiralayacak mı?", "en": "Will Ali rent a cheap house next year?"},
+  {"id": 152, "tr": "Ali neden sene ucuz bir ev kiralayacak?", "en": "Why will Ali rent a cheap house?"},
+
+  {"id": 153, "tr": "Eğer Ayşe zengin olursa, çok para harcayacak.", "en": "If Ayse gets rich, she will spend a lot of money."},
+  {"id": 154, "tr": "Eğer Ayşe zengin olursa, çok para harcamayacak.", "en": "If Ayse gets rich, she won't spend a lot of money."},
+  {"id": 155, "tr": "Eğer Ayşe zengin olursa, çok para harcayacak mı?", "en": "If Ayse gets rich, will she spend a lot of money?"},
+  {"id": 156, "tr": "Eğer Ayşe zengin olursa, ne yapacak?", "en": "If Ayse gets rich, what will she do?"},
+
+  {"id": 157, "tr": "Dersler gelecek sene saat 9'da başlayacak.", "en": " The lessons will start at 9 o'clock next year."},
+  {"id": 158, "tr": "Dersler gelecek sene saat 9'da başlamayacak.", "en": "The lessons won't start at 9 o'clock next year."},
+  {"id": 159, "tr": "Dersler gelecek sene saat 9'da başlayacak mı?", "en": "Will the lessons start at 9 o'clock next year?"},
+  {"id": 160, "tr": "Dersler gelecek sene saat kaçta başlayacak?", "en": "What time will the lessons start next year?"},
+
+  {"id": 161, "tr": "Onlar birazdan çalışmaya başlayacaklar.", "en": "They will start working soon."},
+  {"id": 162, "tr": "Onlar birazdan çalışmaya başlamayacaklar.", "en": "They won't start working soon."},
+  {"id": 163, "tr": "Onlar birazdan çalışmaya başlayacaklar mı?", "en": "Will they start working soon?"},
+  {"id": 164, "tr": "Onlar ne zaman çalışmaya başlayacaklar?", "en": "When will they start working?"},
+
+  {"id": 165, "tr": "Haftaya ödevimi bitireceğim.", "en": "I will finish my homework next week."},
+  {"id": 166, "tr": "Haftaya ödevimi bitirmeyeceğim.", "en": "I won't finish my homework next week."},
+  {"id": 167, "tr": "Haftaya ödevini bitirecek misin?", "en": "Will you finish your homework next week?"},
+  {"id": 168, "tr": "Ödevini ne zaman bitireceksin?", "en": "When will you finish your homework?"},
+
+  {"id": 169, "tr": "Film 2 saat içinde bitecek.", "en": "The film will end in 2 hours."},
+  {"id": 170, "tr": "Film 2 saat içinde bitmeyecek.", "en": "The film won't end in 2 hours."},
+  {"id": 171, "tr": "Film 2 saat içinde bitecek mi?", "en": "Will the film end in 2 hours?"},
+  {"id": 172, "tr": "Film ne zaman bitecek?", "en": "When will the film end?"},
+
+  {"id": 173, "tr": "Ödevimizi tamamlayacağız.", "en": "We will complete our homework."},
+  {"id": 174, "tr": "Ödevimizi tamamlamayacağız.", "en": "We won't complete our homework."},
+  {"id": 175, "tr": "Ödevinizi tamamlayacak mısınız?", "en": "Will you complete your homework?"},
+  {"id": 176, "tr": "Ödevinizi ne zaman tamamlayacaksınız?", "en": "When will you complete your homework?"},
+
+  {"id": 177, "tr": "Otobüs Pazartesi akşamı burada duracak.", "en": "The bus will stop here on Monday evening."},
+  {"id": 178, "tr": "Otobüs Pazartesi akşamı burada durmayacak.", "en": "The bus won't stop here on Monday evening."},
+  {"id": 179, "tr": "Otobüs Pazartesi akşamı burada duracak mı?", "en": "Will the bus stop here on Monday evening?"},
+  {"id": 180, "tr": "Otobüs ne zaman burada duracak?", "en": "When will the bus stop here?"},
+
+  {"id": 181, "tr": "Ali sigarayı bırakacak.", "en": "Ali will quit smoking."},
+  {"id": 182, "tr": "Ali sigarayı bırakmayacak.", "en": "Ali won't quit smoking."},
+  {"id": 183, "tr": "Ali sigarayı bırakacak mı?", "en": "Will Ali quit smoking?"},
+  {"id": 184, "tr": "Ali ne zaman sigarayı bırakacak?", "en": "When will Ali quit smoking?"},
+
+  {"id": 185, "tr": "Her gece gökyüzüne bakacağım.", "en": "I will look at the sky every night."},
+  {"id": 186, "tr": "Her gece gökyüzüne bakmayacağım.", "en": "I won't look at the sky every night."},
+  {"id": 187, "tr": "Her gece gökyüzüne bakacak mısın?", "en": "Will you look at the sky every night?"},
+  {"id": 188, "tr": "Her gece neden gökyüzüne bakacaksın?", "en": "Why will you look at the sky every night?"},
+
+  {"id": 189, "tr": "Her şey kolay görünecek.", "en": "Everything will look easy."},
+  {"id": 190, "tr": "Her şey kolay görünmeyecek.", "en": "Everything won't look easy."},
+  {"id": 191, "tr": "Her şey kolay görünecek mi?", "en": "Will everything look easy?"},
+  {"id": 192, "tr": "Her şey nasıl görünecek?", "en": "How will everything look?"},
+
+  {"id": 193, "tr": "Çocuklarıma bakacağım.", "en": "I will look after my children."},
+  {"id": 194, "tr": "Çocuklarıma bakmayacağım.", "en": "I won't look after my children."},
+  {"id": 195, "tr": "Çocuklarına bakacak mısın?", "en": "Will you look after your children?"},
+  {"id": 196, "tr": "Kimin çocuklarına bakacaksın?", "en": "Whose children will you look after?"},
+
+  {"id": 197, "tr": "Biz gelecek hafta sonu film seyredeceğiz.", "en": "We will watch a film next weekend."},
+  {"id": 198, "tr": "Biz gelecek hafta sonu film seyretmeyeceğiz.", "en": "We won't watch a film next weekend."},
+  {"id": 199, "tr": "Gelecek hafta sonu film seyredecek misiniz?", "en": "Will you watch a film next weekend?"},
+  {"id": 200, "tr": "Gelecek hafta sonu ne seyredeceksiniz?", "en": "What will you watch next weekend?"},
+
+  {"id": 201, "tr": "Ali birazdan anahtarlarını arayacak.", "en": "Ali will look for his keys soon."},
+  {"id": 202, "tr": "Ali birazdan anahtarlarını aramayacak.", "en": "Ali won't look for his keys soon."},
+  {"id": 203, "tr": "Ali birazdan anahtarlarını arayacak mı?", "en": "Will Ali look for his keys soon?"},
+  {"id": 204, "tr": "Ali ne zaman anahtarlarını arayacak?", "en": "When will Ali look for his keys?"},
+
+  {"id": 205, "tr": "Ali anahtarlarını arayacak.", "en": "Ali will look for his keys."},
+  {"id": 206, "tr": "Ali anahtarlarını aramayacak.", "en": "Ali won't look for his keys."},
+  {"id": 207, "tr": "Ali anahtarlarını arayacak mı?", "en": "Will Ali look for his keys?"},
+  {"id": 208, "tr": "Ali neyi arayacak?", "en": "What will Ali look for?"},
+
+  {"id": 209, "tr": "Ali anahtarlarını arıyor olacak.", "en": "Ali will be looking for his keys."},
+  {"id": 210, "tr": "Ali anahtarlarını arıyor olmayacak.", "en": "Ali won't be looking for his keys."},
+  {"id": 211, "tr": "Ali anahtarlarını arıyor olacak mı?", "en": "Will Ali be looking for his keys?"},
+  {"id": 212, "tr": "Ali ne arıyor olacak?", "en": "What will Ali be looking for?"},
+
+  {"id": 213, "tr": "Annem anneanneme bakacak.", "en": "My mother will look after my grandmother."},
+  {"id": 214, "tr": "Annem anneanneme bakmayacak.", "en": "My mother won't look after my grandmother."},
+  {"id": 215, "tr": "Annen anneannene bakacak mı?", "en": "Will your mother look after your grandmother?"},
+  {"id": 216, "tr": "Annen kime bakacak?", "en": "Who will your mother look after?"},
+
+  {"id": 217, "tr": "Ali okulda arkadaşlarını görecek.", "en": "Ali will see his friends in the school."},
+  {"id": 218, "tr": "Ali okulda arkadaşlarını görmeyecek.", "en": "Ali won't see his friends in the school."},
+  {"id": 219, "tr": "Ali okulda arkadaşlarını görecek mi?", "en": "Will Ali see his friends in the school?"},
+  {"id": 220, "tr": "Ali okulda kimi görecek?", "en": "Who will Ali see in the school?"},
+
+  {"id": 221, "tr": "Ali okuldaki arkadaşlarını arayacak.", "en": "Ali will call his friends in the school."},
+  {"id": 222, "tr": "Ali okuldaki arkadaşlarını aramayacak.", "en": "Ali won't call his friends in the school."},
+  {"id": 223, "tr": "Ali okuldaki arkadaşlarını arayacak mı?", "en": "Will Ali call his friends in the school?"},
+  {"id": 224, "tr": "Ali okuldaki arkadaşlarını ne zaman arayacak?", "en": "When will Ali call his friends in the school?"},
+
+  {"id": 225, "tr": "Kuşları duyacağım.", "en": "I will hear the birds."},
+  {"id": 226, "tr": "Kuşları duymayacağım.", "en": "I won't hear the birds."},
+  {"id": 227, "tr": "Kuşları duyacak mısın?", "en": "Will you hear the birds?"},
+  {"id": 228, "tr": "Kuşları nasıl duyacaksın?", "en": "How will you hear the birds?"},
+
+  {"id": 229, "tr": "Ayşe çiçekleri koklayacak.", "en": "Ayse will smell the flowers."},
+  {"id": 230, "tr": "Ayşe çiçekleri koklamayacak.", "en": "Ayse won't smell the flowers."},
+  {"id": 231, "tr": "Ayşe çiçekleri koklayacak mı?", "en": "Will Ayse smell the flowers?"},
+  {"id": 232, "tr": "Ayşe ne koklayacak?", "en": "What will Ayse smell?"},
+
+  {"id": 233, "tr": "Çöp kötü kokacak.", "en": "The garbage will smell bad."},
+  {"id": 234, "tr": "Çöp kötü kokmayacak.", "en": "The garbage won't smell bad."},
+  {"id": 235, "tr": "Çöp kötü kokacak mı?", "en": "Will the garbage smell bad?"},
+  {"id": 236, "tr": "Çöp nasıl kokacak?", "en": "How will the garbage smell?"},
+
+  {"id": 237, "tr": "Bu çorbanın tadı çok iyi olacak.", "en": "This soup will taste very good."},
+  {"id": 238, "tr": "Bu çorbanın tadı çok iyi olmayacak.", "en": "This soup won't taste very good."},
+  {"id": 239, "tr": "Bu çorbanın tadı çok iyi olacak mı?", "en": "Will this soup taste very good?"},
+  {"id": 240, "tr": "Bu çorbanın tadı nasıl olacak?", "en": "How will this soup taste?"},
+
+  {"id": 241, "tr": "Ali yemeğin tadına bakacak.", "en": "Ali will taste the food."},
+  {"id": 242, "tr": "Ali yemeğin tadına bakmayacak.", "en": "Ali won't taste the food."},
+  {"id": 243, "tr": "Ali yemeğin tadına bakacak mı?", "en": "Will Ali taste the food?"},
+  {"id": 244, "tr": "Ali neyin tadına bakacak?", "en": "What will Ali taste?"},
+
+  {"id": 245, "tr": "Ayşe burnuna dokunacak.", "en": "Ayse will touch her nose."},
+  {"id": 246, "tr": "Ayşe burnuna dokunmayacak.", "en": "Ayse won't touch her nose."},
+  {"id": 247, "tr": "Ayşe burnuna dokunacak mı?", "en": "Will Ayse touch her nose?"},
+  {"id": 248, "tr": "Ayşe neden burnuna dokunacak?", "en": "Why will Ayse touch her nose?"},
+
+  {"id": 249, "tr": "Haftaya yorgun hissedeceğim.", "en": "I will feel tired next week."},
+  {"id": 250, "tr": "Haftaya yorgun hissetmeyeceğim.", "en": "I won't feel tired next week."},
+  {"id": 251, "tr": "Haftaya yorgun hissedecek misin?", "en": "Will you feel tired next week?"},
+  {"id": 252, "tr": "Haftaya nasıl hissedeceksin?", "en": "How will you feel next week?"},
+
+  {"id": 253, "tr": "Ayşe okula bisiklet ile gelecek.", "en": "Ayse will come to the school by bike."},
+  {"id": 254, "tr": "Ayşe okula bisiklet ile gelmeyecek.", "en": "Ayse won't come to the school by bike."},
+  {"id": 255, "tr": "Ayşe okula bisiklet ile gelecek mi?", "en": "Will Ayse come to the school by bike?"},
+  {"id": 256, "tr": "Ayşe okula nasıl gelecek?", "en": "How will Ayse come to the school?"},
+
+  {"id": 257, "tr": "Murat her gün okula yürüyecek.", "en": "Murat will walk to the school every day."},
+  {"id": 258, "tr": "Murat her gün okula yürümeyecek.", "en": "Murat won't walk to the school every day."},
+  {"id": 259, "tr": "Murat her gün okula yürüyecek mi?", "en": "Will Murat walk to the school every day?"},
+  {"id": 260, "tr": "Murat neden okula yürüyecek?", "en": "Why will Murat walk to the school?"},
+
+  {"id": 261, "tr": "Biz her sabah 5 km koşacağız.", "en": "We will run 5 km every morning."},
+  {"id": 262, "tr": "Biz her sabah 5 km koşmayacağız.", "en": "We won't run 5 km every morning."},
+  {"id": 263, "tr": "Her sabah 5 km koşacak mısınız?", "en": "Will you run 5 km every morning?"},
+  {"id": 264, "tr": "Her sabah kaç km koşacaksınız?", "en": "How many km will you run every morning?"},
+
+  {"id": 265, "tr": "Kedi kapının önünde oturacak.", "en": "The cat will sit in front of the door."},
+  {"id": 266, "tr": "Kedi kapının önünde oturmayacak.", "en": "The cat won't sit in front of the door."},
+  {"id": 267, "tr": "Kedi kapının önünde oturacak mı?", "en": "Will the cat sit in front of the door?"},
+  {"id": 268, "tr": "Kedi nerede oturacak?", "en": "Where will the cat sit?"},
+
+  {"id": 269, "tr": "Öğretmen için ayağa kalkacağız.", "en": "We will stand up for the teacher."},
+  {"id": 270, "tr": "Öğretmen için ayağa kalkmayacağız.", "en": "We won't stand up for the teacher."},
+  {"id": 271, "tr": "Öğretmen için ayağa kalkacak mısınız?", "en": "Will you stand up for the teacher?"},
+  {"id": 272, "tr": "Neden ayağa kalkacaksınız?", "en": "Why will you stand up?"},
+
+  {"id": 273, "tr": "Okula gitmek için sola dönecekler.", "en": "They will turn left to go to the school."},
+  {"id": 274, "tr": "Okula gitmek için sola dönmeyecekler.", "en": "They won't turn left to go to the school."},
+  {"id": 275, "tr": "Okula gitmek için sola dönecekler mi?", "en": "Will they turn left to go to the school?"},
+  {"id": 276, "tr": "Okula gitmek için hangi yöne dönecekler?", "en": "Which way will they turn to go to the school?"},
+
+  {"id": 277, "tr": "Ali Amerika'dan geri dönecek.", "en": "Ali will return from America."},
+  {"id": 278, "tr": "Ali Amerika'dan geri dönmeyecek.", "en": "Ali won't return from America."},
+  {"id": 279, "tr": "Ali Amerika'dan geri dönecek mi?", "en": "Will Ali return from America?"},
+  {"id": 280, "tr": "Ali nereden geri dönecek?", "en": "Where will Ali return from?"},
+
+  {"id": 281, "tr": "Tren istasyondan saat 9'da ayrılacak.", "en": "The train will leave the station at 9 o'clock."},
+  {"id": 282, "tr": "Tren istasyondan saat 9'da ayrılmayacak.", "en": "The train won't leave the station at 9 o'clock."},
+  {"id": 283, "tr": "Tren istasyondan saat 9'da ayrılacak mı?", "en": "Will the train leave the station at 9 o'clock?"},
+  {"id": 284, "tr": "Tren istasyondan saat kaçta ayrılacak?", "en": "What time will the train leave the station?"},
+
+  {"id": 285, "tr": "Uçak vaktinde varacak.", "en": "The plane will arrive on time."},
+  {"id": 286, "tr": "Uçak vaktinde varmayacak.", "en": "The plane won't arrive on time."},
+  {"id": 287, "tr": "Uçak vaktinde varacak mı?", "en": "Will the plane arrive on time?"},
+  {"id": 288, "tr": "Uçak ne zaman varacak?", "en": "When will the plane arrive?"},
+
+  {"id": 289, "tr": "Oğlum yazın yüzecek.", "en": "My son will swim in the summer."},
+  {"id": 290, "tr": "Oğlum yazın yüzmeyecek.", "en": "My son won't swim in the summer."},
+  {"id": 291, "tr": "Oğlun yazın yüzecek mi?", "en": "Will your son swim in the summer?"},
+  {"id": 292, "tr": "Oğlun ne zaman yüzecek?", "en": "When will your son swim?"},
+
+  {"id": 293, "tr": "Ayşe yazın dağlara tırmanacak.", "en": "Ayse will climb the mountains in the summer."},
+  {"id": 294, "tr": "Ayşe yazın dağlara tırmanmayacak.", "en": "Ayse won't climb the mountains in the summer."},
+  {"id": 295, "tr": "Ayşe yazın dağlara tırmanacak mı?", "en": "Will Ayse climb the mountains in the summer?"},
+  {"id": 296, "tr": "Ayşe yazın nereye tırmanacak?", "en": "Where will Ayse climb in the summer?"},
+
+  {"id": 297, "tr": "Ben her şey için telefonumu kullanacağım.", "en": "I will use my phone for everything."},
+  {"id": 298, "tr": "Ben her şey için telefonumu kullanmayacağım.", "en": "I won't use my phone for everything."},
+  {"id": 299, "tr": "Her şey için telefonunu kullanacak mısın?", "en": "Will you use your phone for everything?"},
+  {"id": 300, "tr": "Telefonunu ne için kullanacaksın?", "en": "What will you use your phone for?"},
+
+  {"id": 301, "tr": "Ali gelecek yaz ata binecek.", "en": "Ali will ride a horse next summer."},
+  {"id": 302, "tr": "Ali gelecek yaz ata binmeyecek.", "en": "Ali won't ride a horse next summer."},
+  {"id": 303, "tr": "Ali gelecek yaz ata binecek mi?", "en": "Will Ali ride a horse next summer?"},
+  {"id": 304, "tr": "Ali gelecek yaz neye binecek?", "en": "What will Ali ride next summer?"},
+
+  {"id": 305, "tr": "Murat araba kullanacak.", "en": "Murat will drive a car."},
+  {"id": 306, "tr": "Murat araba kullanmayacak.", "en": "Murat won't drive a car."},
+  {"id": 307, "tr": "Murat araba kullanacak mı?", "en": "Will Murat drive a car?"},
+  {"id": 308, "tr": "Murat ne zaman araba kullanacak?", "en": "When will Murat drive?"},
+
+  {"id": 309, "tr": "Ali bu yıl bir avukat olacak.", "en": "Ali will become a lawyer this year."},
+  {"id": 310, "tr": "Ali bu yıl bir avukat olmayacak.", "en": "Ali won't become a lawyer this year."},
+  {"id": 311, "tr": "Ali bu yıl bir avukat olacak mı?", "en": "Will Ali become a lawyer this year?"},
+  {"id": 312, "tr": "Ali ne zaman bir avukat olacak?", "en": "When will Ali become a lawyer?"},
+
+  {"id": 313, "tr": "Her şey çok hızlı olacak.", "en": "Everything will happen very fast."},
+  {"id": 314, "tr": "Her şey çok hızlı olmayacak.", "en": "Everything won't happen very fast."},
+  {"id": 315, "tr": "Her şey çok hızlı olacak mı?", "en": "Will everything happen very fast?"},
+  {"id": 316, "tr": "Her şey nasıl olacak?", "en": "How will everything happen?"},
+
+  {"id": 317, "tr": "Ayşe Ankara'da yaşayacak.", "en": "Ayse will live in Ankara."},
+  {"id": 318, "tr": "Ayşe Ankara'da yaşamayacak.", "en": "Ayse won't live in Ankara."},
+  {"id": 319, "tr": "Ayşe Ankara'da yaşayacak mı?", "en": "Will Ayse live in Ankara?"},
+  {"id": 320, "tr": "Ayşe nerede yaşayacak?", "en": "Where will Ayse live?"},
+
+  {"id": 321, "tr": "Bitkiler su olmadan ölecek.", "en": " The plants will die without water."},
+  {"id": 322, "tr": "Bitkiler su olmadan ölmeyecek.", "en": " The plants won't die without water."},
+  {"id": 323, "tr": "Bitkiler su olmadan ölecek mi?", "en": "Will the plants die without water?"},
+  {"id": 324, "tr": "Bitkiler ne olmadan ölecek?", "en": "What will the plants die without?"},
+
+  {"id": 325, "tr": "Ali bahçesinde domates yetiştirecek.", "en": "Ali will grow tomatoes in his garden."},
+  {"id": 326, "tr": "Ali bahçesinde domates yetiştirmeyecek.", "en": "Ali won't grow tomatoes in his garden."},
+  {"id": 327, "tr": "Ali bahçesinde domates yetiştirecek mi?", "en": "Will Ali grow tomatoes in his garden?"},
+  {"id": 328, "tr": "Ali bahçesinde ne yetiştirecek?", "en": "What will Ali grow in his garden?"},
+
+  {"id": 329, "tr": "Soğuk hava bitkileri öldürecek.", "en": "The cold weather will kill the plants."},
+  {"id": 330, "tr": "Soğuk hava bitkileri öldürmeyecek.", "en": "The cold weather won't kill the plants."},
+  {"id": 331, "tr": "Soğuk hava bitkileri öldürecek mi?", "en": "Will the cold weather kill the plants?"},
+  {"id": 332, "tr": "Soğuk hava neyi öldürecek?", "en": "What will the cold weather kill?"},
+
+  {"id": 333, "tr": "Paramı bankada tutacağım.", "en": "I will keep my money in the bank."},
+  {"id": 334, "tr": "Paramı bankada tutmayacağım.", "en": "I won't keep my money in the bank."},
+  {"id": 335, "tr": "Paranı bankada tutacak mısın?", "en": "Will you keep your money in the bank?"},
+  {"id": 336, "tr": "Paranı nerede tutacaksın?", "en": "Where will you keep your money?"},
+
+  {"id": 337, "tr": "Ayşe'nin elini tutacağım.", "en": "I will hold Ayse's hand."},
+  {"id": 338, "tr": "Ayşe'nin elini tutmayacağım.", "en": "I won't hold Ayse's hand."},
+  {"id": 339, "tr": "Ayşe'nin elini tutacak mısın?", "en": "Will you hold Ayse's hand?"},
+  {"id": 340, "tr": "Kimin elini tutacaksın?", "en": "Whose hand will you hold?"},
+
+  {"id": 341, "tr": "Bebeğimi kollarımda tutacağım.", "en": "I will hold my baby in my arms."},
+  {"id": 342, "tr": "Bebeğimi kollarımda tutmayacağım.", "en": "I won't hold my baby in my arms."},
+  {"id": 343, "tr": "Bebeğini kollarında tutacak mısın?", "en": "Will you hold your baby in your arms?"},
+  {"id": 344, "tr": "Bebeğini ne zaman kollarında tutacaksın?", "en": "When will you hold your baby in your arms?"},
+
+  {"id": 345, "tr": "Sözümü tutacağım.", "en": "I will keep my promise."},
+  {"id": 346, "tr": "Sözümü tutmayacağım.", "en": "I won't keep my promise."},
+  {"id": 347, "tr": "Sözünü tutacak mısın?", "en": "Will you keep your promise?"},
+  {"id": 348, "tr": "Sözünü ne zaman tutacaksın?", "en": "When will you keep your promise?"},
+
+  {"id": 349, "tr": "Ayşe gelecek cumartesi odasını temizleyecek.", "en": "Ayse will clean her room next Saturday."},
+  {"id": 350, "tr": "Ayşe gelecek cumartesi odasını temizlemeyecek.", "en": "Ayse won't clean her room next Saturday."},
+  {"id": 351, "tr": "Ayşe gelecek cumartesi odasını temizleyecek mi?", "en": "Will Ayse clean her room next Saturday?"},
+  {"id": 352, "tr": "Ayşe odasını ne zaman temizleyecek?", "en": "When will Ayse clean her room?"},
+
+  {"id": 353, "tr": "Ayşe partiden önce odasına çeki düzen verecek.", "en": "Ayse will tidy up her room before the party."},
+  {"id": 354, "tr": "Ayşe partiden önce odasına çeki düzen vermeyecek.", "en": "Ayse won't tidy up her room before the party."},
+  {"id": 355, "tr": "Ayşe partiden önce odasına çeki düzen verecek mi?", "en": "Will Ayse tidy up her room before the party?"},
+  {"id": 356, "tr": "Ayşe saat kaçta odasına çeki düzen verecek?", "en": "What time will Ayse tidy up her room?"},
+
+  {"id": 357, "tr": "Ali akşam yemeğinin ardından masayı silecek.", "en": "Ali will wipe the table after dinner."},
+  {"id": 358, "tr": "Ali akşam yemeğinin ardından masayı silmeyecek.", "en": "Ali won't wipe the table after dinner."},
+  {"id": 359, "tr": "Ali akşam yemeğinin ardından masayı silecek mi?", "en": "Will Ali wipe the table after dinner?"},
+  {"id": 360, "tr": "Ali masayı ne zaman silecek?", "en": "When will Ali wipe the table?"},
+
+  {"id": 361, "tr": "Güneş kıyafetlerimi kurutacak.", "en": "The sun will dry my clothes."},
+  {"id": 362, "tr": "Güneş kıyafetlerimi kurutmayacak.", "en": "The sun won't dry my clothes."},
+  {"id": 363, "tr": "Güneş kıyafetlerini kurutacak mı?", "en": "Will the sun dry your clothes?"},
+  {"id": 364, "tr": "Güneş ne zaman kıyafetlerimi kurutacak?", "en": "When will the sun dry my clothes?"},
+
+  {"id": 365, "tr": "Annem kütüphanenin tozunu alacak.", "en": "My mother will dust the library."},
+  {"id": 366, "tr": "Annem kütüphanenin tozunu almayacak.", "en": "My mother won't dust the library."},
+  {"id": 367, "tr": "Annen kütüphanenin tozunu alacak mı?", "en": "Will your mother dust the library?"},
+  {"id": 368, "tr": "Annen neyin tozunu alacak?", "en": "What will your mother dust?"},
+
+  {"id": 369, "tr": "Ayşe hep gözlük takacak.", "en": "Ayse will always wear the glasses."},
+  {"id": 370, "tr": "Ayşe hep gözlük takmayacak.", "en": "Ayse won't always wear the glasses."},
+  {"id": 371, "tr": "Ayşe hep gözlük takacak mı?", "en": "Will Ayse always wear the glasses?"},
+  {"id": 372, "tr": "Ayşe neden gözlük takacak?", "en": "Why will Ayse wear the glasses?"},
+
+  {"id": 373, "tr": "Okul için kıyafetlerimi giyeceğim.", "en": "I will put on my clothes for the school."},
+  {"id": 374, "tr": "Okul için kıyafetlerimi giymeyeceğim.", "en": "I won't put on my clothes for the school."},
+  {"id": 375, "tr": "Okul için kıyafetlerini giyecek misin?", "en": "Will you put on your clothes for the school?"},
+  {"id": 376, "tr": "Kıyafetlerini ne zaman giyeceksin?", "en": "When will you put on your clothes?"},
+
+  {"id": 377, "tr": "Duş almak için kıyafetlerimi çıkaracağım.", "en": "I will take off my clothes to take a shower."},
+  {"id": 378, "tr": "Duş almak için kıyafetlerimi çıkarmayacağım.", "en": "I won't take off my clothes to take a shower."},
+  {"id": 379, "tr": "Duş almak için kıyafetlerini çıkaracak mısın?", "en": "Will you take off your clothes to take a shower?"},
+  {"id": 380, "tr": "Kıyafetlerini ne zaman çıkaracaksın?", "en": "When will you take off your clothes?"},
+
+  {"id": 381, "tr": "Ali çok yemek yiyecek.", "en": "Ali will eat a lot of food."},
+  {"id": 382, "tr": "Ali çok yemek yimeyecek.", "en": "Ali won't eat a lot of food."},
+  {"id": 383, "tr": "Ali çok yemek yiyecek mi?", "en": "Will Ali eat a lot of food?"},
+  {"id": 384, "tr": "Ali ne kadar yemek yiyecek?", "en": "How much food will Ali eat?"},
+
+  {"id": 385, "tr": "Murat çok içki içecek.", "en": "Murat will drink a lot of alcohol."},
+  {"id": 386, "tr": "Murat çok içki içmeyecek.", "en": "Murat won't drink a lot of alcohol."},
+  {"id": 387, "tr": "Murat çok içki içecek mi?", "en": "Will Murat drink a lot of alcohol?"},
+  {"id": 388, "tr": "Murat ne kadar içki içecek?", "en": "How much alcohol will Murat drink?"},
+
+  {"id": 389, "tr": "Gelecek pazar anneannemi arayacağım.", "en": "I will call my grandmother next Sunday."},
+  {"id": 390, "tr": "Gelecek pazar anneannemi aramayacağım.", "en": "I won't call my grandmother next Sunday."},
+  {"id": 391, "tr": "Gelecek pazar anneanneni arayacak mısın?", "en": "Will you call your grandmother next Sunday?"},
+  {"id": 392, "tr": "Gelecek pazar kimi arayacaksın?", "en": "Who will you call next Sunday?"},
+
+  {"id": 393, "tr": "Gelecek yıl bir kafe işleteceğim.", "en": "I will run a cafe next year."},
+  {"id": 394, "tr": "Gelecek yıl bir kafe işletmeyeceğim.", "en": "I won't run a cafe next year."},
+  {"id": 395, "tr": "Gelecek yıl bir kafe işletecek misin?", "en": "Will you run a cafe next year?"},
+  {"id": 396, "tr": "Gelecek yıl ne işleteceksin?", "en": "What will you run next year?"},
+
+  {"id": 397, "tr": "Öğretmen çocuklara bağıracak.", "en": "The teacher will shout at the children."},
+  {"id": 398, "tr": "Öğretmen çocuklara bağırmayacak.", "en": "The teacher won't shout at the children."},
+  {"id": 399, "tr": "Öğretmen çocuklara bağıracak mı?", "en": "Will the teacher shout at the children?"},
+  {"id": 400, "tr": "Öğretmen kime bağıracak?", "en": "Who will the teacher shout at?"},
+
+  {"id": 401, "tr": "Çocuklar bana gülümseyecek.", "en": "The children will smile at me."},
+  {"id": 402, "tr": "Çocuklar bana gülümsemeyecek.", "en": "The children won't smile at me."},
+  {"id": 403, "tr": "Çocuklar sana gülümseyecek mi?", "en": "Will the children smile at you?"},
+  {"id": 404, "tr": "Çocuklar kime gülümseyecek?", "en": "Who will the children smile at?"},
+
+  {"id": 405, "tr": "Onlar şakalarıma kahkaha atacak.", "en": "They will laugh at my jokes."},
+  {"id": 406, "tr": "Onlar şakalarıma kahkaha atmayacak.", "en": "They won't laugh at my jokes."},
+  {"id": 407, "tr": "Onlar şakalarına kahkaha atacaklar mı?", "en": "Will they laugh at your jokes?"},
+  {"id": 408, "tr": "Onlar ne zaman kahkaha atacak?", "en": "When will they laugh?"},
+
+  {"id": 409, "tr": "Ayşe bana göz kırpacak.", "en": "Ayse will wink at me."},
+  {"id": 410, "tr": "Ayşe bana göz kırpmayacak.", "en": "Ayse won't wink at me."},
+  {"id": 411, "tr": "Ayşe sana göz kırpacak mı?", "en": "Will Ayse wink at you?"},
+  {"id": 412, "tr": "Ayşe kime göz kırpacak?", "en": "Who will Ayse wink at?"},
+
+  {"id": 413, "tr": "Ali her gün Ayşe'yi düşünecek.", "en": "Ali will think about Ayse every day."},
+  {"id": 414, "tr": "Ali her gün Ayşe'yi düşünmeyecek.", "en": "Ali won't think about Ayse every day."},
+  {"id": 415, "tr": "Ali her gün Ayşe'yi düşünecek mi?", "en": "Will Ali think about Ayse every day?"},
+  {"id": 416, "tr": "Ali her gün kimi düşünecek?", "en": "Who will Ali think about every day?"},
+
+  {"id": 417, "tr": "Ayşe İngilizcesini geliştirmeye çalışacak.", "en": "Ayse will try to improve her English."},
+  {"id": 418, "tr": "Ayşe İngilizcesini geliştirmeye çalışmayacak.", "en": "Ayse won't try to improve her English."},
+  {"id": 419, "tr": "Ayşe İngilizcesini geliştirmeye çalışacak mı?", "en": "Will Ayse try to improve her English?"},
+  {"id": 420, "tr": "Ayşe neyi geliştirmeye çalışacak?", "en": "What will Ayse try to improve?"},
+
+  {"id": 421, "tr": "Onlar bizi bekleyecek.", "en": "They will wait for us."},
+  {"id": 422, "tr": "Onlar bizi beklemeyecek.", "en": "They won't wait for us."},
+  {"id": 423, "tr": "Onlar sizi bekleyecek mi?", "en": "Will they wait for you?"},
+  {"id": 424, "tr": "Onlar kimi bekleyecek?", "en": "Who will they wait for?"},
+
+  {"id": 425, "tr": "Ali çocuklarına bir hikaye okuyacak.", "en": "Ali will read a story to his children."},
+  {"id": 426, "tr": "Ali çocuklarına bir hikaye okumayacak.", "en": "Ali won't read a story to his children."},
+  {"id": 427, "tr": "Ali çocuklarına bir hikaye okuyacak mı?", "en": "Will Ali read a story to his children?"},
+  {"id": 428, "tr": "Ali çocuklarına ne okuyacak?", "en": "What will Ali read to his children?"},
+
+  {"id": 429, "tr": "Ayşe bana yakında bir mektup yazacak.", "en": "Ayse will write me a letter soon."},
+  {"id": 430, "tr": "Ayşe bana yakında bir mektup yazmayacak.", "en": "Ayse won't write me a letter soon."},
+  {"id": 431, "tr": "Ayşe sana yakında bir mektup yazacak mı?", "en": "Will Ayse write you a letter soon?"},
+  {"id": 432, "tr": "Ayşe sana ne zaman bir mektup yazacak?", "en": "When will Ayse write to you a letter?"},
+
+  {"id": 433, "tr": "Ali çok iyi resimler çizecek.", "en": "Ali will draw very good pictures."},
+  {"id": 434, "tr": "Ali çok iyi resimler çizmeyecek.", "en": "Ali won't draw very good pictures."},
+  {"id": 435, "tr": "Ali çok iyi resimler çizecek mi?", "en": "Will Ali draw very good pictures?"},
+  {"id": 436, "tr": "Ali ne çizecek?", "en": "What will Ali draw?"},
+
+  {"id": 437, "tr": "Duvarları gelecek ay boyayacağız.", "en": "We will paint the walls next month."},
+  {"id": 438, "tr": "Duvarları gelecek ay boyamayacağız.", "en": "We won't paint the walls next month."},
+  {"id": 439, "tr": "Duvarları gelecek ay boyayacak mısınız?", "en": "Will you paint the walls next month?"},
+  {"id": 440, "tr": "Duvarları ne zaman boyayacaksınız?", "en": "When will you paint the walls?"},
+
+  {"id": 441, "tr": "Ali gitar çalacak.", "en": "Ali will play the guitar."},
+  {"id": 442, "tr": "Ali gitar çalmayacak.", "en": "Ali won't play the guitar."},
+  {"id": 443, "tr": "Ali gitar çalacak mı?", "en": "Will Ali play the guitar?"},
+  {"id": 444, "tr": "Ali ne çalacak?", "en": "What will Ali play?"},
+
+  {"id": 445, "tr": "Rüzgar yarın esecek.", "en": "The wind will blow tomorrow."},
+  {"id": 446, "tr": "Rüzgar yarın esmeyecek.", "en": "The wind won't blow tomorrow."},
+  {"id": 447, "tr": "Rüzgar yarın esecek mi?", "en": "Will the wind blow tomorrow?"},
+  {"id": 448, "tr": "Rüzgar ne zaman esecek?", "en": "When will the wind blow?"},
+
+  {"id": 449, "tr": "Ayşe pastasına üfleyecek.", "en": "Ayse will blow her cake."},
+  {"id": 450, "tr": "Ayşe pastasına üflemeyecek.", "en": "Ayse won't blow her cake."},
+  {"id": 451, "tr": "Ayşe pastasına üfleyecek mi?", "en": "Will Ayse blow her cake?"},
+  {"id": 452, "tr": "Ayşe ne zaman pastasına üfleyecek?", "en": "When will Ayse blow her cake?"},
+
+  {"id": 453, "tr": "Biz İngilizce öğreneceğiz.", "en": "We will learn English."},
+  {"id": 454, "tr": "Biz İngilizce öğrenmeyeceğiz.", "en": "We won't learn English."},
+  {"id": 455, "tr": "İngilizce öğrenecek misiniz?", "en": "Will you learn English?"},
+  {"id": 456, "tr": "Ne öğreneceksiniz?", "en": "What will you learn?"},
+
+  {"id": 457, "tr": "Size İngilizce öğreteceğim.", "en": "I will teach you English."},
+  {"id": 458, "tr": "Size İngilizce öğretmeyeceğim.", "en": "I won't teach you English."},
+  {"id": 459, "tr": "Bize İngilizce öğretecek misin?", "en": "Will you teach us English?"},
+  {"id": 460, "tr": "Bize ne  öğreteceksin?", "en": "What will you teach us?"},
+
+  {"id": 461, "tr": "Ayşe için kapıyı açacağım.", "en": "I will open the door for Ayse."},
+  {"id": 462, "tr": "Ayşe için kapıyı açmayacağım.", "en": "I won't open the door for Ayse."},
+  {"id": 463, "tr": "Ayşe için kapıyı açacak mısın?", "en": "Will you open the door for Ayse?"},
+  {"id": 464, "tr": "Kimin için kapıyı açacaksın?", "en": "Who will you open the door for?"},
+
+  {"id": 465, "tr": "Gözlerimi kapayacağım.", "en": "I will close my eyes."},
+  {"id": 466, "tr": "Gözlerimi kapamayacağım.", "en": "I won't close my eyes."},
+  {"id": 467, "tr": "Gözlerini kapayacak mısın?", "en": "Will you close your eyes?"},
+  {"id": 468, "tr": "Neden gözlerini kapayacaksın?", "en": "Why will you close your eyes?"},
+
+  {"id": 469, "tr": "Ali televizyonu açacak.", "en": "Ali will turn on the TV."},
+  {"id": 470, "tr": "Ali televizyonu açmayacak.", "en": "Ali won't turn on the TV."},
+  {"id": 471, "tr": "Ali televizyonu açacak mı?", "en": "Will Ali turn on the TV?"},
+  {"id": 472, "tr": "Ali saat kaçta televizyonu açacak?", "en": "What time will Ali turn on the TV?"},
+
+  {"id": 473, "tr": "Ayşe ışıkları kapatacak.", "en": "Ayse will turn off the lights."},
+  {"id": 474, "tr": "Ayşe ışıkları kapatmayacak.", "en": "Ayse won't turn off the lights."},
+  {"id": 475, "tr": "Ayşe ışıkları kapatacak mı?", "en": "Will Ayse turn off the lights?"},
+  {"id": 476, "tr": "Ayşe saat kaçta ışıkları kapatacak?", "en": "What time will Ayse turn off the lights?"},
+
+  {"id": 477, "tr": "Öğretmen iki dakika içinde sınıfa girecek.", "en": "The teacher will enter the classroom in two minutes."},
+  {"id": 478, "tr": "Öğretmen iki dakika içinde sınıfa girmeyecek.", "en": "The teacher won't enter the classroom in two minutes."},
+  {"id": 479, "tr": "Öğretmen iki dakika içinde sınıfa girecek mi?", "en": "Will the teacher enter the classroom in two minutes?"},
+  {"id": 480, "tr": "Öğretmen sınıfa ne zaman girecek?", "en": "When will the teacher enter the classroom?"},
+
+  {"id": 481, "tr": "Evden dışarı çıkacağız.", "en": "We will go out of the house."},
+  {"id": 482, "tr": "Evden dışarı çıkmayacağız.", "en": "We won't go out of the house."},
+  {"id": 483, "tr": "Evden dışarı çıkacak mısınız?", "en": "Will you go out of the house?"},
+  {"id": 484, "tr": "Ne zaman evden dışarı çıkacaksınız?", "en": "When will you go out of the house?"},
+
+  {"id": 485, "tr": "Sınıftan içeri girecekler.", "en": "They will come into the classroom."},
+  {"id": 486, "tr": "Sınıftan içeri girmeyecekler.", "en": "They won't come into the classroom."},
+  {"id": 487, "tr": "Sınıftan içeri girecekler mi?", "en": "Will they come into the classroom?"},
+  {"id": 488, "tr": "Ne zaman Sınıftan içeriye girecekler?", "en": "When will they go into the classroom?"},
+
+  {"id": 489, "tr": "Sana inanacağım.", "en": "I will believe in you."},
+  {"id": 490, "tr": "Sana inanmayacağım.", "en": "I won't believe in you."},
+  {"id": 491, "tr": "Bana inanacak mısın?", "en": "Will you believe in me?"},
+  {"id": 492, "tr": "Bana ne zaman inanacaksın?", "en": "When will you believe in me?"},
+
+  {"id": 493, "tr": "Biz sana inanacağız.", "en": "We will believe in you."},
+  {"id": 494, "tr": "Biz sana inanmayacağız.", "en": "We won't believe in you."},
+  {"id": 495, "tr": "Bize inanacak mısınız?", "en": "Will you believe in us?"},
+  {"id": 496, "tr": "Onlara neden inanacağız?", "en": "Why will we believe in them?"},
+
+  {"id": 497, "tr": "İyi bir gelecek umacağız.", "en": "We will hope for a good future."},
+  {"id": 498, "tr": "İyi bir gelecek ummayacağız.", "en": "We won't hope for a good future."},
+  {"id": 499, "tr": "İyi bir gelecek umacak mısınız?", "en": "Will you hope for a good future?"},
+  {"id": 500, "tr": "Ne zaman iyi bir gelecek umacaksınız?", "en": "When will you hope fora good future?"},
+
+  {"id": 501, "tr": "Ali bana yardım etmeye söz verecek.", "en": "Ali will promise to help me."},
+  {"id": 502, "tr": "Ali bana yardım etmeye söz vermeyecek.", "en": "Ali won't promise to help me."},
+  {"id": 503, "tr": "Ali sana yardım etmeye söz verecek mi?", "en": "Will Ali promise to help you?"},
+  {"id": 504, "tr": "Ali ne zaman sana yardım etmeye söz verecek?", "en": "When will Ali promise to help you?"},
+
+  {"id": 505, "tr": "Takımımız her hafta kazanacak.", "en": "Our team will win every week."},
+  {"id": 506, "tr": "Takımımız her hafta kazanmayacak.", "en": "Our team won't win every week."},
+  {"id": 507, "tr": "Takımınız her hafta kazanacak mı?", "en": "Will your team win every week?"},
+  {"id": 508, "tr": "Takımınız ne sıklıkla kazanacak?", "en": "How often will your team win?"},
+
+  {"id": 509, "tr": "Ali çok para kazanacak.", "en": "Ali will earn a lot of money."},
+  {"id": 510, "tr": "Ali çok para kazanmayacak.", "en": "Ali won't earn a lot of money."},
+  {"id": 511, "tr": "Ali çok para kazanacak mı?", "en": "Will Ali earn a lot of money?"},
+  {"id": 512, "tr": "Ali ne kadar para kazanacak?", "en": "How much money will Ali earn?"},
+
+  {"id": 513, "tr": "Ali piyangoyu kazanacak.", "en": "Ali will win the lottery."},
+  {"id": 514, "tr": "Ali piyangoyu kazanmayacak.", "en": "Ali won't win the lottery."},
+  {"id": 515, "tr": "Ali piyangoyu kazanacak mı?", "en": "Will Ali win the lottery?"},
+  {"id": 516, "tr": "Ali piyongodan kaç para kazanacak?", "en": "How much money will Ali win from the lottery?"},
+
+  {"id": 517, "tr": "Ali anahtarını kaybedecek.", "en": "Ali will lose his key."},
+  {"id": 518, "tr": "Ali anahtarını kaybetmeyecek.", "en": "Ali won't lose his key."},
+  {"id": 519, "tr": "Ali anahtarını kaybedecek mi?", "en": "Will Ali lose his key?"},
+  {"id": 520, "tr": "Ali neyi kaybedecek?", "en": "What will Ali lose?"},
+
+  {"id": 521, "tr": "Ayşe sınavlardan geçecek.", "en": "Ayse will pass the exams."},
+  {"id": 522, "tr": "Ayşe sınavlardan geçmeyecek.", "en": "Ayse won't pass the exams."},
+  {"id": 523, "tr": "Ayşe sınavlardan geçecek mi?", "en": "Will Ayse pass the exams?"},
+  {"id": 524, "tr": "Ayşe hangi sınavlardan geçecek?", "en": "Which exams will Ayse pass?"},
+
+  {"id": 525, "tr": "Murat sınavlardan kalacak.", "en": "Murat will fail the exams."},
+  {"id": 526, "tr": "Murat sınavlardan kalmayacak.", "en": "Murat won't fail the exams."},
+  {"id": 527, "tr": "Murat sınavlardan kalacak mı?", "en": "Will Murat fail the exams?"},
+  {"id": 528, "tr": "Murat hangi sınavlardan kalacak?", "en": "Which exams will Murat fail?"},
+
+  {"id": 529, "tr": "Murat bu yıl mezun olacak.", "en": "Murat will graduate this year."},
+  {"id": 530, "tr": "Murat bu yıl mezun olmayacak.", "en": "Murat won't graduate this year."},
+  {"id": 531, "tr": "Murat bu yıl mezun olacak mı?", "en": "Will Murat graduate this year?"},
+  {"id": 532, "tr": "Murat ne zaman mezun olacak?", "en": "When will Murat graduate?"},
+
+  {"id": 533, "tr": "Onlar seneye evlenecek.", "en": "They will get married next year."},
+  {"id": 534, "tr": "Onlar seneye evlenmeyecek.", "en": "They won't get married next year."},
+  {"id": 535, "tr": "Onlar seneye evlenecek mi?", "en": "Will they get married next year?"},
+  {"id": 536, "tr": "Onlar ne zaman evlenecek?", "en": "When will they get married?"},
+
+  {"id": 537, "tr": "Onlar on yıl içinde boşanacak.", "en": "They will get divorced in ten years."},
+  {"id": 538, "tr": "Onlar on yıl içinde boşanmayacak.", "en": "They won't get divorced in ten years."},
+  {"id": 539, "tr": "Onlar on yıl içinde boşanacak mı?", "en": "Will they get divorced in ten years?"},
+  {"id": 540, "tr": "Onlar ne zaman boşanacak?", "en": "When will they get divorced?"},
+
+  {"id": 541, "tr": "Bizim küçük bir kafemiz olacak.", "en": "We will own a small cafe."},
+  {"id": 542, "tr": "Bizim küçük bir kafemiz olmayacak.", "en": "We won't own a small cafe."},
+  {"id": 543, "tr": "Sizin küçük bir kafeniz olacak mı?", "en": "Will you own a small cafe?"},
+  {"id": 544, "tr": "Sizin nasıl bir kafeniz olacak?", "en": "What kind of cafe will you own?"},
+
+  {"id": 545, "tr": "Bu çanta Ayşe'ye ait olacak.", "en": "This bag will belong to Ayse."},
+  {"id": 546, "tr": "Bu çanta Ayşe'ye ait olmayacak.", "en": "This bag won't belong to Ayse."},
+  {"id": 547, "tr": "Bu çanta Ayşe'ye ait olacak mı?", "en": "Will this bag belong to Ayse?"},
+  {"id": 548, "tr": "Bu çanta kime ait olacak?", "en": "Who will this bag belong to?"},
+
+  {"id": 549, "tr": "Annemle yemek pişireceğiz.", "en": "We will cook  with my mother."},
+  {"id": 550, "tr": "Annemle yemek pişirmeyeceğiz.", "en": "We won't cook  with my mother."},
+  {"id": 551, "tr": "Annenle yemek pişirecek misiniz?", "en": "Will you cook  with your mother?"},
+  {"id": 552, "tr": "Kiminle yemek pişireceksiniz?", "en": "Who will you cook with?"},
+
+  {"id": 553, "tr": "Ayşe yarın sabah yumurta kızartacak.", "en": "Ayse will fry eggs tomorrow morning."},
+  {"id": 554, "tr": "Ayşe yarın sabah yumurta kızartmayacak.", "en": "Ayse won't fry eggs tomorrow morning."},
+  {"id": 555, "tr": "Ayşe yarın sabah yumurta kızartacak mı?", "en": "Will Ayse fry eggs tomorrow morning?"},
+  {"id": 556, "tr": "Ayşe ne zaman yumurta kızartıcak?", "en": "When will Ayse fry eggs?"},
+
+  {"id": 557, "tr": "Ayşe yarın öğlen yumurta kaynatacak.", "en": "Ayse will boil eggs tomorrow noon."},
+  {"id": 558, "tr": "Ayşe yarın öğlen yumurta kaynatmayacak.", "en": "Ayse won't boil eggs tomorrow noon."},
+  {"id": 559, "tr": "Ayşe yarın öğlen yumurta kaynatacak mı?", "en": "Will Ayse boil eggs tomorrow noon?"},
+  {"id": 560, "tr": "Ayşe ne zaman yumurta haşlayacak?", "en": "When will Ayse boil eggs?"},
+
+  {"id": 561, "tr": "Ayşe gelecek hafta kurabiye yapacak.", "en": "Ayse will make cookies next week."},
+  {"id": 562, "tr": "Ayşe gelecek hafta kurabiye yapmayacak.", "en": "Ayse won't make cookies next week."},
+  {"id": 563, "tr": "Ayşe gelecek hafta kurabiye yapacak mı?", "en": "Will Ayse make cookies next week?"},
+  {"id": 564, "tr": "Ayşe gelecek hafta kaç tane kurabiye yapacak?", "en": "How many cookies will Ayse make next week?"},
+
+  {"id": 565, "tr": "Sütü bardağa dökeceksin.", "en": "You will pour the milk into the glass."},
+  {"id": 566, "tr": "Sütü bardağa dökmeyeceksin.", "en": "You won't pour the milk into the glass."},
+  {"id": 567, "tr": "Sütü bardağa dökecek misin?", "en": "Will you pour the milk into the glass?"},
+  {"id": 568, "tr": "Sütü neden bardağa dökeceksin?", "en": "Why will you pour the milk into the glass?"},
+
+  {"id": 569, "tr": "Sütü karıştıracağım.", "en": "I will stir the milk."},
+  {"id": 570, "tr": "Sütü karıştırmayacağım.", "en": "I won't stir the milk."},
+  {"id": 571, "tr": "Sütü karıştıracak mısın?", "en": "Will you stir the milk?"},
+  {"id": 572, "tr": "Sütü ne kadar sürer karıştıracaksın?", "en": "How long will you stir the milk?"},
+
+  {"id": 573, "tr": "Salatayı karıştıracağım.", "en": "I will mix the salad."},
+  {"id": 574, "tr": "Salatayı karıştırmayacağım.", "en": "I won't mix the salad."},
+  {"id": 575, "tr": "Salatayı karıştıracak mısın?", "en": "Will you mix the salad?"},
+  {"id": 576, "tr": "Salatayı nasıl karıştıracaksın?", "en": "How will you mix the salad?"},
+
+  {"id": 577, "tr": "Sebzeleri eski bir bıçakla keseceğim.", "en": "I will cut the vegetables with an old knife."},
+  {"id": 578, "tr": "Sebzeleri eski bir bıçakla kesmeyeceğim.", "en": "I won't cut the vegetables with an old knife."},
+  {"id": 579, "tr": "Sebzeleri eski bir bıçakla kesecek misin?", "en": "Will you cut the vegetables with an old knife?"},
+  {"id": 580, "tr": "Sebzeleri ne ile keseceksin?", "en": "What will you cut the vegetables with?"},
+
+  {"id": 581, "tr": "Yemek pişirmeden önce patateslerin kabuğunu soyacağız.", "en": "We will peel the potatoes before cooking."},
+  {"id": 582, "tr": "Yemek pişirmeden önce patateslerin kabuğunu soymayacağız.", "en": "We won't peel the potatoes before cooking."},
+  {"id": 583, "tr": "Yemek pişirmeden önce patateslerin kabuğunu soyacak mısınız?", "en": "Will you peel the potatoes before cooking?"},
+  {"id": 584, "tr": "Yemek pişirmeden önce neyin kabuğunu soyacaksınız?", "en": "What will you peel before cooking?"},
+
+  {"id": 585, "tr": "Onlar arabayı itecek.", "en": "They will push the car."},
+  {"id": 586, "tr": "Onlar arabayı itmeyecek.", "en": "They won't push the car."},
+  {"id": 587, "tr": "Onlar arabayı itecek mi?", "en": "Will they push the car?"},
+  {"id": 588, "tr": "Onlar neyi itecek?", "en": "What will they push?"},
+
+  {"id": 589, "tr": "Siz arabayı çekeceksiniz.", "en": "You will pull the car."},
+  {"id": 590, "tr": "Siz arabayı çekmeyeceksiniz.", "en": "You won't pull the car."},
+  {"id": 591, "tr": "Siz arabayı çekecek misiniz?", "en": "Will you pull the car?"},
+  {"id": 592, "tr": "Siz neyi çekeceksiniz?", "en": "What will you pull?"},
+
+  {"id": 593, "tr": "Ali benim çantamı taşıyacak.", "en": "Ali will carry my bag."},
+  {"id": 594, "tr": "Ali benim çantamı taşımayacak.", "en": "Ali won't carry my bag."},
+  {"id": 595, "tr": "Ali senin çantanı taşıyacak mı?", "en": "Will Ali carry your bag?"},
+  {"id": 596, "tr": "Ali neyi taşıyacak?", "en": "What will Ali carry?"},
+
+  {"id": 597, "tr": "Çocuklar bize el sallayacak.", "en": "The children will wave at us."},
+  {"id": 598, "tr": "Çocuklar bize el sallamayacak.", "en": "The children won't wave at us."},
+  {"id": 599, "tr": "Çocuklar size el sallayacak mı?", "en": "Will the children wave at you?"},
+  {"id": 600, "tr": "Çocuklar kime el sallayacak?", "en": "Who will the children wave at?"},
+
+  {"id": 601, "tr": "Ali içmeden önce ayranı sallayacak.", "en": "Ali will shake the ayran before drinking."},
+  {"id": 602, "tr": "Ali içmeden önce ayranı sallamayacak.", "en": "Ali won't shake the ayran before drinking."},
+  {"id": 603, "tr": "Ali içmeden önce ayranı sallayacak mı?", "en": "Will Ali shake the ayran before drinking?"},
+  {"id": 604, "tr": "Ali içmeden önce neyi sallayacak?", "en": "What will Ali shake before drinking?"},
+
+  {"id": 605, "tr": "Ronaldo topa vuracak.", "en": "Ronaldo will hit the ball."},
+  {"id": 606, "tr": "Ronaldo topa vurmayacak.", "en": "Ronaldo won't hit the ball."},
+  {"id": 607, "tr": "Ronaldo topa vuracak mı?", "en": "Will Ronaldo hit the ball?"},
+  {"id": 608, "tr": "Ronaldo ne zaman topa vuracak?", "en": "When will Ronaldo hit the ball?"},
+
+  {"id": 609, "tr": "Ayşe anahtarlarını masaya koyacak.", "en": "Ayse will put her keys on the table."},
+  {"id": 610, "tr": "Ayşe anahtarlarını masaya koymayacak.", "en": "Ayse won't put her keys on the table."},
+  {"id": 611, "tr": "Ayşe anahtarlarını masaya koyacak mı?", "en": "Will Ayse put her keys on the table?"},
+  {"id": 612, "tr": "Ayşe anahtarlarını nereye koyacak?", "en": "Where will Ayse put her keys?"},
+
+  {"id": 613, "tr": "Biz gelecek sene taşınacağız.", "en": "We will move next year."},
+  {"id": 614, "tr": "Biz gelecek sene taşınmayacağız.", "en": "We won't move next year."},
+  {"id": 615, "tr": "Gelecek sene taşınacak mısınız?", "en": "Will you move next year?"},
+  {"id": 616, "tr": "Gelecek sene nereye taşınacaksınız?", "en": "Where will you move next year?"},
+
+  {"id": 617, "tr": "Ali bardağını portakal suyuyla dolduracak.", "en": "Ali will fill his glass with orange juice."},
+  {"id": 618, "tr": "Ali bardağını portakal suyuyla doldurmayacak.", "en": "Ali won't fill his glass with orange juice."},
+  {"id": 619, "tr": "Ali bardağını portakal suyuyla dolduracak mı?", "en": "Will Ali fill his glass with orange juice?"},
+  {"id": 620, "tr": "Ali bardağını ne ile dolduracak?", "en": "What will Ali fill his glass with?"},
+
+  {"id": 621, "tr": "Ayşe birazdan çöpü boşaltacak.", "en": "Ayse will empty the garbage soon."},
+  {"id": 622, "tr": "Ayşe birazdan çöpü boşaltmayacak.", "en": "Ayse won't empty the garbage soon."},
+  {"id": 623, "tr": "Ayşe birazdan çöpü boşaltacak mı?", "en": "Will Ayse empty the garbage soon?"},
+  {"id": 624, "tr": "Ayşe ne zaman çöpü boşaltacak?", "en": "When will Ayse empty the garbage?"},
+
+  {"id": 625, "tr": "Ali bana daha iyi bir iş teklif edecek.", "en": "Ali will offer me a better job."},
+  {"id": 626, "tr": "Ali bana daha iyi bir iş teklif etmeyecek.", "en": "Ali won't offer me a better job."},
+  {"id": 627, "tr": "Ali sana daha iyi bir iş teklif edecek mi?", "en": "Will Ali offer you a better job?"},
+  {"id": 628, "tr": "Ali sana ne teklif edecek?", "en": "What will Ali offer you?"},
+
+  {"id": 629, "tr": "Çocukların bahçede oynamasına izin vereceğim.", "en": "I will let the children play in the garden."},
+  {"id": 630, "tr": "Çocukların bahçede oynamasına izin vermeyeceğim.", "en": "I won't let the children play in the garden."},
+  {"id": 631, "tr": "Çocukların bahçede oynamasına izin verecek misin?", "en": "Will you let the children play in the garden?"},
+  {"id": 632, "tr": "Çocukların nerede oynamasına izin vereceksin?", "en": "Where will you let the children play?"},
+
+  {"id": 633, "tr": "Senin teklifini kabul edeceğim.", "en": "I will accept your offer."},
+  {"id": 634, "tr": "Senin teklifini kabul etmeyeceğim.", "en": "I won't accept your offer."},
+  {"id": 635, "tr": "Benim teklifimi kabul edecek misin?", "en": "Will you accept my offer?"},
+  {"id": 636, "tr": "Neden onları teklifini kabul edeceksin?", "en": "Why will you accept their offer?"},
+
+  {"id": 637, "tr": "Ali benimle aynı fikirde olacak.", "en": "Ali will agree with me."},
+  {"id": 638, "tr": "Ali benimle aynı fikirde olmayacak.", "en": "Ali won't agree with me."},
+  {"id": 639, "tr": "Ali seninle aynı fikirde olacak mı?", "en": "Will Ali agree with you?"},
+  {"id": 640, "tr": "Ali kiminle aynı fikirde olacak?", "en": "Who will Ali agree with?"},
+
+  {"id": 641, "tr": "Ayşe cevap vermeyi reddedecek.", "en": "Ayse will refuse to answer."},
+  {"id": 642, "tr": "Ayşe cevap vermeyi reddetmeyecek.", "en": "Ayse won't refuse to answer."},
+  {"id": 643, "tr": "Ayşe cevap vermeyi reddedecek mi?", "en": "Will Ayse refuse to answer?"},
+  {"id": 644, "tr": "Ayşe neden cevap vermeyi reddedecek?", "en": "Why will Ayse refuse to answer?"},
+
+  {"id": 645, "tr": "Okul başvurumu onaylayacak.", "en": "The school will approve my application."},
+  {"id": 646, "tr": "Okul başvurumu onaylamayacak.", "en": "The school won't approve my application."},
+  {"id": 647, "tr": "Okul başvurunu onaylayacak mı?", "en": "Will the school approve your application?"},
+  {"id": 648, "tr": "Okul ne zaman başvurunu onaylayacak?", "en": "When will the school approve your application?"},
+
+  {"id": 649, "tr": "Tüm teklifleri reddedecekler.", "en": "They will reject all the offers."},
+  {"id": 650, "tr": "Tüm teklifleri reddetmeyecekler.", "en": "They won't reject all the offers."},
+  {"id": 651, "tr": "Tüm teklifleri reddedecekler mi?", "en": "Will they reject all the offers?"},
+  {"id": 652, "tr": "Onlar neden tüm teklifleri reddedecek?", "en": "Why will they reject all the offers?"},
+
+  {"id": 653, "tr": "Ali hatasını inkar edecek.", "en": "Ali will deny his mistake."},
+  {"id": 654, "tr": "Ali hatasını inkar etmeyecek.", "en": "Ali won't deny his mistake."},
+  {"id": 655, "tr": "Ali hatasını inkar edecek mi?", "en": "Will Ali deny his mistake?"},
+  {"id": 656, "tr": "Ali neden hatasını inkar edecek?", "en": "Why will Ali deny his mistake?"},
+
+  {"id": 657, "tr": "Ali isimleri unutacak.", "en": "Ali will forget the names."},
+  {"id": 658, "tr": "Ali isimleri unutmayacak.", "en": "Ali won't forget the names."},
+  {"id": 659, "tr": "Ali isimleri unutacak mı?", "en": "Will Ali forget the names?"},
+  {"id": 660, "tr": "Ali neyi unutacak?", "en": "What will Ali forget?"},
+
+  {"id": 661, "tr": "Anneannem her şeyi hatırlayacak.", "en": "My grandmother will remember everything."},
+  {"id": 662, "tr": "Anneannem her şeyi hatırlamayacak.", "en": "My grandmother won't remember everything."},
+  {"id": 663, "tr": "Anneannеn her şeyi hatırlayacak mı?", "en": "Will your grandmother remember everything?"},
+  {"id": 664, "tr": "Anneannen neyi hatırlayacak?", "en": "What will your grandmother remember?"},
+
+  {"id": 665, "tr": "Gelecek Cuma arkadaşlarımla buluşacağım.", "en": "I will meet my friends next Friday."},
+  {"id": 666, "tr": "Gelecek Cuma arkadaşlarımla buluşmayacağım.", "en": "I won't meet my friends next Friday."},
+  {"id": 667, "tr": "Gelecek Cuma arkadaşlarınla buluşacak mısın?", "en": "Will you meet your friends next Friday?"},
+  {"id": 668, "tr": "Gelecek Cuma kiminle buluşacaksın?", "en": "Who will you meet next Friday?"},
+
+  {"id": 669, "tr": "Ali yeni arabasını bana gösterecek.", "en": "Ali will show me his new car."},
+  {"id": 670, "tr": "Ali yeni arabasını bana göstermeyecek.", "en": "Ali won't show me his new car."},
+  {"id": 671, "tr": "Ali yeni arabasını sana gösterecek mi?", "en": "Will Ali show you his new car?"},
+  {"id": 672, "tr": "Ali sana ne gösterecek?", "en": "What will Ali show you?"},
+
+  {"id": 673, "tr": "Onlar erken uyuyacak.", "en": "They will sleep early."},
+  {"id": 674, "tr": "Onlar erken uyumayacak.", "en": "They won't sleep early."},
+  {"id": 675, "tr": "Onlar erken uyuyacak mı?", "en": "Will they sleep early?"},
+  {"id": 676, "tr": "Onlar ne zaman uyuyacak?", "en": "When will they sleep?"},
+
+  {"id": 677, "tr": "Sen geç uyanacaksın.", "en": "You will wake up late."},
+  {"id": 678, "tr": "Sen geç uyanmayacaksın.", "en": "You won't wake up late."},
+  {"id": 679, "tr": "Geç uyanacak mısın?", "en": "Will you wake up late?"},
+  {"id": 680, "tr": "Sen ne zaman uyanacaksın?", "en": "When will you wake up?"},
+
+  {"id": 681, "tr": "Ayşe çikolataya bayılacak.", "en": "Ayse will love chocolate."},
+  {"id": 682, "tr": "Ayşe çikolataya bayılmayacak.", "en": "Ayse won't love chocolate."},
+  {"id": 683, "tr": "Ayşe çikolataya bayılacak mı?", "en": "Will Ayse love chocolate?"},
+  {"id": 684, "tr": "Ayşe neye bayılacak?", "en": "What will Ayse love?"},
+
+  {"id": 685, "tr": "Ali futbol oynamayı sevecek.", "en": "Ali will like playing football."},
+  {"id": 686, "tr": "Ali futbol oynamayı sevmeyecek.", "en": "Ali won't like playing football."},
+  {"id": 687, "tr": "Ali futbol oynamayı sevecek mi?", "en": "Will Ali like playing football?"},
+  {"id": 688, "tr": "Ali ne zaman futbol oynamayı sevecek?", "en": "When will Ali like playing football?"},
+
+  {"id": 689, "tr": "Ayşe benden nefret edecek.", "en": "Ayse will hate me."},
+  {"id": 690, "tr": "Ayşe benden nefret etmeyecek.", "en": "Ayse won't hate me."},
+  {"id": 691, "tr": "Ayşe senden nefret edecek mi?", "en": "Will Ayse hate you?"},
+  {"id": 692, "tr": "Ayşe kimden nefret edecek?", "en": "Who will Ayse hate?"},
+
+  {"id": 693, "tr": "Ali evde ailesine yardım edecek.", "en": "Ali will help his family at home."},
+  {"id": 694, "tr": "Ali evde ailesine yardım etmeyecek.", "en": "Ali won't help his family at home."},
+  {"id": 695, "tr": "Ali evde ailesine yardım edecek mi?", "en": "Will Ali help his family at home?"},
+  {"id": 696, "tr": "Ali evde kime yardım edecek?", "en": "Who will Ali help at home?"},
+
+  {"id": 697, "tr": "Ayşe hatasının farkına varacak.", "en": "Ayse will realize her mistake."},
+  {"id": 698, "tr": "Ayşe hatasının farkına varmayacak.", "en": "Ayse won't realize her mistake."},
+  {"id": 699, "tr": "Ayşe hatasının farkına varacak mı?", "en": "Will Ayse realize her mistake?"},
+  {"id": 700, "tr": "Ayşe neyin farkına varacak?", "en": "What will Ayse realize?"},
+
+  {"id": 701, "tr": "Ayşe yarın 100 email gönderecek.", "en": "Ayse will send 100 emails tomorrow."},
+  {"id": 702, "tr": "Ayşe yarın 100 email göndermeyecek.", "en": "Ayse won't send 100 emails tomorrow."},
+  {"id": 703, "tr": "Ayşe yarın 100 email gönderecek mi?", "en": "Will Ayse send 100 emails tomorrow?"},
+  {"id": 704, "tr": "Ayşe yarın kaç email gönderecek?", "en": "How many emails will Ayse send tomorrow?"},
+
+  {"id": 705, "tr": "Ayşe yarın 100 email alacak.", "en": "Ayse will receive 100 emails tomorrow."},
+  {"id": 706, "tr": "Ayşe yarın 100 email almayacak.", "en": "Ayse won't receive 100 emails tomorrow."},
+  {"id": 707, "tr": "Ayşe yarın 100 email alacak mı?", "en": "Will Ayse receive 100 emails tomorrow?"},
+  {"id": 708, "tr": "Ayşe yarın kaç email alacak?", "en": "How many emails will Ayse receive tomorrow?"},
+
+  {"id": 709, "tr": "Ayşe iki gün içinde 100 emaile cevap verecek.", "en": "Ayse will reply to 100 emails in two days."},
+  {"id": 710, "tr": "Ayşe iki gün içinde 100 emaile cevap vermeyecek.", "en": "Ayse won't reply to 100 emails in two days."},
+  {"id": 711, "tr": "Ayşe iki gün içinde 100 emaile cevap verecek mi?", "en": "Will Ayse reply to 100 emails in two days?"},
+  {"id": 712, "tr": "Ayşe iki gün içinde kaç emaile cevap verecek?", "en": "How many emails will Ayse reply to in two days?"},
+
+  {"id": 713, "tr": "Biz her şeyi paylaşacağız.", "en": "We will share everything."},
+  {"id": 714, "tr": "Biz her şeyi paylaşmayacağız.", "en": "We won't share everything."},
+  {"id": 715, "tr": "Her şeyi paylaşacak mısınız?", "en": "Will you share everything?"},
+  {"id": 716, "tr": "Neyi paylaşacaksınız?", "en": "What will you share?"},
+
+  {"id": 717, "tr": "Robotlar bizi kontrol edecek.", "en": "Robots will control us."},
+  {"id": 718, "tr": "Robotlar bizi kontrol etmeyecek.", "en": "Robots won't control us."},
+  {"id": 719, "tr": "Robotlar bizi kontrol edecek mi?", "en": "Will robots control us?"},
+  {"id": 720, "tr": "Robotlar kimi kontrol edecek?", "en": "Who will robots control?"},
+
+  {"id": 721, "tr": "Mesajlarımı kontrol edeceğim.", "en": "I will check my messages."},
+  {"id": 722, "tr": "Mesajlarımı kontrol etmeyeceğim.", "en": "I won't check my messages."},
+  {"id": 723, "tr": "Mesajlarını kontrol edecek misin?", "en": "Will you check your messages?"},
+  {"id": 724, "tr": "Mesajlarını ne zaman kontrol edeceksin?", "en": "When will you check your messages?"},
+
+  {"id": 725, "tr": "Bu fabrika araba üretecek.", "en": "This factory will produce cars."},
+  {"id": 726, "tr": "Bu fabrika araba üretmeyecek.", "en": "This factory won't produce cars."},
+  {"id": 727, "tr": "Bu fabrika araba üretecek mi?", "en": "Will this factory produce cars?"},
+  {"id": 728, "tr": "Bu fabrika ne üretecek?", "en": "What will this factory produce?"},
+
+  {"id": 729, "tr": "Ali pahalı evler inşa edecek.", "en": "Ali will build expensive houses."},
+  {"id": 730, "tr": "Ali pahalı evler inşa etmeyecek.", "en": "Ali won't build expensive houses."},
+  {"id": 731, "tr": "Ali pahalı evler inşa edecek mi?", "en": "Will Ali build expensive houses?"},
+  {"id": 732, "tr": "Ali ne inşa edecek?", "en": "What will Ali build?"},
+
+  {"id": 733, "tr": "Annem akşam yemeğini hazırlayacak.", "en": "My mother will prepare dinner."},
+  {"id": 734, "tr": "Annem akşam yemeğini hazırlamayacak.", "en": "My mother won't prepare dinner."},
+  {"id": 735, "tr": "Annen akşam yemeğini hazırlayacak mı?", "en": "Will your mother prepare dinner?"},
+  {"id": 736, "tr": "Annen ne hazırlayacak?", "en": "What will your mother prepare?"},
+
+  {"id": 737, "tr": "Ali her şeyi dikkatli bir şekilde planlayacak.", "en": "Ali will plan everything carefully."},
+  {"id": 738, "tr": "Ali her şeyi dikkatli bir şekilde planlamayacak.", "en": "Ali won't plan everything carefully."},
+  {"id": 739, "tr": "Ali her şeyi dikkatli bir şekilde planlayacak mı?", "en": "Will Ali plan everything carefully?"},
+  {"id": 740, "tr": "Ali her şeyi nasıl planlayacak?", "en": "How will Ali plan everything?"},
+
+  {"id": 741, "tr": "Onlar bu yaz evlenecek.", "en": "They will get married this summer."},
+  {"id": 742, "tr": "Onlar bu yaz evlenmeyecek.", "en": "They won't get married this summer."},
+  {"id": 743, "tr": "Onlar bu yaz evlenecek mi?", "en": "Will they get married this summer?"},
+  {"id": 744, "tr": "Onlar ne zaman evlenecek?", "en": "When will they get married?"},
+
+  {"id": 745, "tr": "Ali Almanya'ya taşınmaya karar verecek.", "en": "Ali will decide to move to Germany."},
+  {"id": 746, "tr": "Ali Almanya'ya taşınmaya karar vermeyecek.", "en": "Ali won't decide to move to Germany."},
+  {"id": 747, "tr": "Ali Almanya'ya taşınmaya karar verecek mi?", "en": "Will Ali decide to move to Germany?"},
+  {"id": 748, "tr": "Ali nereye taşınmaya karar verecek?", "en": "Where will Ali decide to move?"},
+
+  {"id": 749, "tr": "Kuşlar gökyüzünde uçacak.", "en": "The birds will fly in the sky."},
+  {"id": 750, "tr": "Kuşlar gökyüzünde uçmayacak.", "en": "The birds won't fly in the sky."},
+  {"id": 751, "tr": "Kuşlar gökyüzünde uçacak mı?", "en": "Will the birds fly in the sky?"},
+  {"id": 752, "tr": "Kuşlar nerede uçacak?", "en": "Where will the birds fly?"},
+
+  {"id": 753, "tr": "Biz gelecek yıl seyahat edeceğiz.", "en": "We will travel next year."},
+  {"id": 754, "tr": "Biz gelecek yıl seyahat etmeyeceğiz.", "en": "We won't travel next year."},
+  {"id": 755, "tr": "Gelecek yıl seyahat edecek misiniz?", "en": "Will you travel next year?"},
+  {"id": 756, "tr": "Gelecek yıl nereye seyahat edeceksiniz?", "en": "Where will you travel next year?"},
+
+
+  {"id": 757, "tr": "Ayşe pazar günleri evde kalacak.", "en": "Ayse will stay at home on Sundays."},
+  {"id": 758, "tr": "Ayşe pazar günleri evde kalmayacak.", "en": "Ayse won't stay at home on Sundays."},
+  {"id": 759, "tr": "Ayşe pazar günleri evde kalacak mı?", "en": "Will Ayse stay at home on Sundays?"},
+  {"id": 760, "tr": "Ayşe pazar günleri nerede kalacak?", "en": "Where will Ayse stay on Sundays?"},
+
+  {"id": 761, "tr": "Çocuklar zili çalacak.", "en": "The children will ring the bell."},
+  {"id": 762, "tr": "Çocuklar zili çalmayacak.", "en": "The children won't ring the bell."},
+  {"id": 763, "tr": "Çocuklar zili çalacak mı?", "en": "Will the children ring the bell?"},
+  {"id": 764, "tr": "Çocuklar ne zaman zili çalacak?", "en": "Whem will the children ring the bell?"},
+
+  {"id": 765, "tr": "Onlar paramı çalacak.", "en": "They will steal my money."},
+  {"id": 766, "tr": "Onlar paramı çalmayacak.", "en": "They won't steal my money."},
+  {"id": 767, "tr": "Onlar paranı çalacak mı?", "en": "Will they steal your money?"},
+  {"id": 768, "tr": "Onlar neden paranı çalacak?", "en": "Why will they steal your money?"},
+
+  {"id": 769, "tr": "Ali bir şarkı çalacak.", "en": "Ali will play a song."},
+  {"id": 770, "tr": "Ali bir şarkı çalmayacak.", "en": "Ali won't play a song."},
+  {"id": 771, "tr": "Ali bir şarkı çalacak mı?", "en": "Will Ali play a song?"},
+  {"id": 772, "tr": "Ali ne tür şarkılar çalacak?", "en": "What kind of songs will Ali play?"},
+
+  {"id": 773, "tr": "Kuşlar şarkı söyleyecekler.", "en": "The birds will sing."},
+  {"id": 774, "tr": "Kuşlar şarkı söylemeyecekler.", "en": "The birds won't sing."},
+  {"id": 775, "tr": "Kuşlar şarkı söyleyecekler mi?", "en": "Will the birds sing?"},
+  {"id": 776, "tr": "Kuşlar ne zaman şarkı söyleyecek?", "en": "When will the birds sing?"},
+
+  {"id": 777, "tr": "Onlar kulübe katılacak.", "en": "They will join the club."},
+  {"id": 778, "tr": "Onlar kulübe katılmayacak.", "en": "They won't join the club."},
+  {"id": 779, "tr": "Onlar kulübe katılacak mı?", "en": "Will they join the club?"},
+  {"id": 780, "tr": "Onlar ne zaman klübe katılacak?", "en": "When will they join the club?"},
+
+  {"id": 781, "tr": "Ali her hafta bir toplantıya katılacak.", "en": "Ali will attend a meeting every week."},
+  {"id": 782, "tr": "Ali her hafta bir toplantıya katılmayacak.", "en": "Ali won't attend a meeting every week."},
+  {"id": 783, "tr": "Ali her hafta bir toplantıya katılacak mı?", "en": "Will Ali attend a meeting every week?"},
+  {"id": 784, "tr": "Ali saat kaçta toplantıya katılacak?", "en": "What time will Ali attend the meeting?"},
+
+  {"id": 785, "tr": "Sonbaharda yapraklar düşecek.", "en": "The leaves will fall in the autumn."},
+  {"id": 786, "tr": "Sonbaharda yapraklar düşmeyecek.", "en": "TheLeaves won't fall in the autumn."},
+  {"id": 787, "tr": "Sonbaharda yapraklar düşecek mi?", "en": "Will the leaves fall in the autumn?"},
+  {"id": 788, "tr": "Yapraklar ne zaman düşecek?", "en": "When will the leaves fall?"},
+
+  {"id": 789, "tr": "Ayşe benimle tartışacak.", "en": "Ayse will argue with me."},
+  {"id": 790, "tr": "Ayşe benimle tartışmayacak.", "en": "Ayse won't argue with me."},
+  {"id": 791, "tr": "Ayşe seninle tartışacak mı?", "en": "Will Ayse argue with you?"},
+  {"id": 792, "tr": "Ayşe kiminle tartışacak?", "en": "Who will Ayse argue with?"},
+
+  {"id": 793, "tr": "Beni inciteceksin.", "en": "You will hurt me."},
+  {"id": 794, "tr": "Beni incitmeyeceksin.", "en": "You won't hurt me."},
+  {"id": 795, "tr": "Beni incitecek misin?", "en": "Will you hurt me?"},
+  {"id": 796, "tr": "Kimi inciteceksin?", "en": "Who will you hurt?"},
+
+  {"id": 797, "tr": "O (erkek) insanlardan para çalacak.", "en": "He will steal money from the people."},
+  {"id": 798, "tr": "O (erkek) insanlardan para çalmayacak.", "en": "He won't steal money from the people."},
+  {"id": 799, "tr": "O (erkek) insanlardan para çalacak mı?", "en": "Will he steal money from the people?"},
+  {"id": 800, "tr": "O (erkek) kimden para çalacak?", "en": "Who will he steal money from?"},
+
+  {"id": 801, "tr": "Sözlerimi tutacağım.", "en": "I will keep my words."},
+  {"id": 802, "tr": "Sözlerimi tutmayacağım.", "en": "I won't keep my words."},
+  {"id": 803, "tr": "Sözlerini tutacak mısın?", "en": "Will you keep your words?"},
+  {"id": 804, "tr": "Ne zaman sözlerini tutacaksın?", "en": "When will you keep your words?"},
+
+  {"id": 805, "tr": "Anne bebeğini tutacak.", "en": "The mother will hold her baby."},
+  {"id": 806, "tr": "Anne bebeğini tutmayacak.", "en": "The mother won't hold her baby."},
+  {"id": 807, "tr": "Anne bebeğini tutacak mı?", "en": "Will the mother hold her baby?"},
+  {"id": 808, "tr": "Anne bebeğini nasıl tutacak?", "en": "How will the mother hold her baby?"},
+
+  {"id": 809, "tr": "Ali gerçeği saklayacak.", "en": "Ali will hide the truth."},
+  {"id": 810, "tr": "Ali gerçeği saklamayacak.", "en": "Ali won't hide the truth."},
+  {"id": 811, "tr": "Ali gerçeği saklayacak mı?", "en": "Will Ali hide the truth?"},
+  {"id": 812, "tr": "Ali neyi saklayacak?", "en": "What will Ali hide?"},
+
+  {"id": 813, "tr": "Evimi özleyeceğim.", "en": "I will miss my home."},
+  {"id": 814, "tr": "Evimi özlemeyeceğim.", "en": "I won't miss my home."},
+  {"id": 815, "tr": "Evini özleyecek misin?", "en": "Will you miss your home?"},
+  {"id": 816, "tr": "Neyi özleyeceksin?", "en": "What will you miss?"},
+
+  {"id": 817, "tr": "Ayşe birazdan treni kaçıracak.", "en": "Ayse will miss the train soon."},
+  {"id": 818, "tr": "Ayşe birazdan treni kaçırmayacak.", "en": "Ayse won't miss the train soon."},
+  {"id": 819, "tr": "Ayşe birazdan treni kaçıracak mı?", "en": "Will Ayse miss the train soon?"},
+  {"id": 820, "tr": "Ayşe neden treni kaçıracak?", "en": "Why will Ayse miss the train?"},
+
+  {"id": 821, "tr": "Murat topu yakalayacak.", "en": "Murat will catch the ball."},
+  {"id": 822, "tr": "Murat topu yakalamayacak.", "en": "Murat won't catch the ball."},
+  {"id": 823, "tr": "Murat topu yakalayacak mı?", "en": "Will Murat catch the ball?"},
+  {"id": 824, "tr": "Murat neyi yakalayacak?", "en": "What will Murat catch?"},
+
+  {"id": 825, "tr": "O (erkek) arabaları tamir edecek.", "en": "He will repair cars."},
+  {"id": 826, "tr": "O (erkek) arabaları tamir etmeyecek.", "en": "He won't repair cars."},
+  {"id": 827, "tr": "O (erkek) arabaları tamir edecek mi?", "en": "Will he repair cars?"},
+  {"id": 828, "tr": "O (erkek) neyi tamir edecek?", "en": "What will he repair?"},
+
+  {"id": 829, "tr": "Sorunlarımızı beraberce çözeceğiz.", "en": "We will solve our problems together."},
+  {"id": 830, "tr": "Sorunlarımızı beraberce çözmeyeceğiz.", "en": "We won't solve our problems together."},
+  {"id": 831, "tr": "Sorunlarınızı beraberce çözecek misiniz?", "en": "Will you solve your problems together?"},
+  {"id": 832, "tr": "Sorunlarınızı nasıl çözeceksiniz?", "en": "How will you solve your problems?"},
+
+  {"id": 833, "tr": "Bebek oyuncakları kıracak.", "en": "The baby will break the toys."},
+  {"id": 834, "tr": "Bebek oyuncakları kırmayacak.", "en": "The baby won't break the toys."},
+  {"id": 835, "tr": "Bebek oyuncakları kıracak mı?", "en": "Will the baby break the toys?"},
+  {"id": 836, "tr": "Bebek neyi kıracak?", "en": "What will the baby break?"}
+
+]
+
+  

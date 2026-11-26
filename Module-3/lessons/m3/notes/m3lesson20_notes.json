@@ -1,0 +1,44 @@
+{
+  "title": "Both - Either - Neither Notes",
+  "tabs": [
+    {
+      "label": "Yapı",
+      "type": "table",
+      "headers": [
+        "Bağlaç",
+        "Türkçe",
+        "Kullanım"
+      ],
+      "rows": [
+        ["Both ... and ...", "Hem o ... hem de o...", "İkisi de (Olumlu)"],
+        ["Either ... or ...", "Ya o ... ya da o...", "İkisinden biri"],
+        ["Neither ... nor ...", "Ne o ... ne de o...", "Hiçbiri (Olumsuz)"],
+        ["Both of us/you/them", "İkimiz de/ Sizin İkiniz de / Onların ikisi de", "Çoğul vurgu"],
+        ["Either of us/you/them", "İkimizden biri /Sizin ikinizden biri / Onların ikisinden biri", "Tekil seçim"],
+        ["Neither of us/you/them", "İkimizden hiçbiri / Sizin ikinizden hiçbiri / Onların ikisinden hiçbiri", "İkili olumsuzluk"]
+      ]
+    },
+    {
+      "label": "Örnekler",
+      "type": "examples",
+      "items": [
+        {
+          "tag": "BOTH ( 2 side )... AND — Hem o... Hem de o ",
+          "color": "teal",
+          "text": "Both sports and diet are good for your health. → Hem spor hem diyet sağlığınız için iyidir.\nAli likes both swimming and running. → Ali hem yüzmeyi hem de koşmayı çok sever.\nBoth of you are guilty. → İkiniz de suçlusunuz."
+        },
+        {
+          "tag": "EITHER (2 sinden 1) ... OR — Ya o ... Ya da o",
+          "color": "amber",
+          "text": "You can drink either coffee or tea. → Ya kahve ya da çay içebilirsin.\nEither of us has to leave here. → İkimizden biri burayı terk etmek zorunda.\nEither of us is guilty. → İkimizden biri suçlu."
+        },
+        {
+          "tag": "NEITHER ( 2 sinden hiçbiri ) ... NOR — Ne o ... Ne de o",
+          "color": "pink",
+          "text": "Neither the teacher nor the students enjoyed the lesson. → Ne öğretmen ne de öğrenciler dersten zevk aldı.\nNeither Mexico nor Argentina are in Europe. → Ne Meksika ne de Arjantin Avrupa'dadır.\nNeither of them is happy. → Onların ikisi de mutlu değil.\nI want neither money nor fame in this life. I only want peace. → Bu hayatta ne para ne de şöhret istiyorum. Sadece huzur istiyorum."
+        }
+
+      ]
+    }
+  ]
+}

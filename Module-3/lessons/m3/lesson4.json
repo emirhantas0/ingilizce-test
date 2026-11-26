@@ -1,0 +1,871 @@
+[
+  {"id": 1, "tr": "Ali şu anda ödevini yapıyor.", "en": "Ali is doing his homework right now."},
+  {"id": 2, "tr": "Ali şu anda ödevini yapmıyor.", "en": "Ali isn't doing his homework right now."},
+  {"id": 3, "tr": "Ali şu anda ödevini yapıyor mu?", "en": "Is Ali doing his homework right now?"},
+  {"id": 4, "tr": "Ali şu anda ne yapıyor?", "en": "What is Ali doing right now?"},
+
+  {"id": 5, "tr": "Ayşe şu an saçlarını yapıyor.", "en": "Ayşe is doing her hair."},
+  {"id": 6, "tr": "Ayşe şu an saçlarını yapmıyor.", "en": "Ayşe isn't doing her hair."},
+  {"id": 7, "tr": "Ayşe şu an saçlarını yapıyor mu?", "en": "Is Ayşe doing her hair?"},
+  {"id": 8, "tr": "Ayşe nerede saçını yapıyor?", "en": "where is Ayşe doing her hair?"},
+
+  {"id": 9, "tr": "Murat bugün için iyi bir plan yapıyor.", "en": "Murat is making a good plan for today."},
+  {"id": 10, "tr": "Murat bugün için iyi bir plan yapmıyor.", "en": "Murat isn't making a good plan for today."},
+  {"id": 11, "tr": "Murat bugün için iyi bir plan yapıyor mu?", "en": "Is Murat making a good plan for today?"},
+  {"id": 12, "tr": "Murat bugün  için ne  planı yapıyor?", "en": "What is Murat making a plan for today?"},
+
+  {"id": 13, "tr": "Ayşe şimdi bulaşıkları yıkıyor.", "en": "Ayşe is doing the dishes now."},
+  {"id": 14, "tr": "Ayşe şimdi bulaşıkları yıkamıyor.", "en": "Ayşe isn't doing the dishes now."},
+  {"id": 15, "tr": "Ayşe şimdi bulaşıkları yıkıyor mu?", "en": "Is Ayşe doing the dishes now?"},
+  {"id": 16, "tr": "Ayşe şimdi neden bulaşıkları yıkamıyor?", "en": "What isn't Ayşe doing the dishes now?"},
+
+  {"id": 17, "tr": "Ayşe şimdi lezzetli pastalar yapıyor.", "en": "Ayşe is making delicious cakes now."},
+  {"id": 18, "tr": "Ayşe şimdi lezzetli pastalar yapmıyor.", "en": "Ayşe isn't making delicious cakes now."},
+  {"id": 19, "tr": "Ayşe şimdi lezzetli pastalar yapıyor mu?", "en": "Is Ayşe making delicious cakes now?"},
+  {"id": 20, "tr": "Ayşe nerede lezzetli pastalar yapıyor?", "en": "Where is Ayşe making delicious cakes now?"},
+
+  {"id": 21, "tr": "Ali şu anda doğru söylüyor.", "en": "Ali is telling the truth right now."},
+  {"id": 22, "tr": "Ali şu anda doğru söylemiyor.", "en": "Ali isn't telling the truth right now."},
+  {"id": 23, "tr": "Ali şu anda doğru söylüyor mu?", "en": "Is Ali telling the truth right now?"},
+  {"id": 24, "tr": "Ali şu anda ne söylüyor?", "en": "What is Ali saying right now?"},
+
+  {"id": 25, "tr": "Murat şimdi bana komik hikayeler anlatıyor.", "en": "Murat is telling me funny stories now."},
+  {"id": 26, "tr": "Murat şimdi bana komik hikayeler anlatmıyor.", "en": "Murat isn't telling me funny stories now."},
+  {"id": 27, "tr": "Murat şimdi bana komik hikayeler anlatıyor mu?", "en": "Is Murat telling me funny stories now?"},
+  {"id": 28, "tr": "Murat şimdi bana ne anlatıyor?", "en": "What is Murat telling me now?"},
+
+  {"id": 29, "tr": "Öğrenciler şu anda İngilizce konuşuyor.", "en": "The students are speaking English right now."},
+  {"id": 30, "tr": "Öğrenciler şu anda İngilizce konuşmuyor.", "en": "The students aren't speaking English right now."},
+  {"id": 31, "tr": "Öğrenciler şu anda İngilizce konuşuyor mu?", "en": "Are the students speaking English right now?"},
+  {"id": 32, "tr": "Öğrenciler şu anda hangi dili konuşuyor?", "en": "Which language are the students speaking right now?"},
+
+  {"id": 33, "tr": "Şimdi politika hakkında konuşuyoruz.", "en": "We are talking about politics now."},
+  {"id": 34, "tr": "Şimdi politika hakkında konuşmuyoruz.", "en": "We aren't talking about politics now."},
+  {"id": 35, "tr": "Şimdi politika hakkında konuşuyor muyuz?", "en": "Are we talking about politics now?"},
+  {"id": 36, "tr": "Şimdi ne hakkında konuşuyoruz?", "en": "What are we talking about now?"},
+
+  {"id": 37, "tr": "Ayşe bugün bu ofiste çalışıyor.", "en": "Ayşe is working in this office today."},
+  {"id": 38, "tr": "Ayşe bugün bu ofiste çalışmıyor.", "en": "Ayşe isn't working in this office today."},
+  {"id": 39, "tr": "Ayşe bugün bu ofiste çalışıyor mu?", "en": "Is Ayşe working in this office today?"},
+  {"id": 40, "tr": "Ayşe bugün nerede çalışıyor?", "en": "Where is Ayşe working today?"},
+
+  {"id": 41, "tr": "Murat şimdi İngilizce çalışıyor.", "en": "Murat is studying English now."},
+  {"id": 42, "tr": "Murat şimdi İngilizce çalışmıyor.", "en": "Murat isn't studying English now."},
+  {"id": 43, "tr": "Murat şimdi İngilizce çalışıyor mu?", "en": "Is Murat studying English now?"},
+  {"id": 44, "tr": "Murat şimdi ne çalışıyor?", "en": "What is Murat studying now?"},
+
+  {"id": 45, "tr": "Annem bugün saat 12'de uyuyor.", "en": "My mother is sleeping at 12 o'clock today."},
+  {"id": 46, "tr": "Annem bugün saat 12'de uyumuyor.", "en": "My mother isn't sleeping at 12 o'clock today."},
+  {"id": 47, "tr": "Annem bugün saat 12'de uyuyor mu?", "en": "Is my mother sleeping at 12 o'clock today?"},
+  {"id": 48, "tr": "Annem bugün saat kaçta uyuyor?", "en": "What time is my mother sleeping today?"},
+
+  {"id": 49, "tr": "Şimdi otobüse biniyorum.", "en": "I am getting on the bus now."},
+  {"id": 50, "tr": "Şimdi otobüse binmiyorum.", "en": "I am not getting on the bus now."},
+  {"id": 51, "tr": "Şimdi otobüse biniyor muyum?", "en": "Am I getting on the bus now?"},
+  {"id": 52, "tr": "Şimdi neye biniyorum?", "en": "What am I getting on now?"},
+
+  {"id": 53, "tr": "Şimdi otobüsten iniyoruz.", "en": "We are getting off the bus now."},
+  {"id": 54, "tr": "Şimdi otobüsten inmiyoruz.", "en": "We aren't getting off the bus now."},
+  {"id": 55, "tr": "Şimdi otobüsten iniyor muyuz?", "en": "Are we getting off the bus now?"},
+  {"id": 56, "tr": "Şimdi neden iniyoruz?", "en": "What are we getting off now?"},
+
+  {"id": 57, "tr": "Murat çok soru soruyor.", "en": "Murat is asking a lot of questions."},
+  {"id": 58, "tr": "Murat çok soru sormuyor.", "en": "Murat isn't asking a lot of questions."},
+  {"id": 59, "tr": "Murat çok soru soruyor mu?", "en": "Is Murat asking a lot of questions?"},
+  {"id": 60, "tr": "Murat ne kadar soru soruyor?", "en": "How many questions is Murat asking?"},
+
+  {"id": 61, "tr": "Öğretmen sorularımızı yanıtlıyor.", "en": "The teacher is answering our questions."},
+  {"id": 62, "tr": "Öğretmen sorularımızı yanıtlamıyor.", "en": "The teacher isn't answering our questions."},
+  {"id": 63, "tr": "Öğretmen sorularımızı yanıtlıyor mu?", "en": "Is the teacher answering our questions?"},
+  {"id": 64, "tr": "Öğretmen ne yanıtlıyor?", "en": "What is the teacher answering?"},
+
+  {"id": 65, "tr": "Öğrencilerim dersi anlıyor.", "en": "My students are understanding the lesson."},
+  {"id": 66, "tr": "Öğrencilerim dersi anlamıyor.", "en": "My students aren't understanding the lesson."},
+  {"id": 67, "tr": "Öğrencilerim dersi anlıyor mu?", "en": "Are my students understanding the lesson?"},
+  {"id": 68, "tr": "Öğrencilerim ne anlıyor?", "en": "What are my students understanding?"},
+
+  {"id": 69, "tr": "Ayşe bana bir hediye veriyor.", "en": "Ayşe is giving me a present."},
+  {"id": 70, "tr": "Ayşe bana bir hediye vermiyor.", "en": "Ayşe isn't giving me a present."},
+  {"id": 71, "tr": "Ayşe bana bir hediye veriyor mu?", "en": "Is Ayşe giving me a present?"},
+  {"id": 72, "tr": "Ayşe bana ne veriyor?", "en": "What is Ayşe giving me?"},
+
+  {"id": 73, "tr": "Kedi topla oynuyor.", "en": "The cat is playing with the ball."},
+  {"id": 74, "tr": "Kedi topla oynamıyor.", "en": "The cat isn't playing with the ball."},
+  {"id": 75, "tr": "Kedi topla oynuyor mu?", "en": "Is the cat playing with the ball?"},
+  {"id": 76, "tr": "Kedi neyle oynuyor?", "en": "What is the cat playing with?"},
+
+  {"id": 77, "tr": "Öğlen yemeğimi evden getiriyorum.", "en": "I am bringing my lunch from home."},
+  {"id": 78, "tr": "Öğlen yemeğimi evden getirmiyorum.", "en": "I am not bringing my lunch from home."},
+  {"id": 79, "tr": "Öğlen yemeğimi evden getiriyor muyum?", "en": "Am I bringing my lunch from home?"},
+  {"id": 80, "tr": "Öğlen yemeğimi nereden getiriyorum?", "en": "Where am I bringing my lunch from?"},
+
+  {"id": 81, "tr": "Annem çocukları okuldan alıyor.", "en": "My mother is picking up the children from school."},
+  {"id": 82, "tr": "Annem çocukları okuldan almıyor.", "en": "My mother isn't picking up the children from school."},
+  {"id": 83, "tr": "Annem çocukları okuldan alıyor mu?", "en": "Is my mother picking up the children from school?"},
+  {"id": 84, "tr": "Annem çocukları nereden alıyor?", "en": "Where is my mother picking up the children from?"},
+
+  {"id": 85, "tr": "Annem çocukları okula götürüyor.", "en": "My mother is taking the children to school."},
+  {"id": 86, "tr": "Annem çocukları okula götürmüyor.", "en": "My mother isn't taking the children to school."},
+  {"id": 87, "tr": "Annem çocukları okula götürüyor mu?", "en": "Is my mother taking the children to school?"},
+  {"id": 88, "tr": "Annem çocukları nereye götürüyor?", "en": "Where is my mother taking the children?"},
+
+  {"id": 89, "tr": "Yeni bir araba satın alıyoruz.", "en": "We are buying a new car."},
+  {"id": 90, "tr": "Yeni bir araba satın almıyoruz.", "en": "We aren't buying a new car."},
+  {"id": 91, "tr": "Yeni bir araba satın alıyor muyuz?", "en": "Are we buying a new car?"},
+  {"id": 92, "tr": "Ne satın alıyoruz?", "en": "What are we buying?"},
+
+  {"id": 93, "tr": "Ayşe evini satıyor.", "en": "Ayşe is selling her house."},
+  {"id": 94, "tr": "Ayşe evini satmıyor.", "en": "Ayşe isn't selling her house."},
+  {"id": 95, "tr": "Ayşe evini satıyor mu?", "en": "Is Ayşe selling her house?"},
+  {"id": 96, "tr": "Ayşe ne satıyor?", "en": "What is Ayşe selling?"},
+
+  {"id": 97, "tr": "Onların hesabını ödüyor.", "en": "He is paying their bill."},
+  {"id": 98, "tr": "Onların hesabını ödemiyor.", "en": "He isn't paying their bill."},
+  {"id": 99, "tr": "Onların hesabını ödüyor mu?", "en": "Is he paying their bill?"},
+  {"id": 100, "tr": "Kimin hesabını ödüyor?", "en": "Whose bill is he paying?"},
+
+  {"id": 101, "tr": "Ali ucuz bir ev kiralıyor.", "en": "Ali is renting a cheap house."},
+  {"id": 102, "tr": "Ali ucuz bir ev kiralamıyor.", "en": "Ali isn't renting a cheap house."},
+  {"id": 103, "tr": "Ali ucuz bir ev kiralıyor mu?", "en": "Is Ali renting a cheap house?"},
+  {"id": 104, "tr": "Ali nasıl bir ev kiralıyor?", "en": "What kind of house is Ali renting?"},
+
+  {"id": 105, "tr": "Ayşe çok para harcıyor.", "en": "Ayşe is spending a lot of money."},
+  {"id": 106, "tr": "Ayşe çok para harcamıyor.", "en": "Ayşe isn't spending a lot of money."},
+  {"id": 107, "tr": "Ayşe çok para harcıyor mu?", "en": "Is Ayşe spending a lot of money?"},
+  {"id": 108, "tr": "Ayşe ne kadar para harcıyor?", "en": "How much money is Ayşe spending?"},
+
+  {"id": 109, "tr": "Dersler şimdi başlıyor.", "en": "The lessons are starting now."},
+  {"id": 110, "tr": "Dersler şimdi başlamıyor.", "en": "The lessons aren't starting now."},
+  {"id": 111, "tr": "Dersler şimdi başlıyor mu?", "en": "Are the lessons starting now?"},
+  {"id": 112, "tr": "Ne zaman başlıyor?", "en": "When are the lessons starting?"},
+
+  {"id": 113, "tr": "Onlar şimdi çalışmaya başlıyor.", "en": "They are starting to work now."},
+  {"id": 114, "tr": "Onlar şimdi çalışmaya başlamıyor.", "en": "They aren't starting to work now."},
+  {"id": 115, "tr": "Onlar şimdi çalışmaya başlıyor mu?", "en": "Are they starting to work now?"},
+  {"id": 116, "tr": "Onlar şimdi ne yapmaya başlıyor?", "en": "What are they starting to do now?"},
+
+  {"id": 117, "tr": "Şimdi ödevimi bitiriyorum.", "en": "I am finishing my homework now."},
+  {"id": 118, "tr": "Şimdi ödevimi bitirmiyorum.", "en": "I am not finishing my homework now."},
+  {"id": 119, "tr": "Şimdi ödevimi bitiriyor muyum?", "en": "Am I finishing my homework now?"},
+  {"id": 120, "tr": "Şimdi ne bitiriyorum?", "en": "What am I finishing now?"},
+
+  {"id": 121, "tr": "Film 2 saat içinde bitiyor.", "en": "The film is finishing in 2 hours."},
+  {"id": 122, "tr": "Film 2 saat içinde bitmiyor.", "en": "The film isn't finishing in 2 hours."},
+  {"id": 123, "tr": "Film 2 saat içinde bitiyor mu?", "en": "Is the film finishing in 2 hours?"},
+  {"id": 124, "tr": "Film ne zaman bitiyor?", "en": "When is the film finishing?"},
+
+  {"id": 125, "tr": "Ödevinizi şimdi tamamlıyoruz.", "en": "We are completing your homework now."},
+  {"id": 126, "tr": "Ödevinizi şimdi tamamlamıyoruz.", "en": "We aren't completing your homework now."},
+  {"id": 127, "tr": "Ödevinizi şimdi tamamlıyor muyuz?", "en": "Are we completing your homework now?"},
+  {"id": 128, "tr": "Şimdi neyi tamamlıyoruz?", "en": "What are we completing now?"},
+
+  {"id": 129, "tr": "Otobüs şimdi burada duruyor.", "en": "The bus is stopping here now."},
+  {"id": 130, "tr": "Otobüs şimdi burada durmuyor.", "en": "The bus isn't stopping here now."},
+  {"id": 131, "tr": "Otobüs şimdi burada duruyor mu?", "en": "Is the bus stopping here now?"},
+  {"id": 132, "tr": "Otobüs şimdi nerede duruyor?", "en": "Where is the bus stopping now?"},
+
+  {"id": 133, "tr": "Ali bugün sigarayı bırakıyor.", "en": "Ali is quitting smoking today."},
+  {"id": 134, "tr": "Ali bugün sigarayı bırakmıyor.", "en": "Ali isn't quitting smoking today."},
+  {"id": 135, "tr": "Ali bugün sigarayı bırakıyor mu?", "en": "Is Ali quitting smoking today?"},
+  {"id": 136, "tr": "Ali bugün neyi bırakıyor?", "en": "What is Ali quitting today?"},
+
+  {"id": 137, "tr": "Şu anda gökyüzüne bakıyorum.", "en": "I am looking at the sky right now."},
+  {"id": 138, "tr": "Şu anda gökyüzüne bakmıyorum.", "en": "I am not looking at the sky right now."},
+  {"id": 139, "tr": "Şu anda gökyüzüne bakıyor muyum?", "en": "Am I looking at the sky right now?"},
+  {"id": 140, "tr": "Şu anda neye bakıyorum?", "en": "What am I looking at right now?"},
+
+  {"id": 141, "tr": "Şimdi her şey kolay görünüyor.", "en": "Everything is looking easy now."},
+  {"id": 142, "tr": "Şimdi her şey kolay görünmüyor.", "en": "Everything isn't looking easy now."},
+  {"id": 143, "tr": "Şimdi her şey kolay görünüyor mu?", "en": "Is everything looking easy now?"},
+  {"id": 144, "tr": "Şimdi her şey nasıl görünüyor?", "en": "How is everything looking now?"},
+
+  {"id": 145, "tr": "Şu anda otobüsteki kız bana bakıyor.", "en": "The girl on the bus is looking at me right now."},
+  {"id": 146, "tr": "Şu anda otobüsteki kız bana bakmıyor.", "en": "The girl on the bus isn't looking at me right now."},
+  {"id": 147, "tr": "Şu anda otobüsteki kız bana bakıyor mu?", "en": "Is the girl on the bus looking at me right now?"},
+  {"id": 148, "tr": "Şu anda otobüsteki kız kime bakıyor?", "en": "Who is the girl on the bus looking at right now?"},
+
+  {"id": 149, "tr": "Biz bugün iyi bir film seyrediyoruz.", "en": "We are watching a good film today."},
+  {"id": 150, "tr": "Biz bugün iyi bir film seyretmiyoruz.", "en": "We aren't watching a good film today."},
+  {"id": 151, "tr": "Biz bugün iyi bir film seyrediyor muyuz?", "en": "Are we watching a good film today?"},
+  {"id": 152, "tr": "Biz bugün ne seyrediyoruz?", "en": "What are we watching today?"},
+
+  {"id": 153, "tr": "Ali şu anda anahtarlarını arıyor.", "en": "Ali is looking for his keys right now."},
+  {"id": 154, "tr": "Ali şu anda anahtarlarını aramıyor.", "en": "Ali isn't looking for his keys right now."},
+  {"id": 155, "tr": "Ali şu anda anahtarlarını arıyor mu?", "en": "Is Ali looking for his keys right now?"},
+  {"id": 156, "tr": "Ali şu anda ne arıyor?", "en": "What is Ali looking for right now?"},
+
+  {"id": 157, "tr": "Annem bugün anneanneme bakıyor.", "en": "My mother is looking after my grandmother today."},
+  {"id": 158, "tr": "Annem bugün anneanneme bakmıyor.", "en": "My mother isn't looking after my grandmother today."},
+  {"id": 159, "tr": "Annem bugün anneanneme bakıyor mu?", "en": "Is my mother looking after my grandmother today?"},
+  {"id": 160, "tr": "Annem bugün kime bakıyor?", "en": "Who is my mother looking after today?"},
+
+  {"id": 161, "tr": "Ali bugün okulda arkadaşlarını görüyor.", "en": "Ali is seeing his friends at school today."},
+  {"id": 162, "tr": "Ali bugün okulda arkadaşlarını görmüyor.", "en": "Ali isn't seeing his friends at school today."},
+  {"id": 163, "tr": "Ali bugün okulda arkadaşlarını görüyor mu?", "en": "Is Ali seeing his friends at school today?"},
+  {"id": 164, "tr": "Ali bugün okulda kimi görüyor?", "en": "Who is Ali seeing at school today?"},
+
+  {"id": 165, "tr": "Ali bugün okulda arkadaşlarını arıyor.", "en": "Ali is looking for his friends at school today."},
+  {"id": 166, "tr": "Ali bugün okulda arkadaşlarını aramıyor.", "en": "Ali isn't looking for his friends at school today."},
+  {"id": 167, "tr": "Ali bugün okulda arkadaşlarını arıyor mu?", "en": "Is Ali looking for his friends at school today?"},
+  {"id": 168, "tr": "Ali bugün okulda kimi arıyor?", "en": "Who is Ali looking for at school today?"},
+
+  {"id": 169, "tr": "Şimdi kuşları duyuyorum.", "en": "I am hearing the birds now."},
+  {"id": 170, "tr": "Şimdi kuşları duymuyorum.", "en": "I am not hearing the birds now."},
+  {"id": 171, "tr": "Şimdi kuşları duyuyor muyum?", "en": "Am I hearing the birds now?"},
+  {"id": 172, "tr": "Şimdi ne duyuyorum?", "en": "What am I hearing now?"},
+
+  {"id": 173, "tr": "Ayşe şimdi çiçekleri kokluyor.", "en": "Ayşe is smelling the flowers now."},
+  {"id": 174, "tr": "Ayşe şimdi çiçekleri koklamıyor.", "en": "Ayşe isn't smelling the flowers now."},
+  {"id": 175, "tr": "Ayşe şimdi çiçekleri kokluyor mu?", "en": "Is Ayşe smelling the flowers now?"},
+  {"id": 176, "tr": "Ayşe şimdi ne kokluyor?", "en": "What is Ayşe smelling now?"},
+
+  {"id": 177, "tr": "Çöp kötü kokuyor.", "en": "The garbage is smelling bad."},
+  {"id": 178, "tr": "Çöp kötü kokmuyor.", "en": "The garbage isn't smelling bad."},
+  {"id": 179, "tr": "Çöp kötü kokuyor mu?", "en": "Is the garbage smelling bad?"},
+  {"id": 180, "tr": "Çöp nasıl kokuyor?", "en": "How is the garbage smelling?"},
+
+  {"id": 181, "tr": "Ali şu anda yemeğin tadına bakıyor.", "en": "Ali is tasting the food right now."},
+  {"id": 182, "tr": "Ali şu anda yemeğin tadına bakmıyor.", "en": "Ali isn't tasting the food right now."},
+  {"id": 183, "tr": "Ali şu anda yemeğin tadına bakıyor mu?", "en": "Is Ali tasting the food right now?"},
+  {"id": 184, "tr": "Ali şu anda neyin tadına bakıyor?", "en": "What is Ali tasting right now?"},
+
+  {"id": 185, "tr": "Ayşe şimdi burnuna dokunuyor.", "en": "Ayşe is touching her nose now."},
+  {"id": 186, "tr": "Ayşe şimdi burnuna dokunmuyor.", "en": "Ayşe isn't touching her nose now."},
+  {"id": 187, "tr": "Ayşe şimdi burnuna dokunuyor mu?", "en": "Is Ayşe touching her nose now?"},
+  {"id": 188, "tr": "Ayşe şimdi neye dokunuyor?", "en": "What is Ayşe touching now?"},
+
+  {"id": 189, "tr": "Bugün yorgun hissediyorum.", "en": "I am feeling tired today."},
+  {"id": 190, "tr": "Bugün yorgun hissetmiyorum.", "en": "I am not feeling tired today."},
+  {"id": 191, "tr": "Bugün yorgun hissediyor muyum?", "en": "Am I feeling tired today?"},
+  {"id": 192, "tr": "Bugün nasıl hissediyorum?", "en": "How am I feeling today?"},
+
+  {"id": 193, "tr": "Ayşe bugün okula bisikletle geliyor.", "en": "Ayşe is coming to school by bike today."},
+  {"id": 194, "tr": "Ayşe bugün okula bisikletle gelmiyor.", "en": "Ayşe isn't coming to school by bike today."},
+  {"id": 195, "tr": "Ayşe bugün okula bisikletle geliyor mu?", "en": "Is Ayşe coming to school by bike today?"},
+  {"id": 196, "tr": "Ayşe bugün okula nasıl geliyor?", "en": "How is Ayşe coming to school today?"},
+
+  {"id": 197, "tr": "Murat bu hafta tatile gidiyor.", "en": "Murat is going on holiday this week."},
+  {"id": 198, "tr": "Murat bu hafta tatile gitmiyor.", "en": "Murat isn't going on holiday this week."},
+  {"id": 199, "tr": "Murat bu hafta tatile gidiyor mu?", "en": "Is Murat going on holiday this week?"},
+  {"id": 200, "tr": "Murat bu hafta nereye gidiyor?", "en": "Where is Murat going this week?"},
+
+  {"id": 201, "tr": "Murat bu hafta okula yürüyor.", "en": "Murat is walking to school this week."},
+  {"id": 202, "tr": "Murat bu hafta okula yürümüyor.", "en": "Murat isn't walking to school this week."},
+  {"id": 203, "tr": "Murat bu hafta okula yürüyor mu?", "en": "Is Murat walking to school this week?"},
+  {"id": 204, "tr": "Murat bu hafta nereye yürüyor?", "en": "Where is Murat walking this week?"},
+
+  {"id": 205, "tr": "Biz bugün 5 km koşuyoruz.", "en": "We are running 5 km today."},
+  {"id": 206, "tr": "Biz bugün 5 km koşmuyoruz.", "en": "We aren't running 5 km today."},
+  {"id": 207, "tr": "Biz bugün 5 km koşuyor muyuz?", "en": "Are we running 5 km today?"},
+  {"id": 208, "tr": "Biz bugün kaç km koşuyoruz?", "en": "How many km are we running today?"},
+
+  {"id": 209, "tr": "Kedi kapının önünde oturuyor.", "en": "The cat is sitting in front of the door."},
+  {"id": 210, "tr": "Kedi kapının önünde oturmuyor.", "en": "The cat isn't sitting in front of the door."},
+  {"id": 211, "tr": "Kedi kapının önünde oturuyor mu?", "en": "Is the cat sitting in front of the door?"},
+  {"id": 212, "tr": "Kedi nerede oturuyor?", "en": "Where is the cat sitting?"},
+
+  {"id": 213, "tr": "Öğretmen için ayağa kalkıyoruz.", "en": "We are standing up for the teacher."},
+  {"id": 214, "tr": "Öğretmen için ayağa kalkmıyoruz.", "en": "We aren't standing up for the teacher."},
+  {"id": 215, "tr": "Öğretmen için ayağa kalkıyor muyuz?", "en": "Are we standing up for the teacher?"},
+  {"id": 216, "tr": "Kim için ayağa kalkıyoruz?", "en": "Who are we standing up for?"},
+
+  {"id": 217, "tr": "Okula gitmek için sola dönüyorlar.", "en": "They are turning left to go to school."},
+  {"id": 218, "tr": "Okula gitmek için sola dönmüyorlar.", "en": "They aren't turning left to go to school."},
+  {"id": 219, "tr": "Okula gitmek için sola dönüyorlar mı?", "en": "Are they turning left to go to school?"},
+  {"id": 220, "tr": "Okula gitmek için nereye dönüyorlar?", "en": "Which way are they turning to go to school?"},
+
+  {"id": 221, "tr": "Ali Amerika'dan geri dönüyor.", "en": "Ali is coming back from America."},
+  {"id": 222, "tr": "Ali Amerika'dan geri dönmüyor.", "en": "Ali isn't coming back from America."},
+  {"id": 223, "tr": "Ali Amerika'dan geri dönüyor mu?", "en": "Is Ali coming back from America?"},
+  {"id": 224, "tr": "Ali nereden geri dönüyor?", "en": "Where is Ali coming back from?"},
+
+  {"id": 225, "tr": "Tren şu anda istasyondan ayrılıyor.", "en": "The train is departing from the station right now."},
+  {"id": 226, "tr": "Tren şu anda istasyondan ayrılmıyor.", "en": "The train isn't departing from the station right now."},
+  {"id": 227, "tr": "Tren şu anda istasyondan ayrılıyor mu?", "en": "Is the train departing from the station right now?"},
+  {"id": 228, "tr": "Tren şu anda nereden ayrılıyor?", "en": "Where is the train departing from right now?"},
+
+  {"id": 229, "tr": "Uçak vaktinde varıyor.", "en": "The plane is arriving on time."},
+  {"id": 230, "tr": "Uçak vaktinde varmıyor.", "en": "The plane isn't arriving on time."},
+  {"id": 231, "tr": "Uçak vaktinde varıyor mu?", "en": "Is the plane arriving on time?"},
+  {"id": 232, "tr": "Uçak ne zaman varıyor?", "en": "When is the plane arriving?"},
+
+  {"id": 233, "tr": "Oğlum bugün yüzüyor.", "en": "My son is swimming today."},
+  {"id": 234, "tr": "Oğlum bugün yüzmüyor.", "en": "My son isn't swimming today."},
+  {"id": 235, "tr": "Oğlum bugün yüzüyor mu?", "en": "Is my son swimming today?"},
+  {"id": 236, "tr": "Oğlum bugün nerede yüzüyor?", "en": "Where is my son swimming today?"},
+
+  {"id": 237, "tr": "Ayşe şimdi dağlara tırmanıyor.", "en": "Ayşe is climbing the mountains now."},
+  {"id": 238, "tr": "Ayşe şimdi dağlara tırmanmıyor.", "en": "Ayşe isn't climbing the mountains now."},
+  {"id": 239, "tr": "Ayşe şimdi dağlara tırmanıyor mu?", "en": "Is Ayşe climbing the mountains now?"},
+  {"id": 240, "tr": "Ayşe şimdi neye tırmanıyor?", "en": "What is Ayşe climbing now?"},
+
+  {"id": 241, "tr": "Ben her şey için telefonumu kullanıyorum.", "en": "I am using my phone for everything."},
+  {"id": 242, "tr": "Ben her şey için telefonumu kullanmıyorum.", "en": "I am not using my phone for everything."},
+  {"id": 243, "tr": "Ben her şey için telefonumu kullanıyor muyum?", "en": "Am I using my phone for everything?"},
+  {"id": 244, "tr": "Ben ne için telefonumu kullanıyorum?", "en": "What am I using my phone for?"},
+
+  {"id": 245, "tr": "Ali ata biniyor.", "en": "Ali is riding a horse."},
+  {"id": 246, "tr": "Ali ata binmiyor.", "en": "Ali isn't riding a horse."},
+  {"id": 247, "tr": "Ali ata biniyor mu?", "en": "Is Ali riding a horse?"},
+  {"id": 248, "tr": "Ali neye biniyor?", "en": "What is Ali riding?"},
+
+  {"id": 249, "tr": "Murat şu anda araba kullanıyor.", "en": "Murat is driving a car right now."},
+  {"id": 250, "tr": "Murat şu anda araba kullanmıyor.", "en": "Murat isn't driving a car right now."},
+  {"id": 251, "tr": "Murat şu anda araba kullanıyor mu?", "en": "Is Murat driving a car right now?"},
+  {"id": 252, "tr": "Murat şu anda ne kullanıyor?", "en": "What is Murat driving right now?"},
+
+  {"id": 253, "tr": "Ali bu yıl avukat oluyor.", "en": "Ali is becoming a lawyer this year."},
+  {"id": 254, "tr": "Ali bu yıl avukat olmıyor.", "en": "Ali isn't becoming a lawyer this year."},
+  {"id": 255, "tr": "Ali bu yıl avukat oluyor mu?", "en": "Is Ali becoming a lawyer this year?"},
+  {"id": 256, "tr": "Ali bu yıl ne oluyor?", "en": "What is Ali becoming this year?"},
+
+  {"id": 257, "tr": "Her şey çok hızlı oluyor.", "en": "Everything is happening very fast."},
+  {"id": 258, "tr": "Her şey çok hızlı olmuyor.", "en": "Everything isn't happening very fast."},
+  {"id": 259, "tr": "Her şey çok hızlı oluyor mu?", "en": "Is everything happening very fast?"},
+  {"id": 260, "tr": "Her şey nasıl oluyor?", "en": "How is everything happening?"},
+
+  {"id": 261, "tr": "Ablam şu anda Ankara'da yaşıyor.", "en": "My sister is living in Ankara right now."},
+  {"id": 262, "tr": "Ablam şu anda Ankara'da yaşamıyor.", "en": "My sister isn't living in Ankara right now."},
+  {"id": 263, "tr": "Ablam şu anda Ankara'da yaşıyor mu?", "en": "Is my sister living in Ankara right now?"},
+  {"id": 264, "tr": "Ablam şu anda nerede yaşıyor?", "en": "Where is my sister living right now?"},
+
+  {"id": 265, "tr": "Bitkiler su olmadan ölüyor.", "en": "The plants are dying without water."},
+  {"id": 266, "tr": "Bitkiler su olmadan ölmüyor.", "en": "The plants aren't dying without water."},
+  {"id": 267, "tr": "Bitkiler su olmadan ölüyor mu?", "en": "Are the plants dying without water?"},
+  {"id": 268, "tr": "Bitkiler neden ölüyor?", "en": "Why are the plants dying?"},
+
+  {"id": 269, "tr": "Ali bahçesinde domates yetiştiriyor.", "en": "Ali is growing tomatoes in his garden."},
+  {"id": 270, "tr": "Ali bahçesinde domates yetiştirmiyor.", "en": "Ali isn't growing tomatoes in his garden."},
+  {"id": 271, "tr": "Ali bahçesinde domates yetiştiriyor mu?", "en": "Is Ali growing tomatoes in his garden?"},
+  {"id": 272, "tr": "Ali bahçesinde ne yetiştiriyor?", "en": "What is Ali growing in his garden?"},
+
+  {"id": 273, "tr": "Soğuk hava bitkileri öldürüyor.", "en": "The cold weather is killing the plants."},
+  {"id": 274, "tr": "Soğuk hava bitkileri öldürmüyor.", "en": "The cold weather isn't killing the plants."},
+  {"id": 275, "tr": "Soğuk hava bitkileri öldürüyor mu?", "en": "Is the cold weather killing the plants?"},
+  {"id": 276, "tr": "Ne bitkileri öldürüyor?", "en": "What is killing the plants?"},
+
+  {"id": 277, "tr": "Ayşe şimdi odasını temizliyor.", "en": "Ayşe is cleaning her room now."},
+  {"id": 278, "tr": "Ayşe şimdi odasını temizlemiyor.", "en": "Ayşe isn't cleaning her room now."},
+  {"id": 279, "tr": "Ayşe şimdi odasını temizliyor mu?", "en": "Is Ayşe cleaning her room now?"},
+  {"id": 280, "tr": "Ayşe şimdi neyi temizliyor?", "en": "What is Ayşe cleaning now?"},
+
+  {"id": 281, "tr": "Ayşe partiden önce odasını çekidüzen veriyor.", "en": "Ayşe is tidying up her room before the party."},
+  {"id": 282, "tr": "Ayşe partiden önce odasını çekidüzen vermıyor.", "en": "Ayşe isn't tidying up her room before the party."},
+  {"id": 283, "tr": "Ayşe partiden önce odasını çekidüzen veriyor mu?", "en": "Is Ayşe tidying up her room before the party?"},
+  {"id": 284, "tr": "Ayşe partiden önce neyi çekidüzen veriyor?", "en": "What is Ayşe tidying up before the party?"},
+
+  {"id": 285, "tr": "Ali akşam yemeğinin ardından masayı siliyor.", "en": "Ali is wiping the table after dinner."},
+  {"id": 286, "tr": "Ali akşam yemeğinin ardından masayı silmiyor.", "en": "Ali isn't wiping the table after dinner."},
+  {"id": 287, "tr": "Ali akşam yemeğinin ardından masayı siliyor mu?", "en": "Is Ali wiping the table after dinner?"},
+  {"id": 288, "tr": "Ali akşam yemeğinin ardından neyi siliyor?", "en": "What is Ali wiping after dinner?"},
+
+  {"id": 289, "tr": "Güneş kıyafetlerimi kurutuyor.", "en": "The sun is drying my clothes."},
+  {"id": 290, "tr": "Güneş kıyafetlerimi kurutmuyor.", "en": "The sun isn't drying my clothes."},
+  {"id": 291, "tr": "Güneş kıyafetlerimi kurutuyor mu?", "en": "Is the sun drying my clothes?"},
+  {"id": 292, "tr": "Güneş ne kurutuyor?", "en": "What is the sun drying?"},
+
+  {"id": 293, "tr": "Annem kütüphanenin tozunu alıyor.", "en": "My mother is dusting the bookcase."},
+  {"id": 294, "tr": "Annem kütüphanenin tozunu almıyor.", "en": "My mother isn't dusting the bookcase."},
+  {"id": 295, "tr": "Annem kütüphanenin tozunu alıyor mu?", "en": "Is my mother dusting the bookcase?"},
+  {"id": 296, "tr": "Annem neyin tozunu alıyor?", "en": "What is my mother dusting?"},
+
+  {"id": 297, "tr": "Ayşe bugün gözlük takıyor.", "en": "Ayşe is wearing glasses today."},
+  {"id": 298, "tr": "Ayşe bugün gözlük takmıyor.", "en": "Ayşe isn't wearing glasses today."},
+  {"id": 299, "tr": "Ayşe bugün gözlük takıyor mu?", "en": "Is Ayşe wearing glasses today?"},
+  {"id": 300, "tr": "Ayşe bugün ne takıyor?", "en": "What is Ayşe wearing today?"},
+
+  {"id": 301, "tr": "Okul için kıyafetlerimi giyiyorum.", "en": "I am putting on my clothes for school."},
+  {"id": 302, "tr": "Okul için kıyafetlerimi giymiyorum.", "en": "I am not putting on my clothes for school."},
+  {"id": 303, "tr": "Okul için kıyafetlerimi giyiyor muyum?", "en": "Am I putting on my clothes for school?"},
+  {"id": 304, "tr": "Ne için kıyafetlerimi giyiyorum?", "en": "What am I putting on my clothes for?"},
+
+  {"id": 305, "tr": "Duş için kıyafetlerimi çıkarıyorum.", "en": "I am taking off my clothes for the shower."},
+  {"id": 306, "tr": "Duş için kıyafetlerimi çıkarmıyorum.", "en": "I am not taking off my clothes for the shower."},
+  {"id": 307, "tr": "Duş için kıyafetlerimi çıkarıyor muyum?", "en": "Am I taking off my clothes for the shower?"},
+  {"id": 308, "tr": "Ne için kıyafetlerimi çıkarıyorum?", "en": "What am I taking off my clothes for?"},
+
+  {"id": 309, "tr": "Ali çok yemek yiyor.", "en": "Ali is eating a lot of food."},
+  {"id": 310, "tr": "Ali çok yemek yemiyor.", "en": "Ali isn't eating a lot of food."},
+  {"id": 311, "tr": "Ali çok yemek yiyor mu?", "en": "Is Ali eating a lot of food?"},
+  {"id": 312, "tr": "Ali ne kadar yemek yiyor?", "en": "How much food is Ali eating?"},
+
+  {"id": 313, "tr": "Murat çok içki içiyor.", "en": "Murat is drinking a lot of alcohol."},
+  {"id": 314, "tr": "Murat çok içki içmiyor.", "en": "Murat isn't drinking a lot of alcohol."},
+  {"id": 315, "tr": "Murat çok içki içiyor mu?", "en": "Is Murat drinking a lot of alcohol?"},
+  {"id": 316, "tr": "Murat ne kadar içki içiyor?", "en": "How much alcohol is Murat drinking?"},
+
+  {"id": 317, "tr": "Şu anda anneannemi arıyorum.", "en": "I am calling my grandmother right now."},
+  {"id": 318, "tr": "Şu anda anneannemi aramıyorum.", "en": "I am not calling my grandmother right now."},
+  {"id": 319, "tr": "Şu anda anneannemi arıyor muyum?", "en": "Am I calling my grandmother right now?"},
+  {"id": 320, "tr": "Şu anda kimi arıyorum?", "en": "Who am I calling right now?"},
+
+  {"id": 321, "tr": "Öğretmen çocuklara bağırıyor.", "en": "The teacher is shouting at the children."},
+  {"id": 322, "tr": "Öğretmen çocuklara bağırmıyor.", "en": "The teacher isn't shouting at the children."},
+  {"id": 323, "tr": "Öğretmen çocuklara bağırıyor mu?", "en": "Is the teacher shouting at the children?"},
+  {"id": 324, "tr": "Öğretmen kime bağırıyor?", "en": "Who is the teacher shouting at?"},
+
+  {"id": 325, "tr": "Çocuklar bana gülümsüyor.", "en": "The children are smiling at me."},
+  {"id": 326, "tr": "Çocuklar bana gülümsemıyor.", "en": "The children aren't smiling at me."},
+  {"id": 327, "tr": "Çocuklar bana gülümsüyor mu?", "en": "Are the children smiling at me?"},
+  {"id": 328, "tr": "Çocuklar kime gülümsüyor?", "en": "Who are the children smiling at?"},
+
+  {"id": 329, "tr": "Onlar şakalarıma kahkaha atıyor.", "en": "They are laughing at my jokes."},
+  {"id": 330, "tr": "Onlar şakalarıma kahkaha atmıyor.", "en": "They aren't laughing at my jokes."},
+  {"id": 331, "tr": "Onlar şakalarıma kahkaha atıyor mu?", "en": "Are they laughing at my jokes?"},
+  {"id": 332, "tr": "Onlar neye kahkaha atıyor?", "en": "What are they laughing at?"},
+
+  {"id": 333, "tr": "Ayşe bana göz kırpıyor.", "en": "Ayşe is winking at me."},
+  {"id": 334, "tr": "Ayşe bana göz kırpmıyor.", "en": "Ayşe isn't winking at me."},
+  {"id": 335, "tr": "Ayşe bana göz kırpıyor mu?", "en": "Is Ayşe winking at me?"},
+  {"id": 336, "tr": "Ayşe kime göz kırpıyor?", "en": "Who is Ayşe winking at?"},
+
+  {"id": 337, "tr": "Ali şu anda Ayşe'yi düşünüyor.", "en": "Ali is thinking about Ayşe right now."},
+  {"id": 338, "tr": "Ali şu anda Ayşe'yi düşünmüyor.", "en": "Ali isn't thinking about Ayşe right now."},
+  {"id": 339, "tr": "Ali şu anda Ayşe'yi düşünüyor mu?", "en": "Is Ali thinking about Ayşe right now?"},
+  {"id": 340, "tr": "Ali şu anda kimi düşünüyor?", "en": "Who is Ali thinking about right now?"},
+
+  {"id": 341, "tr": "Ayşe bu hafta İngilizcesini geliştirmeye çalışıyor.", "en": "Ayşe is trying to improve her English this week."},
+  {"id": 342, "tr": "Ayşe bu hafta İngilizcesini geliştirmeye çalışmıyor.", "en": "Ayşe isn't trying to improve her English this week."},
+  {"id": 343, "tr": "Ayşe bu hafta İngilizcesini geliştirmeye çalışıyor mu?", "en": "Is Ayşe trying to improve her English this week?"},
+  {"id": 344, "tr": "Ayşe bu hafta neyi geliştirmeye çalışıyor?", "en": "What is Ayşe trying to improve this week?"},
+
+  {"id": 345, "tr": "Ali çocuklarına bir hikaye okuyor.", "en": "Ali is reading a story to his children."},
+  {"id": 346, "tr": "Ali çocuklarına bir hikaye okumıyor.", "en": "Ali isn't reading a story to his children."},
+  {"id": 347, "tr": "Ali çocuklarına bir hikaye okuyor mu?", "en": "Is Ali reading a story to his children?"},
+  {"id": 348, "tr": "Ali çocuklarına ne okuyor?", "en": "What is Ali reading to his children?"},
+
+  {"id": 349, "tr": "Ayşe bana bir mektup yazıyor.", "en": "Ayşe is writing me a letter."},
+  {"id": 350, "tr": "Ayşe bana bir mektup yazmıyor.", "en": "Ayşe isn't writing me a letter."},
+  {"id": 351, "tr": "Ayşe bana bir mektup yazıyor mu?", "en": "Is Ayşe writing me a letter?"},
+  {"id": 352, "tr": "Ayşe bana ne yazıyor?", "en": "What is Ayşe writing me?"},
+
+  {"id": 353, "tr": "Ali çok resim çiziyor.", "en": "Ali is drawing a lot of pictures."},
+  {"id": 354, "tr": "Ali çok resim çizmiyor.", "en": "Ali isn't drawing a lot of pictures."},
+  {"id": 355, "tr": "Ali çok resim çiziyor mu?", "en": "Is Ali drawing a lot of pictures?"},
+  {"id": 356, "tr": "Ali ne çiziyor?", "en": "What is Ali drawing?"},
+
+  {"id": 357, "tr": "Duvarları şimdi boyuyoruz.", "en": "We are painting the walls now."},
+  {"id": 358, "tr": "Duvarları şimdi boyumuyoruz.", "en": "We aren't painting the walls now."},
+  {"id": 359, "tr": "Duvarları şimdi boyuyor muyuz?", "en": "Are we painting the walls now?"},
+  {"id": 360, "tr": "Şimdi neyi boyuyoruz?", "en": "What are we painting now?"},
+
+  {"id": 361, "tr": "Kedim benimle oynuyor.", "en": "My cat is playing with me."},
+  {"id": 362, "tr": "Kedim benimle oynamıyor.", "en": "My cat isn't playing with me."},
+  {"id": 363, "tr": "Kedim benimle oynuyor mu?", "en": "Is my cat playing with me?"},
+  {"id": 364, "tr": "Kedim kiminle oynuyor?", "en": "Who is my cat playing with?"},
+
+  {"id": 365, "tr": "Rüzgar esiyor.", "en": "The wind is blowing."},
+  {"id": 366, "tr": "Rüzgar esmıyor.", "en": "The wind isn't blowing."},
+  {"id": 367, "tr": "Rüzgar esiyor mu?", "en": "Is the wind blowing?"},
+  {"id": 368, "tr": "Rüzgar ne zaman esiyor?", "en": "When is the wind blowing?"},
+
+  {"id": 369, "tr": "Biz şu anda İngilizce öğreniyoruz.", "en": "We are learning English right now."},
+  {"id": 370, "tr": "Biz şu anda İngilizce öğrenmiyoruz.", "en": "We aren't learning English right now."},
+  {"id": 371, "tr": "Biz şu anda İngilizce öğreniyor muyuz?", "en": "Are we learning English right now?"},
+  {"id": 372, "tr": "Biz şu anda ne öğreniyoruz?", "en": "What are we learning right now?"},
+
+  {"id": 373, "tr": "Öğretmenimiz bize İngilizce öğretiyor.", "en": "Our teacher is teaching us English."},
+  {"id": 374, "tr": "Öğretmenimiz bize İngilizce öğretmiyor.", "en": "Our teacher isn't teaching us English."},
+  {"id": 375, "tr": "Öğretmenimiz bize İngilizce öğretiyor mu?", "en": "Is our teacher teaching us English?"},
+  {"id": 376, "tr": "Öğretmenimiz bize ne öğretiyor?", "en": "What is our teacher teaching us?"},
+
+  {"id": 377, "tr": "Ayşe için kapıyı açıyorum.", "en": "I am opening the door for Ayşe."},
+  {"id": 378, "tr": "Ayşe için kapıyı açmıyorum.", "en": "I am not opening the door for Ayşe."},
+  {"id": 379, "tr": "Ayşe için kapıyı açıyor muyum?", "en": "Am I opening the door for Ayşe?"},
+  {"id": 380, "tr": "Kim için kapıyı açıyorum?", "en": "Who am I opening the door for?"},
+
+  {"id": 381, "tr": "Gözlerimi kapıyorum.", "en": "I am closing my eyes."},
+  {"id": 382, "tr": "Gözlerimi kapmıyorum.", "en": "I am not closing my eyes."},
+  {"id": 383, "tr": "Gözlerimi kapıyor muyum?", "en": "Am I closing my eyes?"},
+  {"id": 384, "tr": "Neyi kapıyorum?", "en": "What am I closing?"},
+
+  {"id": 385, "tr": "Ali televizyonu açıyor.", "en": "Ali is turning on the television."},
+  {"id": 386, "tr": "Ali televizyonu açmıyor.", "en": "Ali isn't turning on the television."},
+  {"id": 387, "tr": "Ali televizyonu açıyor mu?", "en": "Is Ali turning on the television?"},
+  {"id": 388, "tr": "Ali neyi açıyor?", "en": "What is Ali turning on?"},
+
+  {"id": 389, "tr": "Ayşe bilgisayarını kapatıyor.", "en": "Ayşe is turning off her computer."},
+  {"id": 390, "tr": "Ayşe bilgisayarını kapatmıyor.", "en": "Ayşe isn't turning off her computer."},
+  {"id": 391, "tr": "Ayşe bilgisayarını kapatıyor mu?", "en": "Is Ayşe turning off her computer?"},
+  {"id": 392, "tr": "Ayşe neyi kapatıyor?", "en": "What is Ayşe turning off?"},
+
+  {"id": 393, "tr": "Öğretmen sınıfa giriyor.", "en": "The teacher is entering the classroom."},
+  {"id": 394, "tr": "Öğretmen sınıfa girmiyor.", "en": "The teacher isn't entering the classroom."},
+  {"id": 395, "tr": "Öğretmen sınıfa giriyor mu?", "en": "Is the teacher entering the classroom?"},
+  {"id": 396, "tr": "Öğretmen nereye giriyor?", "en": "Where is the teacher entering?"},
+
+  {"id": 397, "tr": "Şimdi evden dışarı çıkıyoruz.", "en": "We are going out of the house now."},
+  {"id": 398, "tr": "Şimdi evden dışarı çıkmıyoruz.", "en": "We aren't going out of the house now."},
+  {"id": 399, "tr": "Şimdi evden dışarı çıkıyor muyuz?", "en": "Are we going out of the house now?"},
+  {"id": 400, "tr": "Şimdi nereden dışarı çıkıyoruz?", "en": "Where are we going out of now?"},
+
+  {"id": 401, "tr": "İyi bir gelecek umuyoruz.", "en": "We are hoping for a good future."},
+  {"id": 402, "tr": "İyi bir gelecek umumuyoruz.", "en": "We aren't hoping for a good future."},
+  {"id": 403, "tr": "İyi bir gelecek umuyor muyuz?", "en": "Are we hoping for a good future?"},
+  {"id": 404, "tr": "Ne umuyoruz?", "en": "What are we hoping for?"},
+
+  {"id": 405, "tr": "Ali bana yardım etmeye söz veriyor.", "en": "Ali is promising to help me."},
+  {"id": 406, "tr": "Ali bana yardım etmeye söz vermiyor.", "en": "Ali isn't promising to help me."},
+  {"id": 407, "tr": "Ali bana yardım etmeye söz veriyor mu?", "en": "Is Ali promising to help me?"},
+  {"id": 408, "tr": "Ali kime söz veriyor?", "en": "Who is Ali promising?"},
+
+  {"id": 409, "tr": "Takımımız bugün kazanıyor.", "en": "Our team is winning today."},
+  {"id": 410, "tr": "Takımımız bugün kazanmıyor.", "en": "Our team isn't winning today."},
+  {"id": 411, "tr": "Takımımız bugün kazanıyor mu?", "en": "Is our team winning today?"},
+  {"id": 412, "tr": "Takımımız bugün nerede kazanıyor?", "en": "Where is our team winning today?"},
+
+  {"id": 413, "tr": "Ali çok para kazanıyor.", "en": "Ali is earning a lot of money."},
+  {"id": 414, "tr": "Ali çok para kazanmıyor.", "en": "Ali isn't earning a lot of money."},
+  {"id": 415, "tr": "Ali çok para kazanıyor mu?", "en": "Is Ali earning a lot of money?"},
+  {"id": 416, "tr": "Ali ne kadar para kazanıyor?", "en": "How much money is Ali earning?"},
+
+  {"id": 417, "tr": "Ali şu anda anahtarını kaybediyor.", "en": "Ali is losing his key right now."},
+  {"id": 418, "tr": "Ali şu anda anahtarını kaybetmiyor.", "en": "Ali isn't losing his key right now."},
+  {"id": 419, "tr": "Ali şu anda anahtarını kaybediyor mu?", "en": "Is Ali losing his key right now?"},
+  {"id": 420, "tr": "Ali şu anda neyi kaybediyor?", "en": "What is Ali losing right now?"},
+
+  {"id": 421, "tr": "Ayşe sınavlardan geçiyor.", "en": "Ayşe is passing her exams."},
+  {"id": 422, "tr": "Ayşe sınavlardan geçmiyor.", "en": "Ayşe isn't passing her exams."},
+  {"id": 423, "tr": "Ayşe sınavlardan geçiyor mu?", "en": "Is Ayşe passing her exams?"},
+  {"id": 424, "tr": "Ayşe neden geçiyor?", "en": "What is Ayşe passing?"},
+
+  {"id": 425, "tr": "Murat sınavlardan kalıyor.", "en": "Murat is failing his exams."},
+  {"id": 426, "tr": "Murat sınavlardan kalmıyor.", "en": "Murat isn't failing his exams."},
+  {"id": 427, "tr": "Murat sınavlardan kalıyor mu?", "en": "Is Murat failing his exams?"},
+  {"id": 428, "tr": "Murat neden kalıyor?", "en": "What is Murat failing?"},
+
+  {"id": 429, "tr": "Murat bu yıl mezun oluyor.", "en": "Murat is graduating this year."},
+  {"id": 430, "tr": "Murat bu yıl mezun olmıyor.", "en": "Murat isn't graduating this year."},
+  {"id": 431, "tr": "Murat bu yıl mezun oluyor mu?", "en": "Is Murat graduating this year?"},
+  {"id": 432, "tr": "Murat ne zaman mezun oluyor?", "en": "When is Murat graduating?"},
+
+  {"id": 433, "tr": "Annemle yemek pişiriyoruz.", "en": "We are cooking food with my mother."},
+  {"id": 434, "tr": "Annemle yemek pişirmiyoruz.", "en": "We aren't cooking food with my mother."},
+  {"id": 435, "tr": "Annemle yemek pişiriyor muyuz?", "en": "Are we cooking food with my mother?"},
+  {"id": 436, "tr": "Kiminle yemek pişiriyoruz?", "en": "Who are we cooking food with?"},
+
+  {"id": 437, "tr": "Ayşe şimdi yumurta kızartıyor.", "en": "Ayşe is frying eggs now."},
+  {"id": 438, "tr": "Ayşe şimdi yumurta kızartmıyor.", "en": "Ayşe isn't frying eggs now."},
+  {"id": 439, "tr": "Ayşe şimdi yumurta kızartıyor mu?", "en": "Is Ayşe frying eggs now?"},
+  {"id": 440, "tr": "Ayşe şimdi ne kızartıyor?", "en": "What is Ayşe frying now?"},
+
+  {"id": 441, "tr": "Ayşe şimdi yumurta kaynatıyor.", "en": "Ayşe is boiling eggs now."},
+  {"id": 442, "tr": "Ayşe şimdi yumurta kaynatmıyor.", "en": "Ayşe isn't boiling eggs now."},
+  {"id": 443, "tr": "Ayşe şimdi yumurta kaynatıyor mu?", "en": "Is Ayşe boiling eggs now?"},
+  {"id": 444, "tr": "Ayşe şimdi ne kaynatıyor?", "en": "What is Ayşe boiling now?"},
+
+  {"id": 445, "tr": "Onlar bugün kurabiye yapıyor.", "en": "They are making cookies today."},
+  {"id": 446, "tr": "Onlar bugün kurabiye yapmıyor.", "en": "They aren't making cookies today."},
+  {"id": 447, "tr": "Onlar bugün kurabiye yapıyor mu?", "en": "Are they making cookies today?"},
+  {"id": 448, "tr": "Onlar bugün ne yapıyor?", "en": "What are they making today?"},
+
+  {"id": 449, "tr": "Şimdi sütü bardağa döküyoruz.", "en": "We are pouring the milk into the glass now."},
+  {"id": 450, "tr": "Şimdi sütü bardağa dökmüyoruz.", "en": "We aren't pouring the milk into the glass now."},
+  {"id": 451, "tr": "Şimdi sütü bardağa dökuyor muyuz?", "en": "Are we pouring the milk into the glass now?"},
+  {"id": 452, "tr": "Şimdi sütü nereye döküyoruz?", "en": "Where are we pouring the milk now?"},
+
+  {"id": 453, "tr": "Sütü karıştırıyorum.", "en": "I am stirring the milk."},
+  {"id": 454, "tr": "Sütü karıştırmıyorum.", "en": "I am not stirring the milk."},
+  {"id": 455, "tr": "Sütü karıştırıyor muyum?", "en": "Am I stirring the milk?"},
+  {"id": 456, "tr": "Neyi karıştırıyorum?", "en": "What am I stirring?"},
+
+  {"id": 457, "tr": "Salatayı karıştırıyorum.", "en": "I am tossing the salad."},
+  {"id": 458, "tr": "Salatayı karıştırmıyorum.", "en": "I am not tossing the salad."},
+  {"id": 459, "tr": "Salatayı karıştırıyor muyum?", "en": "Am I tossing the salad?"},
+  {"id": 460, "tr": "Neyi karıştırıyorum?", "en": "What am I tossing?"},
+
+  {"id": 461, "tr": "Sebzeleri eski bir bıçakla kesiyorum.", "en": "I am cutting the vegetables with an old knife."},
+  {"id": 462, "tr": "Sebzeleri eski bir bıçakla kesmiyorum.", "en": "I am not cutting the vegetables with an old knife."},
+  {"id": 463, "tr": "Sebzeleri eski bir bıçakla kesiyor muyum?", "en": "Am I cutting the vegetables with an old knife?"},
+  {"id": 464, "tr": "Sebzeleri neyle kesiyorum?", "en": "What am I cutting the vegetables with?"},
+
+  {"id": 465, "tr": "Yemek pişirmeden önce patateslerin kabuğunu soyuyoruz.", "en": "We are peeling the potatoes before cooking."},
+  {"id": 466, "tr": "Yemek pişirmeden önce patateslerin kabuğunu soymuyoruz.", "en": "We aren't peeling the potatoes before cooking."},
+  {"id": 467, "tr": "Yemek pişirmeden önce patateslerin kabuğunu soyuyor muyuz?", "en": "Are we peeling the potatoes before cooking?"},
+  {"id": 468, "tr": "Yemek pişirmeden önce neyin kabuğunu soyuyoruz?", "en": "What are we peeling before cooking?"},
+
+  {"id": 469, "tr": "Onlar arabayı itiyor.", "en": "They are pushing the car."},
+  {"id": 470, "tr": "Onlar arabayı itmiyor.", "en": "They aren't pushing the car."},
+  {"id": 471, "tr": "Onlar arabayı itiyor mu?", "en": "Are they pushing the car?"},
+  {"id": 472, "tr": "Onlar neyi itiyor?", "en": "What are they pushing?"},
+
+  {"id": 473, "tr": "Siz arabayı çekiyorsunuz.", "en": "You are pulling the car."},
+  {"id": 474, "tr": "Siz arabayı çekmiyorsunuz.", "en": "You aren't pulling the car."},
+  {"id": 475, "tr": "Siz arabayı çekiyor musunuz?", "en": "Are you pulling the car?"},
+  {"id": 476, "tr": "Siz neyi çekiyorsunuz?", "en": "What are you pulling?"},
+
+  {"id": 477, "tr": "Ali benim çantamı taşıyor.", "en": "Ali is carrying my bag."},
+  {"id": 478, "tr": "Ali benim çantamı taşımıyor.", "en": "Ali isn't carrying my bag."},
+  {"id": 479, "tr": "Ali benim çantamı taşıyor mu?", "en": "Is Ali carrying my bag?"},
+  {"id": 480, "tr": "Ali kimin çantasını taşıyor?", "en": "Whose bag is Ali carrying?"},
+
+  {"id": 481, "tr": "Çocuklar bize el sallıyor.", "en": "The children are waving at us."},
+  {"id": 482, "tr": "Çocuklar bize el sallamıyor.", "en": "The children aren't waving at us."},
+  {"id": 483, "tr": "Çocuklar bize el sallıyor mu?", "en": "Are the children waving at us?"},
+  {"id": 484, "tr": "Çocuklar kime el sallıyor?", "en": "Who are the children waving at?"},
+
+  {"id": 485, "tr": "Ali ayranı sallıyor.", "en": "Ali is shaking the ayran."},
+  {"id": 486, "tr": "Ali ayranı sallamıyor.", "en": "Ali isn't shaking the ayran."},
+  {"id": 487, "tr": "Ali ayranı sallıyor mu?", "en": "Is Ali shaking the ayran?"},
+  {"id": 488, "tr": "Ali neyi sallıyor?", "en": "What is Ali shaking?"},
+
+  {"id": 489, "tr": "Ronaldo topa vuruyor.", "en": "Ronaldo is kicking the ball."},
+  {"id": 490, "tr": "Ronaldo topa vurmuyor.", "en": "Ronaldo isn't kicking the ball."},
+  {"id": 491, "tr": "Ronaldo topa vuruyor mu?", "en": "Is Ronaldo kicking the ball?"},
+  {"id": 492, "tr": "Ronaldo neye vuruyor?", "en": "What is Ronaldo kicking?"},
+
+  {"id": 493, "tr": "Ayşe anahtarlarını masaya koyuyor.", "en": "Ayşe is putting her keys on the table."},
+  {"id": 494, "tr": "Ayşe anahtarlarını masaya koymıyor.", "en": "Ayşe isn't putting her keys on the table."},
+  {"id": 495, "tr": "Ayşe anahtarlarını masaya koyuyor mu?", "en": "Is Ayşe putting her keys on the table?"},
+  {"id": 496, "tr": "Ayşe anahtarlarını nereye koyuyor?", "en": "Where is Ayşe putting her keys?"},
+
+  {"id": 497, "tr": "Biz bu hafta taşınıyoruz.", "en": "We are moving this week."},
+  {"id": 498, "tr": "Biz bu hafta taşınmıyoruz.", "en": "We aren't moving this week."},
+  {"id": 499, "tr": "Biz bu hafta taşınıyor muyuz?", "en": "Are we moving this week?"},
+  {"id": 500, "tr": "Biz ne zaman taşınıyoruz?", "en": "When are we moving?"},
+
+  {"id": 501, "tr": "Ali bardağı portakal suyuyla dolduruyor.", "en": "Ali is filling the glass with orange juice."},
+  {"id": 502, "tr": "Ali bardağı portakal suyuyla doldurmuyor.", "en": "Ali isn't filling the glass with orange juice."},
+  {"id": 503, "tr": "Ali bardağı portakal suyuyla dolduruyor mu?", "en": "Is Ali filling the glass with orange juice?"},
+  {"id": 504, "tr": "Ali bardağı neyle dolduruyor?", "en": "What is Ali filling the glass with?"},
+
+  {"id": 505, "tr": "Ayşe şu anda çöpü boşaltıyor.", "en": "Ayşe is emptying the bin right now."},
+  {"id": 506, "tr": "Ayşe şu anda çöpü boşaltmıyor.", "en": "Ayşe isn't emptying the bin right now."},
+  {"id": 507, "tr": "Ayşe şu anda çöpü boşaltıyor mu?", "en": "Is Ayşe emptying the bin right now?"},
+  {"id": 508, "tr": "Ayşe şu anda neyi boşaltıyor?", "en": "What is Ayşe emptying right now?"},
+
+  {"id": 509, "tr": "Ali bana daha iyi bir iş teklif ediyor.", "en": "Ali is offering me a better job."},
+  {"id": 510, "tr": "Ali bana daha iyi bir iş teklif etmiyor.", "en": "Ali isn't offering me a better job."},
+  {"id": 511, "tr": "Ali bana daha iyi bir iş teklif ediyor mu?", "en": "Is Ali offering me a better job?"},
+  {"id": 512, "tr": "Ali bana ne teklif ediyor?", "en": "What is Ali offering me?"},
+
+  {"id": 513, "tr": "Çocukların bahçede oynamasına izin veriyorum.", "en": "I am letting the children play in the garden."},
+  {"id": 514, "tr": "Çocukların bahçede oynamasına izin vermiyorum.", "en": "I am not letting the children play in the garden."},
+  {"id": 515, "tr": "Çocukların bahçede oynamasına izin veriyor muyum?", "en": "Am I letting the children play in the garden?"},
+  {"id": 516, "tr": "Çocukların nerede oynamasına izin veriyorum?", "en": "Where am I letting the children play?"},
+
+  {"id": 517, "tr": "Senin teklifini kabul ediyorum.", "en": "I am accepting your offer."},
+  {"id": 518, "tr": "Senin teklifini kabul etmiyorum.", "en": "I am not accepting your offer."},
+  {"id": 519, "tr": "Senin teklifini kabul ediyor muyum?", "en": "Am I accepting your offer?"},
+  {"id": 520, "tr": "Kimin teklifini kabul ediyorum?", "en": "Whose offer am I accepting?"},
+
+  {"id": 521, "tr": "Ayşe cevap vermeyi reddediyor.", "en": "Ayşe is refusing to answer."},
+  {"id": 522, "tr": "Ayşe cevap vermeyi reddetmiyor.", "en": "Ayşe isn't refusing to answer."},
+  {"id": 523, "tr": "Ayşe cevap vermeyi reddediyor mu?", "en": "Is Ayşe refusing to answer?"},
+  {"id": 524, "tr": "Ayşe neyi redediyor?", "en": "What is Ayşe refusing to do?"},
+
+  {"id": 525, "tr": "Okul bugün başvurumu onaylıyor.", "en": "The school is approving my application today."},
+  {"id": 526, "tr": "Okul bugün başvurumu onaylamıyor.", "en": "The school isn't approving my application today."},
+  {"id": 527, "tr": "Okul bugün başvurumu onaylıyor mu?", "en": "Is the school approving my application today?"},
+  {"id": 528, "tr": "Okul bugün neyi onaylıyor?", "en": "What is the school approving today?"},
+
+  {"id": 529, "tr": "Tüm teklifleri reddediyorlar.", "en": "They are rejecting all the offers."},
+  {"id": 530, "tr": "Tüm teklifleri reddetmiyorlar.", "en": "They aren't rejecting all the offers."},
+  {"id": 531, "tr": "Tüm teklifleri reddediyorlar mı?", "en": "Are they rejecting all the offers?"},
+  {"id": 532, "tr": "Onlar neyi reddediyorlar?", "en": "What are they rejecting?"},
+
+  {"id": 533, "tr": "Ali hatasını inkar ediyor.", "en": "Ali is denying his mistake."},
+  {"id": 534, "tr": "Ali hatasını inkar etmiyor.", "en": "Ali isn't denying his mistake."},
+  {"id": 535, "tr": "Ali hatasını inkar ediyor mu?", "en": "Is Ali denying his mistake?"},
+  {"id": 536, "tr": "Ali neyi inkar ediyor?", "en": "What is Ali denying?"},
+
+  {"id": 537, "tr": "Ali isimleri unutuyor.", "en": "Ali is forgetting names."},
+  {"id": 538, "tr": "Ali isimleri unutmuyor.", "en": "Ali isn't forgetting names."},
+  {"id": 539, "tr": "Ali isimleri unutuyor mu?", "en": "Is Ali forgetting names?"},
+  {"id": 540, "tr": "Ali neyi unutuyor?", "en": "What is Ali forgetting?"},
+
+  {"id": 541, "tr": "Anneannem her şeyi hatırlıyor.", "en": "My grandmother is remembering everything."},
+  {"id": 542, "tr": "Anneannem her şeyi hatırlamıyor.", "en": "My grandmother isn't remembering everything."},
+  {"id": 543, "tr": "Anneannem her şeyi hatırlıyor mu?", "en": "Is my grandmother remembering everything?"},
+  {"id": 544, "tr": "Anneannem ne hatırlıyor?", "en": "What is my grandmother remembering?"},
+
+  {"id": 545, "tr": "Bugün arkadaşlarımla buluşuyorum.", "en": "I am meeting my friends today."},
+  {"id": 546, "tr": "Bugün arkadaşlarımla buluşmuyorum.", "en": "I am not meeting my friends today."},
+  {"id": 547, "tr": "Bugün arkadaşlarımla buluşuyor muyum?", "en": "Am I meeting my friends today?"},
+  {"id": 548, "tr": "Bugün kimlerle buluşuyorum?", "en": "Who am I meeting today?"},
+
+  {"id": 549, "tr": "Ali yeni arabasını bana gösteriyor.", "en": "Ali is showing me his new car."},
+  {"id": 550, "tr": "Ali yeni arabasını bana göstermiyor.", "en": "Ali isn't showing me his new car."},
+  {"id": 551, "tr": "Ali yeni arabasını bana gösteriyor mu?", "en": "Is Ali showing me his new car?"},
+  {"id": 552, "tr": "Ali bana ne gösteriyor?", "en": "What is Ali showing me?"},
+
+  {"id": 553, "tr": "Onlar erken uyuyor.", "en": "They are going to sleep early."},
+  {"id": 554, "tr": "Onlar erken uyumuyor.", "en": "They aren't going to sleep early."},
+  {"id": 555, "tr": "Onlar erken uyuyor mu?", "en": "Are they going to sleep early?"},
+  {"id": 556, "tr": "Onlar ne zaman uyuyor?", "en": "When are they going to sleep?"},
+
+  {"id": 557, "tr": "Sen geç uyanıyorsun.", "en": "You are waking up late."},
+  {"id": 558, "tr": "Sen geç uyanmıyorsun.", "en": "You aren't waking up late."},
+  {"id": 559, "tr": "Sen geç uyanıyor musun?", "en": "Are you waking up late?"},
+  {"id": 560, "tr": "Sen ne zaman uyanıyorsun?", "en": "When are you waking up?"},
+
+  {"id": 561, "tr": "Ali evde ailesine yardım ediyor.", "en": "Ali is helping his family at home."},
+  {"id": 562, "tr": "Ali evde ailesine yardım etmiyor.", "en": "Ali isn't helping his family at home."},
+  {"id": 563, "tr": "Ali evde ailesine yardım ediyor mu?", "en": "Is Ali helping his family at home?"},
+  {"id": 564, "tr": "Ali evde kime yardım ediyor?", "en": "Who is Ali helping at home?"},
+
+  {"id": 565, "tr": "Ayşe hatasının farkına varıyor.", "en": "Ayşe is realising her mistake."},
+  {"id": 566, "tr": "Ayşe hatasının farkına varmıyor.", "en": "Ayşe isn't realising her mistake."},
+  {"id": 567, "tr": "Ayşe hatasının farkına varıyor mu?", "en": "Is Ayşe realising her mistake?"},
+  {"id": 568, "tr": "Ayşe neyin farkına varıyor?", "en": "What is Ayşe realising?"},
+
+  {"id": 569, "tr": "Ayşe bugün 100 e-posta gönderiyor.", "en": "Ayşe is sending 100 emails today."},
+  {"id": 570, "tr": "Ayşe bugün 100 e-posta gönderimiyor.", "en": "Ayşe isn't sending 100 emails today."},
+  {"id": 571, "tr": "Ayşe bugün 100 e-posta gönderiyor mu?", "en": "Is Ayşe sending 100 emails today?"},
+  {"id": 572, "tr": "Ayşe bugün kaç e-posta gönderiyor?", "en": "How many emails is Ayşe sending today?"},
+
+  {"id": 573, "tr": "Ayşe bugün 100 e-posta alıyor.", "en": "Ayşe is receiving 100 emails today."},
+  {"id": 574, "tr": "Ayşe bugün 100 e-posta almıyor.", "en": "Ayşe isn't receiving 100 emails today."},
+  {"id": 575, "tr": "Ayşe bugün 100 e-posta alıyor mu?", "en": "Is Ayşe receiving 100 emails today?"},
+  {"id": 576, "tr": "Ayşe bugün kaç e-posta alıyor?", "en": "How many emails is Ayşe receiving today?"},
+
+  {"id": 577, "tr": "Ayşe bugün 100 e-postaya cevap veriyor.", "en": "Ayşe is replying to 100 emails today."},
+  {"id": 578, "tr": "Ayşe bugün 100 e-postaya cevap vermiyor.", "en": "Ayşe isn't replying to 100 emails today."},
+  {"id": 579, "tr": "Ayşe bugün 100 e-postaya cevap veriyor mu?", "en": "Is Ayşe replying to 100 emails today?"},
+  {"id": 580, "tr": "Ayşe bugün kaç e-postaya cevap veriyor?", "en": "How many emails is Ayşe replying to today?"},
+
+  {"id": 581, "tr": "Biz her şeyi paylaşıyoruz.", "en": "We are sharing everything."},
+  {"id": 582, "tr": "Biz her şeyi paylaşmıyoruz.", "en": "We aren't sharing everything."},
+  {"id": 583, "tr": "Biz her şeyi paylaşıyor muyuz?", "en": "Are we sharing everything?"},
+  {"id": 584, "tr": "Biz neyi paylaşıyoruz?", "en": "What are we sharing?"},
+
+  {"id": 585, "tr": "Onlar bizi kontrol ediyor.", "en": "They are checking on us."},
+  {"id": 586, "tr": "Onlar bizi kontrol etmiyor.", "en": "They aren't checking on us."},
+  {"id": 587, "tr": "Onlar bizi kontrol ediyor mu?", "en": "Are they checking on us?"},
+  {"id": 588, "tr": "Onlar kimi kontrol ediyor?", "en": "Who are they checking on?"},
+
+  {"id": 589, "tr": "Mesajlarımı kontrol ediyorum.", "en": "I am checking my messages."},
+  {"id": 590, "tr": "Mesajlarımı kontrol etmiyorum.", "en": "I am not checking my messages."},
+  {"id": 591, "tr": "Mesajlarımı kontrol ediyor muyum?", "en": "Am I checking my messages?"},
+  {"id": 592, "tr": "Neyi kontrol ediyorum?", "en": "What am I checking?"},
+
+  {"id": 593, "tr": "Bu fabrika her hafta 100 araba üretiyor.", "en": "This factory is producing 100 cars every week."},
+  {"id": 594, "tr": "Bu fabrika her hafta 100 araba üretmiyor.", "en": "This factory isn't producing 100 cars every week."},
+  {"id": 595, "tr": "Bu fabrika her hafta 100 araba üretiyor mu?", "en": "Is this factory producing 100 cars every week?"},
+  {"id": 596, "tr": "Bu fabrika her hafta kaç araba üretiyor?", "en": "How many cars is this factory producing every week?"},
+
+  {"id": 597, "tr": "Ali pahalı evler inşa ediyor.", "en": "Ali is building expensive houses."},
+  {"id": 598, "tr": "Ali pahalı evler inşa etmiyor.", "en": "Ali isn't building expensive houses."},
+  {"id": 599, "tr": "Ali pahalı evler inşa ediyor mu?", "en": "Is Ali building expensive houses?"},
+  {"id": 600, "tr": "Ali nasıl evler inşa ediyor?", "en": "What kind of houses is Ali building?"},
+
+  {"id": 601, "tr": "Annem akşam yemeğini hazırlıyor.", "en": "My mother is preparing dinner."},
+  {"id": 602, "tr": "Annem akşam yemeğini hazırlamıyor.", "en": "My mother isn't preparing dinner."},
+  {"id": 603, "tr": "Annem akşam yemeğini hazırlıyor mu?", "en": "Is my mother preparing dinner?"},
+  {"id": 604, "tr": "Annem neyi hazırlıyor?", "en": "What is my mother preparing?"},
+
+  {"id": 605, "tr": "Ali her şeyi dikkatli bir şekilde planlıyor.", "en": "Ali is planning everything carefully."},
+  {"id": 606, "tr": "Ali her şeyi dikkatli bir şekilde planlamıyor.", "en": "Ali isn't planning everything carefully."},
+  {"id": 607, "tr": "Ali her şeyi dikkatli bir şekilde planlıyor mu?", "en": "Is Ali planning everything carefully?"},
+  {"id": 608, "tr": "Ali her şeyi nasıl planlıyor?", "en": "How is Ali planning everything?"},
+
+  {"id": 609, "tr": "Onlar bu yaz evleniyor.", "en": "They are getting married this summer."},
+  {"id": 610, "tr": "Onlar bu yaz evlenmiyor.", "en": "They aren't getting married this summer."},
+  {"id": 611, "tr": "Onlar bu yaz evleniyor mu?", "en": "Are they getting married this summer?"},
+  {"id": 612, "tr": "Onlar ne zaman evleniyor?", "en": "When are they getting married?"},
+
+  {"id": 613, "tr": "Ayşe 5 yılın ardından boşanıyor.", "en": "Ayşe is getting divorced after 5 years."},
+  {"id": 614, "tr": "Ayşe 5 yılın ardından boşanmıyor.", "en": "Ayşe isn't getting divorced after 5 years."},
+  {"id": 615, "tr": "Ayşe 5 yılın ardından boşanıyor mu?", "en": "Is Ayşe getting divorced after 5 years?"},
+  {"id": 616, "tr": "Ayşe ne zaman boşanıyor?", "en": "When is Ayşe getting divorced?"},
+
+  {"id": 617, "tr": "Kuşlar gökyüzünde uçuyor.", "en": "The birds are flying in the sky."},
+  {"id": 618, "tr": "Kuşlar gökyüzünde uçmuyor.", "en": "The birds aren't flying in the sky."},
+  {"id": 619, "tr": "Kuşlar gökyüzünde uçuyor mu?", "en": "Are the birds flying in the sky?"},
+  {"id": 620, "tr": "Kuşlar nerede uçuyor?", "en": "Where are the birds flying?"},
+
+  {"id": 621, "tr": "Biz şu anda Avrupa'yı geziyoruz.", "en": "We are touring Europe right now."},
+  {"id": 622, "tr": "Biz şu anda Avrupa'yı gezmiyoruz.", "en": "We aren't touring Europe right now."},
+  {"id": 623, "tr": "Biz şu anda Avrupa'yı geziyor muyuz?", "en": "Are we touring Europe right now?"},
+  {"id": 624, "tr": "Biz şu anda nereyi geziyoruz?", "en": "Where are we touring right now?"},
+
+  {"id": 625, "tr": "Ayşe pazar günleri evde kalıyor.", "en": "Ayşe is staying at home on Sundays."},
+  {"id": 626, "tr": "Ayşe pazar günleri evde kalmıyor.", "en": "Ayşe isn't staying at home on Sundays."},
+  {"id": 627, "tr": "Ayşe pazar günleri evde kalıyor mu?", "en": "Is Ayşe staying at home on Sundays?"},
+  {"id": 628, "tr": "Ayşe pazar günleri nerede kalıyor?", "en": "Where is Ayşe staying on Sundays?"},
+
+  {"id": 629, "tr": "Çocuklar zili çalıyor.", "en": "The children are ringing the bell."},
+  {"id": 630, "tr": "Çocuklar zili çalmıyor.", "en": "The children aren't ringing the bell."},
+  {"id": 631, "tr": "Çocuklar zili çalıyor mu?", "en": "Are the children ringing the bell?"},
+  {"id": 632, "tr": "Çocuklar neyi çalıyor?", "en": "What are the children ringing?"},
+
+  {"id": 633, "tr": "Kuşlar şarkı söylüyor.", "en": "The birds are singing."},
+  {"id": 634, "tr": "Kuşlar şarkı söylemıyor.", "en": "The birds aren't singing."},
+  {"id": 635, "tr": "Kuşlar şarkı söylüyor mu?", "en": "Are the birds singing?"},
+  {"id": 636, "tr": "Kuşlar ne yapıyor?", "en": "What are the birds doing?"},
+
+  {"id": 637, "tr": "Onlar kulübe katılıyor.", "en": "They are joining the club."},
+  {"id": 638, "tr": "Onlar kulübe katılmıyor.", "en": "They aren't joining the club."},
+  {"id": 639, "tr": "Onlar kulübe katılıyor mu?", "en": "Are they joining the club?"},
+  {"id": 640, "tr": "Onlar neye katılıyor?", "en": "What are they joining?"},
+
+  {"id": 641, "tr": "Ali her hafta bir toplantıya katılıyor.", "en": "Ali is attending a meeting every week."},
+  {"id": 642, "tr": "Ali her hafta bir toplantıya katılmıyor.", "en": "Ali isn't attending a meeting every week."},
+  {"id": 643, "tr": "Ali her hafta bir toplantıya katılıyor mu?", "en": "Is Ali attending a meeting every week?"},
+  {"id": 644, "tr": "Ali her hafta neye katılıyor?", "en": "What is Ali attending every week?"},
+
+  {"id": 645, "tr": "Ali bisikletten düşüyor.", "en": "Ali is falling off his bike."},
+  {"id": 646, "tr": "Ali bisikletten düşmüyor.", "en": "Ali isn't falling off his bike."},
+  {"id": 647, "tr": "Ali bisikletten düşüyor mu?", "en": "Is Ali falling off his bike?"},
+  {"id": 648, "tr": "Ali neden düşüyor?", "en": "What is Ali falling off?"},
+
+  {"id": 649, "tr": "Ayşe benimle kavga ediyor.", "en": "Ayşe is arguing with me."},
+  {"id": 650, "tr": "Ayşe benimle kavga etmiyor.", "en": "Ayşe isn't arguing with me."},
+  {"id": 651, "tr": "Ayşe benimle kavga ediyor mu?", "en": "Is Ayşe arguing with me?"},
+  {"id": 652, "tr": "Ayşe kiminle kavga ediyor?", "en": "Who is Ayşe arguing with?"},
+
+  {"id": 653, "tr": "Beni incitiyorsun.", "en": "You are hurting me."},
+  {"id": 654, "tr": "Beni incitmiyorsun.", "en": "You aren't hurting me."},
+  {"id": 655, "tr": "Beni incitiyor musun?", "en": "Are you hurting me?"},
+  {"id": 656, "tr": "Kimi incitiyorsun?", "en": "Who are you hurting?"},
+
+  {"id": 657, "tr": "İnsanlardan para çalıyor.", "en": "He is stealing money from people."},
+  {"id": 658, "tr": "İnsanlardan para çalmıyor.", "en": "He isn't stealing money from people."},
+  {"id": 659, "tr": "İnsanlardan para çalıyor mu?", "en": "Is he stealing money from people?"},
+  {"id": 660, "tr": "Kimden para çalıyor?", "en": "Who is he stealing money from?"},
+
+  {"id": 661, "tr": "Sözlerimi tutuyorum.", "en": "I am keeping my promises."},
+  {"id": 662, "tr": "Sözlerimi tutmuyorum.", "en": "I am not keeping my promises."},
+  {"id": 663, "tr": "Sözlerimi tutuyor muyum?", "en": "Am I keeping my promises?"},
+  {"id": 664, "tr": "Neyi tutuyorum?", "en": "What am I keeping?"},
+
+  {"id": 665, "tr": "Anne bebeğini tutuyor.", "en": "The mother is holding her baby."},
+  {"id": 666, "tr": "Anne bebeğini tutmuyor.", "en": "The mother isn't holding her baby."},
+  {"id": 667, "tr": "Anne bebeğini tutuyor mu?", "en": "Is the mother holding her baby?"},
+  {"id": 668, "tr": "Anne neyi tutuyor?", "en": "What is the mother holding?"},
+
+  {"id": 669, "tr": "Ali gerçeği saklıyor.", "en": "Ali is hiding the truth."},
+  {"id": 670, "tr": "Ali gerçeği saklamıyor.", "en": "Ali isn't hiding the truth."},
+  {"id": 671, "tr": "Ali gerçeği saklıyor mu?", "en": "Is Ali hiding the truth?"},
+  {"id": 672, "tr": "Ali neyi saklıyor?", "en": "What is Ali hiding?"},
+
+  {"id": 673, "tr": "Evimi özlüyorum.", "en": "I am missing my home."},
+  {"id": 674, "tr": "Evimi özlemiyorum.", "en": "I am not missing my home."},
+  {"id": 675, "tr": "Evimi özlüyor muyum?", "en": "Am I missing my home?"},
+  {"id": 676, "tr": "Neyi özlüyorum?", "en": "What am I missing?"},
+
+  {"id": 677, "tr": "Ayşe şu anda treni kaçırıyor.", "en": "Ayşe is missing the train right now."},
+  {"id": 678, "tr": "Ayşe şu anda treni kaçırmıyor.", "en": "Ayşe isn't missing the train right now."},
+  {"id": 679, "tr": "Ayşe şu anda treni kaçırıyor mu?", "en": "Is Ayşe missing the train right now?"},
+  {"id": 680, "tr": "Ayşe şu anda neyi kaçırıyor?", "en": "What is Ayşe missing right now?"},
+
+  {"id": 681, "tr": "Murat topu yakalıyor.", "en": "Murat is catching the ball."},
+  {"id": 682, "tr": "Murat topu yakalamıyor.", "en": "Murat isn't catching the ball."},
+  {"id": 683, "tr": "Murat topu yakalıyor mu?", "en": "Is Murat catching the ball?"},
+  {"id": 684, "tr": "Murat neyi yakalıyor?", "en": "What is Murat catching?"},
+
+  {"id": 685, "tr": "Arabayı tamir ediyor.", "en": "He is repairing the car."},
+  {"id": 686, "tr": "Arabayı tamir etmiyor.", "en": "He isn't repairing the car."},
+  {"id": 687, "tr": "Arabayı tamir ediyor mu?", "en": "Is he repairing the car?"},
+  {"id": 688, "tr": "Neyi tamir ediyor?", "en": "What is he repairing?"},
+
+  {"id": 689, "tr": "Sorunlarımızı beraberce çözüyoruz.", "en": "We are solving our problems together."},
+  {"id": 690, "tr": "Sorunlarımızı beraberce çözmüyoruz.", "en": "We aren't solving our problems together."},
+  {"id": 691, "tr": "Sorunlarımızı beraberce çözüyor muyuz?", "en": "Are we solving our problems together?"},
+  {"id": 692, "tr": "Sorunlarımızı nasıl çözüyoruz?", "en": "How are we solving our problems?"},
+
+  {"id": 693, "tr": "Bebek oyuncakları kırıyor.", "en": "The baby is breaking the toys."},
+  {"id": 694, "tr": "Bebek oyuncakları kırmıyor.", "en": "The baby isn't breaking the toys."},
+  {"id": 695, "tr": "Bebek oyuncakları kırıyor mu?", "en": "Is the baby breaking the toys?"},
+  {"id": 696, "tr": "Bebek neyi kırıyor?", "en": "What is the baby breaking?"}
+]

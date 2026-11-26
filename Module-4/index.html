@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#6d28d9">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<title>5 Dakikada İngilizce</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<style>
+
+:root{
+  --bg:#f5f3fa; --surface:#ffffff; --surface-2:#f0ecf9; --line:#e4dff0;
+  --text:#1b1630; --muted:#665f80; --brand:#6d28d9; --brand-2:#8b5cf6; --brand-soft:#ede6fc;
+  --ok:#0b8a5f; --ok-soft:#dff5ec; --bad:#c8304f; --bad-soft:#fde8ec; --warn:#9a6700; --warn-soft:#fff3d6;
+  --star:#f5a623; --logo-l:93%; --shadow:0 1px 2px rgba(27,22,48,.06),0 4px 16px rgba(27,22,48,.06);
+  --r:18px; --font:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#110c1d; --surface:#1b1529; --surface-2:#251d38; --line:#30274a;
+  --text:#f2eefc; --muted:#a79fc2; --brand:#a78bfa; --brand-2:#c4b5fd; --brand-soft:#2a2045;
+  --logo-l:26%; --ok:#34d399; --ok-soft:#12352a; --bad:#fb7185; --bad-soft:#3a1622; --warn:#fbbf24; --warn-soft:#3a2c0c;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 16px rgba(0,0,0,.25);
+}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font-family:var(--font);font-size:16px;line-height:1.45;-webkit-tap-highlight-color:transparent}
+button{font:inherit;color:inherit;border:0;background:none;cursor:pointer;touch-action:manipulation}
+button:focus-visible,a:focus-visible{outline:3px solid var(--brand-2);outline-offset:2px}
+svg.i{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
+.wrap{max-width:560px;margin:0 auto;padding:0 16px}
+[hidden]{display:none!important}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* ---------- Home ---------- */
+#home{padding-bottom:calc(24px + env(safe-area-inset-bottom))}
+.topbar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);padding-top:env(safe-area-inset-top)}
+.home-head{display:flex;align-items:center;gap:12px;padding:14px 0}
+.home-head img{width:44px;height:44px;border-radius:12px;object-fit:cover}
+.home-head .t{flex:1;min-width:0}
+.home-head h1{font-size:20px;margin:0;line-height:1.2}
+.home-head p{margin:2px 0 0;color:var(--muted);font-size:14px}
+.icon-btn{position:relative;width:44px;height:44px;border-radius:12px;display:grid;place-items:center;color:var(--text)}
+.icon-btn:hover{background:var(--surface-2)}
+.badge{position:absolute;top:6px;right:6px;min-width:18px;height:18px;padding:0 5px;border-radius:9px;background:var(--bad);color:#fff;font-size:11px;font-weight:700;display:grid;place-items:center}
+.overall{background:var(--surface);border-radius:var(--r);box-shadow:var(--shadow);padding:16px;margin:4px 0 16px}
+.overall .row{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font-size:15px}
+.overall b{font-size:22px}
+.bar{height:8px;border-radius:4px;background:var(--surface-2);overflow:hidden;margin-top:10px}
+.bar>i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--brand),var(--brand-2));border-radius:4px;transition:width .3s}
+.continue{display:flex;align-items:center;gap:12px;width:100%;text-align:left;background:var(--brand);color:#fff;border-radius:var(--r);padding:14px 16px;margin-bottom:20px;box-shadow:var(--shadow)}
+@media (prefers-color-scheme:dark){.continue{color:#160d29}}
+.continue .t{flex:1;min-width:0}
+.continue small{display:block;opacity:.85;font-size:13px}
+.continue strong{display:block;font-size:17px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.section-title{font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.lessons{display:grid;gap:10px;margin:0;padding:0;list-style:none}
+.lesson{display:flex;align-items:center;gap:12px;width:100%;text-align:left;background:var(--surface);border-radius:var(--r);padding:12px;box-shadow:var(--shadow);border:2px solid transparent}
+.lesson:hover{border-color:var(--brand-soft)}
+.lesson.next{border-color:var(--brand)}
+.lesson .logo{width:56px;height:56px;border-radius:14px;flex:none;display:grid;place-items:center;overflow:hidden}
+.lesson .logo img{width:78%;height:78%;object-fit:contain}
+.lesson .t{flex:1;min-width:0}
+.lesson .n{font-size:13px;color:var(--muted);font-weight:600;display:flex;gap:8px;align-items:center}
+.lesson .s{font-size:16px;font-weight:600;line-height:1.3;margin-top:1px;overflow-wrap:anywhere}
+.lesson .meta{display:flex;align-items:center;gap:10px;margin-top:6px}
+.lesson .bar{flex:1;margin:0;height:6px}
+.lesson .pct{font-size:12px;color:var(--muted);min-width:34px;text-align:right}
+.stars{display:inline-flex;gap:1px}
+.stars svg{width:16px;height:16px;stroke:var(--star);stroke-width:1.8;fill:none}
+.stars svg.on{fill:var(--star)}
+.tag{font-size:11px;font-weight:700;padding:2px 7px;border-radius:6px;background:var(--brand-soft);color:var(--brand)}
+.tag.done{background:var(--ok-soft);color:var(--ok)}
+.notice{border-radius:14px;padding:12px 14px;margin:0 0 16px;font-size:14px;background:var(--warn-soft);color:var(--text);border:1px solid color-mix(in srgb,var(--warn) 35%,transparent)}
+.notice b{color:var(--warn)}
+.loading{padding:40px 0;text-align:center;color:var(--muted)}
+
+
+/* ---------- Kart ekranı ---------- */
+#lesson{min-height:100vh;min-height:100dvh;display:flex;flex-direction:column}
+.lhead{display:flex;align-items:center;gap:6px;padding:8px 0}
+.lhead .t{flex:1;min-width:0;text-align:center}
+.lhead h2{font-size:16px;margin:0;line-height:1.25}
+.lhead p{margin:0;font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.lprog{display:flex;align-items:center;gap:10px;padding:0 0 10px;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.lprog .bar{flex:1;margin:0}
+.round{font-size:13px;color:var(--warn);font-weight:700;text-align:center;margin:0 0 8px}
+.lmain{flex:1;display:flex;flex-direction:column;gap:12px;padding-bottom:12px}
+.notes-btn{display:flex;align-items:center;gap:8px;justify-content:center;min-height:44px;border-radius:12px;background:var(--brand-soft);color:var(--brand);font-weight:700;font-size:15px;width:100%}
+.flash{position:relative;background:var(--surface);border-radius:22px;box-shadow:var(--shadow);padding:18px;min-height:min(46vh,340px);display:flex;flex-direction:column;gap:12px;cursor:pointer;touch-action:pan-x pinch-zoom;user-select:none;-webkit-user-select:none;transition:transform .18s ease,box-shadow .18s;border:2px solid transparent;outline:none}
+.flash:focus-visible{border-color:var(--brand-2)}
+.flash.back{background:var(--surface);border-color:var(--brand-soft)}
+.flash.know{border-color:var(--ok)} .flash.dont{border-color:var(--bad)}
+.flash .top{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.flash .lbl{font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+.chip{font-size:12px;font-weight:700;padding:3px 8px;border-radius:8px}
+.chip.k{background:var(--ok-soft);color:var(--ok)} .chip.u{background:var(--bad-soft);color:var(--bad)}
+.ftext{flex:1;display:flex;align-items:center;justify-content:center;text-align:center;font-weight:700;line-height:1.35;overflow-wrap:anywhere;font-size:var(--fs,26px);margin:0;padding:6px 0}
+.flash.back .ftext{color:var(--brand)}
+.ftext .in{display:block;max-width:100%}
+.ftext .w{border-radius:6px;padding:0 1px;cursor:pointer;display:inline}
+.ftext .w.on{background:var(--brand-soft)}
+.hint{font-size:13px;color:var(--muted);text-align:center;display:flex;align-items:center;justify-content:center;gap:6px}
+.hint svg.i{width:16px;height:16px}
+.swipe-note{position:absolute;left:50%;transform:translateX(-50%);font-weight:800;font-size:15px;padding:6px 12px;border-radius:10px;opacity:0;pointer-events:none;transition:opacity .1s}
+.swipe-note.k{top:10px;background:var(--ok);color:#fff}.swipe-note.u{bottom:10px;background:var(--bad);color:#fff}
+.controls>.wrap{width:100%}
+.controls{position:sticky;bottom:0;z-index:4;background:linear-gradient(to top,var(--bg) 82%,transparent);padding:14px 0 calc(12px + env(safe-area-inset-bottom));display:flex;flex-direction:column;gap:10px}
+.judge{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.judge button{display:flex;align-items:center;justify-content:center;gap:8px;min-height:58px;border-radius:16px;font-weight:800;font-size:17px}
+.judge .u{background:var(--bad-soft);color:var(--bad)}
+.judge .k{background:var(--ok);color:#fff}
+@media (prefers-color-scheme:dark){.judge .k{color:#06261b}}
+.tools{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}
+.tool{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;min-height:58px;border-radius:14px;background:var(--surface);box-shadow:var(--shadow);font-size:12.5px;font-weight:600;color:var(--text);padding:4px 2px}
+.tool.active{background:var(--brand-soft);color:var(--brand)}
+.stats{display:flex;justify-content:center;gap:18px;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.stats b{color:var(--text);font-size:15px}.stats .c b{color:var(--ok)}.stats .p b{color:var(--bad)}
+/* Notlar: hocanın renkleri koyu zemin için seçildiği için her temada koyu "tahta" */
+.board{background:#17112a;color:#ece8f8;border-radius:18px;padding:14px;margin-top:6px}
+.board .ntabs{display:flex;gap:6px;overflow-x:auto;padding-bottom:10px;margin-bottom:4px;scrollbar-width:none}
+.board .ntab{flex:none;padding:8px 12px;border-radius:10px;font-size:14px;font-weight:700;background:rgba(255,255,255,.07);color:#c9bff0;min-height:40px}
+.board .ntab[aria-selected="true"]{background:#7c3aed;color:#fff}
+.nbody{font-size:15px;line-height:1.55}
+.ncard{border-left:4px solid #a78bfa;background:rgba(255,255,255,.04);border-radius:0 12px 12px 0;padding:10px 12px;margin:0 0 10px}
+.ncard .nh{font-weight:800;margin-bottom:4px;font-size:15px}
+.ncard .nt{white-space:pre-line}
+.nc-teal{border-color:#2dd4bf}.nc-teal .nh{color:#5eead4}
+.nc-purple{border-color:#a78bfa}.nc-purple .nh{color:#c4b5fd}
+.nc-pink{border-color:#f472b6}.nc-pink .nh{color:#f9a8d4}
+.nc-amber{border-color:#fbbf24}.nc-amber .nh{color:#fcd34d}
+.nc-blue{border-color:#60a5fa}.nc-blue .nh{color:#93c5fd}
+.nc-green{border-color:#4ade80}.nc-green .nh{color:#86efac}
+.nc-red{border-color:#f87171}.nc-red .nh{color:#fca5a5}
+.tscroll{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 -2px}
+.nbody table{border-collapse:collapse;width:100%;min-width:300px;font-size:14px!important}
+.nbody th{background:rgba(124,58,237,.35);color:#ede9fe;text-align:left;padding:8px 6px}
+.nbody td{padding:8px 6px;border-bottom:1px solid rgba(255,255,255,.08);vertical-align:top}
+.nbody img{max-width:100%;border-radius:12px}
+.sheet.notes{max-height:92dvh}
+/* ---------- Sheets / dialogs ---------- */
+.scrim{position:fixed;inset:0;background:rgba(10,6,20,.5);z-index:40;display:flex;align-items:flex-end;justify-content:center;animation:fade .15s}
+@media (min-width:600px){.scrim{align-items:center}}
+.sheet{background:var(--surface);width:100%;max-width:520px;max-height:88dvh;overflow:auto;border-radius:22px 22px 0 0;padding:20px 18px calc(18px + env(safe-area-inset-bottom));animation:up .2s ease-out}
+@media (min-width:600px){.sheet{border-radius:22px}}
+.sheet h3{margin:0 0 6px;font-size:19px}
+.sheet p{margin:0 0 14px;color:var(--muted)}
+.sheet .x{float:right;margin:-8px -6px 0 0}
+.opt{display:flex;align-items:center;gap:12px;width:100%;text-align:left;min-height:56px;padding:10px 4px;border-bottom:1px solid var(--line);font-size:16px}
+.opt:last-child{border-bottom:0}
+.opt .t{flex:1}.opt small{display:block;color:var(--muted);font-size:13px}
+.switch{width:46px;height:28px;border-radius:14px;background:var(--line);position:relative;flex:none;transition:background .2s}
+.switch::after{content:"";position:absolute;top:3px;left:3px;width:22px;height:22px;border-radius:50%;background:#fff;transition:transform .2s;box-shadow:0 1px 3px rgba(0,0,0,.2)}
+.opt[aria-checked="true"] .switch{background:var(--brand)}
+.opt[aria-checked="true"] .switch::after{transform:translateX(18px)}
+.btn{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;min-height:52px;border-radius:14px;font-weight:700;font-size:16px;margin-top:10px;background:var(--surface-2)}
+.btn.primary{background:var(--brand);color:#fff}
+@media (prefers-color-scheme:dark){.btn.primary{color:#160d29}}
+.btn.danger{background:var(--bad-soft);color:var(--bad)}
+.done-stars{display:flex;justify-content:center;gap:8px;margin:6px 0 10px}
+.done-stars svg{width:44px;height:44px;stroke:var(--star);stroke-width:1.6;fill:none}
+.done-stars svg.on{fill:var(--star)}
+.done-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:6px 0 8px;text-align:center}
+.done-grid div{background:var(--surface-2);border-radius:14px;padding:10px 4px;font-size:13px;color:var(--muted)}
+.done-grid b{display:block;font-size:22px;color:var(--text)}
+.cl{border-left:3px solid var(--brand-soft);padding:2px 0 2px 12px;margin:0 0 14px}
+.cl .d{font-size:13px;color:var(--muted);font-weight:600}
+.cl ul{margin:4px 0 0;padding-left:18px}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translateX(-50%);background:var(--text);color:var(--bg);padding:10px 16px;border-radius:12px;font-size:14px;z-index:60;max-width:90vw;text-align:center;animation:up .2s}
+@keyframes fade{from{opacity:0}} @keyframes up{from{transform:translateY(24px);opacity:0}}
+.toast{animation:none}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+@media (min-height:760px){.card{min-height:240px}}
+
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-mic" viewBox="0 0 24 24"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><path d="M12 19v3"/></symbol>
+  <symbol id="i-stop" viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12" rx="2"/></symbol>
+  <symbol id="i-vol" viewBox="0 0 24 24"><path d="M11 5 6 9H2v6h4l5 4V5Z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a10 10 0 0 1 0 14"/></symbol>
+  <symbol id="i-slow" viewBox="0 0 24 24"><path d="M11 5 6 9H2v6h4l5 4V5Z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/></symbol>
+  <symbol id="i-skip" viewBox="0 0 24 24"><path d="m5 4 10 8-10 8V4Z"/><path d="M19 5v14"/></symbol>
+  <symbol id="i-prev" viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></symbol>
+  <symbol id="i-next" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></symbol>
+  <symbol id="i-back" viewBox="0 0 24 24"><path d="m12 19-7-7 7-7"/><path d="M19 12H5"/></symbol>
+  <symbol id="i-more" viewBox="0 0 24 24"><circle cx="12" cy="5" r="1.2"/><circle cx="12" cy="12" r="1.2"/><circle cx="12" cy="19" r="1.2"/></symbol>
+  <symbol id="i-bell" viewBox="0 0 24 24"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24"><path d="m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1L12 2Z"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></symbol>
+  <symbol id="i-eye" viewBox="0 0 24 24"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></symbol>
+  <symbol id="i-eyeoff" viewBox="0 0 24 24"><path d="M9.9 4.2A9.8 9.8 0 0 1 12 4c7 0 10 8 10 8a18 18 0 0 1-2.2 3.3"/><path d="M6.6 6.6C3.6 8.6 2 12 2 12s3 8 10 8a9.7 9.7 0 0 0 5.4-1.6"/><path d="M14.1 14.1a3 3 0 1 1-4.2-4.2"/><path d="m2 2 20 20"/></symbol>
+  <symbol id="i-play" viewBox="0 0 24 24"><path d="m6 3 14 9-14 9V3Z"/></symbol>
+  <symbol id="i-reset" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></symbol>
+  <symbol id="i-sync" viewBox="0 0 24 24"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/></symbol>
+</svg>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-shuffle" viewBox="0 0 24 24"><path d="M2 18h1.4c1.3 0 2.5-.6 3.3-1.7l6.1-8.6c.7-1.1 2-1.7 3.3-1.7H22"/><path d="m18 2 4 4-4 4"/><path d="M2 6h1.9c1.5 0 2.9.9 3.6 2.2"/><path d="M22 18h-5.9c-1.3 0-2.6-.7-3.3-1.8l-.5-.8"/><path d="m18 14 4 4-4 4"/></symbol>
+  <symbol id="i-book" viewBox="0 0 24 24"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></symbol>
+</svg>
+
+<main id="home">
+  <div class="topbar"><div class="wrap home-head">
+    <img id="modLogo" alt="" width="44" height="44">
+    <div class="t"><h1>5 Dakikada İngilizce</h1><p id="modName">Modül</p></div>
+    <button class="icon-btn" id="bellBtn" aria-label="Yenilikler"><svg class="i"><use href="#i-bell"/></svg><span class="badge" id="bellBadge" hidden></span></button>
+  </div></div>
+  <div class="wrap">
+    <section class="overall" aria-label="Genel ilerleme">
+      <div class="row"><span>Tamamlanan ders</span><span><b id="doneCount">0</b> / <span id="totalCount">0</span></span></div>
+      <div class="bar"><i id="overallBar"></i></div>
+    </section>
+    <button class="continue" id="continueBtn" hidden>
+      <div class="t"><small>Kaldığın yerden devam et</small><strong id="continueName"></strong></div>
+      <svg class="i"><use href="#i-play"/></svg>
+    </button>
+    <h2 class="section-title">Dersler</h2>
+    <ul class="lessons" id="lessonList"><li class="loading">Dersler yükleniyor…</li></ul>
+  </div>
+</main>
+
+<main id="lesson" hidden>
+  <div class="topbar"><div class="wrap">
+    <div class="lhead">
+      <button class="icon-btn" id="homeBtn" aria-label="Ders listesine dön"><svg class="i"><use href="#i-back"/></svg></button>
+      <div class="t"><h2 id="lTitle"></h2><p id="lSub"></p></div>
+      <button class="icon-btn" id="menuBtn" aria-label="Ders ayarları"><svg class="i"><use href="#i-more"/></svg></button>
+    </div>
+    <div class="lprog"><div class="bar" aria-hidden="true"><i id="lBar"></i></div><span id="lPos"></span></div>
+  </div></div>
+  <div class="wrap lmain">
+    <button class="notes-btn" id="notesBtn" hidden><svg class="i"><use href="#i-book"/></svg>Konu notları</button>
+    <p class="round" id="roundInfo" hidden></p>
+    <div class="flash" id="card" role="button" tabindex="0" aria-live="polite">
+      <div class="top"><span class="lbl" id="side">Türkçesi</span><span id="chip"></span></div>
+      <p class="ftext" id="ftext"></p>
+      <div class="hint" id="hint"><svg class="i"><use href="#i-sync"/></svg><span>Çevirmek için karta dokun</span></div>
+      <div class="swipe-note k" id="noteK">Biliyorum</div>
+      <div class="swipe-note u" id="noteU">Bilmiyorum</div>
+    </div>
+  </div>
+  <div class="controls"><div class="wrap" style="display:flex;flex-direction:column;gap:10px">
+    <div class="judge">
+      <button class="u" id="dontBtn"><svg class="i"><use href="#i-x"/></svg>Bilmiyorum</button>
+      <button class="k" id="knowBtn"><svg class="i"><use href="#i-check"/></svg>Biliyorum</button>
+    </div>
+    <div class="tools">
+      <button class="tool" id="prevBtn" aria-label="Önceki kart"><svg class="i"><use href="#i-prev"/></svg>Geri</button>
+      <button class="tool" id="listenBtn" aria-label="İngilizcesini dinle"><svg class="i"><use href="#i-vol"/></svg>Dinle</button>
+      <button class="tool" id="slowBtn" aria-label="Yavaş dinle"><svg class="i"><use href="#i-slow"/></svg>Yavaş</button>
+      <button class="tool" id="shuffleBtn" aria-pressed="false" aria-label="Kartları karıştır"><svg class="i"><use href="#i-shuffle"/></svg>Karıştır</button>
+      <button class="tool" id="nextBtn" aria-label="Sonraki kart"><svg class="i"><use href="#i-next"/></svg>İleri</button>
+    </div>
+    <div class="stats"><span class="c">Biliyorum <b id="sKnow">0</b></span><span class="p">Bilmiyorum <b id="sDont">0</b></span><span>Kalan <b id="sLeft">0</b></span></div>
+  </div></div>
+</main>
+<div id="layer"></div>
+
+<script>
+"use strict";
+/* =========================================================
+   5 Dakikada İngilizce — kart çalışması (v2)
+   Aynı data.json, lessons/*.json ve not dosyalarıyla çalışır.
+   ========================================================= */
+const APP_VERSION = '2.0';
+const MOD = (() => { const m = location.pathname.match(/module-?(\d+)/i); const n = m ? m[1] : (document.documentElement.dataset.module || '3'); return { n, key: 'module' + n }; })();
+const $ = id => document.getElementById(id);
+const store = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+  raw(k) { try { return localStorage.getItem(k); } catch { return null; } },
+  del(k) { try { localStorage.removeItem(k); } catch {} }
+};
+const getJSON = (url, fresh) => fetch(url, { cache: fresh ? 'reload' : 'no-cache' }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
+const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+const icon = (name, cls) => { const s = document.createElementNS('http://www.w3.org/2000/svg', 'svg'); s.setAttribute('class', 'i' + (cls ? ' ' + cls : '')); const u = document.createElementNS('http://www.w3.org/2000/svg', 'use'); u.setAttribute('href', '#i-' + name); s.appendChild(u); return s; };
+function starsEl(n, cls = 'stars') { const w = el('span', cls); w.setAttribute('aria-label', n + ' yıldız'); for (let i = 0; i < 3; i++) w.appendChild(icon('star', i < n ? 'on' : '')); return w; }
+let toastT; function toast(msg) { document.querySelectorAll('.toast').forEach(t => t.remove()); const t = el('div', 'toast', msg); document.body.appendChild(t); clearTimeout(toastT); toastT = setTimeout(() => t.remove(), 2600); }
+function shuffled(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+
+/* ---------- ses ---------- */
+const synth = window.speechSynthesis || null;
+let enVoice = null;
+function pickVoice() { if (!synth) return; const vs = synth.getVoices(); enVoice = vs.find(v => v.lang === 'en-US' && /Google|Samantha|Aria|Jenny/i.test(v.name)) || vs.find(v => v.lang === 'en-US') || vs.find(v => /^en/i.test(v.lang)) || null; }
+if (synth) { pickVoice(); synth.onvoiceschanged = pickVoice; }
+function say(text, lang, rate) { if (!synth || !text) return; synth.cancel(); const u = new SpeechSynthesisUtterance(text); u.lang = lang; u.rate = rate; if (lang.startsWith('en') && enVoice) u.voice = enVoice; synth.speak(u); }
+let audioCtx = null;
+function beep(ok) {
+  if (!settings.sound) return;
+  try { audioCtx = audioCtx || new (window.AudioContext || window.webkitAudioContext)(); const t = audioCtx.currentTime, o = audioCtx.createOscillator(), g = audioCtx.createGain();
+    o.frequency.setValueAtTime(ok ? 660 : 260, t); if (ok) o.frequency.setValueAtTime(880, t + 0.08); else o.frequency.setValueAtTime(200, t + 0.08);
+    g.gain.setValueAtTime(0.1, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.25); o.connect(g); g.connect(audioCtx.destination); o.start(t); o.stop(t + 0.27); } catch {}
+}
+
+/* ---------- durum ---------- */
+const settings = Object.assign({ autoTR: store.raw('auto_tr_voice') === 'true', sound: true }, store.get('v2_settings', {}));
+const saveSettings = () => store.set('v2_settings', settings);
+let lessons = [], L = null, P = null, flipped = false;
+const lessonKey = m => String(m.id != null ? m.id : m.name);
+const progKey = m => `v2_cards_${MOD.key}_${lessonKey(m)}`;
+const oldProgKey = m => `lesson_progress_${MOD.key}_${m.name}`;
+const starKey = m => `completion_count_${MOD.key}_${m.name}`;     // eski uygulamayla aynı anahtar
+const getStars = m => Math.max(0, Math.min(3, parseInt(store.raw(starKey(m)) || '0', 10) || 0));
+const lessonLabel = m => { const n = String(m.name || '').match(/lesson\s*#?\s*([\d.]+)/i); return n ? 'Ders ' + n[1] : (m.name || 'Ders'); };
+
+function fresh(n, shuffle) { const order = [...Array(n).keys()]; return { v: 2, order: shuffle ? shuffled(order) : order, pos: 0, known: {}, unknown: {}, first: {}, shuffle: !!shuffle, round: 1, done: false }; }
+function loadProgress(meta, items) {
+  const n = items.length;
+  let p = store.get(progKey(meta), null);
+  if (!p || !Array.isArray(p.order) || p.order.some(i => i >= n) || p.order.length !== n) {
+    p = fresh(n, false);
+    // eski sürümün kaydı: kartlar Türkçe cümleye göre tutuluyordu → her kaydı ilk uygun karta bir kez uygula
+    const old = store.get(oldProgKey(meta), null);
+    const list = old && (old.state || old.cards);
+    if (Array.isArray(list)) {
+      const used = new Set();
+      for (const s of list) {
+        const i = items.findIndex((it, k) => !used.has(k) && it.tr === s.tr);
+        if (i < 0) continue; used.add(i);
+        if (s.isLearned) p.known[i] = 1; else if (s.isUnknown) p.unknown[i] = 1;
+      }
+      if (Object.keys(p.known).length === n) p = fresh(n, false);
+      else { const k = Math.min(old.currentIndex || 0, n - 1); p.pos = k; }
+    }
+  }
+  return p;
+}
+const saveProgress = () => { if (L && P) store.set(progKey(L.meta), P); };
+function summary(meta) {
+  const p = store.get(progKey(meta), null);
+  if (p && Array.isArray(p.order)) { const k = Object.keys(p.known).length; return { pct: p.done ? 1 : k / Math.max(p.order.length, 1), started: k > 0 || p.pos > 0 || Object.keys(p.unknown).length > 0, done: p.done }; }
+  const o = store.get(oldProgKey(meta), null); const list = o && (o.state || o.cards);
+  if (Array.isArray(list) && list.length) { const k = list.filter(x => x.isLearned).length; return { pct: k / list.length, started: true, done: false }; }
+  return { pct: 0, started: false, done: false };
+}
+
+/* ---------- ana sayfa ---------- */
+function renderHome() {
+  $('modName').textContent = `Modül ${MOD.n} · Kart çalışması`;
+  const list = $('lessonList'); list.textContent = '';
+  let done = 0, firstOpen = null;
+  for (const m of lessons) {
+    const li = el('li'), b = el('button', 'lesson');
+    const s = summary(m), stars = getStars(m), isDone = stars > 0 || s.done;
+    if (isDone) done++;
+    if (!firstOpen && !isDone) { firstOpen = m; b.classList.add('next'); }
+    const logo = el('div', 'logo'); logo.style.background = `hsl(${(lessons.indexOf(m) * 47) % 360} 75% var(--logo-l))`;
+    if (m.logo) {
+      const img = new Image(); img.alt = ''; img.loading = 'lazy'; img.decoding = 'async';
+      img.src = 'mini/' + m.logo.replace(/\.[a-z]+$/i, '') + '.webp';
+      img.onerror = () => { if (!img.dataset.f) { img.dataset.f = 1; img.src = 'logo/' + m.logo; } else img.remove(); };
+      logo.appendChild(img);
+    }
+    const t = el('div', 't'), n = el('div', 'n', lessonLabel(m));
+    if (isDone) n.appendChild(el('span', 'tag done', 'Tamamlandı')); else if (s.started) n.appendChild(el('span', 'tag', 'Devam ediyor'));
+    t.append(n, el('div', 's', m.subTitle || ''));
+    const meta = el('div', 'meta'), bar = el('div', 'bar'), bi = el('i'); bi.style.width = Math.round(s.pct * 100) + '%'; bar.appendChild(bi);
+    meta.append(bar, el('span', 'pct', Math.round(s.pct * 100) + '%'), starsEl(stars)); t.appendChild(meta);
+    b.append(logo, t); b.onclick = () => openLesson(m);
+    li.appendChild(b); list.appendChild(li);
+  }
+  $('doneCount').textContent = done; $('totalCount').textContent = lessons.length;
+  $('overallBar').style.width = (lessons.length ? done / lessons.length * 100 : 0) + '%';
+  const last = lessons.find(l => lessonKey(l) === store.get(`v2_last_${MOD.key}`, null));
+  const target = (last && !summary(last).done) ? last : firstOpen;
+  if (target) {
+    $('continueBtn').hidden = false;
+    $('continueBtn').querySelector('small').textContent = (last && target === last) ? 'Kaldığın yerden devam et' : 'Sıradaki ders';
+    $('continueName').textContent = `${lessonLabel(target)} — ${target.subTitle || ''}`;
+    $('continueBtn').onclick = () => openLesson(target);
+  } else $('continueBtn').hidden = true;
+}
+
+/* ---------- ders ---------- */
+async function openLesson(meta, freshLoad) {
+  try {
+    const raw = await getJSON(meta.file, freshLoad);
+    const items = raw.map(x => ({ tr: String(x.tr || x.Turkish || '').trim(), en: String(x.en || x.English || '').replace(/\s+/g, ' ').trim() })).filter(x => x.tr && x.en);
+    if (!items.length) throw new Error('empty');
+    if (!L || L.meta !== meta) history.pushState({ l: lessonKey(meta) }, '');
+    L = { meta, items }; P = loadProgress(meta, items);
+    if (P.done) P = Object.assign(fresh(items.length, P.shuffle)); // biten ders yeniden açılınca baştan
+    store.set(`v2_last_${MOD.key}`, lessonKey(meta));
+    $('lTitle').textContent = lessonLabel(meta); $('lSub').textContent = meta.subTitle || '';
+    $('notesBtn').hidden = !meta.notes;
+    $('shuffleBtn').classList.toggle('active', P.shuffle); $('shuffleBtn').setAttribute('aria-pressed', P.shuffle);
+    show('lesson');
+    if (!unlearnedLeft()) finish(); else { normalizePos(); renderCard(true); }
+  } catch { toast('Ders yüklenemedi. İnternet bağlantını kontrol et.'); }
+}
+function show(which) {
+  if (synth) synth.cancel();
+  $('home').hidden = which !== 'home'; $('lesson').hidden = which !== 'lesson';
+  window.scrollTo(0, 0); if (which === 'home') renderHome();
+}
+function goHome() { closeSheet(false); if (history.state && history.state.l != null) history.back(); else show('home'); }
+window.addEventListener('popstate', () => { closeSheet(false); if (!$('lesson').hidden) { L = null; show('home'); } });
+
+const cur = () => P.order[P.pos];
+const unlearnedLeft = () => P.order.filter(i => !P.known[i]).length;
+function normalizePos() { // öğrenilmiş kartları atla; tur sonunda baştan, sadece bilinmeyenlerle
+  if (P.pos >= P.order.length) { P.pos = 0; P.round++; }
+  let guard = 0;
+  while (P.known[cur()] && guard++ < P.order.length * 2) { P.pos++; if (P.pos >= P.order.length) { P.pos = 0; P.round++; } }
+}
+function fitSize(text) { const n = text.length; return n < 30 ? 28 : n < 60 ? 24 : n < 100 ? 21 : n < 150 ? 18 : 16; }
+function renderCard(speak) {
+  const it = L.items[cur()];
+  flipped = false; paintFace();
+  const chip = $('chip'); chip.textContent = ''; chip.className = '';
+  if (P.unknown[cur()]) { chip.className = 'chip u'; chip.textContent = 'Daha önce bilemedin'; }
+  $('card').classList.remove('know', 'dont');
+  updateStats(); saveProgress();
+  if (speak && settings.autoTR) say(it.tr, 'tr-TR', 1);
+}
+function paintFace() {
+  const it = L.items[cur()], card = $('card'), ft = $('ftext');
+  card.classList.toggle('back', flipped);
+  $('side').textContent = flipped ? 'İngilizcesi' : 'Türkçesi';
+  ft.textContent = ''; ft.lang = flipped ? 'en' : 'tr';
+  const text = flipped ? it.en : it.tr;
+  ft.style.setProperty('--fs', fitSize(text) + 'px');
+  const inner = el('span', 'in'); ft.appendChild(inner);   // esnek kutunun tek çocuğu: kelimeler normal satır gibi akar
+  if (flipped) {
+    text.split(' ').forEach((w, i) => { if (i) inner.appendChild(document.createTextNode(' ')); const s = el('span', 'w', w); s.onclick = e => { e.stopPropagation(); speakWord(w, s); }; inner.appendChild(s); });
+    $('hint').lastChild.textContent = 'Kelimeye dokun: dinle · Boşluğa dokun: Türkçesi';
+  } else { inner.textContent = text; $('hint').lastChild.textContent = 'Çevirmek için karta dokun'; }
+}
+function speakWord(w, span) {
+  const clean = w.replace(/[^A-Za-z'’\-]/g, ''); if (!clean) return;
+  document.querySelectorAll('.ftext .w.on').forEach(x => x.classList.remove('on'));
+  span.classList.add('on'); setTimeout(() => span.classList.remove('on'), 900);
+  say(clean === 'I' ? 'i' : clean, 'en-US', 0.8);
+}
+function flip() { flipped = !flipped; paintFace(); }
+function updateStats() {
+  const total = P.order.length, k = Object.keys(P.known).length, u = Object.keys(P.unknown).filter(i => !P.known[i]).length;
+  $('lPos').textContent = `${k} / ${total} öğrenildi`;
+  $('lBar').style.width = (k / total * 100) + '%';
+  $('sKnow').textContent = k; $('sDont').textContent = u; $('sLeft').textContent = total - k;
+  const ri = $('roundInfo');
+  if (P.round > 1 && !P.done && total - k > 0) { ri.hidden = false; ri.textContent = `${P.round}. tur · bilemediğin ${total - k} kart tekrar soruluyor`; } else ri.hidden = true;
+}
+function judge(knew) {
+  if (!L || !P || P.done) return;
+  const i = cur(), card = $('card');
+  if (P.first[i] == null) P.first[i] = knew ? 'k' : 'u';
+  if (knew) { P.known[i] = 1; delete P.unknown[i]; } else P.unknown[i] = 1;
+  beep(knew); card.classList.add(knew ? 'know' : 'dont');
+  card.style.transform = `translateY(${knew ? -14 : 14}px)`;
+  saveProgress();
+  setTimeout(() => {
+    card.style.transform = '';
+    if (!unlearnedLeft()) { finish(); return; }
+    P.pos++; normalizePos(); renderCard(true);
+  }, 220);
+}
+function step(d) {
+  if (!P) return;
+  const n = P.order.length; let k = P.pos, guard = 0;
+  do { k = (k + d + n) % n; } while (P.known[P.order[k]] && guard++ < n);
+  P.pos = k; renderCard(true);
+}
+function toggleShuffle() {
+  const idx = cur();
+  P.shuffle = !P.shuffle;
+  P.order = P.shuffle ? shuffled(P.order) : P.order.slice().sort((a, b) => a - b);
+  P.pos = Math.max(0, P.order.indexOf(idx)); // aynı kartta kal
+  $('shuffleBtn').classList.toggle('active', P.shuffle); $('shuffleBtn').setAttribute('aria-pressed', P.shuffle);
+  toast(P.shuffle ? 'Kartlar karıştırıldı' : 'Kartlar sıralı');
+  renderCard(false);
+}
+function finish() {
+  const total = L.items.length;
+  const firstKnown = Object.values(P.first).filter(v => v === 'k').length;
+  const ratio = firstKnown / total;
+  const s = ratio >= 0.9 ? 3 : ratio >= 0.6 ? 2 : 1;
+  if (s > getStars(L.meta)) store.set(starKey(L.meta), s);
+  P.done = true; saveProgress(); store.del(oldProgKey(L.meta)); updateStats();
+  sheet(sh => {
+    sh.appendChild(el('h3', null, 'Tebrikler, tüm kartları öğrendin!'));
+    sh.appendChild(el('p', null, `${lessonLabel(L.meta)} — ${L.meta.subTitle || ''}`));
+    sh.appendChild(starsEl(s, 'done-stars'));
+    const g = el('div', 'done-grid');
+    [['İlk seferde bildin', firstKnown], ['Sonradan öğrendin', total - firstKnown], ['Toplam kart', total]].forEach(([k, v]) => { const d = el('div'); d.append(el('b', null, v), document.createTextNode(k)); g.appendChild(d); });
+    sh.appendChild(g);
+    sh.appendChild(el('p', null, s < 3 ? 'Yıldız, kartların kaçını ilk seferde bildiğine göre verilir. Tekrar çalışarak 3 yıldızı alabilirsin.' : 'Kartların neredeyse hepsini ilk seferde bildin.'));
+    const r = el('button', 'btn primary', 'Tekrar çalış'); r.prepend(icon('reset')); r.onclick = () => { closeSheet(false); P = fresh(total, P.shuffle); saveProgress(); renderCard(true); }; sh.appendChild(r);
+    const h = el('button', 'btn', 'Ders listesine dön'); h.onclick = () => closeSheet(); sh.appendChild(h);
+  }, goHome);
+}
+
+/* ---------- kaydırma (yukarı = biliyorum, aşağı = bilmiyorum) ---------- */
+(() => {
+  const card = $('card'); let y0 = null, x0 = 0, dy = 0, moved = false;
+  const start = (x, y) => { y0 = y; x0 = x; dy = 0; moved = false; card.style.transition = 'none'; };
+  const move = (x, y, e) => {
+    if (y0 === null) return; dy = y - y0;
+    if (!moved && Math.abs(dy) > 12 && Math.abs(dy) > Math.abs(x - x0)) moved = true;
+    if (!moved) return; if (e && e.cancelable) e.preventDefault();
+    card.style.transform = `translateY(${dy}px) rotate(${dy / 60}deg)`;
+    const pr = Math.min(Math.abs(dy) / 110, 1);
+    $('noteK').style.opacity = dy < 0 ? pr : 0; $('noteU').style.opacity = dy > 0 ? pr : 0;
+  };
+  const end = () => {
+    if (y0 === null) return; card.style.transition = ''; $('noteK').style.opacity = 0; $('noteU').style.opacity = 0;
+    const d = dy; y0 = null;
+    if (moved && Math.abs(d) > 110) { card.style.transform = ''; judge(d < 0); }
+    else card.style.transform = '';
+    if (moved) { card.dataset.swiped = '1'; setTimeout(() => delete card.dataset.swiped, 50); }
+  };
+  card.addEventListener('touchstart', e => start(e.touches[0].clientX, e.touches[0].clientY), { passive: true });
+  card.addEventListener('touchmove', e => move(e.touches[0].clientX, e.touches[0].clientY, e), { passive: false });
+  card.addEventListener('touchend', end); card.addEventListener('touchcancel', end);
+  card.addEventListener('mousedown', e => start(e.clientX, e.clientY));
+  window.addEventListener('mousemove', e => move(e.clientX, e.clientY, null)); window.addEventListener('mouseup', end);
+  card.addEventListener('click', () => { if (!card.dataset.swiped) flip(); });
+  card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); flip(); } });
+})();
+
+/* ---------- notlar ---------- */
+const ALLOWED = new Set(['B', 'I', 'U', 'STRONG', 'EM', 'BR', 'SPAN', 'FONT', 'TABLE', 'THEAD', 'TBODY', 'TR', 'TH', 'TD', 'SMALL', 'SUP', 'SUB', 'MARK', 'P', 'UL', 'OL', 'LI', 'DIV']);
+function safeHTML(html) {   // not dosyalarındaki biçimlendirmeyi koru, betik/olay/bağlantı gibi şeyleri at
+  const doc = new DOMParser().parseFromString('<div>' + String(html || '') + '</div>', 'text/html');
+  const walk = node => {
+    for (const c of [...node.childNodes]) {
+      if (c.nodeType === 1) {
+        if (!ALLOWED.has(c.tagName)) { if (/^(SCRIPT|STYLE|IFRAME|OBJECT|EMBED|LINK|META)$/.test(c.tagName)) c.remove(); else { walk(c); c.replaceWith(...c.childNodes); } continue; }
+        for (const a of [...c.attributes]) {
+          const n = a.name.toLowerCase();
+          if (n === 'color' && c.tagName === 'FONT') continue;
+          if (n === 'style' && !/url\(|expression|javascript/i.test(a.value)) { c.setAttribute('style', a.value.replace(/font-size\s*:[^;]+;?/gi, '')); continue; }
+          if ((n === 'colspan' || n === 'rowspan') && /^\d+$/.test(a.value)) continue;
+          c.removeAttribute(a.name);
+        }
+        walk(c);
+      } else if (c.nodeType !== 3) c.remove();
+    }
+  };
+  const root = doc.body.firstChild; walk(root);
+  const frag = document.createDocumentFragment();
+  root.querySelectorAll('table').forEach(t => { const w = doc.createElement('div'); w.className = 'tscroll'; t.replaceWith(w); w.appendChild(t); });
+  [...root.childNodes].forEach(n => frag.appendChild(document.importNode(n, true)));
+  return frag;
+}
+async function openNotes() {
+  const meta = L.meta; let data;
+  try { data = await getJSON(meta.notes); } catch { data = null; }
+  sheet(sh => {
+    sh.classList.add('notes');
+    const x = el('button', 'icon-btn x'); x.setAttribute('aria-label', 'Kapat'); x.appendChild(icon('x')); x.onclick = () => closeSheet(false); sh.appendChild(x);
+    sh.appendChild(el('h3', null, 'Konu notları'));
+    sh.appendChild(el('p', null, meta.subTitle || ''));
+    const board = el('div', 'board'); sh.appendChild(board);
+    const tabs = (data && data.tabs) || [];
+    if (!tabs.length) { board.appendChild(el('p', null, 'Bu ders için not bulunamadı.')); return; }
+    const bar = el('div', 'ntabs'); bar.setAttribute('role', 'tablist'); const body = el('div', 'nbody');
+    const render = idx => {
+      [...bar.children].forEach((b, i) => b.setAttribute('aria-selected', i === idx));
+      body.textContent = ''; const tab = tabs[idx];
+      if (tab.image) { const im = new Image(); im.src = tab.image; im.alt = tab.label || ''; body.appendChild(im); }
+      if (tab.type === 'table') {
+        const w = el('div', 'tscroll'), t = el('table'), th = el('thead'), hr = el('tr');
+        (tab.headers || []).forEach(h => { const c = el('th'); c.appendChild(safeHTML(h)); hr.appendChild(c); }); th.appendChild(hr); t.appendChild(th);
+        const tb = el('tbody'); (tab.rows || []).forEach(r => { const tr = el('tr'); r.forEach(cell => { const c = el('td'); c.appendChild(safeHTML(cell)); tr.appendChild(c); }); tb.appendChild(tr); }); t.appendChild(tb);
+        w.appendChild(t); body.appendChild(w);
+      } else {
+        (tab.items || []).forEach(it => {
+          const c = el('div', 'ncard nc-' + (/^[a-z]+$/.test(it.color || '') ? it.color : 'purple'));
+          const h = el('div', 'nh'); h.appendChild(safeHTML(it.heading || it.tag || '')); c.appendChild(h);
+          const b = el('div', 'nt'); b.appendChild(safeHTML(it.content || it.text || '')); c.appendChild(b);
+          body.appendChild(c);
+        });
+      }
+    };
+    tabs.forEach((tab, i) => { const b = el('button', 'ntab', tab.label || ('Bölüm ' + (i + 1))); b.setAttribute('role', 'tab'); b.onclick = () => render(i); bar.appendChild(b); });
+    if (tabs.length > 1) board.appendChild(bar);
+    board.appendChild(body); render(0);
+  });
+}
+
+/* ---------- katmanlar ---------- */
+let sheetClose = null;
+function sheet(build, onClose) {
+  closeSheet(false);
+  const scrim = el('div', 'scrim'), sh = el('div', 'sheet'); sh.setAttribute('role', 'dialog'); sh.setAttribute('aria-modal', 'true');
+  scrim.appendChild(sh); build(sh);
+  scrim.addEventListener('click', e => { if (e.target === scrim) closeSheet(); });
+  $('layer').appendChild(scrim); sheetClose = onClose || null;
+  const f = sh.querySelector('button'); if (f) f.focus({ preventScroll: true });
+}
+function closeSheet(runCb = true) { const s = $('layer').firstChild; if (s) { s.remove(); const c = sheetClose; sheetClose = null; if (runCb && c) c(); } }
+function optSwitch(label, sub, key) {
+  const b = el('button', 'opt'); b.setAttribute('role', 'switch'); b.setAttribute('aria-checked', settings[key]);
+  const t = el('span', 't', label); if (sub) t.appendChild(el('small', null, sub)); b.append(t, el('span', 'switch'));
+  b.onclick = () => { settings[key] = !settings[key]; saveSettings(); b.setAttribute('aria-checked', settings[key]); }; return b;
+}
+function openMenu() {
+  sheet(sh => {
+    const x = el('button', 'icon-btn x'); x.setAttribute('aria-label', 'Kapat'); x.appendChild(icon('x')); x.onclick = () => closeSheet(false); sh.appendChild(x);
+    sh.appendChild(el('h3', null, 'Ders ayarları'));
+    sh.appendChild(el('p', null, `${lessonLabel(L.meta)} · ${L.items.length} kart`));
+    sh.appendChild(optSwitch('Türkçe cümleyi sesli oku', 'Her yeni kartta Türkçesi okunur', 'autoTR'));
+    sh.appendChild(optSwitch('Ses efektleri', 'Biliyorum/bilmiyorum sesi', 'sound'));
+    const up = el('button', 'opt'); up.append(icon('sync'), el('span', 't', 'Dersi güncelle')); up.lastChild.appendChild(el('small', null, 'Hocanın son değişikliklerini indir, ilerlemen korunur'));
+    up.onclick = () => { closeSheet(false); openLesson(L.meta, true).then(() => toast('Ders güncellendi')); };
+    const rs = el('button', 'opt'); rs.append(icon('reset'), el('span', 't', 'Dersi baştan başlat')); rs.lastChild.appendChild(el('small', null, 'Bu dersteki işaretlerin silinir, yıldızlar kalır'));
+    rs.onclick = () => sheet(s2 => {
+      s2.appendChild(el('h3', null, 'Ders sıfırlansın mı?')); s2.appendChild(el('p', null, 'Bu dersteki "biliyorum / bilmiyorum" işaretlerin silinecek. Kazandığın yıldızlar kalır.'));
+      const ok = el('button', 'btn danger', 'Evet, baştan başlat'); ok.onclick = () => { closeSheet(false); P = fresh(L.items.length, P.shuffle); store.del(oldProgKey(L.meta)); saveProgress(); renderCard(true); };
+      const no = el('button', 'btn', 'Vazgeç'); no.onclick = () => closeSheet(false); s2.append(ok, no);
+    });
+    sh.append(up, rs);
+  });
+}
+async function openChangelog() {
+  let data = []; try { data = await getJSON('changelog.json'); } catch {}
+  sheet(sh => {
+    const x = el('button', 'icon-btn x'); x.setAttribute('aria-label', 'Kapat'); x.appendChild(icon('x')); x.onclick = () => closeSheet(false); sh.appendChild(x);
+    sh.appendChild(el('h3', null, 'Yenilikler')); sh.appendChild(el('p', null, 'Uygulama sürümü ' + APP_VERSION));
+    if (!data.length) sh.appendChild(el('p', null, 'Henüz duyuru yok.'));
+    data.slice().sort((a, b) => b.id - a.id).forEach(e => { const c = el('div', 'cl'); c.appendChild(el('div', 'd', (e.date || '') + (e.version ? ' · V.' + e.version : ''))); const ul = el('ul'); (e.items || []).forEach(i => ul.appendChild(el('li', null, i))); c.appendChild(ul); sh.appendChild(c); });
+  });
+  if (data.length) store.set('changelog_last_id', Math.max(...data.map(d => d.id || 0)));
+  $('bellBadge').hidden = true;
+}
+
+/* ---------- olaylar ---------- */
+$('homeBtn').onclick = goHome; $('menuBtn').onclick = openMenu; $('bellBtn').onclick = openChangelog; $('notesBtn').onclick = openNotes;
+$('knowBtn').onclick = () => judge(true); $('dontBtn').onclick = () => judge(false);
+$('prevBtn').onclick = () => step(-1); $('nextBtn').onclick = () => step(1);
+$('listenBtn').onclick = () => say(L.items[cur()].en, 'en-US', 0.9);
+$('slowBtn').onclick = () => say(L.items[cur()].en, 'en-US', 0.55);
+$('shuffleBtn').onclick = toggleShuffle;
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') { closeSheet(); return; }
+  if ($('lesson').hidden || $('layer').firstChild) return;
+  if (e.target === $('card') && (e.key === 'Enter' || e.key === ' ')) return;
+  if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); flip(); }
+  else if (e.key === 'ArrowUp' || e.key.toLowerCase() === 'k') { e.preventDefault(); judge(true); }
+  else if (e.key === 'ArrowDown' || e.key.toLowerCase() === 'j') { e.preventDefault(); judge(false); }
+  else if (e.key === 'ArrowRight') step(1); else if (e.key === 'ArrowLeft') step(-1);
+});
+document.addEventListener('visibilitychange', () => { if (document.hidden && synth) synth.cancel(); });
+
+(function init() {
+  const logo = $('modLogo'); logo.src = `module${MOD.n}logo.webp`; logo.onerror = () => { logo.onerror = null; logo.src = 'logo.webp'; };
+  getJSON('data.json').then(d => { lessons = d.filter(x => x && x.file); renderHome(); })
+    .catch(() => { $('lessonList').textContent = ''; $('lessonList').appendChild(el('li', 'loading', 'Dersler yüklenemedi. İnternet bağlantını kontrol edip sayfayı yenile.')); });
+  getJSON('changelog.json').then(d => { const last = +store.raw('changelog_last_id') || 0; const n = d.filter(x => x.id > last).length; if (n) { $('bellBadge').hidden = false; $('bellBadge').textContent = n; } }).catch(() => {});
+  if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) navigator.serviceWorker.register('sw.js').catch(() => {});
+})();
+</script>
+</body>
+</html>

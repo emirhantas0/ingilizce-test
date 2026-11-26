@@ -1,0 +1,114 @@
+[
+  { "id": 1, "tr": "Ödevini bitirene kadar seni bekleyeceğim.", "en": "I will wait for you until you finish your homework." },
+  { "id": 2, "tr": "Ali Hediyeyi gördüğünde gülümsedi.", "en": "Ali smiled when he saw the gift." },
+  { "id": 3, "tr": "Toplantı sırasında lütfen telefonlarınızı kapatın!", "en": "Turn off your phones during the meeting!" },
+  { "id": 4, "tr": " O (erkek)Hatasını fark ettikten sonra özür diledi.", "en": "He apologised after he realized his mistake." },
+
+  { "id": 5, "tr": "İşimi bitirir bitirmez sana katılacağım.", "en": "I will join you as soon as I finish my work." },
+  { "id": 6, "tr": "Herkes geldiğinde toplantıya başlayacağız.", "en": "We will start the meeting when everyone comes." },
+  { "id": 7, "tr": "Ayrılmadan önce lütfen ışıkları kapat.", "en": " Please, turn off the lights before leaving. / Please, turn off the lights before you leave." },
+  { "id": 8, "tr": "İşe gitmeden önce kahvaltı yaparım.", "en": "I have breakfast before going to work. / I have breakfast before I go to work." },
+
+  { "id": 9, "tr": "Film sırasında telefonumu kontrol ettim.", "en": "I checked my phone during the movie." },
+  { "id": 10, "tr": "Toplantı sırasında konuştular.", "en": "They talked during the meeting." },
+  { "id": 11, "tr": "Ödevimi bitirdikten sonra seni arayacağım.", "en": "I will call you after finishing my homework / I will call you after I finish my homework." },
+  { "id": 12, "tr": "Daha iyi olana kadar pratik yapmalısın.", "en": "You must practice until you get better." },
+
+  { "id": 13, "tr": "Herkes geldiğinde toplantı başlayacak.", "en": "The meeting will start when everyone comes." },
+  { "id": 14, "tr": "Sunum sırasında sessizdik.", "en": "We were silent during the presentation." },
+  { "id": 15, "tr": "İşten sonra her zaman e-postalarımı kontrol ederim.", "en": "I always check my emails after work." },
+  { "id": 16, "tr": "Öğle yemeğinden sonra yürüyüşe çıkabiliriz.", "en": "We can go for a walk after lunch." },
+
+  { "id": 17, "tr": "Öğle molası boyunca kitap okudum.", "en": "I read a book during the lunch break." },
+  { "id": 18, "tr": "Son teslim tarihinden önce,Bu görevi bitirmem gerekiyor.", "en": "I need to finish this task before the deadline" },
+  { "id": 19, "tr": "Etkinlikten önce mekanı hazırlamamız gerekiyor.", "en": "We need to prepare the place before the event." },
+  { "id": 20, "tr": "O (erkek) egzersiz sırasında müzik dinledi.", "en": "He listened to music during the exercise." },
+
+  { "id": 21, "tr": "Mola sırasında konuyu tartıştık.", "en": "We argued the subject during the break." },
+  { "id": 22, "tr": "O (kadın) Kitabı bitirene kadar okudu.", "en": "She read the book until she finished it." },
+  { "id": 23, "tr": "Hava daha iyi olduğunda dışarı çıkacağız.", "en": "We will go out when the weather is better." },
+  { "id": 24, "tr": "Daha fazla bilgiye sahip olur olmaz, sana haber vereceğim.", "en": "As soon as I have more information, I will let you know. / As soon as I have more information, I will tell you." },
+
+  { "id": 25, "tr": "Vardığımda, seni arayacağım.", "en": "When I arrive, I will call you. / I will call you when I arrive." },
+  { "id": 26, "tr": "Akşam yemeğini bitirdikten sonra, film izleyeceğiz.", "en": "We will watch a movie after finishing the dinner. / We will watch a movie after we finish the dinner" },
+  { "id": 27, "tr": "Gece yarısından sonra partiden ayrıldık.", "en": "We left the party after midnight." },
+  { "id": 28, "tr": "O (erkek) raporu bitirir bitirmez sana e-posta atacak.", "en": "He will send you the email as soon as he finishes the report." },
+
+  { "id": 29, "tr": "O (erkek) Dışarı çıkmadan önce duş aldı.", "en": "He took a shower before going out. / He took a shower before he went out." },
+  { "id": 30, "tr": "O (kadın) Ofisten ayrılmadan önce beni aradı.", "en": "She called me before leaving the office. / She called me before she left the office" },
+  { "id": 31, "tr": "O (kadın Eve gelir gelmez, yemek yapmaya başlayacak.", "en": "As soon as she comes home, she will start cooking. / She will start cooking as soon as she comes home." },
+  { "id": 32, "tr": "Yazmayı bitirdiğimde, e-postayı göndereceğim.", "en": "When I finish writing, I will send the email. / I will send the email when I finish to write it" },
+
+  { "id": 33, "tr": "Proje bitene kadar, ofiste kaldılar.", "en": "They stayed in the office until the project was over." },
+  { "id": 34, "tr": "Eve vardığında beni aradı.", "en": "He called me when he arrived home." },
+  { "id": 35, "tr": "Yağmur durana kadar, bekledik.", "en": "We waited until the rain stopped." },
+  { "id": 36, "tr": "Toplantı bitene kadar, ayrılamayız.", "en": "We can't leave until the meeting ends." },
+
+  { "id": 37, "tr": "Yatmadan önce, telefonunu kontrol etti.", "en": "He checked his phone before slept." },
+  { "id": 38, "tr": "Güzel haberi duyduğunda, gülümsedi.", "en": "She smiled when she heard the good news." },
+  { "id": 39, "tr": "İşini bitirdiğinde, bize katılacak.", "en": "He will join us when he finishes his work." },
+  { "id": 40, "tr": "Sınavdan önce, ders çalıştı.", "en": "He studied before the exam." },
+
+  { "id": 41, "tr": "Çalışmaya başlamadan önce, günümü planlarım.", "en": " I plan my day before I start to work / I plan my day before starting to work." },
+  { "id": 42, "tr": "Başarılı olana kadar, denemeye devam edeceğim.", "en": "I will keep trying until I'm successful." },
+  { "id": 43, "tr": "Parti bittiğinde, ayrıldı.", "en": "He left when the party ended / He left when the party was over." },
+  { "id": 44, "tr": "Detaylara sahip olur olmaz, Davetiye göndereceğim.", "en": "As soon as I have the details, I will send the invitation. / I will send the invitation as soon as I have the details," },
+
+  { "id": 45, "tr": "Telefon görüşmesini bitirir bitirmez, bize katılacak.", "en": "As soon as he finishes the phone call, he will join us. / He will join us as soon as he finishes the phone call," },
+  { "id": 46, "tr": "Toplantı bittikten sonra, buluşacağız.", "en": "We will meet after the meeting is over. / We will meet after the meeting ends." },
+  { "id": 47, "tr": "Yağmur durur durmaz ayrılacağız.", "en": "We will leave as soon as the rain stops." },
+  { "id": 48, "tr": "Gece yarısına kadar partide kaldı.", "en": "He stayed at the party until midnight." },
+
+  { "id": 49, "tr": "Uçuş sırasında e-postalara cevap verdi.", "en": "He answered the emails during the flight." },
+  { "id": 50, "tr": "Dersten sonra kahve içmeye gittik.", "en": "We went to drink coffee after the lesson." },
+  { "id": 51, "tr": "Toplantıdan önce projeyi tartışacağız.", "en": "We will discuss the project before the meeting." },
+  { "id": 52, "tr": "Seyahate çıkmadan önce çantasını hazırladı.", "en": "He prepared his bag before going on a trip. / He prepared his bag before he went on a trip" },
+
+  { "id": 53, "tr": "Yatmadan önce, telefonunu kontrol etti.", "en": "He checked his phone before going to bed. / He checked his phone before he went to bed" },
+  { "id": 54, "tr": "Bitirene kadar bu kitabı okuyacağım.", "en": "I will read this book until I finish it." },
+  { "id": 55, "tr": "Filmi izledikten sonra yatağa gitti.", "en": "He went to bed after watching the movie. / He went to bed after he watched the movie." },
+  { "id": 56, "tr": "Konser sırasında lütfen yerinizden kalkmayın.", "en": "Please don't stand up from your seat during the concert." },
+
+  { "id": 57, "tr": "Boş olduğumda sana katılacağım.", "en": "I will join you when I'm free." },
+  { "id": 58, "tr": "Müziği duyunca dans etmeye başladı.", "en": "She started dancing when she heard the music. / She started to dance when she heard the music" },
+  { "id": 59, "tr": "Gitmeden önce bir şeyler yemem gerekiyor.", "en": "I need to eat something before I go. / I need to eat something before I leave" },
+  { "id": 60, "tr": "Öğle yemeği sırasında bu konuyu konuştuk.", "en": "We talked about this subject during lunch." },
+
+  { "id": 61, "tr": "Geldiğinde her şeyi açıklayacak.", "en": "He will explain everything when he arrives. / He will explain everything when he comes" },
+  { "id": 62, "tr": "Uyanır uyanmaz, bebek ağlamaya başladı.", "en": "As soon as he woke up, the baby started crying. / the baby started to cry as soon as he woke up" },
+  { "id": 63, "tr": "Odaya girmeden önce derin bir nefes aldım.", "en": "I took a deep breath before entering the room. / I took a deep breath before I entered the room." },
+  { "id": 64, "tr": "Maaşımı alır almaz o kitabı alacağım.", "en": "I will buy that book as soon as I get my salary." },
+
+  { "id": 65, "tr": "Beni arayana kadar gitmeyeceğim.", "en": "I won't go until he calls me." },
+  { "id": 66, "tr": "Uzun bir günün ardından dinlenmeyi severim.", "en": "I like to rest after a long day." },
+  { "id": 67, "tr": "Film sırasında uyuyakaldım.", "en": "I fell asleep during the movie." },
+  { "id": 68, "tr": "Zil çalar çalmaz öğrenciler sınıfı terk etti.", "en": "As soon as the bell rang, the students left the classroom. / The students left the classroom as soon as the bell rang" },
+
+  { "id": 69, "tr": "Mülakattan önce gergin olurum.", "en": "I'm nervous before the interview." },
+  { "id": 70, "tr": "Şakayı anlattığımda güldü.", "en": "He laughed when I told the joke." },
+  { "id": 71, "tr": "Yemek hazır olduğunda yiyeceğiz.", "en": "We will eat when the food is ready." },
+  { "id": 72, "tr": "Uçuş sırasında kitap okudum.", "en": "I read a book during the flight." },
+
+  { "id": 73, "tr": "Fırtına sırasında elektrikler kesildi.", "en": "The electricity went off during the storm." },
+  { "id": 74, "tr": "Çok fazla yemek yedikten sonra hastalandı.", "en": "He got sick after eating a lot of food. / He was sick after he ate a lot of food." },
+  { "id": 75, "tr": "Müdür gelir gelmez toplantı başlayacak.", "en": "The meeting will start as soon as the manager arrives. / The meeting will start as soon as the manager comes" },
+  { "id": 76, "tr": "Akşam yemeğine kadar genellikle dinlenirim.", "en": "I usually rest until dinner." },
+
+  { "id": 77, "tr": "Hava karardığında ofisten ayrıldı.", "en": "He left the office when it got dark." },
+  { "id": 78, "tr": "Ayşe Konuşmayı bitirene kadar bekledim.", "en": "I waited until Ayşe finished the speech." },
+  { "id": 79, "tr": "Yeterince para biriktirdiğimde seyahat edeceğim.", "en": "I will travel when I save enough money." },
+  { "id": 80, "tr": "Konuşma sırasında sessizdiler.", "en": "They were silent during the speech." },
+
+  { "id": 81, "tr": "Misafirler gelmeden önce evi temizledi.", "en": "She cleaned the house before the guests arrived. / She cleaned the house before the guests came" },
+  { "id": 82, "tr": "Akşam yemeğinden sonra mutfağı temizleyeceğim.", "en": "I will clean the kitchen after dinner." },
+  { "id": 83, "tr": "Son şarkıya kadar kaldım.", "en": "I stayed until the last song." },
+  { "id": 84, "tr": "Onu görür görmez gülümsedim.", "en": "I smiled as soon as I saw him." },
+
+  { "id": 85, "tr": "Uzun yolculuklarda müzik dinlemeyi severim.", "en": "I like listening to music during long journeys." },
+  { "id": 86, "tr": "Sunumdan önce konuştuk.", "en": "We talked before the presentation." },
+  { "id": 87, "tr": "Zamanım olduğunda seni arayacağım.", "en": "I will call you when I have time." },
+  { "id": 88, "tr": "Sınavdan sonra dinlendik.", "en": "We rested after the exam." },
+
+  { "id": 89, "tr": "Tren gelene kadar bekledi.", "en": "He waited until the train arrived. / He waited until the train came." },
+  { "id": 90, "tr": "Toplantı biter bitmez ayrılacak.", "en": "He will leave as soon as the meeting is over. / He will leave as soon as the meeting ends." }
+]

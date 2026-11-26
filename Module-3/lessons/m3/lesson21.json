@@ -1,0 +1,93 @@
+[
+  { "id": 1, "tr": "Tanıdığım insanların hepsi.", "en": "All of the people that I know." },
+  { "id": 2, "tr": "Tanıdığım insanların çoğu.", "en": "Most of the people that I know." },
+  { "id": 3, "tr": "Gördüğüm yerlerin bazıları.", "en": "Some of the places that I saw." },
+  { "id": 4, "tr": "Ziyaret ettiğim yerlerin hiçbiri.", "en": "None of the places that I visited." },
+
+  { "id": 5, "tr": "Türkiye'deki insanların yarısı.", "en": "Half of the people in Turkey." },
+  { "id": 6, "tr": "Paramın çoğu.", "en": "Most of my money." },
+  { "id": 7, "tr": "Bardaktaki suyun çoğu.", "en": "Most of the water in the glass." },
+  { "id": 8, "tr": "Bardaktaki suyun tümü.", "en": "All of the water in the glass." },
+
+  { "id": 9, "tr": "Bardaktaki suyun birazı.", "en": "Some of the water in the glass." },
+  { "id": 10, "tr": "Arkadaşlarımın tümü burada.", "en": "All of my friends are here." },
+  { "id": 11, "tr": "Arkadaşlarımın neredeyse hepsi burada.", "en": "Most of my friends are here." },
+  { "id": 12, "tr": "Arkadaşlarımın önemli bir kısmı burada.", "en": "Many of my friends are here." },
+
+  { "id": 13, "tr": "Arkadaşlarımın yarısı burada.", "en": "Half of my friends are here." },
+  { "id": 14, "tr": "Arkadaşlarımın bazıları burada.", "en": "Some of my friends are here." },
+  { "id": 15, "tr": "Arkadaşlarımın hiçbiri burada değil.", "en": "None of my friends are here." },
+  { "id": 16, "tr": "Arkadaşlarımdan hiçbirini gördün mü?", "en": "Have you seen any of my friends?" },
+
+  { "id": 17, "tr": "Öğrencilerin hepsi sınavı geçti.", "en": "All of the students passed the exam." },
+  { "id": 18, "tr": "Çocuklar pastanın çoğunu yedi.", "en": "The children ate most of the cake." },
+  { "id": 19, "tr": "Arkadaşlarımın çoğu yurt dışında yaşıyor.", "en": "Most of my friends live abroad." },
+  { "id": 20, "tr": "Zamanımın çoğunu spor salonunda geçiriyorum.", "en": "I spend most of my time at the gym." },
+
+  { "id": 21, "tr": "Bu kitapların bazıları benim.", "en": "Some of these books are mine." },
+  { "id": 22, "tr": "Pizzanın yarısı bitmiş.", "en": "Half of the pizza is over." },
+  { "id": 23, "tr": "Cevapların hiçbiri doğru değildi.", "en": "None of the answers were correct." },
+  { "id": 24, "tr": "Kıyafetlerinin çoğu yeni.", "en": "Most of your clothes are new." },
+
+  { "id": 25, "tr": "Paramın hepsi çalındı.", "en": "All of my money was stolen." },
+  { "id": 26, "tr": "Misafirlerin bazıları hâlâ dışarıda.", "en": "Some of the guests are still outside." },
+  { "id": 27, "tr": "Işıkların hiçbiri çalışmıyor.", "en": "None of the lights are working." },
+  { "id": 28, "tr": "Sınıfın yarısı ödevini yapmadı.", "en": "Half of the class didn't do their homework." },
+
+  { "id": 29, "tr": "Onların çoğu gitti.", "en": "Most of them went." },
+  { "id": 30, "tr": "Bu elmaların hepsi taze.", "en": "All of these apples are fresh." },
+  { "id": 31, "tr": "Çalışanların çoğu erken geldi.", "en": "Most of the employees came early." },
+  { "id": 32, "tr": "Mobilyaların bazıları çok eski.", "en": "Some of the furniture is very old." },
+
+  { "id": 33, "tr": "Arkadaşlarının hiçbiri gerçeği bilmiyordu.", "en": "None of your friends knew the truth." },
+  { "id": 34, "tr": "Sütün yarısını kedi içti.", "en": "The cat drank half of the milk." },
+  { "id": 35, "tr": "Kuzenlerimin hepsi partiye geliyor.", "en": "All of my cousins are coming to the party." },
+  { "id": 36, "tr": "Söylediklerinin çoğu doğruydu.", "en": "Most of the things that you said were true." },
+
+  { "id": 37, "tr": "Buradaki evlerin çoğu çok eski.", "en": "Most of the houses here are very old." },
+  { "id": 38, "tr": "Filmin çoğu sıkıcıydı.", "en": "Most of the movie was boring." },
+  { "id": 39, "tr": "Bu soruların hiçbirini anlamadım.", "en": "I didn't understand any of these questions. / I didn't get any of these questions. / I got none of these questions" },
+  { "id": 40, "tr": "Çocukların hiçbiri gitmek istemedi.", "en": "None of the children wanted to go." },
+
+  { "id": 41, "tr": "Fikirlerinin hepsi harika.", "en": "All of your ideas are great." },
+  { "id": 42, "tr": "Ekibin yarısı geç kaldı.", "en": "Half of the team was late." },
+  { "id": 43, "tr": "Kurabiyelerin bazıları yanmıştı.", "en": "Some of the cookies were burnt." },
+  { "id": 44, "tr": "Karın çoğu eridi.", "en": "Most of the snow melted." },
+
+  { "id": 45, "tr": "Sınıf arkadaşlarımın çoğu şimdi doktor.", "en": "Most of my classmates are doctors now." },
+  { "id": 46, "tr": "Telefonların hiçbiri şarjlı değildi.", "en": "None of the phones were charged." },
+  { "id": 47, "tr": "Sandalyelerin hepsi kırık.", "en": "All of the chairs are broken." },
+  { "id": 48, "tr": "Hafta sonumun çoğunda ders çalıştım.", "en": "I studied most of my weekend." },
+
+  { "id": 49, "tr": "Pencerelerin bazıları açık.", "en": "Some of the windows are open." },
+  { "id": 50, "tr": "Şu hikâyelerin çoğu doğru.", "en": "Most of those stories are true." },
+  { "id": 51, "tr": "Maaşımın yarısı kiraya gidiyor.", "en": "Half of my salary goes to the rent." },
+  { "id": 52, "tr": "Oyuncuların hiçbiri gelmedi.", "en": "None of the players came." },
+
+  { "id": 53, "tr": "Soruların çoğu zordu.", "en": "Most of the questions were difficult." },
+  { "id": 54, "tr": "Şehrin çoğu su altında.", "en": "Most of the city is under water." },
+  { "id": 55, "tr": "Zamanımın yarısını toplantılarda harcıyorum.", "en": "I spend half of my time in the meetings." },
+  { "id": 56, "tr": "Hepimiz hazırız.", "en": "All of us are ready." },
+
+  { "id": 57, "tr": "Planların hiçbiri işe yaramadı.", "en": "None of the plans worked." },
+  { "id": 58, "tr": "Tanıdığım insanların hepsi çok nazikti.", "en": "All of the people that I know were very kind." },
+  { "id": 59, "tr": "Tanıdığım insanların çoğu aynı şehirde yaşıyor.", "en": "Most of the people that I know live in the same city." },
+  { "id": 60, "tr": "Gördüğüm yerlerin bazıları çok güzeldi.", "en": "Some of the places that I saw were very beautiful." },
+
+  { "id": 61, "tr": "Türkiye’deki insanların yarısı bu uygulamayı kullanıyor.", "en": "Half of the people in Turkey use this application." },
+  { "id": 62, "tr": "Paramın çoğu kiraya gidiyor.", "en": "Most of my money goes to rent." },
+  { "id": 63, "tr": "Konuştuğum kişilerin hiçbiri beni anlamadı.", "en": "None of the people that I talked got me." },
+  { "id": 64, "tr": "Aldığım kitapların bazılarını okumadım.", "en": "I didn't read some of the books that I bought." },
+
+  { "id": 65, "tr": "Gittiğim restoranların çoğu çok kalabalıktı.", "en": "Most of the restaurants that I went  were very crowded." },
+  { "id": 66, "tr": "İzlediğim filmlerin yarısı sıkıcıydı.", "en": "Half of the movies that I watched were boring." },
+  { "id": 67, "tr": "Yazdığım e-postaların bazılarına cevap vermediler.", "en": "They didn't answer some of the emails that I wrote." },
+  { "id": 68, "tr": "Toplantıya katılanların çoğu sessiz kaldı.", "en": " Most of the people that attended the meeting stayed quiet. / Most of the people that attended the meeting were silent." },
+
+  { "id": 69, "tr": "Okuduğum hikâyelerin hiçbiri gerçek değildi.", "en": "None of the stories that I read were real." },
+  { "id": 70, "tr": "Seyrettiğim dizilerin çoğu İngilizceydi.", "en": "Most of the series that I watched were in English." },
+  { "id": 71, "tr": "Sınıftaki öğrencilerin yarısı hasta olmuş.", "en": "Half of the students in the class got sick." },
+  { "id": 72, "tr": "Yolda gördüğüm arabaların bazıları elektrikliydi.", "en": "Some of the cars that I saw on the road were electric." },
+
+  { "id": 73, "tr": "Son aylarda kazandığım paranın çoğunu senin için harcadım.", "en": "I spent most of the money that I earned in last months for you." }
+]

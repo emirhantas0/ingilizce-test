@@ -1,0 +1,74 @@
+{
+  "title": "Adverbs of Place Notes",
+  "tabs": [
+    {
+      "label": "Yapı",
+      "type": "table",
+      "headers": [
+        "Zarf / Edat",
+        "Türkçe",
+        "Kullanım"
+      ],
+      "rows": [
+        ["in", "içinDE", "IN — Kapalı Alan / Ülke / Şehir"],
+        ["on", "üstünDE", "ON — Yüzey / Taşıt / Platform"],
+        ["at", "yanınDA-  -de/-da", "AT — Belirli Nokta / Yer"],
+        ["in front of", "önünde", "Konum"],
+        ["on the left of", "solunda", "Konum"],
+        ["on the right of", "sağında", "Konum"],
+        ["behind", "arkasında", "Konum"],
+        ["at / by / next to / beside", "yanında", "Konum"],
+        ["near", "yakınlarında", "Konum"],
+        ["above", "tepesinde", "Konum"],
+        ["on", "üstünde", "Konum"],
+        ["under", "altında", "Konum"],
+        ["below", "dibinde", "Konum"],
+        ["between", "iki şeyin arasında", "Konum"],
+        ["among", "ikiden fazla şeyin arasında", "Konum"],
+        ["into", "içine doğru", "Hareket"],
+        ["out of", "dışına doğru", "Hareket"],
+        ["through", "içinden dışına doğru geçmek", "Hareket"],
+        ["up", "yukarı doğru", "Hareket"],
+        ["down", "aşağı doğru", "Hareket"],
+        ["along", "boyunca (paralel)", "Hareket"],
+        ["across", "karşıdan karşıya (90°)", "Hareket"],
+        ["towards", "üzerine doğru", "Hareket"],
+        ["away from", " -DEN uzağa doğru", "Hareket"],
+        ["around / round", " etrafınDA - çevresinDE (360°)", "Hareket"],
+        ["here", "burada", "Yer Zarfı"],
+        ["there", "orada", "Yer Zarfı"],
+        ["far", "uzakta , uzaklarda", "Yer Zarfı"],
+        ["close", "yakın", "Yer Zarfı"],
+        ["abroad", "yurtdışına / yurtdışında", "Yer Zarfı"],
+        ["outside", "dışarıda / açık havada", "Yer Zarfı"],
+        ["inside", "içeride / kapalı mekanda", "Yer Zarfı"]
+      ]
+    },
+    {
+      "label": "Örnekler",
+      "type": "examples",
+      "items": [
+        {
+          "tag": "IN / ON / AT — Yer Edatları",
+          "color": "teal",
+          "text": "The ball is in the box. → Top kutunun içinde.\nShe lives in Turkey. → Türkiye'de yaşıyor.\nThe cup is on the table. → Bardak masanın üstünde.\nI am on the bus. → Otobüsteyim.\nHe is at home. → Evde.\nShe is at work. → İşte."
+        },
+        {
+          "tag": "Konum Edatları — In front of / Behind / Next to / Between / Among...",
+          "color": "amber",
+          "text": "I played with my friends in front of our house. → Arkadaşlarımla evin önünde oynadım.\nHe lived in the house on the left of the playground. → Oyun alanının solundaki evde yaşıyordu.\nI didn't see the car on the right of the stop sign. → Dur işaretinin sağındaki arabayı görmedim.\nThe mouse ran quickly behind the fridge. → Fare buzdolabının arkasına hızlıca kaçtı.\nThe weird guy stopped at my door. → Tuhaf adam kapımın önünde durdu.\nWe lived by a river there. → Orada bir nehir kenarında yaşadık.\nI put the keys next to the books. → Anahtarları kitapların yanına koydum.\nI found my laptop beside my bed. → Dizüstü bilgisayarımı yatağımın yanında buldum.\nI found this guitar in a little village near Texas. → Bu gitarı Texas yakınlarındaki küçük bir köyde buldum.\nThe cat is sleeping on the couch. → Kedi koltukta uyuyor.\nThey saw dark clouds above the hills. → Tepelerin üzerinde kara bulutlar gördüler.\nThe dog is hiding under the table. → Köpek masanın altına saklanıyor.\nThe sharks are swimming below the sea. → Köpek balıkları denizin dibinde yüzüyor.\nHis house was between the hospital and the convenience store. → Evi hastane ile market arasındaydı.\nI found an old picture among the pages of an old book. → Eski bir kitabın sayfaları arasında eski bir fotoğraf buldum."
+        },
+        {
+          "tag": "Hareket Edatları — Into / Out of / Through / Up / Down / Across / Towards...",
+          "color": "pink",
+          "text": "The train went into the tunnel. → Tren tünelin içine girdi.\nThe children started to run out of the classroom. → Çocuklar sınıfın dışına koşmaya başladı.\nThe bullet went through his body. → Kurşun vücudundan geçti.\nThe climbers started to walk up the mountain. → Dağcılar dağa tırmanmaya başladı.\nHe fell down his bike badly. → Bisikletinden kötü bir şekilde düştü.\nI walked along the river with my wife. → Karımla nehir boyunca yürüdüm.\nThe children swam across the river. → Çocuklar nehrin karşısına yüzdü.\nThe bulls were running towards us. → Boğalar bize doğru koşuyordu.\nThe people are running away from the fire. → İnsanlar ateşten uzaklaşarak koşuyor.\nThe people are walking around the Kabe. → İnsanlar Kabe'nin etrafında yürüyor."
+        },
+        {
+          "tag": "Gerçek Yer Zarfları — Here / There / Far / Outside / Inside / Abroad...",
+          "color": "purple",
+          "text": "There is a problem here. → Burada bir sorun var.\nI met him there. → Onu orada tanıdım.\nThey live far. → Uzaklarda yaşıyorlar.\nThey moved closer. → Daha yakına taşındılar.\nThey plan to move abroad next year. → Gelecek yıl yurtdışına taşınmayı planlıyorlar.\nThe children were playing outside before the rain started. → Yağmur başlamadan önce çocuklar dışarıda oynuyordu.\nThey called the children inside after the rain started. → Yağmur başlayınca çocukları içeri çağırdılar."
+        }
+      ]
+    }
+  ]
+}

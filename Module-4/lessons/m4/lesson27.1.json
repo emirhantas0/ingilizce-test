@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1,
+    "tr": "Amerika’ya giden arkadaşım",
+    "en": "My friend who went to America"
+  },
+  {
+    "id": 2,
+    "tr": "Amerika’ya giden arkadaşım az önce geldi.",
+    "en": "My friend who went to America has just come."
+  },
+  {
+    "id": 3,
+    "tr": "Amerika’ya giden arkadaşım 2 yıldır amerikadan gelmedi.",
+    "en": "My friend who went to America hasn't come back from America for 2 years."
+  },
+  {
+    "id": 4,
+    "tr": "Amerika’ya giden arkadaşın ne zaman geldi?",
+    "en": "When did your friend who went to America come?"
+  },
+  {
+    "id": 5,
+    "tr": "Amerika’ya giden arkadaşın ne zaman gelecek?",
+    "en": "When will your friend who went to America come?"
+  },
+  {
+    "id": 6,
+    "tr": "Amerika’ya giden arkadaşın ne zaman gelebilir?",
+    "en": "When can your friend who went to America come?"
+  },
+  {
+    "id": 7,
+    "tr": "Amerika’ya giden arkadaşın ne zaman gelebilirdi?",
+    "en": "When could your friend who went to America come?"
+  },
+  {
+    "id": 8,
+    "tr": "Amerika’ya giden arkadaşın ne zaman gelirdi?",
+    "en": "When would your friend who went to America come?"
+  },
+  {
+    "id": 9,
+    "tr": "Amerika’ya giden arkadaşın ne zaman gelmek zorunda?",
+    "en": "When does your friend who went to America have to come?"
+  },
+  {
+    "id": 10,
+    "tr": "Amerika’ya giden arkadaşının ne zaman gelmesi lazım?",
+    "en": "When does your friend who went to America need to come?"
+  },
+  {
+    "id": 11,
+    "tr": "Amerika’ya giden arkadaşının ne zaman gelmeli?",
+    "en": "When must your friend who went to America come?"
+  },
+  {
+    "id": 12,
+    "tr": "Amerika’ya giden arkadaşının ne zaman gelse iyi olur?",
+    "en": "When should your friend who went to America come?"
+  },
+  {
+    "id": 13,
+    "tr": "Amerika’ya giden arkadaşının ne zaman Türkiye'ye dönmüş?",
+    "en": "When had your friend who went to America come back to Turkey?"
+  },
+  {
+    "id": 14,
+    "tr": "Burada yaşayan adam",
+    "en": "The man who lives here"
+  },
+  {
+    "id": 15,
+    "tr": "2 yıldır burada yaşayan adam taşındı.",
+    "en": "The man who has lived for 2 years here moved."
+  },
+  {
+    "id": 16,
+    "tr": "2 yıldır burada yaşayan adam henüz taşınmadı.",
+    "en": "The man who has lived for 2 years here hasn't moved yet."
+  },
+  {
+    "id": 17,
+    "tr": "2 yıldır burada yaşayan adam nereye taşındı.",
+    "en": "Where did the man who has lived for 2 years here move?"
+  },
+  {
+    "id": 18,
+    "tr": "2 yıldır burada yaşayan adam neden taşındı?",
+    "en": "Why did the man who has lived for 2 years here move?"
+  },
+  {
+    "id": 19,
+    "tr": "2 yıldır burada yaşayan adam ne zaman taşındı?",
+    "en": "When did the man who has lived for 2 years here move?"
+  },
+  {
+    "id": 20,
+    "tr": "2 yıldır burada yaşayan adam ne zaman taşınacak?",
+    "en": "Where will the man who has lived for 2 years here move?"
+  },
+  {
+    "id": 21,
+    "tr": "Para verdiğim arkadaşım",
+    "en": "My friend whom I gave money"
+  },
+  {
+    "id": 22,
+    "tr": "Para verdiğim arkadaşım yeni bir telefon alacak.",
+    "en": "My friend whom I gave money will buy a new phone."
+  },
+  {
+    "id": 23,
+    "tr": "Para verdiğim arkadaşım yeni bir telefon almayacak.",
+    "en": "My friend whom I gave money won't buy a new phone."
+  },
+  {
+    "id": 24,
+    "tr": "Para verdiğin arkadaşın yeni bir telefon mu alacak?",
+    "en": "Will your friend whom you gave money buy a new phone?"
+  },
+  {
+    "id": 25,
+    "tr": "Para verdiğin arkadaşın neden yeni bir telefon alacak?",
+    "en": "Why will your friend whom you gave money buy a new phone?"
+  },
+  {
+    "id": 26,
+    "tr": "Para verdiğin arkadaşın ne zaman yeni bir telefon alacak?",
+    "en": "When will your friend whom you gave money buy a new phone?"
+  },
+  {
+    "id": 27,
+    "tr": "Para verdiğin arkadaşın ne zaman yeni bir telefon alabilir?",
+    "en": "When can your friend whom you gave money buy a new phone?"
+  },
+  {
+    "id": 28,
+    "tr": "Para verdiğin arkadaşın ne zaman yeni bir telefon alabilirdi?",
+    "en": "When could your friend whom you gave money buy a new phone?"
+  },
+  {
+    "id": 29,
+    "tr": "Para verdiğin arkadaşın ne zaman yeni bir telefon almalı?",
+    "en": "When must your friend whom you gave money buy a new phone?"
+  },
+  {
+    "id": 30,
+    "tr": "Para verdiğin arkadaşın ne zaman yeni bir telefon alsa iyi olur?",
+    "en": "When should your friend whom you gave money buy a new phone?"
+  },
+  {
+    "id": 31,
+    "tr": "Para verdiğin arkadaşının ne zaman yeni bir telefon alması gerek?",
+    "en": "When does your friend whom you gave money need to buy a new phone?"
+  },
+  {
+    "id": 32,
+    "tr": "Parasını harcadığım arkadaşım",
+    "en": "My friend whose money I spent"
+  },
+  {
+    "id": 33,
+    "tr": "Parasını harcadığım arkadaşım mutsuz.",
+    "en": "My friend whose money I spent is unhappy."
+  },
+  {
+    "id": 34,
+    "tr": "Parasını harcadığım arkadaşım mutsuzdu.",
+    "en": "My friend whose money I spent was unhappy."
+  },
+  {
+    "id": 35,
+    "tr": "Parasını harcadığın arkadaşın neden mutsuz?",
+    "en": "Why is your friend whose money you spent unhappy?"
+  },
+  {
+    "id": 36,
+    "tr": "Parasını harcadığın arkadaşın neden mutsuzdu?",
+    "en": "Why was your friend whose money you spent unhappy?"
+  },
+  {
+    "id": 37,
+    "tr": "Parasını harcadığın arkadaşın mutsuz olacak.",
+    "en": "Your friend whose money you spent will be unhappy."
+  },
+  {
+    "id": 38,
+    "tr": "Pahalı bir arabası olan adam",
+    "en": "The man who has an expensive car"
+  },
+  {
+    "id": 39,
+    "tr": "Pahalı bir arabası olan adamı gördüm.",
+    "en": "I saw the man who has an expensive car."
+  },
+  {
+    "id": 40,
+    "tr": "Az önce Pahalı bir arabası olan bir adam gördüm.",
+    "en": "I have just seen a man who has an expensive car."
+  },
+  {
+    "id": 41,
+    "tr": "Arabası pahalı olan adam",
+    "en": "The man whose car is expensive"
+  },
+  {
+    "id": 42,
+    "tr": "Arabası pahalı olan adam seni sordu.",
+    "en": "The man whose car is expensive asked for you."
+  },
+  {
+    "id": 43,
+    "tr": "Arabası pahalı olan adam seni soruyordu.",
+    "en": "The man whose car is expensive was asking for you."
+  },
+  {
+    "id": 44,
+    "tr": "Arabası pahalı olan adam seni soruyor.",
+    "en": "The man whose car is expensive is asking for you."
+  },
+  {
+    "id": 45,
+    "tr": "Arabası pahalı olan adam Neden seni soruyordu?",
+    "en": "Why was the man whose car is expensive asking for you."
+  },
+  {
+    "id": 46,
+    "tr": "Dün arabada gördüğüm adam",
+    "en": "The man whom I saw in the car yesterday"
+  },
+  {
+    "id": 47,
+    "tr": "Dün arabada gördüğüm adam sana selam söyledi.",
+    "en": "The man whom I saw in the car yesterday said hello to you."
+  },
+  {
+    "id": 48,
+    "tr": "Dün arabada gördüğüm adam sana selam söylemedi.",
+    "en": "The man whom I saw in the car yesterday didn't say hello to you."
+  },
+  {
+    "id": 49,
+    "tr": "Dün arabada gördüğün adam bana selam mı söyledi?",
+    "en": "Did the man whom you saw in the car yesterday say hello to me?"
+  },
+  {
+    "id": 50,
+    "tr": "Neden dün arabada gördüğün adam bana selam söyledi?",
+    "en": "Why did the man whom you saw in the car yesterday say hello to me?"
+  },
+  {
+    "id": 51,
+    "tr": "Az önce arabada gördüğüm adam sana selam söyledi.",
+    "en": "The man whom I have just seen in the car said hello to you."
+  },
+  {
+    "id": 52,
+    "tr": "Dün bizi gören adam",
+    "en": "The man who saw us yesterday"
+  },
+  {
+    "id": 53,
+    "tr": "Dün bizi gören adam İngiltereli.",
+    "en": "The man who saw us yesterday is from England."
+  },
+  {
+    "id": 54,
+    "tr": "Dün bizi gören adam benim öğretmenim.",
+    "en": "The man who saw us yesterday is my teacher."
+  },
+  {
+    "id": 55,
+    "tr": "Dün bizi gören adam bugün beni aradı.",
+    "en": "The man who saw us yesterday called me today."
+  },
+  {
+    "id": 56,
+    "tr": "Dün bizi gören adam az önce beni aradı.",
+    "en": "The man who saw us yesterday has just called me."
+  },
+  {
+    "id": 57,
+    "tr": "Bahçede oturan adam.",
+    "en": "The man who sits in the garden."
+  },
+  {
+    "id": 58,
+    "tr": "Bahçede oturan adam bize elma verdi.",
+    "en": "The man who sat in the garden gave us apples."
+  },
+  {
+    "id": 59,
+    "tr": "Bahçede oturan adam bize elma verecek.",
+    "en": "The man who is sitting in the garden will give us apples."
+  },
+  {
+    "id": 60,
+    "tr": "Bahçede oturan adam seni çağırdı.",
+    "en": "The man who sat in the garden called you."
+  },
+  {
+    "id": 61,
+    "tr": "Bahçede oturan adam seni çağırıyor.",
+    "en": "The man who is sitting in the garden is calling you."
+  },
+  {
+    "id": 62,
+    "tr": "Bahçede oturan adam seni çağırıyordu.",
+    "en": "The man who was sitting in the garden was calling you."
+  },
+  {
+    "id": 63,
+    "tr": "Önemli bir şarkıcı olan Ali",
+    "en": "Ali, who is an important singer"
+  },
+  {
+    "id": 64,
+    "tr": "Önemli bir şarkıcı olan Ali Ankaralı.",
+    "en": "Ali, who is an important singer, is from Ankara."
+  },
+  {
+    "id": 65,
+    "tr": "Önemli bir şarkıcı olan Ali Türkiye'de çok ünlüdür.",
+    "en": "Ali, who is an important singer is very famous in Turkey."
+  },
+  {
+    "id": 66,
+    "tr": "Önemli bir şarkıcı olan Ali dünyada çok ünlüdür.",
+    "en": "Ali, who is an important singer is very famous in the world."
+  },
+  {
+    "id": 67,
+    "tr": "Önemli bir şarkıcı olan Ali yarın konser verecek.",
+    "en": "Ali, who is an important singer will give a concert tomorrow."
+  },
+  {
+    "id": 68,
+    "tr": "Önemli bir şarkıcı olan Ali yeni bir albüm çıkardı.",
+    "en": "Ali, who is an important singer released a new album."
+  },
+  {
+    "id": 69,
+    "tr": "Annesi zengin olan adam",
+    "en": "The man whose mother is rich"
+  },
+  {
+    "id": 70,
+    "tr": "Annesi zengin olan adam bana yeni bir iş teklif etti.",
+    "en": "The man whose mother is rich offered me a new job."
+  },
+  {
+    "id": 71,
+    "tr": "Annesi zengin olan adam onlara bana yardım etmelerini söyledi.",
+    "en": "The man whose mother is rich told them to help me."
+  },
+  {
+    "id": 72,
+    "tr": "Annesi zengin olan adam büyük bir evde yaşıyor.",
+    "en": "The man whose mother is rich lives in a big house."
+  },
+  {
+    "id": 73,
+    "tr": "Annesi zengin olan adam 2 yıldır büyük bir evde yaşıyor.",
+    "en": "The man whose mother is rich has been living in a big house for 2 years."
+  },
+  {
+    "id": 74,
+    "tr": "Annesi zengin olan adam bizden önce bu evde yaşamış.",
+    "en": "The man whose mother is rich had lived in this house before us."
+  },
+  {
+    "id": 75,
+    "tr": "Köpeği küçük olan kadın",
+    "en": "The woman whose dog is small"
+  },
+  {
+    "id": 76,
+    "tr": "Köpeği küçük olan kadın bizim komşumuz.",
+    "en": "The woman whose dog is small is our neighbor."
+  },
+  {
+    "id": 77,
+    "tr": "Köpeği küçük olan kadın çok naziktir.",
+    "en": "The woman whose dog is small is very kind."
+  },
+  {
+    "id": 78,
+    "tr": "Köpeği küçük olan kadın köpeğiyle parkta yürüyor.",
+    "en": "The woman whose dog is small is walking in the park with her dog."
+  },
+  {
+    "id": 79,
+    "tr": "Köpeği küçük olan kadın köpeğiyle parkta yürüyordu.",
+    "en": "The woman whose dog is small was walking in the park with her dog."
+  },
+  {
+    "id": 80,
+    "tr": "Köpeği küçük olan kadın her sabah köpeğiyle parkta yürür.",
+    "en": "The woman whose dog is small walks in the park with her dog every morning."
+  },
+  {
+    "id": 81,
+    "tr": "Amerika’ya giden arkadaşım",
+    "en": "My friend who went to America"
+  },
+  {
+    "id": 82,
+    "tr": "Amerika’ya giden arkadaşım bana yeni bir telefon getirdi.",
+    "en": "My friend who went to America brought me a new phone."
+  },
+  {
+    "id": 83,
+    "tr": "Amerika’ya giden arkadaşım bana iPhone 17 pro getirecek.",
+    "en": "My friend who went to America will bring me iPhone 17 pro."
+  },
+  {
+    "id": 84,
+    "tr": "Amerika’ya giden arkadaşın bana iPhone 17 pro getirebilir mi?",
+    "en": "Can your friend who went to America bring me iPhone 17 pro."
+  },
+  {
+    "id": 85,
+    "tr": "Burada yaşayan adam",
+    "en": "The man who lives here"
+  },
+  {
+    "id": 86,
+    "tr": "Burada yaşayan adam evini satmak istiyor.",
+    "en": "The man who lives here wants to sell his house."
+  },
+  {
+    "id": 87,
+    "tr": "Burada yaşayan adam evini satmak istemiyor.",
+    "en": "The man who lives here doesn't want to sell his house."
+  },
+  {
+    "id": 88,
+    "tr": "Burada yaşayan adam evini satmak istiyor mu?",
+    "en": "Does the man who lives here want to sell his house?"
+  },
+  {
+    "id": 89,
+    "tr": "Burada yaşayan adam evini kaç paraya satmak istiyor?",
+    "en": "How much money does the man who lives here want to sell his house for?"
+  },
+  {
+    "id": 90,
+    "tr": "Yolda gördüğüm kadın",
+    "en": "The woman whom I saw on the road"
+  },
+  {
+    "id": 91,
+    "tr": "Yolda gördüğüm kadın sana benziyordu.",
+    "en": "The woman whom I saw on the road looked like you."
+  },
+  {
+    "id": 92,
+    "tr": "Yolda gördüğün kadın kime benziyordu?",
+    "en": "Who did the woman whom you saw on the road look like?"
+  },
+  {
+    "id": 93,
+    "tr": "Yolda beni gören kadın",
+    "en": "The woman who saw me on the road"
+  },
+  {
+    "id": 94,
+    "tr": "Yolda beni gören kadın annemin bir arkadaşı.",
+    "en": "The woman who saw me on the road is a friend of my mother."
+  },
+  {
+    "id": 95,
+    "tr": "Yolda beni gören kadın çok yaşlıydı.",
+    "en": "The woman who saw me on the road was very old."
+  },
+  {
+    "id": 96,
+    "tr": "Yolda beni gören kadın çok şaşırmıştı.",
+    "en": "The woman who saw me on the road was very surprised."
+  },
+  {
+    "id": 97,
+    "tr": "Yolda beni gören kadın bana gülümsedi.",
+    "en": "The woman who saw me on the road smiled at me."
+  },
+  {
+    "id": 98,
+    "tr": "Köpeği yolda beni gören kadın",
+    "en": "The woman whose dog saw me on the road"
+  },
+  {
+    "id": 99,
+    "tr": "Köpeği yolda beni gören kadın şu büyük evde yaşıyor.",
+    "en": "The woman whose dog saw me on the road lives in that big house."
+  },
+  {
+    "id": 100,
+    "tr": "Köpeği yolda beni gören kadın gülmeye başladı.",
+    "en": "The woman whose dog saw me on the road started to laugh."
+  },
+  {
+    "id": 101,
+    "tr": "Yolda karşılaştığımız eski arkadaş",
+    "en": "Old friend whom we met on the road"
+  },
+  {
+    "id": 102,
+    "tr": "Yolda karşılaştığımız eski arkadaş benim Ankara'dan arkadaşım.",
+    "en": "Old friend whom we met on the road is my friend from Ankara."
+  },
+  {
+    "id": 103,
+    "tr": "Yolda karşılaştığımız eski arkadaş benim üniversitedeki oda arkadaşımdı.",
+    "en": "Old friend whom we met on the road was my roommate at the university."
+  },
+  {
+    "id": 104,
+    "tr": "Yolda karşılaştığımız eski arkadaş bana telefon numarasını verdi.",
+    "en": "Old friend whom we met on the road gave me his phone number."
+  },
+  {
+    "id": 105,
+    "tr": "Yolda karşılaştığımız eski arkadaş bizi düğününe davet etti.",
+    "en": "Old friend whom we met on the road invited us to his wedding."
+  },
+  {
+    "id": 106,
+    "tr": "Yolda karşılaştığımız eski arkadaş başta bizi tanımadı.",
+    "en": "Old friend whom we met on the road didn't recognize us at first."
+  },
+  {
+    "id": 107,
+    "tr": "Bizi gören eski arkadaşım",
+    "en": "My old friend who saw us"
+  },
+  {
+    "id": 108,
+    "tr": "Bizi gören eski arkadaşımla 2 yıldır görüşmedik.",
+    "en": "We haven't met with my old friend who saw us for 2 years."
+  },
+  {
+    "id": 109,
+    "tr": "Bizi gören eski arkadaşımla 2 yıldır konuşmuyoruz.",
+    "en": "We haven't talked with my old friend who saw us for 2 years."
+  },
+  {
+    "id": 110,
+    "tr": "Hastanede tanıştığımız adam",
+    "en": "The man whom we met at the hospital"
+  },
+  {
+    "id": 111,
+    "tr": "Hastanede tanıştığımız adam iyi bir doktor.",
+    "en": "The man whom we met at the hospital is a good doctor."
+  },
+  {
+    "id": 112,
+    "tr": "Hastanede tanıştığımız adam 3 yıldır hasta.",
+    "en": "The man whom we met at the hospital has been sick for 3 years."
+  },
+  {
+    "id": 113,
+    "tr": "Hastanede tanıştığımız adam 3 önce hastaymış.",
+    "en": "The man whom we met at the hospital had been sick 3 years ago."
+  },
+  {
+    "id": 114,
+    "tr": "Sahilde gördüğümüz çocuk",
+    "en": "The child whom we saw at the seaside"
+  },
+  {
+    "id": 115,
+    "tr": "Sahilde gördüğümüz çocuk bizim okulda okuyor.",
+    "en": "The child whom we saw at the seaside studies at our school."
+  },
+  {
+    "id": 116,
+    "tr": "Sahilde gördüğümüz çocuk komşumun oğlu.",
+    "en": "The child whom we saw at the seaside is the son of my neighbor."
+  },
+  {
+    "id": 117,
+    "tr": "Sahilde gördüğümüz çocuk kim?",
+    "en": "Who is the child whom we saw at the seaside."
+  },
+  {
+    "id": 118,
+    "tr": "Çalıştığım projedeki kadın",
+    "en": "The woman whom I work with on the project"
+  },
+  {
+    "id": 119,
+    "tr": "Çalıştığım projedeki kadın 35 yaşında.",
+    "en": "The woman whom I work with on the project is 35 years old."
+  },
+  {
+    "id": 120,
+    "tr": "Çalıştığım projedeki kadın çok profesyonel.",
+    "en": "The woman whom I work with on the project is very professional."
+  },
+  {
+    "id": 121,
+    "tr": "Çalıştığım projedeki kadın Oxford üniversitesi mezunu.",
+    "en": "The woman whom I work with on the project is a graduate of Oxford university."
+  },
+  {
+    "id": 122,
+    "tr": "Çalıştığım projedeki kadın yarın şubeyi ziyaret edecek.",
+    "en": "The woman whom I work with on the project will visit the branch tomorrow."
+  },
+  {
+    "id": 123,
+    "tr": "Çalıştığım projedeki kadın tüm projeyi kontrol etti.",
+    "en": "The woman whom I work with on the project checked the whole project."
+  },
+  {
+    "id": 124,
+    "tr": "Dün tanıştığımız adam",
+    "en": "The man whom we met yesterday"
+  },
+  {
+    "id": 125,
+    "tr": "Dün tanıştığımız adam seni sordu.",
+    "en": "The man whom we met yesterday asked for you."
+  },
+  {
+    "id": 126,
+    "tr": "Dün tanıştığımız adam seni aradı.",
+    "en": "The man whom we met yesterday called you."
+  },
+  {
+    "id": 127,
+    "tr": "Dün tanıştığımız adam benim müdürüm.",
+    "en": "The man whom we met yesterday is my manager."
+  },
+  {
+    "id": 128,
+    "tr": "Dün tanıştığımız adam Ankaralı.",
+    "en": "The man whom we met yesterday is from Ankara."
+  },
+  {
+    "id": 129,
+    "tr": "Oğlu arkadaşım olan kadın",
+    "en": "The woman whose son is my friend"
+  },
+  {
+    "id": 130,
+    "tr": "Oğlu arkadaşım olan kadın bizi akşam yemeğine davet etti.",
+    "en": "The woman whose son is my friend invited us to dinner."
+  },
+  {
+    "id": 131,
+    "tr": "Kedisi bizim bahçede olan adam",
+    "en": "The man whose cat is in our garden"
+  },
+  {
+    "id": 132,
+    "tr": "Kedisi bizim bahçede olan adam bize seslendi.",
+    "en": "The man whose cat is in our garden called us."
+  },
+  {
+    "id": 133,
+    "tr": "Kedisi bizim bahçede olan adam bize elma verdi.",
+    "en": "The man whose cat is in our garden gave us apples."
+  },
+  {
+    "id": 134,
+    "tr": "Çalıştığım şirketteki kadın",
+    "en": "The woman whom I work with at the company"
+  },
+  {
+    "id": 135,
+    "tr": "Çalıştığım şirketteki kadın çok tecrübeli.",
+    "en": "The woman whom I work with at the company is very experienced."
+  },
+  {
+    "id": 136,
+    "tr": "Çalıştığım şirketteki kadın izine çıktı.",
+    "en": "The woman whom I work with at the company went on leave."
+  },
+  {
+    "id": 137,
+    "tr": "Çalıştığım şirketteki kadın izine çıkmak istiyor.",
+    "en": "The woman whom I work with at the company wants to go on leave."
+  },
+  {
+    "id": 138,
+    "tr": "Çalıştığım şirketteki kadın izine çıkmak istedi.",
+    "en": "The woman whom I work with at the company wanted to go on leave."
+  },
+  {
+    "id": 139,
+    "tr": "Kızı benim sınıfımda olan öğretmen",
+    "en": "The teacher whose daughter is in my classroom"
+  },
+  {
+    "id": 140,
+    "tr": "Kızı benim sınıfımda olan öğretmen çok başarılı.",
+    "en": "The teacher whose daughter is in my classroom is very successful."
+  },
+  {
+    "id": 141,
+    "tr": "Kızı benim sınıfımda olan öğretmen bizim dükkana geldi.",
+    "en": "The teacher whose daughter is in my classroom came to our store."
+  },
+  {
+    "id": 142,
+    "tr": "Kızı benim sınıfımda olan öğretmen bizim dükkana geldi ve seni sordu.",
+    "en": "The teacher whose daughter is in my classroom came to our store and asked for you."
+  },
+  {
+    "id": 143,
+    "tr": "Kızı benim sınıfımda olan öğretmen 3 yıldır bu binada oturuyor.",
+    "en": "The teacher whose daughter is in my classroom has lived in this building for 3 years."
+  },
+  {
+    "id": 144,
+    "tr": "Eşi yurt dışında çalışan adam",
+    "en": "The man whose wife works abroad"
+  },
+  {
+    "id": 145,
+    "tr": "Eşi yurt dışında çalışan adam bu yaz eşini ziyaret edecek.",
+    "en": "The man whose wife works abroad will visit his wife this summer."
+  },
+  {
+    "id": 146,
+    "tr": "Eşi yurt dışında çalışan adam bizim şirkette çalışıyor.",
+    "en": "The man whose wife works abroad works at our company."
+  },
+  {
+    "id": 147,
+    "tr": "Köpeğini sürekli parka götüren kadın",
+    "en": "The woman who always take her dog to the park"
+  },
+  {
+    "id": 148,
+    "tr": "Köpeğini sürekli parka götüren kadın benim komşum.",
+    "en": "The woman who always takes her dog to the park is my neighbor."
+  },
+  {
+    "id": 149,
+    "tr": "Köpeğini sürekli parka götüren kadını gördün mü?",
+    "en": "Did you see the woman who always takes her dog to the park?"
+  },
+  {
+    "id": 150,
+    "tr": "Köpeğini sürekli parka götüren kadını tanıyor musun?",
+    "en": "Do you know the woman who always takes her dog to the park?"
+  },
+  {
+    "id": 151,
+    "tr": "Köpeğini sürekli parka götüren kadını hatırlıyor musun?",
+    "en": "Do you remember the woman who always takes her dog to the park."
+  },
+  {
+    "id": 152,
+    "tr": "Eskiden köpeğini sürekli parka götüren kadını hatırlıyor musun?",
+    "en": "Do you remember the woman who always used to take her dog to the park."
+  },
+  {
+    "id": 153,
+    "tr": "Oğlu futbol oynayan baba",
+    "en": "The father whose son plays football"
+  },
+  {
+    "id": 154,
+    "tr": "Oğlu futbol oynayan baba oğlunu güldürüyor.",
+    "en": "The father whose son plays football makes his son laugh."
+  },
+  {
+    "id": 155,
+    "tr": "Oğlu futbol oynayan baba saçını kestirdi.",
+    "en": "The father whose son plays football had his hair cut / The father whose son plays football got his hair cut."
+  },
+  {
+    "id": 156,
+    "tr": "Oğlu futbol oynayan baba arabasını bize tamir ettirtti.",
+    "en": "The father whose son plays football got us to fix his car."
+  },
+  {
+    "id": 157,
+    "tr": "Oğlu futbol oynayan baba oğlunu zorla eve götürdü.",
+    "en": "The father whose son plays football made his son go home."
+  },
+  {
+    "id": 158,
+    "tr": "Kızı okulda öğretmen olan kadın",
+    "en": "The woman whose daughter is a teacher in the school"
+  },
+  {
+    "id": 159,
+    "tr": "Kızı okulda öğretmen olan kadın bize geldi.",
+    "en": "The woman whose daughter is a teacher in the school came to us."
+  },
+  {
+    "id": 160,
+    "tr": "Kızı okulda öğretmen olan kadın seni sordu.",
+    "en": "The woman whose daughter is a teacher in the school asked for you."
+  },
+  {
+    "id": 161,
+    "tr": "Kızı okulda öğretmen olan kadın 1 haftadır seni soruyor.",
+    "en": "The woman whose daughter is a teacher in the school has been asking for you for a week."
+  },
+  {
+    "id": 162,
+    "tr": "Kızı okulda öğretmen olan kadın arabanın motorunun bozulmuş olduğunu gördü.",
+    "en": "The woman whose daughter is a teacher in the school saw that the engine of the car had broken."
+  },
+  {
+    "id": 163,
+    "tr": "Annemle aynı mahallede oturan kızkardeşim",
+    "en": "My sister who lives in the same neighbourhood as my mother"
+  },
+  {
+    "id": 164,
+    "tr": "Annemle aynı mahallede oturan kızkardeşim komşusu marketten köpeği için mama aldı.",
+    "en": "My sister’s neighbor who lives in the same neighbourhood as my mother bought food for her dog from the market."
+  },
+  {
+    "id": 165,
+    "tr": "Annemle aynı mahallede oturan kızkardeşim arkadaşıyla gezintiye çıktı.",
+    "en": "My sister who lives in the same neighbourhood as my mother went for a walk with her friend."
+  },
+  {
+    "id": 166,
+    "tr": "Arkadaşımla aynı evde kalan kadın",
+    "en": "The woman who stayed in the same house as my friend"
+  },
+  {
+    "id": 167,
+    "tr": "Arkadaşımla aynı evde kalan kadın dün şehirden ayrıldı.",
+    "en": "The woman who stayed in the same house as my friend left the city yesterday."
+  },
+  {
+    "id": 168,
+    "tr": "Arkadaşımla aynı evde kalan kadın 2 aydır iş arıyor.",
+    "en": "The woman who stayed in the same house as my friend has been looking for a job for 2 months."
+  },
+  {
+    "id": 169,
+    "tr": "Arkadaşımla aynı evde kalan kadın İzmirli.",
+    "en": "The woman who stayed in the same house as my friend is from İzmir."
+  },
+  {
+    "id": 170,
+    "tr": "Arkadaşımla aynı evde kalan kadını gördün mü?",
+    "en": "Did you see the woman who stayed in the same house as my friend?"
+  },
+  {
+    "id": 171,
+    "tr": "Arkadaşımla aynı evde kalan kadını görmedin mi?",
+    "en": "Didn't you see the woman who stayed in the same house as my friend?"
+  },
+  {
+    "id": 172,
+    "tr": "Arkadaşımla aynı evde kalan kadın bize yemek yaptı.",
+    "en": "The woman who stayed in the same house as my friend cooked us a meal."
+  },
+  {
+    "id": 173,
+    "tr": "Oğlu doktor olan kadın",
+    "en": "The woman whose son is a doctor"
+  },
+  {
+    "id": 174,
+    "tr": "Oğlu doktor olan kadın bizi akşam yemeğine davet etti.",
+    "en": "The woman whose son is a doctor invited us for dinner."
+  },
+  {
+    "id": 175,
+    "tr": "Oğlu doktor olan kadın bizi 2 saattir bekliyor.",
+    "en": "The woman whose son is a doctor has been waiting for us for 2 hours."
+  },
+  {
+    "id": 176,
+    "tr": "Oğlu doktor olan kadın 1 ay önce yeni bir araba aldı.",
+    "en": "The woman whose son is a doctor bought a new car one month ago."
+  },
+  {
+    "id": 177,
+    "tr": "Oğlu doktor olan kadın eski evini çoktan sattı.",
+    "en": "The woman whose son is a doctor has already sold her old house."
+  },
+  {
+    "id": 178,
+    "tr": "Oğlu doktor olan kadın eski evini henüz satmadı.",
+    "en": "The woman whose son is a doctor hasn't sold her old house yet."
+  },
+  {
+    "id": 179,
+    "tr": "Babası profesör olan adam araştırmasını henüz bitirmedi",
+    "en": "The man whose father is a professor hasn't finished his research yet."
+  },
+  {
+    "id": 180,
+    "tr": "Babası profesör olan adam geçen yıl 2 kitap yazdı.",
+    "en": "The man whose father is a professor wrote two books last year."
+  },
+  {
+    "id": 181,
+    "tr": "Babası profesör olan adam hiçbir zaman küçük bir kasabada yaşamadı.",
+    "en": "The man whose father is a professor has never lived in a small town."
+  },
+  {
+    "id": 182,
+    "tr": "Ben vardığımda babası profesör olan adam ofisten çoktan ayrılmıştı.",
+    "en": "The man whose father is a professor had already left the office we I arrived."
+  },
+  {
+    "id": 183,
+    "tr": "Çocuğu okuldan sonra bizimle kalan kadın bize teşekkür etmek için bir kek getirdi.",
+    "en": "The woman whose son stayed with us after the school brought us a cake to thank us."
+  },
+  {
+    "id": 184,
+    "tr": "Çocuğu okuldan sonra bizimle kalan kadın 2 haftadır yeni bir bakıcı arıyor.",
+    "en": "The woman whose son stayed with us after the school has been looking for a new nanny for two weeks."
+  },
+  {
+    "id": 185,
+    "tr": "Çocuğu okuldan sonra bizimle kalan kadın akşama kadar bizi aramamıştı.",
+    "en": "The woman whose son stayed with us after the school hadn't called us until the evening."
+  },
+  {
+    "id": 186,
+    "tr": "Çocuğu okuldan sonra bizimle kalan kadın çocuğunu almak için az önce geldi.",
+    "en": "The woman whose son stayed with us after the school has just arrived to take her child."
+  },
+  {
+    "id": 187,
+    "tr": "Ailesi yurtdışında yaşayan adam",
+    "en": "The man whose family lives abroad"
+  },
+  {
+    "id": 188,
+    "tr": "Ailesi yurtdışında yaşayan adam onları ziyaret etmek için 3 yıldır para biriktiriyor.",
+    "en": "The man whose family lives abroad has saved money for 3 years to visit them."
+  },
+  {
+    "id": 189,
+    "tr": "Ailesi yurtdışında yaşayan adam dün bir uçak bileti aldı.",
+    "en": "The man whose family lives abroad bought a flight ticket yesterday."
+  },
+  {
+    "id": 190,
+    "tr": "Ailesi yurtdışında yaşayan adam geçen yıldan beri ailesini görmedi.",
+    "en": "The man whose family lives abroad hasn't seen his family since last year."
+  },
+  {
+    "id": 191,
+    "tr": "Ailesi yurtdışında yaşayan adam buraya taşınmadan önce İngilizceyi öğrenmişti.",
+    "en": "The man whose family lives abroad had learned English before moving here."
+  },
+  {
+    "id": 192,
+    "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen",
+    "en": "The teacher whose son stayed with us during the summer holiday"
+  },
+  {
+    "id": 193,
+    "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen bize güzel hediyeler gönderdi.",
+    "en": "The teacher whose son stayed with us during the summer holiday has sent us beautiful gifts."
+  },
+  {
+    "id": 194,
+    "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen 3 yıldır Londra’da çalışıyor.",
+    "en": "The teacher whose son stayed with us during the summer holiday has been working in London for three years."
+  },
+  {
+    "id": 195,
+    "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen nerede yaşıyor?",
+    "en": "Where does the teacher whose son stayed with us during the summer holiday live?"
+  },
+  {
+    "id": 196,
+    "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen kaç yaşında?",
+    "en": "How old is the teacher whose son stayed with us during the summer holiday?"
+  },
+  {
+    "id": 197,
+    "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen ne zamandır burada?",
+    "en": "How long has the teacher whose son stayed with us during the summer holiday been here?"
+  },
+  {
+    "id": 198,
+    "tr": "Kızı üniversiteye giden Ayşe",
+    "en": "Ayşe, whose daughter goes to the university"
+  },
+  {
+    "id": 199,
+    "tr": "Kızı üniversiteye giden Ayşe, onu çok özledi.",
+    "en": "Ayşe, whose daughter goes to the university, missed her a lot."
+  },
+  {
+    "id": 200,
+    "tr": "Kızı üniversiteye giden Ayşe, harçları ödemek için 2 aydır fazla mesai yapıyor.",
+    "en": "Ayşe, whose daughter goes to the university, has been working extra hours for two months to pay the fees."
+  },
+  {
+    "id": 201,
+    "tr": "Kızı üniversiteye giden Ayşe, dün 3 tane yeni valiz satın aldı.",
+    "en": "Ayşe, whose daughter goes to the university, bought three new suitcases yesterday."
+  },
+  {
+    "id": 202,
+    "tr": "Oğlu basketbol oynayan kadın",
+    "en": "The woman whose son plays basketball"
+  },
+  {
+    "id": 203,
+    "tr": "Oğlu basketbol oynayan kadın maç için bize 2 bilet verdi.",
+    "en": "The woman whose son plays basketball gave us two tickets for the match."
+  },
+  {
+    "id": 204,
+    "tr": "Oğlu basketbol oynayan kadın 3 yıldır oğlunun maçlarını izlemedi.",
+    "en": "The woman whose son plays basketball hasn't watched her son’s matches for three years."
+  },
+  {
+    "id": 205,
+    "tr": "Oğlu basketbol oynayan kadın bizim binada oturuyor.",
+    "en": "The woman whose son plays basketball lives in our building."
+  },
+  {
+    "id": 206,
+    "tr": "Odayı temizleyen kadın",
+    "en": "The woman who cleaned the room"
+  },
+  {
+    "id": 207,
+    "tr": "Odayı temizleyen kadın yatağında altında kayıp kulaklığımı buldu.",
+    "en": "The woman who cleaned the room found my lost earphone under the bed."
+  },
+  {
+    "id": 208,
+    "tr": "Odayı temizleyen kadın çöpleri atmamış.",
+    "en": "The woman who cleaned the room hadn't thrown the trash away."
+  },
+  {
+    "id": 209,
+    "tr": "Odayı temizleyen kadın 4 yıldır bu şirkette çalışıyor.",
+    "en": "The woman who cleaned the room has been working at this company for four years."
+  },
+  {
+    "id": 210,
+    "tr": "Bizim hastanede çalışan doktorlar",
+    "en": "The doctors who work in our hospital"
+  },
+  {
+    "id": 211,
+    "tr": "Bizim hastanede çalışan doktorlar yeterince tecrübeli.",
+    "en": "The doctors who work in our hospital are experienced enough."
+  },
+  {
+    "id": 212,
+    "tr": "Bizim hastanede çalışan doktorların 10 yıllık tecrübesi var.",
+    "en": "The doctors who work in our hospital have years of experienced."
+  },
+  {
+    "id": 213,
+    "tr": "Bizim hastanede çalışan doktorlar 2 haftadır çok sıkı çalışıyorlar.",
+    "en": "The doctors who work in our hospital have been working very hard for two weeks."
+  },
+  {
+    "id": 214,
+    "tr": "Bizim hastanede çalışan doktorlar bugün 3 başarılı ameliyat gerçekleştirdiler.",
+    "en": "The doctors who work in our hospital have performed three successful operations today."
+  },
+  {
+    "id": 215,
+    "tr": "Bizim hastanede çalışan doktorlar 3 yıldır başarılı ameliyatlar gerçekleştiriyorlar.",
+    "en": "The doctors who work in our hospital have performed successful operations for three years."
+  },
+  {
+    "id": 216,
+    "tr": "Gittiğimiz kafedeki müşteri",
+    "en": "The customer who was in the cafe where we went"
+  },
+  {
+    "id": 217,
+    "tr": "Gittiğimiz kafedeki müşteri çok kabaydı.",
+    "en": "The customer who was in the cafe where we went was very rude."
+  },
+  {
+    "id": 218,
+    "tr": "Gittiğimiz kafedeki müşteriler çok kabaydı.",
+    "en": "The customers who were in the cafe where we went were very rude."
+  },
+  {
+    "id": 219,
+    "tr": "Gittiğimiz kafedeki müşteriler çok ses yapıyorlardı.",
+    "en": "The customer who were in the cafe where we went were making a lot of noise."
+  },
+  {
+    "id": 220,
+    "tr": "Okulda tanıştığım öğrenci",
+    "en": "The student whom I met at the school"
+  },
+  {
+    "id": 221,
+    "tr": "Okulda tanıştığım öğrenci Oxford üniversitesine girdi, kazandı.",
+    "en": "The student whom I met at the school got into the Oxford university."
+  },
+  {
+    "id": 222,
+    "tr": "Okulda tanıştığım öğrenci, üç yıllık çalışmanın ardından bir tıp fakültesine girdi.",
+    "en": "The student whom I met at the school got into a medical faculty after three years of studying."
+  },
+  {
+    "id": 223,
+    "tr": "Okulda tanıştığım öğrenci,projesi için burs kazandı.",
+    "en": "The student whom I met at the school won a scholarship for his project."
+  },
+  {
+    "id": 224,
+    "tr": "Okulda tanıştığım öğrenci,gıda firmasından gelen iş teklifini kabul etti.",
+    "en": "The student whom I met at the school accepted the job offer from the food company."
+  },
+  {
+    "id": 225,
+    "tr": "Okulda tanıştığım öğrenci,gıda firmasından gelen iş teklifini kabul etmedi.",
+    "en": "The student whom I met at the school didn't accept the job offer from the food company."
+  },
+  {
+    "id": 226,
+    "tr": "Okulda tanıştığın öğrenci,gıda firmasından gelen iş teklifini kabul etti mi?",
+    "en": "Did the student whom you met at the school accept the job offer from the food company?"
+  },
+  {
+    "id": 227,
+    "tr": "Okulda tanıştığın öğrenci, neden gıda firmasından gelen iş teklifini kabul etmedi?",
+    "en": "Why didn't the student whom you met at the school accept the job offer from the food company?"
+  },
+  {
+    "id": 228,
+    "tr": "Gittiğimiz kafede gördüğümüz çift",
+    "en": "The couple whom we saw at the cafe where we went"
+  },
+  {
+    "id": 229,
+    "tr": "Çalıştığım restorandaki şef",
+    "en": "The chef who is at the restaurant where I work"
+  },
+  {
+    "id": 230,
+    "tr": "Çalıştığım restorandaki şef Ankaralı.",
+    "en": "The chef who is at the restaurant where I work is from Ankara."
+  },
+  {
+    "id": 231,
+    "tr": "Çalıştığım restorandaki şef bugün işe gelmedi.",
+    "en": "The chef who is at the restaurant where I work didn't come to work today."
+  },
+  {
+    "id": 232,
+    "tr": "Çalıştığım restorandaki şef Ankaralı.",
+    "en": "The chef who is at the restaurant where I work is from Ankara."
+  },
+  {
+    "id": 233,
+    "tr": "Çalıştığım restorandaki şefin 10 yıllık tecrübesi var.",
+    "en": "The chef who is at the restaurant where I work has ten years of experience."
+  },
+  {
+    "id": 234,
+    "tr": "Çalıştığım restorandaki şefin 10 yıllık tecrübesi vardı.",
+    "en": "The chef who was at the restaurant where I work had ten years of experience."
+  },
+  {
+    "id": 235,
+    "tr": "Çalıştığım restorandaki şef depoyu kontrol etti.",
+    "en": "The chef who was at the restaurant where I work checked the stockroom."
+  },
+  {
+    "id": 236,
+    "tr": "Çalıştığım fabrikadaki işçiler",
+    "en": "The employees who are at the factory where I work"
+  },
+  {
+    "id": 237,
+    "tr": "Çalıştığım fabrikadaki işçiler maaşlarına zam aldılar.",
+    "en": "The employees who were at the factory where I work got a raise in their salaries."
+  },
+  {
+    "id": 238,
+    "tr": "Çalıştığım fabrikadaki işçiler maaşlarına zam alacaklar.",
+    "en": "The employees who are at the factory where I work will get a raise in their salaries."
+  },
+  {
+    "id": 239,
+    "tr": "Çalıştığım fabrikadaki işçiler bugün grev yaptılar.",
+    "en": "The employees who are at the factory where I work went on strike today."
+  },
+  {
+    "id": 240,
+    "tr": "Çalıştığım fabrikadaki işçiler 1 haftadır grev yapıyorlar.",
+    "en": "The employees who are at the factory where I work have been striking for a week."
+  },
+  {
+    "id": 241,
+    "tr": "Çalıştığım fabrikadaki işçiler eğer zam almazlarsa grev yapacaklar, greve gidecekler.",
+    "en": "The employees who are at the factory where I work will go on strike if they don't get a raise."
+  },
+  {
+    "id": 242,
+    "tr": "Yolda gördüğüm yabancı",
+    "en": "The stranger whom I saw on the road"
+  },
+  {
+    "id": 243,
+    "tr": "Yolda gördüğüm yabancı sana benziyordu.",
+    "en": "The stranger whom I saw on the road looked like you."
+  },
+  {
+    "id": 244,
+    "tr": "Yolda gördüğüm yabancı 2 büyük kutu taşıyordu.",
+    "en": "The stranger whom I saw on the road was carrying two big boxes."
+  },
+  {
+    "id": 245,
+    "tr": "Yolda gördüğüm yabancı bana adres sordu.",
+    "en": "The stranger whom I saw on the road asked me for an address."
+  },
+  {
+    "id": 246,
+    "tr": "Yolda gördüğüm yabancı aynı anda 2 kişiye adres soruyordu.",
+    "en": "The stranger whom I saw on the road was asking for 2 people at the same time."
+  },
+  {
+    "id": 247,
+    "tr": "Çalıştığım okulda gördüğüm öğrenci",
+    "en": "The student whom I saw in the school where I work"
+  },
+  {
+    "id": 248,
+    "tr": "Çalıştığım okulda gördüğüm öğrenci bence yeterince başarılı.",
+    "en": "I think that the student whom I saw in the school where I work is successful enough."
+  },
+  {
+    "id": 249,
+    "tr": "Çalıştığım okulda gördüğüm öğrenciler bence yeterince başarılı değiller.",
+    "en": "I think that the students whom I saw in the school where I work aren't successful enough."
+  },
+  {
+    "id": 250,
+    "tr": "Sence çalıştığın okulda gördüğün öğrenciler yeterince başarılı mı?",
+    "en": "Do you think that the students whom you saw in the school where you work are successful enough?"
+  },
+  {
+    "id": 251,
+    "tr": "Yolda karşılaştığım yaşlı adam",
+    "en": "The old man whom I met on the road"
+  },
+  {
+    "id": 252,
+    "tr": "Yolda karşılaştığım yaşlı adam bana biraz para verdi.",
+    "en": "The old man whom I met on the road gave me some money."
+  },
+  {
+    "id": 253,
+    "tr": "Yolda karşılaştığım yaşlı adam benden yardım istedi.",
+    "en": "The old man whom I met on the road asked me for help."
+  },
+  {
+    "id": 254,
+    "tr": "Yolda karşılaştığım yaşlı adam benden çantasını taşımamı istedi.",
+    "en": "The old man whom I met on the road asked me to carry his bag."
+  },
+  {
+    "id": 255,
+    "tr": "Yolda karşılaştığın yaşlı adam neden senden yardım istedi?",
+    "en": "Why did the old man whom you met on the road ask you for help?"
+  },
+  {
+    "id": 256,
+    "tr": "Yolda karşılaştığın yaşlı adam ne zaman senden yardım istedi?",
+    "en": "When did the old man whom you met on the road ask you for help?"
+  },
+  {
+    "id": 257,
+    "tr": "Az önce yolda karşılaştığım yaşlı adam benden yardım istedi.",
+    "en": "The old man whom I have just met on the road asked me for help."
+  },
+  {
+    "id": 258,
+    "tr": "Çalıştığım ofisteki sekreter",
+    "en": "The secretary who is in the office where I work"
+  },
+  {
+    "id": 259,
+    "tr": "Çalıştığım ofisteki sekreter bana önemli bir mail gönderdi.",
+    "en": "The secretary who is in the office where I work sent me an important email."
+  },
+  {
+    "id": 260,
+    "tr": "Çalıştığım ofisteki sekreter bana önemli bir mail göndermedi.",
+    "en": "The secretary who is in the office where I work didn't send me an important email."
+  },
+  {
+    "id": 261,
+    "tr": "Çalıştığın ofisteki sekreter sana önemli bir mail gönderdi mi?",
+    "en": "Did the secretary who is in the office where you work send you an important email?"
+  },
+  {
+    "id": 262,
+    "tr": "Çalıştığın ofisteki sekreter sana ne zaman önemli bir mail gönderdi?",
+    "en": "When did the secretary who is in the office where you work send you an important email?"
+  },
+  {
+    "id": 263,
+    "tr": "Çalıştığım okulda gördüğüm öğretmen",
+    "en": "The teacher whom I saw at the school where I work"
+  },
+  {
+    "id": 264,
+    "tr": "Çalıştığım okulda gördüğüm öğretmen çok tecrübeli.",
+    "en": "The teacher whom I saw at the school where I work is very experienced."
+  },
+  {
+    "id": 265,
+    "tr": "Çalıştığım okulda gördüğüm öğretmen çok tecrübeliydi.",
+    "en": "The teacher whom I saw at the school where I work was very experienced."
+  },
+  {
+    "id": 266,
+    "tr": "Çalıştığım okulda gördüğüm öğretmen 10 yıldır bu okulda çalışıyor.",
+    "en": "The teacher whom I saw at the school where I work has been working for ten years in this school."
+  },
+  {
+    "id": 267,
+    "tr": "Çalıştığım okulda gördüğüm öğretmen bu zamana kadar gördüğüm en nazik kişi.",
+    "en": "The teacher whom I saw at the school where I work is the kindest person that I have seen so far."
+  },
+  {
+    "id": 268,
+    "tr": "Çalıştığım okulda gördüğüm öğretmen bu dünyadaki en kibar insanlardan biridir.",
+    "en": "The teacher whom I saw at the school where I work is one of the kindest people in this world."
+  },
+  {
+    "id": 269,
+    "tr": "Çalıştığım mağazadaki müşteriler",
+    "en": "The customers who are at the store where I work"
+  },
+  {
+    "id": 270,
+    "tr": "Çalıştığım mağazadaki müşteriler oldukça cömertler.",
+    "en": "The customers who are at the store where I work are quite generous."
+  },
+  {
+    "id": 271,
+    "tr": "Çalıştığım mağazadaki müşteriler oldukça yardımseverler.",
+    "en": "The customers who are at the store where I work are quite helpful."
+  },
+  {
+    "id": 272,
+    "tr": "Çalıştığım mağazadaki müşteriler bize bahşiş verdi.",
+    "en": "The customers who are at the store where I work gave us a tip."
+  },
+  {
+    "id": 273,
+    "tr": "Çalıştığım mağazadaki müşteriler bize 20 dolar bahşiş verdi.",
+    "en": "The customers who are at the store where I work gave us twenty dollars as a tip."
+  },
+  {
+    "id": 274,
+    "tr": "Dün buluştuğum eski arkadaşım",
+    "en": "My old friend whom I met yesterday"
+  },
+  {
+    "id": 275,
+    "tr": "Dün buluştuğum eski arkadaşım da senin gibi bir mühendis.",
+    "en": "My old friend whom I met yesterday is an engineer like you."
+  },
+  {
+    "id": 276,
+    "tr": "Dün buluştuğum eski arkadaşım 3 yıldır burada yaşıyor.",
+    "en": "My old friend whom I met yesterday has been living here for three years."
+  },
+  {
+    "id": 277,
+    "tr": "Dün buluştuğum eski arkadaşım sana selam söyledi.",
+    "en": "My old friend whom I met yesterday said hello to you."
+  },
+  {
+    "id": 278,
+    "tr": "Dün buluştuğum eski arkadaşım İstanbul'a gitmek istediğini söyledi.",
+    "en": "My old friend whom I met yesterday said that he wanted to go to İstanbul."
+  },
+  {
+    "id": 279,
+    "tr": "Dün buluştuğum eski arkadaşım İstanbul'da yaşamak istediğini söyledi.",
+    "en": "My old friend whom I met yesterday said that he wanted to live in İstanbul."
+  },
+  {
+    "id": 280,
+    "tr": "Yolda karşılaştığımız turist",
+    "en": "The tourist whom we met on the road"
+  },
+  {
+    "id": 281,
+    "tr": "Yolda bizimle karşılaşan turist ile İstanbul'daki en iyi yemekler hakkında konuştuk.",
+    "en": "We talked to the tourist who met us on the road about the best food in İstanbul."
+  },
+  {
+    "id": 282,
+    "tr": "Yolda karşılaştığımız turistle İstanbul'daki en iyi yemekler hakkında on dakika konuştuk.",
+    "en": "We talked to the tourist whom we met on the road about the best food in İstanbul for ten minutes."
+  },
+  {
+    "id": 283,
+    "tr": "Ayşenin yanında oturan kadını tanıyor musun?",
+    "en": "Do you know the woman who is sitting next to Ayşe?"
+  },
+  {
+    "id": 284,
+    "tr": "Annesi çok ünlü olan bir arkadaşım var.",
+    "en": "I have a friend whose mother is famous."
+  },
+  {
+    "id": 285,
+    "tr": "Otobüste önümde oturan adam gazetesini okuyordu.",
+    "en": "The man who sat in front of me on the bus was reading his newspaper."
+  },
+  {
+    "id": 286,
+    "tr": "Babası Almanya’da çalışan bir arkadaşım var.",
+    "en": "I have a friend whose father works in Germany."
+  },
+  {
+    "id": 287,
+    "tr": "Önemli bir fotoğrafçı olan Ara Güler, İstanbul’da doğmuştur.",
+    "en": "Ara Güler , who is an important photographer was born in İstanbul."
+  },
+  {
+    "id": 288,
+    "tr": "O, bu hayatta bana yardım eden tek insandır.",
+    "en": "He is the only person who helps me in this life."
+  },
+  {
+    "id": 289,
+    "tr": "Atatürk, bu ülkenin kaderini değiştiren bir insandır.",
+    "en": "Atatürk is a person who changed the destiny of this country."
+  },
+  {
+    "id": 290,
+    "tr": "Geçen hafta bisikleti çalınan çocuk çok üzgündü.",
+    "en": "The child whose bike was stolen last week was very sad."
+  },
+  {
+    "id": 291,
+    "tr": "Köpeği sürekli havlayan bir adam gördüm.",
+    "en": "I saw a man whose dog always barks."
+  },
+  {
+    "id": 292,
+    "tr": "Dün gördüğüm kadın çok çılgındı.",
+    "en": "The woman whom I saw yesterday was very crazy."
+  },
+  {
+    "id": 293,
+    "tr": "Dün gece izlediğim müzisyen gerçekten inanılmazdı.",
+    "en": "The musician whom I watched last night was really unbelievable."
+  },
+  {
+    "id": 294,
+    "tr": "Kızkardeşi avukat olan bir arkadaşım var.",
+    "en": "I have a friend whose sister is a lawyer."
+  },
+  {
+    "id": 295,
+    "tr": "Amcası doktor olan bir arkadaşım var.",
+    "en": "I have a friend whose uncle is a doctor."
+  },
+  {
+    "id": 296,
+    "tr": "O, her zaman en iyi soruları soran öğrencidir.",
+    "en": "He is the student who always asks the best questions."
+  },
+  {
+    "id": 297,
+    "tr": "Caddenin karşısında yaşayan insanlar çok arkadaş canlısı.",
+    "en": "The people who live across the street are very friendly."
+  },
+  {
+    "id": 298,
+    "tr": "Dün akşam bize servis yapan garson gerçekten nazikti.",
+    "en": "The waiter who served us last night was really kind."
+  },
+  {
+    "id": 299,
+    "tr": "Konser sırasında tanıştığımız kız, en iyi arkadaşımın kız kardeşidir.",
+    "en": "The girl whom we met during the concert is my best friend’s sister."
+  },
+  {
+    "id": 300,
+    "tr": "Dersten sonra gördüğümüz adam çok sinirliydi.",
+    "en": "The man whom we saw after the lesson was very angry."
+  },
+  {
+    "id": 301,
+    "tr": "Bize yardım eden adam çok yaşlıydı.",
+    "en": "The man who helped us was very old."
+  },
+  {
+    "id": 302,
+    "tr": "Sürekli en şık kıyafetler elegant giyen kadın işte bu.",
+    "en": "This is the woman who always wears elegant clothes."
+  },
+  {
+    "id": 303,
+    "tr": "Dışarıda köpeği havlayan kişi benim komşum.",
+    "en": "The person whose dog barks outside is my neighbor."
+  },
+  {
+    "id": 304,
+    "tr": "Çocukları bağıran kadını tanımıyorum.",
+    "en": "I don't know the woman whose children are shouting."
+  },
+  {
+    "id": 305,
+    "tr": "Babası ünlü bir mimar olan Ahmet, doktor olmak istiyor.",
+    "en": "Ahmet, whose father is a famous architect wants to be a doctor."
+  },
+  {
+    "id": 306,
+    "tr": "Tatilde tanıştığımız insanlar çok komikti.",
+    "en": "The people whom we met on holiday were very funny."
+  },
+  {
+    "id": 307,
+    "tr": "Geçen hafta tanıştığım adam, oldukça quite akıllıydı.",
+    "en": "The man whom I met last week was quite clever."
+  },
+  {
+    "id": 308,
+    "tr": "Sinemaya gittiğimizde tanıştığım insanlar, çok eğlenceliydi.",
+    "en": "The people whom I met when we went to the cinema were very fun."
+  },
+  {
+    "id": 309,
+    "tr": "Konuştuğum doktor, tedavi yöntemleri konusunda çok tecrübeliydi.",
+    "en": "The doctor whom I talked to was very experienced about treatment methods."
+  },
+  {
+    "id": 310,
+    "tr": "Yeni ofisimde tanıştığım kişiler, gerçekten çok yardımseverdi.",
+    "en": "The people whom I met in my new office were really helpful."
+  },
+  {
+    "id": 311,
+    "tr": "Arabaları çok pahalı olan insanlar zengindir.",
+    "en": "The people whose cars are very expensive are rich."
+  },
+  {
+    "id": 312,
+    "tr": "Amerika’ya giden arkadaşım çok mutlu.",
+    "en": "My friend who goes to America is very happy"
+  },
+  {
+    "id": 313,
+    "tr": "Burada yaşayan adam çok zengin.",
+    "en": "The man who lives here is very rich."
+  },
+  {
+    "id": 314,
+    "tr": "Para verdiğim arkadaşım beni aramıyor.",
+    "en": "My friend whom I gave money doesn't call me."
+  },
+  {
+    "id": 315,
+    "tr": "Parasını harcadığım arkadaşım beni bulmaya çalışıyor.",
+    "en": "My friend whose money I spent is trying to find me."
+  },
+  {
+    "id": 316,
+    "tr": "Pahalı bir arabası olan adamla kavga ettim.",
+    "en": "I had a fight with a man whose car is expensive."
+  },
+  {
+    "id": 317,
+    "tr": "Arabası pahalı olan adam bana bağırdı.",
+    "en": "The man whose car is expensive shouted at me."
+  },
+  {
+    "id": 318,
+    "tr": "Dün arabada gördüğüm adam çok yakışıklıydı.",
+    "en": "The man whom I saw in the car was very handsome."
+  },
+  {
+    "id": 319,
+    "tr": "Dün bizi gören adam amcamdı.",
+    "en": "The man who saw us yesterday was my uncle."
+  },
+  {
+    "id": 320,
+    "tr": "Bahçede oturan adam çok yaşlıydı.",
+    "en": "The man who sat in the garden was very old."
+  },
+  {
+    "id": 321,
+    "tr": "Önemli bir şarkıcı olan Ahmet, bir film yapmak istiyor.",
+    "en": "Ahmet, who is an important singer wants to make a movie."
+  },
+  {
+    "id": 322,
+    "tr": "Yolda gördüğüm kadın benimle konuşmak istedi.",
+    "en": "The woman whom I saw on the road wanted to talk to me."
+  },
+  {
+    "id": 323,
+    "tr": "Yolda beni gören kadın benimle konuşmak istedi.",
+    "en": "The woman who saw me on the road wanted to talk to me."
+  },
+  {
+    "id": 324,
+    "tr": "Köpeği yolda beni gören kadın benimle konuşmak istedi.",
+    "en": "The woman whose dog saw me on the road wanted to talk to me."
+  },
+  {
+    "id": 325,
+    "tr": "Yolda karşılaştığımız eski arkadaşla bara gittik.",
+    "en": "We went to the bar with my old friend whom we met on the road."
+  },
+  {
+    "id": 326,
+    "tr": "Bizi gören eski arkadaşım, mutlu olduğunu söyledi.",
+    "en": "My old friend who saw us said that he was happy."
+  },
+  {
+    "id": 327,
+    "tr": "Hastanede tanıştığımız adamla yaşam hakkında konuştuk.",
+    "en": "We talked to the man whom we met at the hospital about life."
+  },
+  {
+    "id": 328,
+    "tr": "Sahilde gördüğümüz çocuk bir kediyle oynuyordu.",
+    "en": "The child whom we saw in the seaside was playing with a cat."
+  },
+  {
+    "id": 329,
+    "tr": "Çalıştığım projedeki kadın bizi uyardı.",
+    "en": "The woman whom I work with on the project warned us."
+  },
+  {
+    "id": 330,
+    "tr": "Dün tanıştığımız adam çok garipti.",
+    "en": "The man whom we met yesterday was very strange."
+  },
+  {
+    "id": 331,
+    "tr": "Kızı benim sınıfımda olan öğretmen iyi bir öğretmen değildi.",
+    "en": "The teacher whose daughter was in my class wasn't a good teacher."
+  },
+  {
+    "id": 332,
+    "tr": "Eşi yurt dışında çalışan adam uçak bileti satın aldı.",
+    "en": "The man whose wife works abroad bought a flight ticket."
+  },
+  {
+    "id": 333,
+    "tr": "Köpeğini sürekli parka götüren kadın güvercinleri besledi.",
+    "en": "The woman who always takes her dog to the park fed the pigeons."
+  },
+  {
+    "id": 334,
+    "tr": "Annemle aynı mahallede oturan kızkardeşim 40 yaşında.",
+    "en": "My sister who lives in the same neighborhood with my mother is forty years old."
+  },
+  {
+    "id": 335,
+    "tr": "Arkadaşımla aynı evde kalan kadın bir doktor.",
+    "en": "The woman who stays in the same house with my friend is a doctor."
+  },
+  {
+    "id": 336,
+    "tr": "Oğlu doktor olan kadın hastaneye gitmek istemiyor.",
+    "en": "The woman whose son is a doctor doesn't want to go to the hospital."
+  },
+  {
+    "id": 337,
+    "tr": "Çocuğu okuldan sonra bizimle kalan kadın bir garsondu.",
+    "en": "The woman whose child stayed with us after the school was a waitress."
+  },
+  {
+    "id": 338,
+    "tr": "Ailesi yurtdışında yaşayan adam ailesini özledi.",
+    "en": "The man whose family lives abroad missed his family."
+  },
+  {
+    "id": 339,
+    "tr": "Oğlu yaz tatilinde bizimle kalan öğretmen için bir sürprizimiz var.",
+    "en": "We have a surprise for the teacher whose son stayed with us during summer holiday."
+  },
+  {
+    "id": 340,
+    "tr": "Kızı üniversiteye giden Ayşe, onun için herşeyi yapar.",
+    "en": "Ayşe, whose daughter goes to the university does everything for her."
+  },
+  {
+    "id": 341,
+    "tr": "Oğlu Fenerbahçe'de basketbol oynayan kadın gururlu.",
+    "en": "The woman whose son plays basketball for Fenerbahçe is proud."
+  },
+  {
+    "id": 342,
+    "tr": "Odayı temizleyen kadın bahşiş istedi.",
+    "en": "The woman who cleaned the room wanted a tip."
+  },
+  {
+    "id": 343,
+    "tr": "Bizim hastanede çalışan doktorlar yeterince tecrübeli değil.",
+    "en": "The doctors who work in our hospital aren't experienced enough."
+  },
+  {
+    "id": 344,
+    "tr": "Gittiğimiz kafedeki müşteriler yeterince zengin değil.",
+    "en": "The customers who are in the cafe where we went aren't rich enough."
+  },
+  {
+    "id": 345,
+    "tr": "Okulda tanıştığım öğrenci yeterince akıllı değil.",
+    "en": "The student whom I met at the school isn't clever enough."
+  },
+  {
+    "id": 346,
+    "tr": "Gittiğimiz kafede gördüğümüz çift çok sevimliydi.",
+    "en": "The couple whom we saw at the cafe we went were very cute."
+  },
+  {
+    "id": 347,
+    "tr": "Çalıştığım restorandaki şefle yemek yapmak hakkında konuştum.",
+    "en": "I talked to the chef whom I work in the restaurant about cooking."
+  },
+  {
+    "id": 348,
+    "tr": "Çalıştığım fabrikadaki işçiler çok kızgın.",
+    "en": "The employees whom I work at the factory are very angry."
+  },
+  {
+    "id": 349,
+    "tr": "Yolda gördüğüm yabancı bana göz kırptı.",
+    "en": "The stranger whom I saw on the road winked at me."
+  },
+  {
+    "id": 350,
+    "tr": "Yolda gördüğüm yabancı birden koşmaya başladı.",
+    "en": "The stranger whom I saw on the road started to run suddenly."
+  }
+]

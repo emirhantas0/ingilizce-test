@@ -1,0 +1,373 @@
+[
+  { "id": 1, "tr": "Erişim / Erişmek", "en": "Access" },
+  { "id": 2, "tr": "Erişimim engellendi. (İsim)", "en": "My access is denied." },
+  { "id": 3, "tr": "Bilgiye erişemedim. (Fiil)", "en": "I couldn't access the information." },
+
+  { "id": 4, "tr": "Cevap / Cevaplamak", "en": "Answer" },
+  { "id": 5, "tr": "Cevabın doğru. (İsim)", "en": "Your answer is correct." },
+  { "id": 6, "tr": "Soruyu doğru cevapladı. (Fiil)", "en": "He answered the question correctly." },
+
+  { "id": 7, "tr": "Saldırı / Saldırmak", "en": "Attack" },
+  { "id": 8, "tr": "Onların saldırısını yeneceğiz. (İsim)", "en": "We will defeat their attack." },
+  { "id": 9, "tr": "ABD, Venezuela'ya saldırdı. (Fiil)", "en": "The USA attacked Venezuela." },
+
+  { "id": 10, "tr": "Yasak / Yasaklamak", "en": "Ban" },
+  { "id": 11, "tr": "1930'larda Amerika'da alkol yasağı vardı. (İsim)", "en": "There was an alcohol ban in America in the 1930s." },
+  { "id": 12, "tr": "Hükümet alkolü yasakladı. (Fiil)", "en": "The government banned alcohol." },
+
+  { "id": 13, "tr": "Fayda / Fayda Sağlamak", "en": "Benefit" },
+  { "id": 14, "tr": "Egzersiz yapmanın sağlıklı bir vücut için sayısız faydası vardır. (İsim)", "en": "Exercising has countless benefits for a healthy body." },
+  { "id": 15, "tr": "İngilizcen kariyerine fayda sağlayacak. (Fiil)", "en": "Your English will benefit your career." },
+
+  { "id": 16, "tr": "Suç / Suçlamak", "en": "Blame" },
+  { "id": 17, "tr": "Suçu benim üzerime atma! (İsim)", "en": "Don't put the blame on me!" },
+  { "id": 18, "tr": "Bunun için beni suçlayamazsın. (Fiil)", "en": "You can't blame me for this." },
+
+  { "id": 19, "tr": "Kutu / Kutulamak", "en": "Box" },
+  { "id": 20, "tr": "Bu ağır bir kutu. (İsim)", "en": "This is a heavy box." },
+  { "id": 21, "tr": "Eşyalarımı kutuladım. (Fiil)", "en": "I boxed my stuff." },
+
+  { "id": 22, "tr": "Fırça / Fırçalamak", "en": "Brush" },
+  { "id": 23, "tr": "Bu eski bir fırça. (İsim)", "en": "This is an old brush." },
+  { "id": 24, "tr": "Dişlerimi fırçaladım. (Fiil)", "en": "I brushed my teeth." },
+
+  { "id": 25, "tr": "Sebep / Sebep Olmak", "en": "Cause" },
+  { "id": 26, "tr": "Bu geçerli bir sebep değil. (İsim)", "en": "This is not a valid cause." },
+  { "id": 27, "tr": "Büyük bir krize sebep oldular. (Fiil)", "en": "They caused a big crisis." },
+
+  { "id": 28, "tr": "Değişim / Değişmek", "en": "Change" },
+  { "id": 29, "tr": "Değişime ihtiyacımız var. (İsim)", "en": "We need change." },
+  { "id": 30, "tr": "Değişmemiz gerekiyor. (Fiil)", "en": "We need to change." },
+
+  { "id": 31, "tr": "Aşçı / Yemek Pişirmek", "en": "Cook" },
+  { "id": 32, "tr": "Aşçı kızgındı. (İsim)", "en": "The cook was angry." },
+  { "id": 33, "tr": "Ailem için yemek pişirdim. (Fiil)", "en": "I cooked for my family." },
+
+  { "id": 34, "tr": "Tedavi / Tedavi Etmek", "en": "Cure" },
+  { "id": 35, "tr": "Bu tedavi birçok insanı kurtaracak. (İsim)", "en": "This cure will save a lot of people." },
+  { "id": 36, "tr": "İnsanları tedavi edecek. (Fiil)", "en": "It will cure people." },
+
+  { "id": 37, "tr": "Zarar / Zarar Vermek", "en": "Damage" },
+  { "id": 38, "tr": "Hasar çok büyüktü. (İsim)", "en": "The damage was massive." },
+  { "id": 39, "tr": "Arabam kazadan sonra hasar gördü. (Fiil)", "en": "My car was damaged after the accident." },
+
+  { "id": 40, "tr": "Dans / Dans Etmek", "en": "Dance" },
+  { "id": 41, "tr": "Bu bizim ilk dansımız. (İsim)", "en": "This is our first dance." },
+  { "id": 42, "tr": "Saatlerce dans ettik. (Fiil)", "en": "We danced for hours." },
+
+  { "id": 43, "tr": "Azalma / Azalmak", "en": "Decrease" },
+  { "id": 44, "tr": "Nüfusta büyük bir azalma var. (İsim)", "en": "There is a big decrease in the population." },
+  { "id": 45, "tr": "Onun kan basıncını düşürmeyi (azaltmayı) başardılar. (Fiil)", "en": "They were able to decrease his blood pressure." },
+
+  { "id": 46, "tr": "Talep / Talep Etmek", "en": "Demand" },
+  { "id": 47, "tr": "Altına olan talep artıyor. (İsim)", "en": "The demand on gold is increasing." },
+  { "id": 48, "tr": "Bu parayı talep edemezsin. (Fiil)", "en": "You can't demand this money." },
+
+  { "id": 49, "tr": "Tasarım / Tasarlamak", "en": "Design" },
+  { "id": 50, "tr": "Bu tasarımı seviyorum. (İsim)", "en": "I love this design." },
+  { "id": 51, "tr": "Yeni bir dünya düzeni tasarlıyorlar. (Fiil)", "en": "They are designing a new world order." },
+
+  { "id": 52, "tr": "Hayal / Hayal Kurmak / Rüya / Rüya Görmek", "en": "Dream" },
+  { "id": 53, "tr": "10.000'e ulaşmak benim için bir hayaldi. (İsim)", "en": "Reaching 10.000 was a dream for me." },
+  { "id": 54, "tr": "Dün gece rüyamda babaannemi gördüm. (Fiil)", "en": "I dreamt about my grandmother last night." },
+
+  { "id": 55, "tr": "Elbise / Giyinmek", "en": "Dress" },
+  { "id": 56, "tr": "Bu elbiseyi seviyorum! (İsim)", "en": "I love this dress!" },
+  { "id": 57, "tr": "Parti için giyindi (süslendi). (Fiil)", "en": "She dressed for the party." },
+
+  { "id": 58, "tr": "İçecek / İçmek", "en": "Drink" },
+  { "id": 59, "tr": "Bir içeceğe ihtiyacım var. (İsim)", "en": "I need a drink." },
+  { "id": 60, "tr": "Çok içtim. (Fiil)", "en": "I drank a lot." },
+
+  { "id": 61, "tr": "E-posta / Postalamak", "en": "Email" },
+  { "id": 62, "tr": "Öğrencilerimden çok sayıda e-posta aldım. (İsim)", "en": "I had a lot of emails from my students." },
+  { "id": 63, "tr": "Arkadaşıma e-posta gönderdim. (Fiil)", "en": "I emailed my friend." },
+
+  { "id": 64, "tr": "Son / Sonlandırmak", "en": "End" },
+  { "id": 65, "tr": "Bu savaşlar için bir son istiyorum. (İsim)", "en": "I want an end for these wars." },
+  { "id": 66, "tr": "Onları sonlandırmak istiyorum. (Fiil)", "en": "I want to end them." },
+
+  { "id": 67, "tr": "Yüz / Yüzleşmek", "en": "Face" },
+  { "id": 68, "tr": "Güzel bir yüzü var. (İsim)", "en": "She has a beautiful face." },
+  { "id": 69, "tr": "Gerçekle yüzleşmelisin. (Fiil)", "en": "You must face the truth." },
+
+  { "id": 70, "tr": "Kavga / Kavga Etmek", "en": "Fight" },
+  { "id": 71, "tr": "Büyük bir kavga ettiler. (İsim)", "en": "They had a big fight." },
+  { "id": 72, "tr": "Kavga ettiler (Dövüştüler). (Fiil)", "en": "They fought." },
+
+  { "id": 73, "tr": "Dosya / Dosyalamak", "en": "File" },
+  { "id": 74, "tr": "Masamda dağ gibi dosya var. (İsim)", "en": "There is a mountain of files on my table." },
+  { "id": 75, "tr": "Fişleri (makbuzları) dosyaladım. (Fiil)", "en": "I filed the receipts." },
+
+  { "id": 76, "tr": "Balık / Balık Tutmak", "en": "Fish" },
+  { "id": 77, "tr": "Burada çok balık var. (İsim)", "en": "There are a lot of fish here." },
+  { "id": 78, "tr": "Babamla balık tuttuk. (Fiil)", "en": "We fished with my dad." },
+
+  { "id": 82, "tr": "Güç / Zorlamak", "en": "Force" },
+  { "id": 83, "tr": "Atom bombasının gücü muazzamdı. (İsim)", "en": "The force of the atomic bomb was immense." },
+  { "id": 84, "tr": "Beni yalan söylemeye zorladılar. (Fiil)", "en": "They forced me to lie." },
+
+  { "id": 85, "tr": "Rehber / Rehberlik Etmek", "en": "Guide" },
+  { "id": 86, "tr": "O harika bir tur rehberidir. (İsim)", "en": "He is a great tour guide." },
+  { "id": 87, "tr": "Öğrencilerime rehberlik etmek istiyorum. (Fiil)", "en": "I want to guide my students." },
+
+  { "id": 88, "tr": "El / Uzatmak", "en": "Hand" },
+  { "id": 89, "tr": "Onun elini tuttum. (İsim)", "en": "I held her hand." },
+  { "id": 90, "tr": "Lütfen bana uzaktan kumandayı uzat. (Fiil)", "en": "Please hand me the remote." },
+
+  { "id": 91, "tr": "Zarar / Zarar Vermek", "en": "Harm" },
+  { "id": 92, "tr": "Hiçbir zarar niyetim yoktu. (İsim)", "en": "I didn't mean any harm." },
+  { "id": 93, "tr": "Böcekler bitkilere zarar verir. (Fiil)", "en": "Insects harm the plants." },
+
+  { "id": 94, "tr": "Nefret / Nefret Etmek", "en": "Hate" },
+  { "id": 95, "tr": "Bu nefretle yaşayamazsın. (İsim)", "en": "You can't live with this hate." },
+  { "id": 96, "tr": "Onlardan nefret ediyorum. (Fiil)", "en": "I hate them." },
+
+  { "id": 97, "tr": "Sıcaklık, Isı / Isıtmak", "en": "Heat" },
+  { "id": 98, "tr": "Yazın sıcaklık (ısı) yoğundur. (İsim)", "en": "The heat in the summer is intense." },
+  { "id": 99, "tr": "Yemeği ısıttım. (Fiil)", "en": "I heated the food." },
+
+  { "id": 100, "tr": "Yardım / Yardım Etmek", "en": "Help" },
+  { "id": 101, "tr": "Yardıma ihtiyacım var. (İsim)", "en": "I need help." },
+  { "id": 102, "tr": "Bana yardım etmene ihtiyacım var. (Fiil)", "en": "I need you to help me." },
+
+  { "id": 103, "tr": "Umut / Umut Etmek", "en": "Hope" },
+  { "id": 104, "tr": "Sen benim son umudumsun. (İsim)", "en": "You are my last hope." },
+  { "id": 105, "tr": "İyi bir öğretmen olmayı umuyorum. (Fiil)", "en": "I hope to be a good teacher." },
+
+  { "id": 106, "tr": "Sarılma / Sarılmak", "en": "Hug" },
+  { "id": 107, "tr": "Bir sarılmaya ihtiyacım var. (İsim)", "en": "I need a hug." },
+  { "id": 108, "tr": "Kız kardeşime sarıldım. (Fiil)", "en": "I hugged my sister." },
+
+  { "id": 109, "tr": "Artış / Artırmak", "en": "Increase" },
+  { "id": 110, "tr": "Gıda fiyatlarındaki artış insanları incitiyor. (İsim)", "en": "The increase in the food prices is hurting the people." },
+  { "id": 111, "tr": "Her şeyin fiyatını artırdılar. (Fiil)", "en": "They increased the price of everything." },
+
+  { "id": 112, "tr": "Şaka / Şaka Yapmak", "en": "Joke" },
+  { "id": 113, "tr": "Bu komik bir şaka. (İsim)", "en": "This is a funny joke." },
+  { "id": 114, "tr": "Lütfen onlar hakkında şaka yapma. (Fiil)", "en": "Please don't joke about them." },
+
+  { "id": 115, "tr": "Yargıç / Yargılamak", "en": "Judge" },
+  { "id": 116, "tr": "O, kasabadaki en iyi yargıçtır. (İsim)", "en": "He is the best judge in town." },
+  { "id": 117, "tr": "Lütfen beni yargılama. (Fiil)", "en": "Please don't judge me." },
+
+  { "id": 118, "tr": "Öpücük / Öpmek", "en": "Kiss" },
+  { "id": 119, "tr": "Senden bir öpücük istiyorum. (İsim)", "en": "I want a kiss from you." },
+  { "id": 120, "tr": "Oğlumu öptüm. (Fiil)", "en": "I kissed my son." },
+
+  { "id": 121, "tr": "Yalan / Yalan Söylemek", "en": "Lie" },
+  { "id": 122, "tr": "Yalanlarını duymak istemiyorum. (İsim)", "en": "I don't wanna hear your lies." },
+  { "id": 123, "tr": "Bana yalan söyledin! (Fiil)", "en": "You lied to me!" },
+
+  { "id": 124, "tr": "Sınır / Sınırlamak", "en": "Limit" },
+  { "id": 125, "tr": "Kredi kartı limitim 50.000 dolar. (İsim)", "en": "My credit card limit is 50.000 dollars." },
+  { "id": 126, "tr": "İnternet erişimimizi sınırladılar. (Fiil)", "en": "They limited our access to internet." },
+
+  { "id": 127, "tr": "Borç Para / Borç Para Vermek", "en": "Loan" },
+  { "id": 128, "tr": "Çok fazla borcum var. (İsim)", "en": "I have a lot of loans." },
+  { "id": 129, "tr": "Lütfen bana biraz borç para ver. (Fiil)", "en": "Please loan me some money." },
+
+  { "id": 130, "tr": "Kilit / Kilitlemek", "en": "Lock" },
+  { "id": 131, "tr": "Daha iyi bir kilide ihtiyacımız var. (İsim)", "en": "We need a better lock." },
+  { "id": 132, "tr": "Kapıyı kilitlediler. (Fiil)", "en": "They locked the door." },
+
+  { "id": 133, "tr": "Bakış / Bakmak", "en": "Look" },
+  { "id": 134, "tr": "Yüzündeki o bakışı asla unutmayacağım. (İsim)", "en": "I'll never forget the look on her face." },
+  { "id": 135, "tr": "Tabloya baktım. (Fiil)", "en": "I looked at the painting." },
+
+  { "id": 136, "tr": "Aşk / Sevmek", "en": "Love" },
+  { "id": 137, "tr": "Aşkın benim için önemli. (İsim)", "en": "Your love is important for me." },
+  { "id": 138, "tr": "Seni çok seviyorum. (Fiil)", "en": "I love you so much." },
+
+  { "id": 139, "tr": "Süt / Süt Sağmak", "en": "Milk" },
+  { "id": 140, "tr": "Buzdolabında süt var. (İsim)", "en": "There is milk in the fridge." },
+  { "id": 141, "tr": "İnekleri sağdım. (Fiil)", "en": "I milked the cows." },
+
+  { "id": 142, "tr": "İsim / İsimlendirmek", "en": "Name" },
+  { "id": 143, "tr": "Benim adım Özgür. (İsim)", "en": "My name is Ozgur." },
+  { "id": 144, "tr": "Polisler hırsızdan ortaklarının ismini vermesini istedi. (Fiil)", "en": "The cops asked the thief to name his partners." },
+
+  { "id": 145, "tr": "Teklif / Teklif Etmek", "en": "Offer" },
+  { "id": 146, "tr": "Daha iyi bir teklifim vardı. (İsim)", "en": "I had a better offer." },
+  { "id": 147, "tr": "Bana daha iyi bir iş teklif ettiler. (Fiil)", "en": "They offered me a better job." },
+
+  { "id": 148, "tr": "Telefon / Telefon Etmek", "en": "Phone" },
+  { "id": 149, "tr": "Yeni bir telefona ihtiyacım var. (İsim)", "en": "I need a new phone." },
+  { "id": 150, "tr": "Anneme telefon ettim. (Fiil)", "en": "I phoned my mom." },
+
+  { "id": 151, "tr": "Bitki / Dikmek, Ekmek", "en": "Plant" },
+  { "id": 152, "tr": "Bahçemde çok bitki var. (İsim)", "en": "There are a lot of plants in my garden." },
+  { "id": 153, "tr": "Bahçeme patates ektim. (Fiil)", "en": "I planted potatoes in my garden." },
+
+  { "id": 154, "tr": "Paylaşım, Posta / Paylaşmak", "en": "Post" },
+  { "id": 155, "tr": "Instagram'daki son paylaşımını (postunu) beğenmedim. (İsim)", "en": "I didn't like her latest post on Instagram." },
+  { "id": 156, "tr": "Çok çirkin bir video paylaştı (postladı). (Fiil)", "en": "She posted a very ugly video." },
+
+  { "id": 157, "tr": "Pratik, Antrenman / Pratik Yapmak", "en": "Practice" },
+  { "id": 158, "tr": "Bu kolların için iyi bir antrenmandır (pratiktir). (İsim)", "en": "This is a good practice for your arms." },
+  { "id": 159, "tr": "İngilizce öğrenmek için her gün pratik yapmalısın. (Fiil)", "en": "You need to practice daily to learn English." },
+
+  { "id": 160, "tr": "Söz, Yemin / Söz Vermek", "en": "Promise" },
+  { "id": 161, "tr": "Bu bir söz! (İsim)", "en": "This is a promise!" },
+  { "id": 162, "tr": "Bir daha yalan söylemeyeceğime söz veriyorum. (Fiil)", "en": "I promise I won't lie again." },
+
+  { "id": 163, "tr": "Soru / Sorgulamak", "en": "Question" },
+  { "id": 164, "tr": "Sorular zordu. (İsim)", "en": "The questions were hard." },
+  { "id": 165, "tr": "Haysiyetimi sorgulayamazsın. (Fiil)", "en": "You can't question my dignity." },
+
+  { "id": 166, "tr": "Yarış / Yarışmak", "en": "Race" },
+  { "id": 167, "tr": "Bu önemli bir yarış. (İsim)", "en": "This is an important race." },
+  { "id": 168, "tr": "Yarışmayı kazanmak için yarıştılar. (Fiil)", "en": "They raced to win the competition." },
+
+  { "id": 169, "tr": "Yağmur / Yağmak", "en": "Rain" },
+  { "id": 170, "tr": "İstanbul'un biraz yağmura ihtiyacı var. (İsim)", "en": "Istanbul needs some rain." },
+  { "id": 171, "tr": "Geçen yaz yağmur yağmadı. (Fiil)", "en": "It didn't rain last summer." },
+
+  { "id": 172, "tr": "Kira / Kiralamak", "en": "Rent" },
+  { "id": 173, "tr": "Ev sahibi kirayı artırdı. (İsim)", "en": "The landlord increased the rent." },
+  { "id": 174, "tr": "Yeni bir daire kiralayacağım. (Fiil)", "en": "I will rent a new flat." },
+
+  { "id": 175, "tr": "Yanıt / Yanıtlamak", "en": "Reply" },
+  { "id": 176, "tr": "Yanıtın iyi değildi. (İsim)", "en": "Your reply wasn't good." },
+  { "id": 177, "tr": "E-postalarını dün yanıtladım. (Fiil)", "en": "I replied your emails yesterday." },
+
+  { "id": 178, "tr": "Rapor / Rapor Etmek", "en": "Report" },
+  { "id": 179, "tr": "Bu raporu görmen gerekiyor. (İsim)", "en": "You need to see this report." },
+  { "id": 180, "tr": "Seni üstlerime rapor edeceğim. (Fiil)", "en": "I will report you to my superiors." },
+
+  { "id": 181, "tr": "Rica / Rica Etmek", "en": "Request" },
+  { "id": 182, "tr": "Bir ricam var: Lütfen derslerimi dinleyin. (İsim)", "en": "I have one request: Please listen to my lessons." },
+  { "id": 183, "tr": "Öğrencilerimden derslerimi dinlemelerini rica ettim. (Fiil)", "en": "I requested my students to listen to my lessons." },
+
+  { "id": 184, "tr": "Risk / Riske Atmak", "en": "Risk" },
+  { "id": 185, "tr": "Bu çok büyük bir risk. Göze alamam! (İsim)", "en": "This is a very big risk. I can't take it!" },
+  { "id": 186, "tr": "Oğlum için hayatımı riske atabilirim. (Fiil)", "en": "I can risk my life for my son." },
+
+  { "id": 187, "tr": "Arayış, Arama / Aramak", "en": "Search" },
+  { "id": 188, "tr": "Arayışın bitti. (İsim)", "en": "Your search is over." },
+  { "id": 189, "tr": "Polisler ceplerimizi aradı. (Fiil)", "en": "The cops searched our pockets." },
+
+  { "id": 190, "tr": "Şampuan / Şampuanlamak", "en": "Shampoo" },
+  { "id": 191, "tr": "Daha iyi bir şampuana ihtiyacım var. (İsim)", "en": "I need a better shampoo." },
+  { "id": 192, "tr": "Saçlarını şampuanladı. (Fiil)", "en": "She shampooed her hair." },
+
+  { "id": 193, "tr": "İmza / İmzalamak", "en": "Sign" },
+  { "id": 194, "tr": "İmzana ihtiyacım var. (İsim)", "en": "I need your sign." },
+  { "id": 195, "tr": "Bu kağıdı imzalaman gerekiyor. (Fiil)", "en": "You need to sign this paper." },
+
+  { "id": 196, "tr": "Gösteri / Göstermek", "en": "Show" },
+  { "id": 197, "tr": "Bu TV şovunu (gösterisini) seviyorum! (İsim)", "en": "I love this TV show!" },
+  { "id": 198, "tr": "Gerçek yüzlerini gösterdiler. (Fiil)", "en": "They showed their real faces." },
+
+  { "id": 199, "tr": "Günah / Günah İşlemek", "en": "Sin" },
+  { "id": 200, "tr": "Bu bir günah! (İsim)", "en": "This is a sin!" },
+  { "id": 201, "tr": "Affet beni baba, günah işledim. (Fiil)", "en": "Forgive me father I have sinned." },
+
+  { "id": 202, "tr": "Yudum / Yudumlamak", "en": "Sip" },
+  { "id": 203, "tr": "Kolandan bir yudum alabilir miyim? (İsim)", "en": "Can I take a sip from your coke?" },
+  { "id": 204, "tr": "Sütünü yudumladı. (Fiil)", "en": "She sipped her milk." },
+
+  { "id": 205, "tr": "Dilim / Dilimlemek", "en": "Slice" },
+  { "id": 206, "tr": "5 dilim ekmek yedim. (İsim)", "en": "I ate 5 slices of bread." },
+  { "id": 207, "tr": "Ekmeği dilimledi. (Fiil)", "en": "She sliced the bread." },
+
+  { "id": 208, "tr": "Koku / Kokmak", "en": "Smell" },
+  { "id": 209, "tr": "Çiçeklerin kokusunu seviyorum. (İsim)", "en": "I love the smell of the flowers." },
+  { "id": 210, "tr": "Güzel kokuyorsun. (Fiil)", "en": "You smell nice." },
+
+  { "id": 211, "tr": "Gülümseme / Gülümsemek", "en": "Smile" },
+  { "id": 212, "tr": "Onun gülümsemesini seviyorum. (İsim)", "en": "I love her smile." },
+  { "id": 213, "tr": "Bana gülümsedi. (Fiil)", "en": "She smiled at me." },
+
+  { "id": 214, "tr": "Kar / Kar Yağması", "en": "Snow" },
+  { "id": 215, "tr": "Karı seviyorum. (İsim)", "en": "I love the snow." },
+  { "id": 216, "tr": "Geçen hafta çok kar yağdı. (Fiil)", "en": "It snowed a lot last week." },
+
+  { "id": 217, "tr": "Ses / ...gibi gelmek", "en": "Sound" },
+  { "id": 218, "tr": "Müziğin sesi. (İsim)", "en": "The sound of music." },
+  { "id": 219, "tr": "Kulağa harika geliyor! (Fiil)", "en": "It sounds great!" },
+
+  { "id": 220, "tr": "Durak / Durmak, Durdurmak", "en": "Stop" },
+  { "id": 221, "tr": "Bu son durak. (İsim)", "en": "This is the last stop." },
+  { "id": 222, "tr": "Arabamızı durdurdular. (Fiil)", "en": "They stopped our car." },
+
+  { "id": 223, "tr": "Çalışma / Çalışmak", "en": "Study" },
+  { "id": 224, "tr": "Memelilerin yaşamı hakkındaki bu çalışmayı sevdim. (İsim)", "en": "I loved this study about the life of mammals." },
+  { "id": 225, "tr": "Daha fazla çalışmalısın. (Fiil)", "en": "You should study more." },
+
+  { "id": 226, "tr": "Sürpriz / Sürpriz Yapmak", "en": "Surprise" },
+  { "id": 227, "tr": "Bu büyük bir sürpriz. (İsim)", "en": "This is a big surprise." },
+  { "id": 228, "tr": "Beni şaşırttılar. (Fiil)", "en": "They surprised me." },
+
+  { "id": 229, "tr": "Konuşma / Konuşmak", "en": "Talk" },
+  { "id": 230, "tr": "Bu konuşma bitti. (İsim)", "en": "This talk is over." },
+  { "id": 231, "tr": "Konuşmamız gerekiyor. (Fiil)", "en": "We need to talk." },
+
+  { "id": 232, "tr": "Tat / Tadı gelmek", "en": "Taste" },
+  { "id": 233, "tr": "Kirazların tadını seviyorum. (İsim)", "en": "I love the taste of the cherries." },
+  { "id": 234, "tr": "Tatları harika. (Fiil)", "en": "They taste amazing." },
+
+  { "id": 235, "tr": "Test / Test Etmek", "en": "Test" },
+  { "id": 236, "tr": "Bu bizim son testimiz. (İsim)", "en": "This is our last test." },
+  { "id": 237, "tr": "Sabrımı test etme. (Fiil)", "en": "Don't test my patience." },
+
+  { "id": 238, "tr": "Zaman / Zaman tutmak", "en": "Time" },
+  { "id": 239, "tr": "Vakit nakittir. (İsim)", "en": "Time is money." },
+  { "id": 240, "tr": "Koşarken onun zamanını tuttular. (Fiil)", "en": "They timed him while he was running." },
+
+  { "id": 241, "tr": "Bahşiş / Bahşiş Vermek", "en": "Tip" },
+  { "id": 242, "tr": "Garsonlar bahşişleriyle geçinirler. (İsim)", "en": "The waiters live on their tips." },
+  { "id": 243, "tr": "Garsona her zaman bahşiş vermelisin. (Fiil)", "en": "You must always tip the waiter." },
+
+  { "id": 244, "tr": "Tur / Gezmek, Turlamak", "en": "Tour" },
+  { "id": 245, "tr": "Bu turu seviyorum. (İsim)", "en": "I love this tour." },
+  { "id": 246, "tr": "Bahçenin etrafında turladılar. (Fiil)", "en": "They toured around the garden." },
+
+  { "id": 247, "tr": "Seyahat / Seyahat Etmek", "en": "Travel" },
+  { "id": 248, "tr": "Bu seyahat benim için önemli. (İsim)", "en": "This travel is important for me." },
+  { "id": 249, "tr": "Dünyayı gezmek istiyorum. (Fiil)", "en": "I wanna travel around the world." },
+
+  { "id": 250, "tr": "Güven / Güvenmek", "en": "Trust" },
+  { "id": 251, "tr": "Güvenime sahipsin. (İsim)", "en": "You have my trust." },
+  { "id": 252, "tr": "Sana güveniyorum. (Fiil)", "en": "I trust you." },
+
+  { "id": 253, "tr": "Değer / Değer Vermek", "en": "Value" },
+  { "id": 254, "tr": "Bazı geleneksel değerlerimiz yok oluyor. (İsim)", "en": "Some of our traditional values are disappearing." },
+  { "id": 255, "tr": "Onunla olan arkadaşlığına değer vermelisin. (Fiil)", "en": "You need to value your friendship with him." },
+
+  { "id": 256, "tr": "Ziyaret / Ziyaret Etmek", "en": "Visit" },
+  { "id": 257, "tr": "Bu ziyaret kısaydı. Yine gelin! (İsim)", "en": "This visit was short. Come again!" },
+  { "id": 258, "tr": "Bayramda bizi ziyaret ettiler. (Fiil)", "en": "They visited us on Bayram." },
+
+  { "id": 259, "tr": "Oy / Oy Vermek", "en": "Vote" },
+  { "id": 260, "tr": "Her bir oy önemlidir. (İsim)", "en": "Each vote is important." },
+  { "id": 261, "tr": "Onlara oy vermedim. (Fiil)", "en": "I didn't vote for them." },
+
+  { "id": 262, "tr": "Yürüyüş / Yürümek", "en": "Walk" },
+  { "id": 263, "tr": "Bir yürüyüşe ihtiyacım var. (İsim)", "en": "I need a walk." },
+  { "id": 264, "tr": "Yürümemiz gerekiyor. (Fiil)", "en": "We need to walk." },
+
+  { "id": 265, "tr": "Su / Sulamak", "en": "Water" },
+  { "id": 266, "tr": "Su hayati önem taşır. (İsim)", "en": "Water is vital for humans." },
+  { "id": 267, "tr": "Bahçemi suladım. (Fiil)", "en": "I watered my garden." },
+
+  { "id": 268, "tr": "Fısıltı / Fısıldamak", "en": "Whisper" },
+  { "id": 269, "tr": "Bir fısıltı duydum. (İsim)", "en": "I heard a whisper." },
+  { "id": 270, "tr": "Kulağıma fısıldadı. (Fiil)", "en": "She whispered in my ear." },
+
+  { "id": 271, "tr": "Islık / Islık Çalmak", "en": "Whistle" },
+  { "id": 272, "tr": "Köpekler çobanın ıslığını duyabilir. (İsim)", "en": "The dogs can hear the shepherd's whistle." },
+  { "id": 273, "tr": "Çoban koyunlarına ıslık çaldı. (Fiil)", "en": "The shepherd whistled at his sheep." },
+
+  { "id": 274, "tr": "Dilek / Dilemek", "en": "Wish" },
+  { "id": 275, "tr": "Son dileğin nedir? (İsim)", "en": "What is your last wish?" },
+  { "id": 276, "tr": "Doğum günümü kutladılar. (Fiil)", "en": "They wished me a happy birthday." },
+
+  { "id": 277, "tr": "İş / Çalışmak", "en": "Work" },
+  { "id": 278, "tr": "Bu ağır bir iş. (İsim)", "en": "This is heavy work." },
+  { "id": 279, "tr": "Benim için çalışabilirsin! (Fiil)", "en": "You can work for me!" },
+
+  { "id": 280, "tr": "Endişe / Endişelenmek", "en": "Worry" },
+  { "id": 281, "tr": "Endişeye gerek yok!, Önemli değil! (İsim)", "en": "No worries!" },
+  { "id": 282, "tr": "Sağlığın için endişeleniyorum. (Fiil)", "en": "I worry about your health." }
+]

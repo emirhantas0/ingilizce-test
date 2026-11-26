@@ -1,0 +1,94 @@
+{
+  "title": "Adverbs of Frequency Notes",
+  "tabs": [
+    {
+      "label": "Konu",
+      "type": "text",
+      "items": [
+        {
+          "heading": "ADVERBS OF FREQUENCY NEDİR?",
+          "color": "purple",
+          "content": "Sıklık zarflarıdır. Bir işi ne sıklıkta yaptığımızı anlatan HOW OFTEN sorusunun cevabıdır.\n\nHow often do you go on holiday?\nHow often do you eat during the day?\nHow often do you run?"
+        },
+        {
+          "heading": "TİP 1 — Özne ile Fiil Arasını Sevenler",
+          "color": "teal",
+          "content": "Bu zarflar özne ile fiil arasına girer:\n\n Always/ \nUsually / \nOften/  \nSometimes / \nSeldom-Rarely/  \nNever"
+        },
+        {
+          "heading": "TİP 2 — Cümlenin Sonunu Sevenler",
+          "color": "pink",
+          "content": "Bu zarflar cümlenin sonuna eklenir.\n\nEvery day / every week / every month / every year /\nOnce a week / twice a month / three times a week / five times a day/\nOnce in a life time / twice this week / a million times / a hundred times"
+        }
+      ]
+    },
+    {
+      "label": "Yapı",
+      "type": "table",
+      "headers": ["Zarf", "Sıklık %", "Türkçe", "Konum"],
+      "rows": [
+        ["Always", "%100", "Hep / Daima", "Özne + ALWAYS + fiil"],
+        ["Usually", "%80", "Genellikle", "Özne + USUALLY + fiil"],
+        ["Often", "%70", "Sık sık", "Özne + OFTEN + fiil"],
+        ["Sometimes", "%40-50", "Bazen", "Özne + SOMETIMES + fiil"],
+        ["Seldom", "%10", "Nadiren", "Özne + SELDOM + fiil"],
+        ["Rarely", "%10", "Nadiren", "Özne + RARELY + fiil"],
+        ["Never", "%0", "Asla", "Özne + NEVER + fiil"],
+        ["Every day/week...", "-", "Her gün/hafta...", "Cümlenin sonu"],
+        ["Once/twice/ three times a week...", "-", "Haftada bir/iki/üç kez...", "Cümlenin sonu"],
+        ["Once in a life time", "-", "Hayatta bir kez", "Cümlenin sonu"]
+      ]
+    },
+    {
+      "label": "Örnekler",
+      "type": "examples",
+      "items": [
+        {
+          "tag": "ALWAYS",
+          "color": "purple",
+          "text": "I always drink a cup of coffee after I wake up. → Uyandıktan sonra her zaman bir kupa kahve içerim."
+        },
+        {
+          "tag": "USUALLY",
+          "color": "teal",
+          "text": "Ayşe usually tries to help the poor people. → Ayşe genellikle fakir insanlara yardım etmeye çalışır."
+        },
+        {
+          "tag": "OFTEN",
+          "color": "pink",
+          "text": "We often check our gas sign. But I think we forgot to do that this time. → Sık sık gaz göstergemizi kontrol ederiz. Ama sanırım bu sefer unutuk."
+        },
+        {
+          "tag": "SOMETIMES",
+          "color": "amber",
+          "text": "The cats sometimes like to play with their owners. → Kediler bazen sahipleriyle oynamayı sever."
+        },
+    {
+  "tag": "SELDOM - RARELY",
+  "color": "purple",
+  "text": "I seldom eat fast food. → Nadiren fast food yerim.\nI rarely go to the cinema. → Nadiren sinemaya giderim."
+},
+        {
+          "tag": "NEVER",
+          "color": "teal",
+          "text": "We never visited China before. → Daha önce hiç Çin'e gitmedik."
+        },
+        {
+          "tag": "Every...",
+          "color": "pink",
+          "text": "I try to sleep 7 hours every day. → Her gün 7 saat uyumaya çalışıyorum.\nAli visits his grandparents every week. → Ali her hafta büyükanne ve büyükbabasını ziyaret eder.\nWe used to go on holiday every year. But we can't afford it now. → Her yıl tatile giderdik. Ama artık karşılayamıyoruz."
+        },
+        {
+          "tag": "Once / Twice...",
+          "color": "amber",
+          "text": "We go on holiday once a year. → Yılda bir kez tatile gideriz. \nThe Muslims pray five times a day. → Müslümanlar günde beş kez namaz kılar.\nI try to go to the gym twice a week. → Haftada iki kez spor salonuna gitmeye çalışıyorum."
+        },
+        {
+          "tag": "Once in a life time / A million times",
+          "color": "purple",
+          "text": "This is a chance that you will see once in a life time. → Bu hayatta bir kez göreceğin bir fırsattır.\nI told him not to be rude to his mother a million times. → Annesine kaba davranmamasını ona milyon kez söyledim."
+        }
+      ]
+    }
+  ]
+}

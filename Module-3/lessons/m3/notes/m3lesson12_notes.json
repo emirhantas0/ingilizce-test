@@ -1,0 +1,158 @@
+{
+  "title": "Lesson #12 Notes",
+  "tabs": [
+    {
+      "label": "Konu",
+      "type": "text",
+      "items": [
+        {
+          "heading": "UP",
+          "color": "purple",
+          "content": "Yukarı doğru bir hareket."
+        },
+        {
+          "heading": "DOWN",
+          "color": "teal",
+          "content": "Aşağı doğru bir hareket."
+        },
+        {
+          "heading": "LEFT",
+          "color": "pink",
+          "content": "Sola doğru bir hareket."
+        },
+        {
+          "heading": "RIGHT",
+          "color": "amber",
+          "content": "Sağa doğru bir hareket."
+        },
+        {
+          "heading": "OVER",
+          "color": "purple",
+          "content": "Üzerinden geçen bir hareket."
+        },
+        {
+          "heading": "INTO",
+          "color": "teal",
+          "content": "Bir şeyin içine doğru bir hareket."
+        },
+        {
+          "heading": "OUT OF",
+          "color": "pink",
+          "content": "Bir şeyin içinden dışarı doğru bir hareket."
+        },
+        {
+          "heading": "THROUGH",
+          "color": "amber",
+          "content": "Hem içine girip hem de çıkmakla ilgili bir hareket."
+        },
+        {
+          "heading": "ALONG",
+          "color": "purple",
+          "content": "Boyunca, paralel bir hareket."
+        },
+        {
+          "heading": "ACROSS",
+          "color": "teal",
+          "content": "90 derece, dikine, karşıdan karşıya bir hareket."
+        },
+        {
+          "heading": "AROUND",
+          "color": "pink",
+          "content": "360 derece dairesel bir hareket."
+        },
+        {
+          "heading": "TO",
+          "color": "amber",
+          "content": "Bir şeye doğru bir hareket."
+        },
+        {
+          "heading": "TOWARDS",
+          "color": "purple",
+          "content": "Bir şeyin üzerine doğru bir hareket."
+        },
+        {
+          "heading": "AWAY FROM",
+          "color": "teal",
+          "content": "Bir şeyden öteye, uzağa doğru bir hareket."
+        }
+      ]
+    },
+    {
+      "label": "Yapı",
+      "type": "table",
+      "headers": ["Edat", "Hareket Yönü", "Türkçe Anlamı"],
+      "rows": [
+        ["UP", "↑ Yukarı", "Yukarı doğru"],
+        ["DOWN", "↓ Aşağı", "Aşağı doğru"],
+        ["LEFT", "← Sola", "Sola doğru"],
+        ["RIGHT", "→ Sağa", "Sağa doğru"],
+        ["OVER", "Üzerinden", "Üzerinden geçerek"],
+        ["INTO", "İçine →", "İçine doğru"],
+        ["OUT OF", "← Dışına", "İçinden dışarı"],
+        ["THROUGH", "→ içinden dışına doğru →", "İçinden geçerek"],
+        ["ALONG", "Paralel →", "Boyunca"],
+        ["ACROSS", "Dikine ↑ ", "Karşıdan karşıya"],
+        ["AROUND", "↻ Dairesel", "Etrafında / Çevresinde"],
+        ["TO", "→ Hedefe", "Bir yere doğru"],
+        ["TOWARDS", "→... e doğru", "Üzerine doğru"],
+        ["AWAY FROM", "← ...dan uzağa", "Uzağa doğru"]
+      ]
+    },
+    {
+      "label": "Örnekler",
+      "type": "examples",
+      "items": [
+        {
+          "tag": "UP / DOWN",
+          "color": "purple",
+          "text": "She walked up the stairs. → Merdivenleri çıktı.\nHe ran down the hill. → Tepeden aşağı koştu."
+        },
+        {
+          "tag": "LEFT / RIGHT",
+          "color": "teal",
+          "text": "Turn left at the traffic lights. → Trafik ışıklarında sola dön.\nTurn right at the corner. → Köşede sağa dön."
+        },
+        {
+          "tag": "OVER",
+          "color": "pink",
+          "text": "The cat jumped over the fence. → Kedi çitin üzerinden atladı."
+        },
+        {
+          "tag": "INTO / OUT OF",
+          "color": "amber",
+          "text": "She went into the room. → Odaya girdi.\nHe went out of the building. → Binadan çıktı."
+        },
+        {
+          "tag": "THROUGH",
+          "color": "purple",
+          "text": "We walked through the tunnel. → Tünelden geçerek yürüdük.\nThe bullet went through the wall. → Mermi duvardan geçti."
+        },
+        {
+          "tag": "ALONG",
+          "color": "teal",
+          "text": "We walked along the river. → Nehir boyunca yürüdük.\nShe drove along the coast road. → Sahil yolu boyunca araba sürdü."
+        },
+        {
+          "tag": "ACROSS",
+          "color": "pink",
+          "text": "He swam across the river. → Nehri karşıdan karşıya yüzdü.\nShe walked across the road. → Yolu karşıdan karşıya yürüdü."
+        },
+        {
+          "tag": "AROUND",
+          "color": "amber",
+          "text": "The Earth moves around the Sun. → Dünya Güneş'in etrafında döner.\nWe walked around the park. → Parkın etrafında yürüdük."
+        },
+        {
+          "tag": "TO / TOWARDS",
+          "color": "purple",
+          "text": "She went to the market. → Pazara gitti.\nHe walked towards the door. → Kapıya doğru yürüdü."
+        },
+        {
+          "tag": "AWAY FROM",
+          "color": "teal",
+          "text": "He ran away from the dog. → Köpekten uzaklaşarak kaçtı.\nShe moved away from the window. → Pencereden uzaklaştı."
+        }
+      ]
+    }
+  ]
+}

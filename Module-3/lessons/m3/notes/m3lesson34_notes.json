@@ -1,0 +1,82 @@
+  {
+  "title": "Lesson #34 Notes",
+  "tabs": [
+    {
+      "label": "Konu",
+      "type": "text",
+      "items": [
+        {
+          "heading": "USE",
+          "color": "purple",
+          "content": "Normal bir fiildir. Her zamanda kullanılabilir. Türkçe anlamı 'kullanmak'tır."
+        },
+        {
+          "heading": "USED TO",
+          "color": "teal",
+          "content": " Eskiden yapmak : Geçmişte yapılan ama artık yapılmayan alışkanlıkları anlatır. Türkçede '-ırdı / -erdi / -ardı' ile karşılanır. Sadece geçmiş zaman için kullanılır."
+        },
+        {
+          "heading": "GET USED TO",
+          "color": "pink",
+          "content": "Bir şeye süreç içersinde alışmayı anlatır. Devam eden bir değişimi ifade eder. Türkçede 'alışmak' anlamına gelir."
+        },
+        {
+          "heading": "BE USED TO",
+          "color": "amber",
+          "content": "Bir şeye zaten hali hazırda alışkın olma durumunu anlatır. Tamamlanmış bir alışkanlığı ifade eder. Türkçede 'alışkın olmak' anlamına gelir."
+        }
+      ]
+    },
+    {
+      "label": "Yapı",
+      "type": "table",
+      "headers": ["Yapı", "+", "Anlamı"],
+      "rows": [
+        ["use", "+ something", "Kullanmak"],
+        ["used to", "+ V1", "Eskiden yapmak"],
+        ["get used to", "+ noun / +V-ing", "Süreç içinde bir şeye alışmak"],
+        ["be used to", "+ noun / +V-ing", "Hali hazırda bir şeye alışkın olmak"]
+      ]
+    },
+    {
+      "label": "Örnekler",
+      "type": "examples",
+      "items": [
+        {
+          "tag": "use + something",
+          "color": "purple",
+          "text": "I use my phone every day. → Her gün telefonumu kullanıyorum."
+        },
+        {
+          "tag": "used to + V1",
+          "color": "teal",
+          "text": "I used to smoke. → Eskiden sigara içerdim. (artık içmiyorum) \n  I didn't use to smoke. → Sigara içmezdim. (artık içiyorum) \n Did you use to smoke? → Eskiden sigara içer miydin?"
+        },
+        {
+          "tag": "get used to + V-ing",
+          "color": "pink",
+          "text": "I am getting used to waking up early. → Erken kalkmaya alışıyorum. \n I got used to waking up early. → Erken kalkmaya alıştım. \n  Did you get used to waking up early? → Erken kalkmaya alıştın mı? "
+        },
+
+      {
+        "tag": "get used to + noun ",
+        "color": "pink",
+        "text": "Ali is getting used to his new job. → Ali yeni işine alışıyor. \n  Ali got used to his new job. → Ali yeni işine alıştı. \n  Did Ali get used to his new job? → Ali yeni işine alıştı mı ?"
+        },
+        
+        {
+          "tag": "be used to +V-ing",
+          "color": "amber",
+          "text": "I am used to waking up early. → Erken kalkmaya alışkınım. \n I was used to waking up early. → Erken kalkmaya alışkınımdım.  \n Are you used to waking up early? → Erken kalkmaya alışkın mısın? "
+        },
+
+         {
+          "tag": "be used to + noun",
+          "color": "amber",
+         "text": "I am used to the noise in the neighborhood. → Mahalledeki gürültüye alışkınım.\nI was used to the noise in the neighborhood. → Mahalledeki gürültüye alışkındım.\nAre you used to the noise in the neighborhood? → Mahalledeki gürültüye alışkın mısın?"
+        }
+        
+      ]
+    }
+  ]
+}

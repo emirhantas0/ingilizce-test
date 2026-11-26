@@ -1,0 +1,27 @@
+{
+  "title": "DERS 23 – ANYBODY / NOBODY Grubu",
+  "tabs": [
+    {
+      "label": "Genel Kural",
+      "type": "table",
+      "headers": ["Grup", "Kullanım Yeri", "Anlamı"],
+      "rows": [
+        ["ANYBODY / ANYONE", "Soru ve olumsuz cümlelerde", "Herhangi biri / Hiç kimse"],
+        ["ANYTHING", "Soru ve olumsuz cümlelerde", "Herhangi bir şey / Hiçbir şey"],
+        ["ANYWHERE", "Soru ve olumsuz cümlelerde", "Herhangi bir yer / Hiçbir yer"],
+        ["NOBODY / NO ONE", "Olumlu cümleyle — kendisi olumsuz yapar", "Hiç kimse"],
+        ["NOTHING", "Olumlu cümleyle — kendisi olumsuz yapar", "Hiçbir şey"],
+        ["NOWHERE", "Olumlu cümleyle — kendisi olumsuz yapar", "Hiçbir yer"]
+      ]
+    },
+    {
+      "label": "Gramer Notları",
+      "type": "table",
+      "headers": ["Kural", "Açıklama / Örnek"],
+      "rows": [
+        ["NOBODY cümle başında — fiil olumlu!", "Nobody is happy. ✓ / Nobody isn't happy. ✗"],
+        ["ANYBODY olumsuz fiille kullanılır", "I didn't see anybody. ✓ / I saw anybody. ✗"]
+      ]
+    }
+  ]
+}

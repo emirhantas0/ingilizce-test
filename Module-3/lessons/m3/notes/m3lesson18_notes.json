@@ -1,0 +1,70 @@
+{
+  "title": "Conjunctions & Connectors Notes",
+  "tabs": [
+    {
+      "label": "Yapı",
+      "type": "table",
+      "headers": [
+        "Bağlaç",
+        "Türkçe",
+        "Kullanım"
+      ],
+      "rows": [
+        ["and", "ve", "Bağlaç"],
+        ["but", "fakat / ama", "Bağlaç"],
+        ["or", "ya da", "Bağlaç"],
+        ["because", "çünkü", "Sebep"],
+        ["so", "dolayısıyla", "Sonuç"],
+        ["however", "ancak", "Zıtlık"],
+        ["although", "rağmen", "Zıtlık"],
+        ["to / in order to", "-mak için", "Amaç"]
+      ]
+    },
+    {
+      "label": "Örnekler",
+      "type": "examples",
+      "items": [
+        {
+          "tag": "AND — Ve",
+          "color": "teal",
+          "text": "Ali and Ayşe are here. → Ali ve Ayşe burada.\nI will finish the university and go abroad. → Üniversiteyi bitirip yurtdışına gideceğim."
+        },
+        {
+          "tag": "BUT — Fakat / Ama",
+          "color": "pink",
+          "text": "Ali likes pizza but Ayşe doesn't. → Ali pizzayı sever ama Ayşe sevmez.\nI am tired but I don't want to sleep. → Yorgunum ama uyumak istemiyorum."
+        },
+        {
+          "tag": "OR — Ya da",
+          "color": "amber",
+          "text": "You can eat a pizza or a burger. → Pizza ya da burger yiyebilirsin.\nYou can come with us or you can stay at home. → Bizimle gelebilirsin ya da evde kalabilirsin."
+        },
+        {
+          "tag": "BECAUSE — Çünkü",
+          "color": "purple",
+          "text": "I want to sleep. Because I am tired. → Uyumak istiyorum. Çünkü yorgunum.\nI want you to learn English because it is very easy. → İngilizce öğrenmeni istiyorum çünkü çok kolay."
+        },
+        {
+          "tag": "SO — Dolayısıyla",
+          "color": "teal",
+          "text": "I missed my son. So I will call him. → Oğlumu özledim. Dolayısıyla onu arayacağım.\nLife in Turkey is hard. So a lot of people want to move. → Türkiye'de hayat zor. Dolayısıyla pek çok insan taşınmak istiyor."
+        },
+        {
+          "tag": "HOWEVER — Ancak",
+          "color": "pink",
+          "text": "I want to buy a new car, however I don't have enough money. → Yeni bir araba almak istiyorum, ancak yeterli param yok.\nEnglish is really easy, however you need to practice. → İngilizce gerçekten kolay, ancak pratik yapman gerekiyor."
+        },
+        {
+          "tag": "ALTHOUGH — Rağmen",
+          "color": "amber",
+          "text": "Although I tried to finish my burger, I couldn't. → Burgerimi bitirmeye çalışmama rağmen yapamadım.\nHe helped his family although he was poor. → Fakir olmasına rağmen ailesine yardım etti."
+        },
+        {
+          "tag": "TO / IN ORDER TO — -mak için",
+          "color": "purple",
+          "text": "I want to learn English to live abroad. → Yurtdışında yaşamak için İngilizce öğrenmek istiyorum.\nWe went to the beach to swim. → Yüzmek için plaja gittik."
+        }
+      ]
+    }
+  ]
+}

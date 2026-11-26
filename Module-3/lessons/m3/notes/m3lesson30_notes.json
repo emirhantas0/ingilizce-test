@@ -1,0 +1,84 @@
+{
+  "title": "Present Perfect Tense - Notes",
+  "tabs": [
+    {
+      "label": "Yapı",
+      "type": "table",
+      "headers": [
+        "Cümle Tipi",
+        "Yapı",
+        "Örnek"
+      ],
+      "rows": [
+        ["Olumlu", "[Özne] + have/has + V3", "I have gone. / She has eaten."],
+        ["Olumsuz", "[Özne] + haven't/hasn't + V3", "I haven't gone. / She hasn't eaten."],
+        ["Soru", "Have/Has + [Özne] + V3?", "Have you gone? / Has she eaten?"],
+        ["Soru Sözcüklü", "Wh (what, why...) + have/has + [Özne] + V3?", "When have you gone? / When has she eaten?"]
+      ]
+    },
+    {
+      "label": "Zaman Zarfları",
+      "type": "table",
+      "headers": [
+        "Zarf",
+        "Türkçe",
+        "Kullanım"
+      ],
+      "rows": [
+        ["ever", "hiç", "Soru cümlelerinde"],
+        ["never", "asla, hiç", "Olumlu cümleyi olumsuzlaştırır"],
+        ["just", "az önce, daha demin", "Olumlu cümlelerde"],
+        ["already", "çoktan, zaten", "Olumlu cümlelerde"],
+        ["yet", "henüz, şu ana kadar", "Olumsuz ve soru cümlelerinde"],
+        ["since", "...den beri", "Başlangıç noktası belirtir"],
+        ["for", "...dır, ...dir", "Süre belirtir"]
+      ]
+    },
+    {
+      "label": "Örnekler",
+      "type": "examples",
+      "items": [
+        {
+          "tag": "EVER — Soru",
+          "color": "teal",
+          "text": "Have you ever been to London? → Hiç Londra'ya gittin mi?"
+        },
+        {
+          "tag": "NEVER — Olumsuz",
+          "color": "pink",
+          "text": "I have never eaten sushi. → Hiç suşi yemedim."
+        },
+        {
+          "tag": "JUST — Az önce",
+          "color": "amber",
+          "text": "He has just left. → Az önce ayrıldı."
+        },
+        {
+          "tag": "ALREADY — Çoktan",
+          "color": "teal",
+          "text": "They have already done it. → Bunu çoktan yaptılar."
+        },
+        {
+          "tag": "YET — Henüz (Olumsuz)",
+          "color": "purple",
+          "text": "I haven't finished yet. → Henüz bitirmedim."
+        },
+        {
+          "tag": "YET — Henüz (Soru)",
+          "color": "pink",
+          "text": "Have you finished yet? → Bitirdin mi?"
+        },
+        {
+          "tag": "SINCE — ...den beri",
+          "color": "amber",
+          "text": "I have lived here since 2010. → 2010'dan beri burada yaşıyorum."
+        },
+        {
+          "tag": "FOR — ...dır",
+          "color": "teal",
+          "text": "She has worked here for 5 years. → 5 yıldır burada çalışıyor."
+        }
+      ]
+    }
+  ]
+}

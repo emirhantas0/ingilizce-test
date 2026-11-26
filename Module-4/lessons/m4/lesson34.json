@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "tr": "Dün okula gittim. / I went to the school yesterday.",
+    "en": "Ali says that he went to the school yesterday. / Ali said that he had gone to the school the previous day."
+  },
+  {
+    "id": 2,
+    "tr": "Şu an okula gidiyorum. / I am going to the school now.",
+    "en": "Ali says that he is going to the school now. / Ali said that he was going to the school then."
+  },
+  {
+    "id": 3,
+    "tr": "Her zaman okula giderim. / I always go to the school.",
+    "en": "Ali says that he always goes to the school. / Ali said that he always went to the school."
+  },
+  {
+    "id": 4,
+    "tr": "Yağmur başladığında okula gidiyordum. / I was going to the school when the rain started.",
+    "en": "Ali says that he was going to the school when the rain started. / Ali said that he had been going to the school when the rain started."
+  },
+  {
+    "id": 5,
+    "tr": "2 gündür okula gitmedim. / I haven’t gone to the school for two days.",
+    "en": "Ali says that he hasn't gone to the school for two days. / Ali said that he hadn't gone to the school for two days."
+  },
+  {
+    "id": 6,
+    "tr": "Gelecek hafta okula gitmeyeceğim. / I won’t go to the school next week.",
+    "en": "Ali says that he won't go to the school next week. / Ali said that he wouldn't go to the school the following week."
+  },
+  {
+    "id": 7,
+    "tr": "Onlardan önce okula gitmemiştim. / I hadn’t gone to the school before them.",
+    "en": "Ali says that he hadn't gone to the school before them. / Ali said that he hadn't gone to the school before them."
+  },
+  {
+    "id": 8,
+    "tr": "Yüzemem. / I can’t swim.",
+    "en": "Ali says that he can't swim. / Ali said that he couldn't swim."
+  },
+  {
+    "id": 9,
+    "tr": "Okuyamam. / I couldn’t read.",
+    "en": "Ali says that he couldn't read. / Ali said that he couldn't read."
+  },
+  {
+    "id": 10,
+    "tr": "Bana yardım edebilir misin? / Can you help me?",
+    "en": "Ali asks if I can help him. / Ali asked if I could help him."
+  },
+  {
+    "id": 11,
+    "tr": "Yeni bir işe başlamalıyım. / I must start a new job.",
+    "en": "Ali says that he must start a new job. / Ali said that he had to start a new job."
+  },
+  {
+    "id": 12,
+    "tr": "Bana yardım etmek zorundasın. / You have to help me.",
+    "en": "Ali says that I have to help him. / Ali said that I had to help him."
+  },
+  {
+    "id": 13,
+    "tr": "Bana yardım etmen gerek. / You need to help me.",
+    "en": "Ali says that I need to help him. / Ali said that I needed to help him."
+  },
+  {
+    "id": 14,
+    "tr": "Bana yardım edebilirsin. / You can help me.",
+    "en": "Ali says that I can help him. / Ali said that I could help him."
+  },
+  {
+    "id": 15,
+    "tr": "Bana yardım etsen iyi olur. / You should help me.",
+    "en": "Ali says that I should help him. / Ali said that I should help him."
+  },
+  {
+    "id": 16,
+    "tr": "Eğer senin yerinde olsaydım, sana yardım ederdim. / If I were you, I would help you.",
+    "en": "Ali says that if he were me, he would help me. / Ali said that if he had been me, he would help me."
+  },
+  {
+    "id": 17,
+    "tr": "Geçen ay bana neden yardım etmedin? / Why didn’t you help me last month?",
+    "en": "Ali asks why I didn't help him last month. / Ali asked why I hadn't helped him the previous month."
+  },
+  {
+    "id": 18,
+    "tr": "Sokaklarda çok insan var mıydı? / Were there a lot of people on the streets?",
+    "en": "Ali asks if there were a lot of people on the streets. / Ali asked if there had been a lot of people on the streets."
+  },
+  {
+    "id": 19,
+    "tr": "Hiç Japonya'da bulundun mu? / Have you ever been to Japan?",
+    "en": "Ali asks if I have ever been to Japan. / Ali asked if I had ever been to Japan."
+  },
+  {
+    "id": 20,
+    "tr": "Kaç çocuğun var? / How many children do you have?",
+    "en": "Ali asks how many children I have. / Ali asked how many children I had."
+  },
+  {
+    "id": 21,
+    "tr": "Ne kadar paran var? / How much money do you have?",
+    "en": "Ali asks how much money I have. / Ali asked how much money I had."
+  },
+  {
+    "id": 22,
+    "tr": "Ailenin ne kadar parası vardı? / How much money did your family have?",
+    "en": "Ali asks how much money my family had. / Ali asked how much money my family had had."
+  },
+  {
+    "id": 23,
+    "tr": "Suyu ne zaman içtin? / When did you drink the water?",
+    "en": "Ali asks when I drank the water. / Ali asked when I had drunk the water."
+  },
+  {
+    "id": 24,
+    "tr": "Buraya henüz yeni geldim. / I have just come here.",
+    "en": "Ali says that he has just come here. / Ali said that he had just come there."
+  },
+  {
+    "id": 25,
+    "tr": "Geçen aydan beri onu görmedim. / I haven’t seen her since last month.",
+    "en": "Ali says that he hasn't seen her since last month. / Ali said that he hadn't seen her since the previous month."
+  },
+  {
+    "id": 26,
+    "tr": "Yarına kadar orada olmayacağım. / I won’t be there until tomorrow.",
+    "en": "Ali says that he won't be there until tomorrow. / Ali said that he wouldn’t be there until the following day."
+  },
+  {
+    "id": 27,
+    "tr": "Gelecek haftaya kadar oraya varamayacağım. / I won’t arrive there until next week.",
+    "en": "Ali says that he won't arrive there until next week. / Ali said that he wouldn't arrive there until the following week."
+  },
+  {
+    "id": 28,
+    "tr": "Onları 2 gün önce gördüm. / I saw them 2 days ago.",
+    "en": "Ali says that he saw them 2 days ago. / Ali said that he had seen them 2 days before."
+  },
+  {
+    "id": 29,
+    "tr": "Geçen ay buraya uçtum. / I flew here last month.",
+    "en": "Ali says that he flew here last month. / Ali said that he had flown there the previous month."
+  },
+  {
+    "id": 30,
+    "tr": "Gelecek ay oraya uçacağım. / I will fly there next month.",
+    "en": "Ali says that he will fly there next month. / Ali said that he would fly there the following month."
+  },
+  {
+    "id": 31,
+    "tr": "Hiç uçtun mu? / Have you ever flown?",
+    "en": "Ali asks if I have ever flown. / Ali asked if I had ever flown."
+  },
+  {
+    "id": 32,
+    "tr": "Dün sana kim yardım etti? / Who helped you yesterday?",
+    "en": "Ali asks who helped me yesterday. / Ali asked who had helped me the previous day."
+  },
+  {
+    "id": 33,
+    "tr": "İki gün önce kiminle buluştun? / Who did you meet two days ago?",
+    "en": "Ali asks who I met 2 days ago. / Ali asked who I had met 2 days before."
+  },
+  {
+    "id": 34,
+    "tr": "Baban geçen hafta nerede kaldı? / Where did your father stay last week?",
+    "en": "Ali asks where my father stayed last week. / Ali asked where my father had stayed the previous week."
+  },
+  {
+    "id": 35,
+    "tr": "Aramalarıma neden cevap vermedin? / Why didn’t you answer my calls?",
+    "en": "Ali asks why I didn't answer his calls. / Ali asked why I hadn't answered his calls."
+  },
+  {
+    "id": 36,
+    "tr": "Onları ziyaret ettin mi? / Did you visit them?",
+    "en": "Ali asks if I visited them. / Ali asked if I had visited them."
+  },
+  {
+    "id": 37,
+    "tr": "Seni buraya o mu arabayla getirdi? / Did he drive you here?",
+    "en": "Ali asks if he drove me here. / Ali asked if he had driven me there."
+  },
+  {
+    "id": 38,
+    "tr": "Yemeğimi mi yedin? / Did you eat my food?",
+    "en": "Ali asks if I ate his food. / Ali asked if I had eaten his food."
+  },
+  {
+    "id": 39,
+    "tr": "Bu şarkıyı sen mi söyledin? / Did you sing this song?",
+    "en": "Ali asks if I sang this song. / Ali asked if I had sung that song."
+  },
+  {
+    "id": 40,
+    "tr": "Söylediğimi duydun mu? / Did you hear what I have said?",
+    "en": "Ali asks if I heard what he has said. / Ali asked if I had heard what he had said."
+  },
+  {
+    "id": 41,
+    "tr": "Onun aramalarına cevap vermedin mi? / Didn’t you answer his calls?",
+    "en": "Ali asks if I didn't answer his calls. / Ali asked if I hadn't answered his calls."
+  },
+  {
+    "id": 42,
+    "tr": "Aramalarıma neden cevap vermedin? / Why didn’t you answer my calls?",
+    "en": "Ali asks why I didn't answer his calls. / Ali asked why I hadn't answered his calls."
+  },
+  {
+    "id": 43,
+    "tr": "Baban nerede? / Where is your father?",
+    "en": "Ali asks where my father is. / Ali asked where my father was."
+  },
+  {
+    "id": 44,
+    "tr": "Babam nerede? / Where is my father?",
+    "en": "Ali asks where his father is. / Ali asked where his father was."
+  },
+  {
+    "id": 45,
+    "tr": "Babamız nerede? / Where is our father?",
+    "en": "Ali asks where our father is. / Ali asked where our father was."
+  },
+  {
+    "id": 46,
+    "tr": "Dün neredeydin? / Where were you yesterday?",
+    "en": "Ali asks where I was yesterday. / Ali asked where I had been the previous day."
+  },
+  {
+    "id": 47,
+    "tr": "Dünden beri onu gördün mü? / Have you seen her since yesterday?",
+    "en": "Ali asks if I have seen her since yesterday. / Ali asked if I had seen her since the previous day."
+  },
+  {
+    "id": 48,
+    "tr": "Hiç sushi yedin mi? / Have you ever eaten sushi?",
+    "en": "Ali asks if I have ever eaten sushi. / Ali asked if I had ever eaten sushi."
+  },
+  {
+    "id": 49,
+    "tr": "Yağmur başladığında ne yapıyordun? / What were you doing when the rain started?",
+    "en": "Ali asks what I was doing when the rain started. / Ali asked what I had been doing when the rain started."
+  },
+  {
+    "id": 50,
+    "tr": "Onu gördüğümde parkta koşuyordum. / When I saw her, I was running in the park.",
+    "en": "Ali says when he saw her, he was running in the park. / Ali said when he saw her, he had been running in the park."
+  },
+  {
+    "id": 51,
+    "tr": "Eğer çok paran olsaydı ne yapardın? / What would you do, if you had a lot of money?",
+    "en": "Ali asks what I would do, if I had a lot of money. / Ali asked what I would do, if I had had a lot of money."
+  },
+  {
+    "id": 52,
+    "tr": "Eğer çok paran olursa ne yapacaksın? / What will you do, if you have a lot of money?",
+    "en": "Ali asks what I will do, if I have a lot of money. / Ali asked what I would do, if I had a lot of money."
+  },
+  {
+    "id": 53,
+    "tr": "Eğer bana yardım edersen çok mutlu olacağım. / If you help me, I will be very happy.",
+    "en": "Ali says if I help him, he will be very happy. / Ali said if I helped him, he would be very happy."
+  },
+  {
+    "id": 54,
+    "tr": "Beni dinliyor musun? / Are you listening to me?",
+    "en": "Ali asks if I am listening to him. / Ali asked if I was listening to him."
+  },
+  {
+    "id": 55,
+    "tr": "Beni neden dinlemiyorsun? / Why aren’t you listening to me?",
+    "en": "Ali asks why I am not listening to him. / Ali asked why I wasn't listening to him."
+  },
+  {
+    "id": 56,
+    "tr": "Kim seni gördü? / Who saw you?",
+    "en": "Ali asks who saw me. / Ali asked who had seen me."
+  },
+  {
+    "id": 57,
+    "tr": "Kimi gördün? / Who did you see?",
+    "en": "Ali asks who I saw. / Ali asked who I had seen."
+  },
+  {
+    "id": 58,
+    "tr": "Bunu kim yaptı? / Who did this?",
+    "en": "Ali asks who did this. / Ali asked who had done that."
+  },
+  {
+    "id": 59,
+    "tr": "Ne yaptın? / What did you do?",
+    "en": "Ali asks what I did. / Ali asked what I had done."
+  },
+  {
+    "id": 60,
+    "tr": "Ne yapıyordun? / What have you been doing?",
+    "en": "Ali asks what I have been doing. / Ali asked what I had been doing."
+  },
+  {
+    "id": 61,
+    "tr": "Saat kaçta uyandın? / What time did you wake up?",
+    "en": "Ali asks what time I woke up. / Ali asked what time I had woken up."
+  },
+  {
+    "id": 62,
+    "tr": "Şov saat kaçta başladı? / What time did the show start?",
+    "en": "Ali asks what time the show started. / Ali asked what time the show had started."
+  },
+  {
+    "id": 63,
+    "tr": "Seni duyamıyorum. / I can’t hear you.",
+    "en": "Ali says that he can't hear me. / Ali said that he couldn't hear me."
+  },
+  {
+    "id": 64,
+    "tr": "Şu an ne yapıyorsun? / What are you doing now?",
+    "en": "Ali asks what I am doing now. / Ali asked what I was doing then."
+  },
+  {
+    "id": 65,
+    "tr": "Dün ne yapıyordun? / What were you doing yesterday?",
+    "en": "Ali asks what I was doing yesterday. / Ali asked what I had been doing yesterday."
+  },
+  {
+    "id": 66,
+    "tr": "Ne yaptın? / What have you done?",
+    "en": "Ali asks what I have done. / Ali asked what I had done."
+  },
+  {
+    "id": 67,
+    "tr": "Ne yapmıştın? / What had you done?",
+    "en": "Ali asks what I had done. / Ali asked what I had done."
+  },
+  {
+    "id": 68,
+    "tr": "Annem bizimle ilgilendi. / My mother took care of us.",
+    "en": "Ali says that his mom took care of them. / Ali said that his mom had taken care of them."
+  },
+  {
+    "id": 69,
+    "tr": "Çocuklarımla ilgilenirim. / I take care of my children.",
+    "en": "Ali says that he takes care of his children. / Ali said that he took care of his children."
+  },
+  {
+    "id": 70,
+    "tr": "Hiçbir zaman büyük riskler almadım. / I have never taken big risks.",
+    "en": "Ali says that he has never taken big risks. / Ali said that he had never taken big risks."
+  },
+  {
+    "id": 71,
+    "tr": "Çocuklarına biraz para verdim. / I gave your children some money.",
+    "en": "Ali says that he gave my children some money. / Ali said that he had given my children some money."
+  },
+  {
+    "id": 72,
+    "tr": "Bu oda kötü kokuyor. / This room stinks.",
+    "en": "Ali says that this room stinks. / Ali said that that room stank."
+  },
+  {
+    "id": 73,
+    "tr": "Bu oda kötü kokuyordu. / This room stank.",
+    "en": "Ali says that this room stank. / Ali said that that room had stunk."
+  },
+  {
+    "id": 74,
+    "tr": "Beni seçtin. / You chose me.",
+    "en": "Ali says that I chose him. / Ali said that I had chosen him."
+  },
+  {
+    "id": 75,
+    "tr": "Seni seçtim. / I chose you.",
+    "en": "Ali says that he chose me. / Ali said that he had chosen me."
+  },
+  {
+    "id": 76,
+    "tr": "Mailine cevap vermedim. / I didn’t reply your mail.",
+    "en": "Ali says that he didn't reply my mail. / Ali said that he hadn't replied my mail."
+  },
+  {
+    "id": 77,
+    "tr": "Dün akşam yemeğini nerede yedin? / Where did you eat dinner yesterday?",
+    "en": "Ali asks where I ate dinner yesterday. / Ali asked where I had eaten dinner the previous day."
+  },
+  {
+    "id": 78,
+    "tr": "Hiç rakı içtin mi? / Have you ever drunk rakı?",
+    "en": "Ali asks if I have ever drunk rakı. / Ali asked if I had ever drunk rakı."
+  },
+  {
+    "id": 79,
+    "tr": "Yarın burada olacağız. / We will be here tomorrow.",
+    "en": "Ali says that they will be here tomorrow. / Ali said that they would be there the following day."
+  },
+  {
+    "id": 80,
+    "tr": "Yağmur yağmaya başladığında ne yapıyordun? / What were you doing when it started to rain?",
+    "en": "Ali asks what I was doing when it started to rain. / Ali asked what I had been doing when it had started to rain."
+  },
+  {
+    "id": 81,
+    "tr": "Yağmur yağarken onlarla buluştuk. / We met them while it was raining.",
+    "en": "Ali says that they met them while it was raining. / Ali said that they had met them while it had been raining."
+  }
+]

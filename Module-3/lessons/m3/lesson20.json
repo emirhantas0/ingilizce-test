@@ -1,0 +1,63 @@
+[
+  { "id": 1, "tr": "Ne odayı beğendim ne de manzarayı.", "en": "I liked neither the room nor the view." },
+  { "id": 2, "tr": "Hem Ali hem de Ayşe toplantıya katıldı.", "en": "Both Ali and Ayşe attended the meeting." },
+  { "id": 3, "tr": "Bu kalemlerden herhangi birini alabilirsin.", "en": "You can take either of these pens." },
+  { "id": 4, "tr": "Ali ne beni aradı ne de bana mail gönderdi.", "en": "Ali neither called me nor sent me an email." },
+
+  { "id": 5, "tr": "Ya sen gelirsin ya da ben gelirim.", "en": "Either you come or I come." },
+  { "id": 6, "tr": "Ayşe hem sabırlı hem de güçlü bir insandır.", "en": "Ayşe is both a patient and a strong person." },
+  { "id": 7, "tr": "Ne kitap okudum ne de ders çalıştım.", "en": "I neither read a book nor studied." },
+  { "id": 8, "tr": "Hem sinemaya hem de tiyatroya gitmek istiyorum.", "en": "I want to go to both the cinema and the theatre." },
+
+  { "id": 9, "tr": "O (erkek) Ne konuştu ne de dinledi.", "en": "He neither spoke nor listened." },
+  { "id": 10, "tr": "Film hem komik hem de duygusaldı.", "en": "The movie was both funny and emotional." },
+  { "id": 11, "tr": "Bu koltukların herhangi birinde oturabilirsin.", "en": "You can sit either of these seats." },
+  { "id": 12, "tr": "Ya kahve içerim ya da meyve suyu.", "en": "I drink either coffee or fruit juice." },
+
+  { "id": 13, "tr": "Hem bilgisayar hem tablet bozulmuş.", "en": "Both the computer and the tablet are broken." },
+  { "id": 14, "tr": "Bu iki seçenek de bana uygun değil.", "en": "Neither of these options is suitable for me. / Neither of these two options is suitable for me" },
+  { "id": 15, "tr": "Ya şimdi çalış ya da sonra.", "en": "Either work now or later." },
+  { "id": 16, "tr": "Ne yaz geldi ne de kış bitti.", "en": "Neither summer has come nor winter has ended." },
+
+  { "id": 17, "tr": "Hem Türkiye’yi hem Yunanistan’ı ziyaret ettim.", "en": "I visited both Turkey and Greece." },
+  { "id": 18, "tr": "Ne kahve içmek istiyorum ne de çay.", "en": "I want to drink neither coffee nor tea." },
+  { "id": 19, "tr": "Hem fizik hem de kimya sınavından geçtim.", "en": "I passed both the physics and the chemistry exams." },
+  { "id": 20, "tr": "İki takımdan biri kazanacak.", "en": "Either of the two teams will win. / Either of the teams will win." },
+
+  { "id": 21, "tr": "Hem annem hem babam öğretmen.", "en": "Both my mother and my father are teachers. / Both my parents are teachers." },
+  { "id": 22, "tr": "Ya pizza sipariş edeceğiz ya da makarna yapacağız.", "en": "We will either order pizza or make pasta." },
+  { "id": 23, "tr": "Ya telefonla arayacağım ya da mesaj atacağım.", "en": "I will either call by phone or send a message." },
+  { "id": 24, "tr": "İkizlerden biri sürekli soru sorar.", "en": "Either of the twins always asks questions." },
+
+  { "id": 25, "tr": "Hem sabah hem akşam yürüyüş yaparım.", "en": "I walk both in the morning and in the evening." },
+  { "id": 26, "tr": "O (erkek) hem zeki hem çalışkan biri.", "en": "He is both a smart and a hardworking person." },
+  { "id": 27, "tr": "Ne Ahmet ne de Mehmet toplantıya geldi.", "en": "Neither Ahmet nor Mehmet came to the meeting." },
+  { "id": 28, "tr": "Bu iki gömleği de beğenmedim.", "en": "I liked neither of these shirts. / I liked neither of these two shirts" },
+
+  { "id": 29, "tr": "Odaya ya sen gireceksin ya da o (erkek).", "en": "Either you or he will enter the room." },
+  { "id": 30, "tr": "İki telefon da güzel, hangisini alayım?", "en": "Both of the phones are nice, which one should I buy?" },
+  { "id": 31, "tr": "O (kadın) Hem İngilizce hem Almanca biliyor.", "en": "She knows both English and German." },
+  { "id": 32, "tr": "Bu yemek hem sağlıklı hem de lezzetli.", "en": "This food is both healthy and delicious." },
+
+  { "id": 33, "tr": "Yağmur ya bu gece ya da yarın sabah yağacak.", "en": "It will rain  either tonight or tomorrow morning." },
+  { "id": 34, "tr": "Bu kalemle hem yazı yazabiliyorum hem de çizim yapabiliyorum.", "en": "I can both write and draw with this pen." },
+  { "id": 35, "tr": "Ne film güzeldi ne de yemek.", "en": "Neither the movie nor the food was good." },
+  { "id": 36, "tr": "İki dosyadan birini silmem gerekiyor.", "en": "I need to delete either of the two files." },
+
+  { "id": 37, "tr": "Hem kahveyi hem de çayı severim.", "en": "I like both coffee and tea." },
+  { "id": 38, "tr": "O (erkek), Ne İngilizce ne de Fransızca biliyor.", "en": "He knows neither English nor French." },
+  { "id": 39, "tr": "Ne gitmek istiyorum ne de kalmak.", "en": "I want neither to go nor to stay." },
+  { "id": 40, "tr": "Hem hafta içi hem hafta sonu çalışıyorum.", "en": "I work both on weekdays and at the weekend." },
+
+  { "id": 41, "tr": "Ne sen ne de ben suçluyuz.", "en": "Neither you nor I are guilty." },
+  { "id": 42, "tr": "Onların ikisi de aptal.", "en": "Both of them are stupid. / They are both stupid." },
+  { "id": 43, "tr": "İkiniz de suçlusunuz.", "en": "Both of you are guilty. /  You are both guilty." },
+  { "id": 44, "tr": "Birinizden biri suçlu.", "en": "Either of you is guilty."},
+
+  { "id": 45, "tr": "İkimizden biri yalan söylüyor.", "en": "Either of us is lying." },
+  { "id": 46, "tr": "İkiniz de yalan söylüyorsunuz.", "en": "Both of you are lying." },
+  { "id": 47, "tr": "İkimiz de buradayız.", "en": "Both of us are here." },
+  { "id": 48, "tr": "İkiniz de oradasınız.", "en": "Both of you are there." },
+
+  { "id": 49, "tr": "Onların hiçbiri burada değil.", "en": "Neither of them are here." }
+]

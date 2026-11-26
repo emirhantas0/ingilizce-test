@@ -1,0 +1,25 @@
+{
+  "title": "EVERY– / SOME– Zamirleri",
+  "tabs": [
+    {
+      "label": "EVERY– Grubu (Her…)",
+      "type": "table",
+      "headers": ["Zamir", "Türkçe Anlamı", "Örnek Cümle"],
+      "rows": [
+        ["EVERYBODY / EVERYONE", "Herkes", "Everybody is here. / Everyone wants to go to heaven."],
+        ["EVERYTHING", "Her şey", "Everything is okay. / I want to eat everything in the fridge."],
+        ["EVERYWHERE", "Her yer / Her yerde", "Everywhere is green. / I can live everywhere."]
+      ]
+    },
+    {
+      "label": "SOME– Grubu (Biri / Bir şey…)",
+      "type": "table",
+      "headers": ["Zamir", "Türkçe Anlamı", "Örnek Cümle"],
+      "rows": [
+        ["SOMEBODY / SOMEONE", "Birisi / Biri", "Somebody knocked on the door. / Someone is waiting for you outside."],
+        ["SOMETHING", "Bir şey", "Something is wrong. / I have something to tell you. / Give them something to eat."],
+        ["SOMEWHERE", "Bir yere / Bir yerde", "I need to go somewhere different. / Ali lives somewhere in Ordu. / I left my keys somewhere in the kitchen."]
+      ]
+    }
+  ]
+}

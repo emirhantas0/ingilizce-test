@@ -1,0 +1,58 @@
+{
+  "title": "Conjunctions & Connectors Notes - Lesson 19",
+  "tabs": [
+    {
+      "label": "Yapı",
+      "type": "table",
+      "headers": [
+        "Bağlaç",
+        "Türkçe",
+        "Kullanım"
+      ],
+      "rows": [
+        ["after", "-den sonra", "Zaman"],
+        ["before", "-den önce", "Zaman"],
+        ["during", "esnasında / boyunca", "Zaman"],
+        ["until", "-e kadar", "Zaman"],
+        ["when", "-dığında ", "Zaman"],
+        ["as soon as", "-ar ... -yapmaz", "Zaman"]
+      ]
+    },
+    {
+      "label": "Örnekler",
+      "type": "examples",
+      "items": [
+        {
+          "tag": "AFTER — -den sonra",
+          "color": "teal",
+          "text": "I will meet them after I have a shower. → Duş aldıktan sonra onlarla buluşacağım."
+        },
+        {
+          "tag": "BEFORE — -den önce",
+          "color": "pink",
+          "text": "I saw her before she saw me. → O beni görmeden önce ben onu gördüm."
+        },
+        {
+          "tag": "DURING — Esnasında",
+          "color": "amber",
+          "text": "My grandfather lived in Selanik during the war. → Büyükbabam savaş esnasında Selanik'te yaşadı."
+        },
+        {
+          "tag": "UNTIL — -e kadar",
+          "color": "purple",
+          "text": "I will love you until the day I die. → Öleceğim güne kadar seni seveceğim."
+        },
+        {
+          "tag": "WHEN — -dığında",
+          "color": "teal",
+          "text": "When I am sad, I cry. → Üzgün olduğumda ağlarım."
+        },
+        {
+          "tag": "AS SOON AS — -ar ... -yapmaz",
+          "color": "pink",
+          "text": "The rain started as soon as I left home. → Ben evden çıkar çıkmaz yağmur başladı."
+        }
+      ]
+    }
+  ]
+}

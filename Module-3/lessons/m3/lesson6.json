@@ -1,0 +1,1046 @@
+[
+  {"id": 1, "tr": "Ali dün okula gitti.", "en": "Ali went to the school yesterday."},
+  {"id": 2, "tr": "Ali dün okula gitmedi.", "en": "Ali didn't go to the school yesterday."},
+  {"id": 3, "tr": "Ali dün okula gitti mi?", "en": "Did Ali go to the school yesterday?"},
+  {"id": 4, "tr": "Ali neden dün okula gitmedi?", "en": "Why didn't Ali go to the school yesterday?"},
+
+  {"id": 5, "tr": "Ayşe iki yıl önce bir doktordu.", "en": "Ayse was a doctor two years ago."},
+  {"id": 6, "tr": "Ayşe iki yıl önce bir doktor değildi.", "en": "Ayse wasn't a doctor two years ago."},
+  {"id": 7, "tr": "Ayşe iki yıl önce bir doktor muydu?", "en": "Was Ayse a doctor two years ago?"},
+  {"id": 8, "tr": "Ayşe ne zaman bir doktordu?", "en": "When was Ayse a doctor?"},
+
+  {"id": 9, "tr": "Biz 5 dakika önce evdeydik.", "en": "We were at home 5 minutes ago."},
+  {"id": 10, "tr": "Biz 5 dakika önce evde değildik.", "en": "We weren't at home 5 minutes ago."},
+  {"id": 11, "tr": "Siz 5 dakika önce evde miydiniz?", "en": "Were you at home 5 minutes ago?"},
+  {"id": 12, "tr": "Siz 5 dakika önce neredeydiniz?", "en": "Where were you 5 minutes ago?"},
+
+  {"id": 13, "tr": "Ali dün ödevini yaptı.", "en": "Ali did his homework yesterday."},
+  {"id": 14, "tr": "Ali dün ödevini yapmadı.", "en": "Ali didn't do his homework yesterday."},
+  {"id": 15, "tr": "Ali dün ödevini yaptı mı?", "en": "Did Ali do his homework yesterday?"},
+  {"id": 16, "tr": "Ali ödevini ne zaman yaptı?", "en": "When did Ali do his homework?"},
+
+  {"id": 17, "tr": "Ayşe geçen hafta saçlarını yaptırdı.", "en": "Ayse had her hair done last week."},
+  {"id": 18, "tr": "Ayşe geçen hafta saçlarını yaptırmadı.", "en": "Ayse didn't have her hair done last week."},
+  {"id": 19, "tr": "Ayşe geçen hafta saçlarını yaptırdı mı?", "en": "Did Ayse have her hair done last week?"},
+  {"id": 20, "tr": "Ayşe saçlarını ne zaman yaptırdı?", "en": "When did Ayse have her hair done?"},
+
+  {"id": 21, "tr": "Murat geçen yıl iyi bir plan yaptı.", "en": "Murat made a good plan last year."},
+  {"id": 22, "tr": "Murat geçen yıl iyi bir plan yapmadı.", "en": "Murat didn't make a good plan last year."},
+  {"id": 23, "tr": "Murat geçen yıl iyi bir plan yaptı mı?", "en": "Did Murat make a good plan last year?"},
+  {"id": 24, "tr": "Murat ne zaman iyi bir plan yaptı?", "en": "When did Murat make a good plan?"},
+
+  {"id": 25, "tr": "Ayşe dün sabah bulaşıkları yıkadı.", "en": "Ayse did the dishes yesterday morning."},
+  {"id": 26, "tr": "Ayşe dün sabah bulaşıkları yıkamadı.", "en": "Ayse didn't do the dishes yesterday morning."},
+  {"id": 27, "tr": "Ayşe dün sabah bulaşıkları yıkadı mı?", "en": "Did Ayse do the dishes yesterday morning?"},
+  {"id": 28, "tr": "Ayşe bulaşıkları ne zaman yıkadı?", "en": "When did Ayse do the dishes?"},
+
+  {"id": 29, "tr": "Ayşe lezzetli pastalar yaptı.", "en": "Ayse made delicious cakes."},
+  {"id": 30, "tr": "Ayşe lezzetli pastalar yapmadı.", "en": "Ayse didn't make delicious cakes."},
+  {"id": 31, "tr": "Ayşe lezzetli pastalar yaptı mı?", "en": "Did Ayse make delicious cakes?"},
+  {"id": 32, "tr": "Ayşe ne zaman lezzetli pastalar yaptı?", "en": "When did Ayse make delicious cakes?"},
+
+  {"id": 33, "tr": "Seninle konuşmak istedim.", "en": "I wanted to talk to you."},
+  {"id": 34, "tr": "Seninle konuşmak istemedim.", "en": "I didn't want to talk to you."},
+  {"id": 35, "tr": "Benimle konuşmak istedin mi?", "en": "Did you want to talk to me?"},
+  {"id": 36, "tr": "Kiminle konuşmak istedin?", "en": "Who did you want to talk to?"},
+
+  {"id": 37, "tr": "Daha çok zamana ihtiyacımız vardı.", "en": "We needed more time."},
+  {"id": 38, "tr": "Daha çok zamana ihtiyacımız yoktu.", "en": "We didn't need more time."},
+  {"id": 39, "tr": "Daha çok zamana ihtiyacınız var mıydı?", "en": "Did you need more time?"},
+  {"id": 40, "tr": "Neye ihtiyacınız vardı?", "en": "What did you need?"},
+
+  {"id": 41, "tr": "Ali bana doğruyu söyledi.", "en": "Ali told me the truth."},
+  {"id": 42, "tr": "Ali bana doğruyu söylemedi.", "en": "Ali didn't tell me the truth."},
+  {"id": 43, "tr": "Ali sana doğruyu söyledi mi?", "en": "Did Ali tell you the truth?"},
+  {"id": 44, "tr": "Ali sana ne söyledi?", "en": "What did Ali tell you?"},
+
+  {"id": 45, "tr": "Murat bana komik hikayeler anlattı.", "en": "Murat told me funny stories."},
+  {"id": 46, "tr": "Murat bana komik hikayeler anlatmadı.", "en": "Murat didn't tell me funny stories."},
+  {"id": 47, "tr": "Murat sana komik hikayeler anlattı mı?", "en": "Did Murat tell you funny stories?"},
+  {"id": 48, "tr": "Murat sana ne anlattı?", "en": "What did Murat tell you?"},
+
+  {"id": 49, "tr": "Arkadaşımla tatilde İngilizce konuştum.", "en": "I spoke English with my friend on holiday."},
+  {"id": 50, "tr": "Arkadaşımla tatilde İngilizce konuşmadım.", "en": "I didn't speak English with my friend on holiday."},
+  {"id": 51, "tr": "Arkadaşınla tatilde İngilizce konuştun mu?", "en": "Did you speak English with your friend on holiday?"},
+  {"id": 52, "tr": "Arkadaşınla tatilde ne zaman İngilizce  konuştun?", "en": "When did you speak English with your friend on holiday?"},
+
+  {"id": 53, "tr": "Politika hakkında konuştuk.", "en": "We talked about politics."},
+  {"id": 54, "tr": "Politika hakkında konuşmadık.", "en": "We didn't talk about politics."},
+  {"id": 55, "tr": "Politika hakkında konuştunuz mu?", "en": "Did you talk about politics?"},
+  {"id": 56, "tr": "Ne hakkında konuştunuz?", "en": "What did you talk about?"},
+
+  {"id": 57, "tr": "Ayşe iki yıl önce bu ofiste çalıştı.", "en": "Ayse worked in this office two years ago."},
+  {"id": 58, "tr": "Ayşe iki yıl önce bu ofiste çalışmadı.", "en": "Ayse didn't work in this office two years ago."},
+  {"id": 59, "tr": "Ayşe iki yıl önce bu ofiste çalıştı mı?", "en": "Did Ayse work in this office two years ago?"},
+  {"id": 60, "tr": "Ayşe iki yıl önce nerede çalıştı?", "en": "Where did Ayse work two years ago?"},
+
+  {"id": 61, "tr": "Murat geçen hafta İngilizce çalıştı.", "en": "Murat studied English last week."},
+  {"id": 62, "tr": "Murat geçen hafta İngilizce çalışmadı.", "en": "Murat didn't study English last week."},
+  {"id": 63, "tr": "Murat geçen hafta İngilizce çalıştı mı?", "en": "Did Murat study English last week?"},
+  {"id": 64, "tr": "Murat ne zaman İngilizce çalıştı?", "en": "When did Murat study English?"},
+
+  {"id": 65, "tr": "Ayşe'nin 3 tane köpeği vardı.", "en": "Ayse had 3 dogs."},
+  {"id": 66, "tr": "Ayşe'nin 3 tane köpeği yoktu.", "en": "Ayse didn't have 3 dogs."},
+  {"id": 67, "tr": "Ayşe'nin 3 tane köpeği var mıydı?", "en": "Did Ayse have 3 dogs?"},
+  {"id": 68, "tr": "Ayşe'nin kaç tane köpeği vardı?", "en": "How many dogs did Ayse have?"},
+
+  {"id": 69, "tr": "Annem dün çok geç uyudu.", "en": "My mother slept very late yesterday."},
+  {"id": 70, "tr": "Annem dün çok geç uyumadı.", "en": "My mother didn't sleep very late yesterday."},
+  {"id": 71, "tr": "Annen dün çok geç uyudu mu?", "en": "Did your mother sleep very late yesterday?"},
+  {"id": 72, "tr": "Annen dün saat kaçta uyudu?", "en": "What time did your mother sleep yesterday?"},
+
+  {"id": 73, "tr": "Saat 8'de otobüse bindim.", "en": "I got on the bus at 8 o'clock."},
+  {"id": 74, "tr": "Saat 8'de otobüse binmedim.", "en": "I didn't get on the bus at 8 o'clock."},
+  {"id": 75, "tr": "Saat 8'de otobüse bindin mi?", "en": "Did you get on the bus at 8 o'clock?"},
+  {"id": 76, "tr": "Saat kaçta otobüse bindin?", "en": "What time did you get on the bus?"},
+
+  {"id": 77, "tr": "10 dakika önce otobüsten indik.", "en": "We got off the bus ten minutes ago."},
+  {"id": 78, "tr": "10 dakika önce otobüsten inmedik.", "en": "We didn't get off the bus ten minutes ago."},
+  {"id": 79, "tr": "10 dakika önce otobüsten indiniz mi?", "en": "Did you get off the bus ten minutes ago?"},
+  {"id": 80, "tr": "Otobüsten ne zaman indiniz?", "en": "When did you get off the bus?"},
+
+  {"id": 81, "tr": "Murat çok soru sordu.", "en": "Murat asked a lot of questions."},
+  {"id": 82, "tr": "Murat çok soru sormadı.", "en": "Murat didn't ask a lot of questions."},
+  {"id": 83, "tr": "Murat çok soru sordu mu?", "en": "Did Murat ask a lot of questions?"},
+  {"id": 84, "tr": "Murat ne sordu?", "en": "What did Murat ask?"},
+
+  {"id": 85, "tr": "Öğretmen sorularımızı yanıtladı.", "en": "The teacher answered our questions."},
+  {"id": 86, "tr": "Öğretmen sorularımızı yanıtlamadı.", "en": "The teacher didn't answer our questions."},
+  {"id": 87, "tr": "Öğretmen sorularınızı yanıtladı mı?", "en": "Did the teacher answer your questions?"},
+  {"id": 88, "tr": "Öğretmen ne zaman sorularınızı yanıtladı?", "en": "When did the teacher answer your questions?"},
+
+  {"id": 89, "tr": "Öğrencilerim dersi anladı.", "en": "My students understood the lesson."},
+  {"id": 90, "tr": "Öğrencilerim dersi anlamadı.", "en": "My students didn't understand the lesson."},
+  {"id": 91, "tr": "Öğrencilerin dersi anladı mı?", "en": "Did your students understand the lesson?"},
+  {"id": 92, "tr": "Öğrencilerin dersi neden anlamadı?", "en": "Why didn't your students understand the lesson?"},
+
+  {"id": 93, "tr": "Onlar cevabı bildi.", "en": "They knew the answer."},
+  {"id": 94, "tr": "Onlar cevabı bilmedi.", "en": "They didn't know the answer."},
+  {"id": 95, "tr": "Onlar cevabı bildi mi?", "en": "Did they know the answer?"},
+  {"id": 96, "tr": "Onlar cevabı nasıl bildi?", "en": "How did they know the answer?"},
+
+  {"id": 97, "tr": "Ali beni tanıdı.", "en": "Ali knew me."},
+  {"id": 98, "tr": "Ali beni tanımadı.", "en": "Ali didn't know me."},
+  {"id": 99, "tr": "Ali seni tanıdı mı?", "en": "Did Ali know you?"},
+  {"id": 100, "tr": "Ali kimi tanıdı?", "en": "Who did Ali know?"},
+
+  {"id": 101, "tr": "Ayşe bana bir hediye verdi.", "en": "Ayse gave me a gift."},
+  {"id": 102, "tr": "Ayşe bana bir hediye vermedi.", "en": "Ayse didn't give me a gift."},
+  {"id": 103, "tr": "Ayşe sana bir hediye verdi mi?", "en": "Did Ayse give you a gift?"},
+  {"id": 104, "tr": "Ayşe sana ne verdi?", "en": "What did Ayse give you?"},
+
+  {"id": 105, "tr": "Kedi topla oynadı.", "en": "The cat played with the ball."},
+  {"id": 106, "tr": "Kedi topla oynamadı.", "en": "The cat didn't play with the ball."},
+  {"id": 107, "tr": "Kedi topla oynadı mı?", "en": "Did the cat play with the ball?"},
+  {"id": 108, "tr": "Kedi neyle oynadı?", "en": "What did the cat play with?"},
+
+  {"id": 109, "tr": "Öğlen yemeğimi evden getirdim.", "en": "I brought my lunch from home."},
+  {"id": 110, "tr": "Öğlen yemeğimi evden getirmedim.", "en": "I didn't bring my lunch from home."},
+  {"id": 111, "tr": "Öğlen yemeğini evden getirdin mi?", "en": "Did you bring your lunch from home?"},
+  {"id": 112, "tr": "Öğlen yemeğini nereden getirdin?", "en": "Where did you bring your lunch from?"},
+
+  {"id": 113, "tr": "Annem çocukları okuldan aldı.", "en": "My mother took the children from the school."},
+  {"id": 114, "tr": "Annem çocukları okuldan almadı.", "en": "My mother didn't take the children from the school."},
+  {"id": 115, "tr": "Annen çocukları okuldan aldı mı?", "en": "Did your mother take the children from the school?"},
+  {"id": 116, "tr": "Annen çocukları nereden aldı?", "en": "Where did your mother take the children from?"},
+
+  {"id": 117, "tr": "Annem çocukları okula götürdü.", "en": "My mother took the children to the school."},
+  {"id": 118, "tr": "Annem çocukları okula götürmedi.", "en": "My mother didn't take the children to the school."},
+  {"id": 119, "tr": "Annen çocukları okula götürdü mü?", "en": "Did your mother take the children to the school?"},
+  {"id": 120, "tr": "Annen çocukları nereye götürdü?", "en": "Where did your mother take the children?"},
+
+  {"id": 121, "tr": "Yeni bir araba satın aldık.", "en": "We bought a new car."},
+  {"id": 122, "tr": "Yeni bir araba satın almadık.", "en": "We didn't buy a new car."},
+  {"id": 123, "tr": "Yeni bir araba satın aldınız mı?", "en": "Did you buy a new car?"},
+  {"id": 124, "tr": "Ne zaman yeni bir araba satın aldınız?", "en": "When did you buy a new car?"},
+
+  {"id": 125, "tr": "Ayşe evini sattı.", "en": "Ayse sold her house."},
+  {"id": 126, "tr": "Ayşe evini satmadı.", "en": "Ayse didn't sell her house."},
+  {"id": 127, "tr": "Ayşe evini sattı mı?", "en": "Did Ayse sell her house?"},
+  {"id": 128, "tr": "Ayşe ne zaman evini sattı?", "en": "When did Ayse sell her house?"},
+
+  {"id": 129, "tr": "Onlar hesabı ödedi.", "en": "They paid the bill."},
+  {"id": 130, "tr": "Onlar hesabı ödemedi.", "en": "They didn't pay the bill."},
+  {"id": 131, "tr": "Onlar hesabı ödedi mi?", "en": "Did they pay the bill?"},
+  {"id": 132, "tr": "Onlar ne zaman hesabı ödedi?", "en": "When did they pay the bill?"},
+
+  {"id": 133, "tr": "Ali ucuz bir ev kiraladı.", "en": "Ali rented a cheap house."},
+  {"id": 134, "tr": "Ali ucuz bir ev kiralamadı.", "en": "Ali didn't rent a cheap house."},
+  {"id": 135, "tr": "Ali ucuz bir ev kiraladı mı?", "en": "Did Ali rent a cheap house?"},
+  {"id": 136, "tr": "Ali ne kiraladı?", "en": "What did Ali rent?"},
+
+  {"id": 137, "tr": "Ayşe çok para harcadı.", "en": "Ayse spent a lot of money."},
+  {"id": 138, "tr": "Ayşe çok para harcamadı.", "en": "Ayse didn't spend a lot of money."},
+  {"id": 139, "tr": "Ayşe çok para harcadı mı?", "en": "Did Ayse spend a lot of money?"},
+  {"id": 140, "tr": "Ayşe ne kadar para harcadı?", "en": "How much money did Ayse spend?"},
+
+  {"id": 141, "tr": "Dersler saat 9'da başladı.", "en": "The lessons started at 9 o'clock."},
+  {"id": 142, "tr": "Dersler saat 9'da başlamadı.", "en": "The lessons didn't start at 9 o'clock."},
+  {"id": 143, "tr": "Dersler saat 9'da başladı mı?", "en": "Did the lessons start at 9 o'clock?"},
+  {"id": 144, "tr": "Dersler saat kaçta başladı?", "en": "What time did the lessons start?"},
+
+  {"id": 145, "tr": "Onlar çalışmaya başladı.", "en": "They started working."},
+  {"id": 146, "tr": "Onlar çalışmaya başlamadı.", "en": "They didn't start working."},
+  {"id": 147, "tr": "Onlar çalışmaya başladı mı?", "en": "Did they start working?"},
+  {"id": 148, "tr": "Onlar ne zaman çalışmaya başladı?", "en": "When did they start working?"},
+
+  {"id": 149, "tr": "Ödevimi 2 dakika önce bitirdim.", "en": "I finished my homework 2 minutes ago."},
+  {"id": 150, "tr": "Ödevimi 2 dakika önce bitirmedim.", "en": "I didn't finish my homework 2 minutes ago."},
+  {"id": 151, "tr": "Ödevini 2 dakika önce bitirdin mi?", "en": "Did you finish your homework 2 minutes ago?"},
+  {"id": 152, "tr": "Ödevini ne zaman bitirdin?", "en": "When did you finish your homework?"},
+
+  {"id": 153, "tr": "Film bitti.", "en": "The film ended."},
+  {"id": 154, "tr": "Film bitmedi.", "en": "The film didn't end."},
+  {"id": 155, "tr": "Film bitti mi?", "en": "Did the film end?"},
+  {"id": 156, "tr": "Film ne zaman bitti?", "en": "When did the film end?"},
+
+  {"id": 157, "tr": "Ödevimizi tamamladık.", "en": "We completed our homework."},
+  {"id": 158, "tr": "Ödevimizi tamamlamadık.", "en": "We didn't complete our homework."},
+  {"id": 159, "tr": "Ödevinizi tamamladınız mı?", "en": "Did you complete your homework?"},
+  {"id": 160, "tr": "Ödevinizi ne zaman tamamladınız?", "en": "When did you complete your homework?"},
+
+  {"id": 161, "tr": "Otobüs iki saat önce buradaydı.", "en": "The bus was here two hours ago."},
+  {"id": 162, "tr": "Otobüs iki saat önce burada değildi.", "en": "The bus wasn't here two hours ago."},
+  {"id": 163, "tr": "Otobüs iki saat önce burada mıydı?", "en": "Was the bus here two hours ago?"},
+  {"id": 164, "tr": "Otobüs iki saat önce neredeydi?", "en": "Where was the bus two hours ago?"},
+
+  {"id": 165, "tr": "İstanbul'da hayat durdu.", "en": "The life in Istanbul stopped."},
+  {"id": 166, "tr": "İstanbul'da hayat durmadı.", "en": "The life in Istanbul didn't stop."},
+  {"id": 167, "tr": "İstanbul'da hayat durdu mu?", "en": "Did the life in Istanbul stop?"},
+  {"id": 168, "tr": "Hayat nerede durdu?", "en": "Where did the life stop?"},
+
+  {"id": 169, "tr": "Ali iki hafta önce sigarayı bıraktı.", "en": "Ali quit smoking two weeks ago."},
+  {"id": 170, "tr": "Ali iki hafta önce sigarayı bırakmadı.", "en": "Ali didn't quit smoking two weeks ago."},
+  {"id": 171, "tr": "Ali iki hafta önce sigarayı bıraktı mı?", "en": "Did Ali quit smoking two weeks ago?"},
+  {"id": 172, "tr": "Ali ne zaman sigarayı bıraktı?", "en": "When did Ali quit smoking?"},
+
+  {"id": 173, "tr": "Dün gece gökyüzüne baktım.", "en": "I looked at the sky last night."},
+  {"id": 174, "tr": "Dün gece gökyüzüne bakmadım.", "en": "I didn't look at the sky last night."},
+  {"id": 175, "tr": "Dün gece gökyüzüne baktın mı?", "en": "Did you look at the sky last night?"},
+  {"id": 176, "tr": "Dün gece neden gökyüzüne baktın?", "en": "Why did you look at the sky last night?"},
+
+  {"id": 177, "tr": "Her şey kolay görünüyordu.", "en": "Everything looked easy."},
+  {"id": 178, "tr": "Her şey kolay görünmüyordu.", "en": "Everything didn't look easy."},
+  {"id": 179, "tr": "Her şey kolay görünüyor muydu?", "en": "Did everything look easy?"},
+  {"id": 180, "tr": "Her şey nasıl görünüyordu?", "en": "How did everything look?"},
+
+  {"id": 181, "tr": "Otobüsteki kız bana baktı.", "en": "The girl on the bus looked at me."},
+  {"id": 182, "tr": "Otobüsteki kız bana bakmadı.", "en": "The girl on the bus didn't look at me."},
+  {"id": 183, "tr": "Otobüsteki kız sana baktı mı?", "en": "Did the girl on the bus look at you?"},
+  {"id": 184, "tr": "Otobüsteki kız kime baktı?", "en": "Who did the girl on the bus look at?"},
+
+  {"id": 185, "tr": "Biz dün iyi bir film izledik.", "en": "We watched a good film yesterday."},
+  {"id": 186, "tr": "Biz dün iyi bir film izlemedik.", "en": "We didn't watch a good film yesterday."},
+  {"id": 187, "tr": "Siz dün iyi bir film izlediniz mi?", "en": "Did you watch a good film yesterday?"},
+  {"id": 188, "tr": "Siz dün ne izlediniz?", "en": "What did you watch yesterday?"},
+
+  {"id": 189, "tr": "Ali anahtarlarını aradı.", "en": "Ali looked for his keys."},
+  {"id": 190, "tr": "Ali anahtarlarını aramadı.", "en": "Ali didn't look for his keys."},
+  {"id": 191, "tr": "Ali anahtarlarını aradı mı?", "en": "Did Ali look for his keys?"},
+  {"id": 192, "tr": "Ali neyi aradı?", "en": "What did Ali look for?"},
+
+  {"id": 193, "tr": "Annem on yıl boyunca anneanneme baktı.", "en": "My mother looked after my grandmother for ten years."},
+  {"id": 194, "tr": "Annem on yıl boyunca anneanneme bakmadı.", "en": "My mother didn't look after my grandmother for ten years."},
+  {"id": 195, "tr": "Annen on yıl boyunca anneannene baktı mı?", "en": "Did your mother look after your grandmother for ten years?"},
+  {"id": 196, "tr": "Annen kime baktı?", "en": "Who did your mother look after?"},
+
+  {"id": 197, "tr": "Ali okulda arkadaşlarını gördü.", "en": "Ali saw his friends in the school."},
+  {"id": 198, "tr": "Ali okulda arkadaşlarını görmedi.", "en": "Ali didn't see his friends in the school."},
+  {"id": 199, "tr": "Ali okulda arkadaşlarını gördü mü?", "en": "Did Ali see his friends in the school?"},
+  {"id": 200, "tr": "Ali okulda kimi gördü?", "en": "Who did Ali see in the school?"},
+
+  {"id": 201, "tr": "Ali okuldaki arkadaşlarını aradı.", "en": "Ali called his friends in the school."},
+  {"id": 202, "tr": "Ali okuldaki arkadaşlarını aramadı.", "en": "Ali didn't call his friends in the school."},
+  {"id": 203, "tr": "Ali okuldaki arkadaşlarını aradı mı?", "en": "Did Ali call his friends in the school?"},
+  {"id": 204, "tr": "Ali kimi aradı?", "en": "Who did Ali call?"},
+
+  {"id": 205, "tr": "Kuşları duydum.", "en": "I heard the birds."},
+  {"id": 206, "tr": "Kuşları duymadım.", "en": "I didn't hear the birds."},
+  {"id": 207, "tr": "Kuşları duydun mu?", "en": "Did you hear the birds?"},
+  {"id": 208, "tr": "Ne duydun?", "en": "What did you hear?"},
+
+  {"id": 209, "tr": "Ayşe çiçekleri kokladı.", "en": "Ayse smelled the flowers."},
+  {"id": 210, "tr": "Ayşe çiçekleri koklamadı.", "en": "Ayse didn't smell the flowers."},
+  {"id": 211, "tr": "Ayşe çiçekleri kokladı mı?", "en": "Did Ayse smell the flowers?"},
+  {"id": 212, "tr": "Ayşe neyi kokladı?", "en": "What did Ayse smell?"},
+
+  {"id": 213, "tr": "Çöp kötü kokuyordu.", "en": "The garbage smelled bad."},
+  {"id": 214, "tr": "Çöp kötü kokmuyordu.", "en": "The garbage didn't smell bad."},
+  {"id": 215, "tr": "Çöp kötü kokuyor muydu?", "en": "Did the garbage smell bad?"},
+  {"id": 216, "tr": "Çöp nasıl kokuyordu?", "en": "How did the garbage smell?"},
+
+  {"id": 217, "tr": "Çorbanın tadı çok iyiydi.", "en": "The soup tasted very good."},
+  {"id": 218, "tr": "Çorbanın tadı çok iyi değildi.", "en": "The soup didn't taste very good."},
+  {"id": 219, "tr": "Çorbanın tadı çok iyi miydi?", "en": "Did the soup taste very good?"},
+  {"id": 220, "tr": "Çorbanın tadı nasıldı?", "en": "How did the soup taste?"},
+
+  {"id": 221, "tr": "Ali yemeğin tadına baktı.", "en": "Ali tasted the food."},
+  {"id": 222, "tr": "Ali yemeğin tadına bakmadı.", "en": "Ali didn't taste the food."},
+  {"id": 223, "tr": "Ali yemeğin tadına baktı mı?", "en": "Did Ali taste the food?"},
+  {"id": 224, "tr": "Ali neyin tadına baktı?", "en": "What did Ali taste?"},
+
+  {"id": 225, "tr": "Ayşe burnuna dokundu.", "en": "Ayse touched her nose."},
+  {"id": 226, "tr": "Ayşe burnuna dokunmadı.", "en": "Ayse didn't touch her nose."},
+  {"id": 227, "tr": "Ayşe burnuna dokundu mu?", "en": "Did Ayse touch her nose?"},
+  {"id": 228, "tr": "Ayşe neye dokundu?", "en": "What did Ayse touch?"},
+
+  {"id": 229, "tr": "Dün çok yorgun hissettim.", "en": "I felt very tired yesterday."},
+  {"id": 230, "tr": "Dün çok yorgun hissetmedim.", "en": "I didn't feel very tired yesterday."},
+  {"id": 231, "tr": "Dün çok yorgun hissettin mi?", "en": "Did you feel very tired yesterday?"},
+  {"id": 232, "tr": "Dün nasıl hissettin?", "en": "How did you feel yesterday?"},
+
+  {"id": 233, "tr": "Ayşe okula bisiklet ile geldi.", "en": "Ayse came to the school by bike."},
+  {"id": 234, "tr": "Ayşe okula bisiklet ile gelmedi.", "en": "Ayse didn't come to the school by bike."},
+  {"id": 235, "tr": "Ayşe okula bisiklet ile mi geldi?", "en": "Did Ayse come to the school by bike?"},
+  {"id": 236, "tr": "Ayşe okula nasıl geldi?", "en": "How did Ayse come to the school?"},
+
+  {"id": 237, "tr": "Murat geçen yaz tatile gitti.", "en": "Murat went on holiday last summer."},
+  {"id": 238, "tr": "Murat geçen yaz tatile gitmedi.", "en": "Murat didn't go on holiday last summer."},
+  {"id": 239, "tr": "Murat geçen yaz tatile gitti mi?", "en": "Did Murat go on holiday last summer?"},
+  {"id": 240, "tr": "Murat geçen yaz nereye gitti?", "en": "Where did Murat go last summer?"},
+
+  {"id": 241, "tr": "Murat dün okula yürüdü.", "en": "Murat walked to the school yesterday."},
+  {"id": 242, "tr": "Murat dün okula yürümedi.", "en": "Murat didn't walk to the school yesterday."},
+  {"id": 243, "tr": "Murat dün okula yürüdü mü?", "en": "Did Murat walk to the school yesterday?"},
+  {"id": 244, "tr": "Murat dün okula nasıl gitti?", "en": "How did Murat go to the school yesterday?"},
+
+  {"id": 245, "tr": "Biz dün 5 km koştuk.", "en": "We ran 5 km yesterday."},
+  {"id": 246, "tr": "Biz dün 5 km koşmadık.", "en": "We didn't run 5 km yesterday."},
+  {"id": 247, "tr": "Siz dün 5 km koştunuz mu?", "en": "Did you run 5 km yesterday?"},
+  {"id": 248, "tr": "Siz dün kaç km koştunuz?", "en": "How many km did you run yesterday?"},
+
+  {"id": 249, "tr": "Kedi kapının önünde oturdu.", "en": "The cat sat in front of the door."},
+  {"id": 250, "tr": "Kedi kapının önünde oturmadı.", "en": "The cat didn't sit in front of the door."},
+  {"id": 251, "tr": "Kedi kapının önünde oturdu mu?", "en": "Did the cat sit in front of the door?"},
+  {"id": 252, "tr": "Kedi nerede oturdu?", "en": "Where did the cat sit?"},
+
+  {"id": 253, "tr": "Öğretmen için ayağa kalktık.", "en": "We stood up for the teacher."},
+  {"id": 254, "tr": "Öğretmen için ayağa kalkmadık.", "en": "We didn't stand up for the teacher."},
+  {"id": 255, "tr": "Öğretmen için ayağa kalktınız mı?", "en": "Did you stand up for the teacher?"},
+  {"id": 256, "tr": "Neden ayağa kalktınız?", "en": "Why did you stand up?"},
+
+  {"id": 257, "tr": "Okula gitmek için sola döndüler.", "en": "They turned left to go to the school."},
+  {"id": 258, "tr": "Okula gitmek için sola dönmediler.", "en": "They didn't turn left to go to the school."},
+  {"id": 259, "tr": "Okula gitmek için sola döndüler mi?", "en": "Did they turn left to go to the school?"},
+  {"id": 260, "tr": "Okula gitmek için hangi yöne döndüler?", "en": "Which way did they turn to go to the school?"},
+
+  {"id": 261, "tr": "Ali Amerika'dan geri döndü.", "en": "Ali returned from America."},
+  {"id": 262, "tr": "Ali Amerika'dan geri dönmedi.", "en": "Ali didn't return from America."},
+  {"id": 263, "tr": "Ali Amerika'dan geri döndü mü?", "en": "Did Ali return from America?"},
+  {"id": 264, "tr": "Ali nereden geri döndü?", "en": "Where did Ali return from?"},
+
+  {"id": 265, "tr": "Tren istasyondan saat 9'da ayrıldı.", "en": "The train left the station at 9 o'clock."},
+  {"id": 266, "tr": "Tren istasyondan saat 9'da ayrılmadı.", "en": "The train didn't leave the station at 9 o'clock."},
+  {"id": 267, "tr": "Tren istasyondan saat 9'da ayrıldı mı?", "en": "Did the train leave the station at 9 o'clock?"},
+  {"id": 268, "tr": "Tren istasyondan saat kaçta ayrıldı?", "en": "What time did the train leave the station?"},
+
+  {"id": 269, "tr": "Uçak vaktinde vardı.", "en": "The plane arrived on time."},
+  {"id": 270, "tr": "Uçak vaktinde varmadı.", "en": "The plane didn't arrive on time."},
+  {"id": 271, "tr": "Uçak vaktinde vardı mı?", "en": "Did the plane arrive on time?"},
+  {"id": 272, "tr": "Uçak ne zaman vardı?", "en": "When did the plane arrive?"},
+
+  {"id": 273, "tr": "Oğlum geçen hafta yüzdü.", "en": "My son swam last week."},
+  {"id": 274, "tr": "Oğlum geçen hafta yüzmedi.", "en": "My son didn't swim last week."},
+  {"id": 275, "tr": "Oğlun geçen hafta yüzdü mü?", "en": "Did your son swim last week?"},
+  {"id": 276, "tr": "Oğlun ne zaman yüzdü?", "en": "When did your son swim?"},
+
+  {"id": 277, "tr": "Ayşe geçen yaz dağlara tırmandı.", "en": "Ayse climbed the mountains last summer."},
+  {"id": 278, "tr": "Ayşe geçen yaz dağlara tırmanmadı.", "en": "Ayse didn't climb the mountains last summer."},
+  {"id": 279, "tr": "Ayşe geçen yaz dağlara tırmandı mı?", "en": "Did Ayse climb the mountains last summer?"},
+  {"id": 280, "tr": "Ayşe geçen yaz nereye tırmandı?", "en": "Where did Ayse climb last summer?"},
+
+  {"id": 281, "tr": "Onlar beni kullandı.", "en": "They used me."},
+  {"id": 282, "tr": "Onlar beni kullanmadı.", "en": "They didn't use me."},
+  {"id": 283, "tr": "Onlar seni kullandı mı?", "en": "Did they use you?"},
+  {"id": 284, "tr": "Onlar kimi kullandı?", "en": "Who did they use?"},
+
+  {"id": 285, "tr": "Ali geçen yaz ata bindi.", "en": "Ali rode a horse last summer."},
+  {"id": 286, "tr": "Ali geçen yaz ata binmedi.", "en": "Ali didn't ride a horse last summer."},
+  {"id": 287, "tr": "Ali geçen yaz ata bindi mi?", "en": "Did Ali ride a horse last summer?"},
+  {"id": 288, "tr": "Ali geçen yaz neye bindi?", "en": "What did Ali ride last summer?"},
+
+  {"id": 289, "tr": "Murat dün araba kullandı.", "en": "Murat drove a car yesterday."},
+  {"id": 290, "tr": "Murat dün araba kullanmadı.", "en": "Murat didn't drive a car yesterday."},
+  {"id": 291, "tr": "Murat dün araba kullandı mı?", "en": "Did Murat drive a car yesterday?"},
+  {"id": 292, "tr": "Murat ne zaman araba kullandı?", "en": "When did Murat drive a car?"},
+
+  {"id": 293, "tr": "Ali geçen yıl bir avukat oldu.", "en": "Ali became a lawyer last year."},
+  {"id": 294, "tr": "Ali geçen yıl bir avukat olmadı.", "en": "Ali didn't become a lawyer last year."},
+  {"id": 295, "tr": "Ali geçen yıl bir avukat oldu mu?", "en": "Did Ali become a lawyer last year?"},
+  {"id": 296, "tr": "Ali ne zaman avukat oldu?", "en": "When did Ali become a lawyer?"},
+
+  {"id": 297, "tr": "Her şey çok hızlı oldu.", "en": "Everything happened very fast."},
+  {"id": 298, "tr": "Her şey çok hızlı olmadı.", "en": "Everything didn't happen very fast."},
+  {"id": 299, "tr": "Her şey çok hızlı oldu mu?", "en": "Did everything happen very fast?"},
+  {"id": 300, "tr": "Her şey nasıl oldu?", "en": "How did everything happen?"},
+
+  {"id": 301, "tr": "Ayşe İstanbul'dan önce Ankara'da yaşadı.", "en": "Ayse lived in Ankara before Istanbul."},
+  {"id": 302, "tr": "Ayşe İstanbul'dan önce Ankara'da yaşamadı.", "en": "Ayse didn't live in Ankara before Istanbul."},
+  {"id": 303, "tr": "Ayşe İstanbul'dan önce Ankara'da yaşadı mı?", "en": "Did Ayse live in Ankara before Istanbul?"},
+  {"id": 304, "tr": "Ayşe İstanbul'dan önce nerede yaşadı?", "en": "Where did Ayse live before Istanbul?"},
+
+  {"id": 305, "tr": "Bitkilerim öldü.", "en": "My plants died."},
+  {"id": 306, "tr": "Bitkilerim ölmedi.", "en": "My plants didn't die."},
+  {"id": 307, "tr": "Bitkilerin öldü mü?", "en": "Did your plants die?"},
+  {"id": 308, "tr": "Bitkilerin neden öldü?", "en": "Why did your plants die?"},
+
+  {"id": 309, "tr": "Bitkilerin yaşadı.", "en": "Your plants survived."},
+  {"id": 310, "tr": "Bitkilerin yaşamadı.", "en": "Your plants didn't survive."},
+  {"id": 311, "tr": "Bitkilerin yaşadı mı?", "en": "Did your plants survive?"},
+  {"id": 312, "tr": "Bitkilerin nasıl yaşadı?", "en": "How did your plants survive?"},
+
+  {"id": 313, "tr": "Ali bahçesinde domates yetiştirdi.", "en": "Ali grew tomatoes in his garden."},
+  {"id": 314, "tr": "Ali bahçesinde domates yetiştirmedi.", "en": "Ali didn't grow tomatoes in his garden."},
+  {"id": 315, "tr": "Ali bahçesinde domates yetiştirdi mi?", "en": "Did Ali grow tomatoes in his garden?"},
+  {"id": 316, "tr": "Ali bahçesinde ne yetiştirdi?", "en": "What did Ali grow in his garden?"},
+
+  {"id": 317, "tr": "Soğuk hava bitkileri öldürdü.", "en": "The cold weather killed the plants."},
+  {"id": 318, "tr": "Soğuk hava bitkileri öldürmedi.", "en": "The cold weather didn't kill the plants."},
+  {"id": 319, "tr": "Soğuk hava bitkileri öldürdü mü?", "en": "Did the cold weather kill the plants?"},
+  {"id": 320, "tr": "Soğuk hava neyi öldürdü?", "en": "What did the cold weather kill?"},
+
+  {"id": 321, "tr": "Ayşe geçen cumartesi odasını temizledi.", "en": "Ayse cleaned her room last Saturday."},
+  {"id": 322, "tr": "Ayşe geçen cumartesi odasını temizlemedi.", "en": "Ayse didn't clean her room last Saturday."},
+  {"id": 323, "tr": "Ayşe geçen cumartesi odasını temizledi mi?", "en": "Did Ayse clean her room last Saturday?"},
+  {"id": 324, "tr": "Ayşe odasını ne zaman temizledi?", "en": "When did Ayse clean her room?"},
+
+  {"id": 325, "tr": "Ayşe partiden önce odasına çeki düzen verdi.", "en": "Ayse tidied her room before the party."},
+  {"id": 326, "tr": "Ayşe partiden önce odasına çeki düzen vermedi.", "en": "Ayse didn't tidy her room before the party."},
+  {"id": 327, "tr": "Ayşe partiden önce odasına çeki düzen verdi mi?", "en": "Did Ayse tidy her room before the party?"},
+  {"id": 328, "tr": "Ayşe ne zaman odasına çeki düzen verdi?", "en": "When did Ayse tidy her room?"},
+
+  {"id": 329, "tr": "Ali akşam yemeğinin ardından masayı sildi.", "en": "Ali wiped the table after dinner."},
+  {"id": 330, "tr": "Ali akşam yemeğinin ardından masayı silmedi.", "en": "Ali didn't wipe the table after dinner."},
+  {"id": 331, "tr": "Ali akşam yemeğinin ardından masayı sildi mi?", "en": "Did Ali wipe the table after dinner?"},
+  {"id": 332, "tr": "Ali masayı ne zaman sildi?", "en": "When did Ali wipe the table?"},
+
+  {"id": 333, "tr": "Güneş kıyafetlerimi kuruttu.", "en": "The sun dried my clothes."},
+  {"id": 334, "tr": "Güneş kıyafetlerimi kurutmadı.", "en": "The sun didn't dry my clothes."},
+  {"id": 335, "tr": "Güneş kıyafetlerini kuruttu mu?", "en": "Did the sun dry your clothes?"},
+  {"id": 336, "tr": "Güneş ne zaman kıyafetlerini kuruttu?", "en": "When did the sun dry your clothes?"},
+
+  {"id": 337, "tr": "Annem kütüphanenin tozunu aldı.", "en": "My mother dusted the library."},
+  {"id": 338, "tr": "Annem kütüphanenin tozunu almadı.", "en": "My mother didn't dust the library."},
+  {"id": 339, "tr": "Annen kütüphanenin tozunu aldı mı?", "en": "Did your mother dust the library?"},
+  {"id": 340, "tr": "Annen neyin tozunu aldı?", "en": "What did your mother dust?"},
+
+  {"id": 341, "tr": "Ayşe bugün gözlük taktı.", "en": "Ayse wore glasses today."},
+  {"id": 342, "tr": "Ayşe bugün gözlük takmadı.", "en": "Ayse didn't wear the glasses today."},
+  {"id": 343, "tr": "Ayşe bugün gözlük taktı mı?", "en": "Did Ayse wear the glasses today?"},
+  {"id": 344, "tr": "Ayşe neden gözlük taktı?", "en": "Why did Ayse wear the glases?"},
+
+  {"id": 345, "tr": "Okul için kıyafetlerimi giydim.", "en": "I put on my clothes for the school."},
+  {"id": 346, "tr": "Okul için kıyafetlerimi giymedim.", "en": "I didn't put on my clothes for the school."},
+  {"id": 347, "tr": "Okul için kıyafetlerini giydin mi?", "en": "Did you put on your clothes for the school?"},
+  {"id": 348, "tr": "Kıyafetlerini ne için giydin?", "en": "What did you put on your clothes for?"},
+
+  {"id": 349, "tr": "Duş almak için kıyafetlerimi çıkardım.", "en": "I took off my clothes to take a shower."},
+  {"id": 350, "tr": "Duş almak için kıyafetlerimi çıkarmadım.", "en": "I didn't take off my clothes to take a shower."},
+  {"id": 351, "tr": "Duş almak için kıyafetlerini mi çıkardın?", "en": "Did you take off your clothes to take a shower?"},
+  {"id": 352, "tr": "Kıyafetlerini niçin çıkardın?", "en": "Why did you take off your clothes?"},
+
+  {"id": 353, "tr": "Ali çok yemek yedi.", "en": "Ali ate a lot of food."},
+  {"id": 354, "tr": "Ali çok yemek yemedi.", "en": "Ali didn't eat a lot of food."},
+  {"id": 355, "tr": "Ali çok yemek yedi mi?", "en": "Did Ali eat a lot of food?"},
+  {"id": 356, "tr": "Ali ne kadar yemek yedi?", "en": "How much food did Ali eat?"},
+
+  {"id": 357, "tr": "Murat iki şişe süt içti.", "en": "Murat drank two bottles of milk."},
+  {"id": 358, "tr": "Murat iki şişe süt içmedi.", "en": "Murat didn't drink two bottles of milk."},
+  {"id": 359, "tr": "Murat iki şişe süt içti mi?", "en": "Did Murat drink two bottles of milk?"},
+  {"id": 360, "tr": "Murat kaç şişe süt içti?", "en": "How many bottles of milk did Murat drink?"},
+
+  {"id": 361, "tr": "Geçen pazar anneannemi aradım.", "en": "I called my grandmother last Sunday."},
+  {"id": 362, "tr": "Geçen pazar anneannemi aramadım.", "en": "I didn't call my grandmother last Sunday."},
+  {"id": 363, "tr": "Geçen pazar anneanneni aradın mı?", "en": "Did you call your grandmother last Sunday?"},
+  {"id": 364, "tr": "Geçen pazar kimi aradın?", "en": "Who did you call last Sunday?"},
+
+  {"id": 365, "tr": "Öğretmen çocuklara bağırdı.", "en": "The teacher shouted at the children."},
+  {"id": 366, "tr": "Öğretmen çocuklara bağırmadı.", "en": "The teacher didn't shout at the children."},
+  {"id": 367, "tr": "Öğretmen çocuklara bağırdı mı?", "en": "Did the teacher shout at the children?"},
+  {"id": 368, "tr": "Öğretmen kime bağırdı?", "en": "Who did the teacher shout at?"},
+
+  {"id": 369, "tr": "Çocuklar bana gülümsedi.", "en": "The children smiled at me."},
+  {"id": 370, "tr": "Çocuklar bana gülümsemedi.", "en": "The children didn't smile at me."},
+  {"id": 371, "tr": "Çocuklar sana gülümsedi mi?", "en": "Did the children smile at you?"},
+  {"id": 372, "tr": "Çocuklar kime gülümsedi?", "en": "Who did the children smile at?"},
+
+  {"id": 373, "tr": "Onlar şakalarıma kahkaha attılar.", "en": "They laughed at my jokes."},
+  {"id": 374, "tr": "Onlar şakalarıma kahkaha atmadılar.", "en": "They didn't laugh at my jokes."},
+  {"id": 375, "tr": "Onlar şakalarına kahkaha attılar mı?", "en": "Did they laugh at your jokes?"},
+  {"id": 376, "tr": "Onlar neden kahkaha attılar?", "en": "Why did they laugh?"},
+
+  {"id": 377, "tr": "Ayşe bana göz kırptı.", "en": "Ayse winked at me."},
+  {"id": 378, "tr": "Ayşe bana göz kırpmadı.", "en": "Ayse didn't wink at me."},
+  {"id": 379, "tr": "Ayşe sana göz kırptı mı?", "en": "Did Ayse wink at you?"},
+  {"id": 380, "tr": "Ayşe kime göz kırptı?", "en": "Who did Ayse wink at?"},
+
+  {"id": 381, "tr": "Bugün babamı düşündüm.", "en": "I thought about my father today."},
+  {"id": 382, "tr": "Bugün babamı düşünmedim.", "en": "I didn't think about my father today."},
+  {"id": 383, "tr": "Bugün babanı düşündün mü?", "en": "Did you think about your father today?"},
+  {"id": 384, "tr": "Bugün kimi düşündün?", "en": "Who did you think about today?"},
+
+  {"id": 385, "tr": "Ayşe İngilizcesini geliştirmeye uğraştı.", "en": "Ayse tried to improve her English."},
+  {"id": 386, "tr": "Ayşe İngilizcesini geliştirmeye uğraşmadı.", "en": "Ayse didn't try to improve her English."},
+  {"id": 387, "tr": "Ayşe İngilizcesini geliştirmeye uğraştı mı?", "en": "Did Ayse try to improve her English?"},
+  {"id": 388, "tr": "Ayşe neyi geliştirmeye uğraştı?", "en": "What did Ayse try to improve?"},
+
+  {"id": 389, "tr": "Ali dün akşam çocuklarına bir hikaye okudu.", "en": "Ali read a story to his children last night."},
+  {"id": 390, "tr": "Ali dün akşam çocuklarına bir hikaye okumadı.", "en": "Ali didn't read a story to his children last night."},
+  {"id": 391, "tr": "Ali dün akşam çocuklarına bir hikaye okudu mu?", "en": "Did Ali read a story to his children last night?"},
+  {"id": 392, "tr": "Ali çocuklarına ne zaman bir hikaye okudu?", "en": "When did Ali read a story to his children?"},
+
+  {"id": 393, "tr": "Ayşe geçen hafta bana bir mektup yazdı.", "en": "Ayse wrote me a letter last week."},
+  {"id": 394, "tr": "Ayşe geçen hafta bana bir mektup yazmadı.", "en": "Ayse didn't write me a letter last week."},
+  {"id": 395, "tr": "Ayşe geçen hafta sana bir mektup yazdı mı?", "en": "Did Ayse write you a letter last week?"},
+  {"id": 396, "tr": "Ayşe sana ne zaman mektup yazdı?", "en": "When did Ayse write you a letter?"},
+
+  {"id": 397, "tr": "Ali bir sürü resim çizdi.", "en": "Ali drew a lot of pictures."},
+  {"id": 398, "tr": "Ali bir sürü resim çizmedi.", "en": "Ali didn't draw a lot of pictures."},
+  {"id": 399, "tr": "Ali bir sürü resim çizdi mi?", "en": "Did Ali draw a lot of pictures?"},
+  {"id": 400, "tr": "Ali ne çizdi?", "en": "What did Ali draw?"},
+
+  {"id": 401, "tr": "Duvarları geçen yıl boyadık.", "en": "We painted the walls last year."},
+  {"id": 402, "tr": "Duvarları geçen yıl boyamadık.", "en": "We didn't paint the walls last year."},
+  {"id": 403, "tr": "Duvarları geçen yıl boyadınız mı?", "en": "Did you paint the walls last year?"},
+  {"id": 404, "tr": "Duvarları ne zaman boyadınız?", "en": "When did you paint the walls?"},
+
+  {"id": 405, "tr": "Kedim benimle oynadı.", "en": "My cat played with me."},
+  {"id": 406, "tr": "Kedim benimle oynamadı.", "en": "My cat didn't play with me."},
+  {"id": 407, "tr": "Kedin seninle oynadı mı?", "en": "Did your cat play with you?"},
+  {"id": 408, "tr": "Kedin kiminle oynadı?", "en": "Who did your cat play with?"},
+
+  {"id": 409, "tr": "Rüzgar esti.", "en": "The wind blew."},
+  {"id": 410, "tr": "Rüzgar esmedi.", "en": "The wind didn't blow."},
+  {"id": 411, "tr": "Rüzgar esti mi?", "en": "Did the wind blow?"},
+  {"id": 412, "tr": "Rüzgar ne zaman esti?", "en": "When did the wind blow?"},
+
+  {"id": 413, "tr": "Ali doğum gününde pastasını üfledi.", "en": "Ali blew his birthday cake."},
+  {"id": 414, "tr": "Ali doğum gününde pastasını üflemedi.", "en": "Ali didn't blow his birthday cake."},
+  {"id": 415, "tr": "Ali doğum gününde pastasını üfledi mi?", "en": "Did Ali blow his birthday cake?"},
+  {"id": 416, "tr": "Ali ne zaman pastasını üfledi?", "en": "When did Ali blow his cake?"},
+
+  {"id": 417, "tr": "Biz İngilizce öğrendik.", "en": "We learned English."},
+  {"id": 418, "tr": "Biz İngilizce öğrenmedik.", "en": "We didn't learn English."},
+  {"id": 419, "tr": "Siz İngilizce öğrendiniz mi?", "en": "Did you learn English?"},
+  {"id": 420, "tr": "Siz ne zaman İngilizce  öğrendiniz?", "en": "When did you learn English?"},
+
+  {"id": 421, "tr": "Öğretmenimiz bize İngilizce öğretti.", "en": "Our teacher taught us English."},
+  {"id": 422, "tr": "Öğretmenimiz bize İngilizce öğretmedi.", "en": "Our teacher didn't teach us English."},
+  {"id": 423, "tr": "Öğretmeniniz size İngilizce öğretti mi?", "en": "Did your teacher teach you English?"},
+  {"id": 424, "tr": "Öğretmeniniz size ne öğretti?", "en": "What did your teacher teach you?"},
+
+  {"id": 425, "tr": "Ayşe için kapıyı açtım.", "en": "I opened the door for Ayse."},
+  {"id": 426, "tr": "Ayşe için kapıyı açmadım.", "en": "I didn't open the door for Ayse."},
+  {"id": 427, "tr": "Ayşe için kapıyı açtın mı?", "en": "Did you open the door for Ayse?"},
+  {"id": 428, "tr": "Kimin için kapıyı açtın?", "en": "Who did you open the door for?"},
+
+  {"id": 429, "tr": "Gözlerimi kapattım.", "en": "I closed my eyes."},
+  {"id": 430, "tr": "Gözlerimi kapamadım.", "en": "I didn't close my eyes."},
+  {"id": 431, "tr": "Gözlerini kapattın mı?", "en": "Did you close your eyes?"},
+  {"id": 432, "tr": "Neden gözlerini kapattın?", "en": "Why did you close your eyes?"},
+
+  {"id": 433, "tr": "Ali televizyonu açtı.", "en": "Ali turned on the TV."},
+  {"id": 434, "tr": "Ali televizyonu açmadı.", "en": "Ali didn't turn on the TV."},
+  {"id": 435, "tr": "Ali televizyonu açtı mı?", "en": "Did Ali turn on the TV?"},
+  {"id": 436, "tr": "Ali saat kaçta televizyonu açtı?", "en": "What time did Ali turn on the TV?"},
+
+  {"id": 437, "tr": "Ayşe bilgisayarını kapattı.", "en": "Ayse turned off her computer."},
+  {"id": 438, "tr": "Ayşe bilgisayarını kapatmadı.", "en": "Ayse didn't turn off her computer."},
+  {"id": 439, "tr": "Ayşe bilgisayarını kapattı mı?", "en": "Did Ayse turn off her computer?"},
+  {"id": 440, "tr": "Ayşe ne zaman bilgisayarını kapattı?", "en": "When did Ayse turn off her computer?"},
+
+  {"id": 441, "tr": "Öğretmen sınıfa girdi.", "en": "The teacher entered the classroom."},
+  {"id": 442, "tr": "Öğretmen sınıfa girmedi.", "en": "The teacher didn't enter the classroom."},
+  {"id": 443, "tr": "Öğretmen sınıfa girdi mi?", "en": "Did the teacher enter the classroom?"},
+  {"id": 444, "tr": "Öğretmen sınıfa ne zaman girdi?", "en": "When did the teacher enter the classroom?"},
+
+  {"id": 445, "tr": "Evden dışarı çıktık.", "en": "We went out of the house."},
+  {"id": 446, "tr": "Evden dışarı çıkmadık.", "en": "We didn't go out of the house."},
+  {"id": 447, "tr": "Evden dışarı çıktınız mı?", "en": "Did you go out of the house?"},
+  {"id": 448, "tr": "Evden ne zaman dışarı çıktınız?", "en": "When did you go out of the house?"},
+
+  {"id": 449, "tr": "Biz sana inandık.", "en": "We believed in you."},
+  {"id": 450, "tr": "Biz sana inanmadık.", "en": "We didn't believe in you."},
+  {"id": 451, "tr": "Siz bize inandınız mı?", "en": "Did you believe in us?"},
+  {"id": 452, "tr": "Siz kime inandınız?", "en": "Who did you believe in?"},
+
+  {"id": 453, "tr": "İyi bir gelecek umduk.", "en": "We hoped for a good future."},
+  {"id": 454, "tr": "İyi bir gelecek umadık.", "en": "We didn't hope for a good future."},
+  {"id": 455, "tr": "İyi bir gelecek umdunuz mu?", "en": "Did you hope for a good future?"},
+  {"id": 456, "tr": "Ne umdunuz?", "en": "What did you hope for?"},
+
+  {"id": 457, "tr": "Ali bana yardım etmeye söz verdi.", "en": "Ali promised to help me."},
+  {"id": 458, "tr": "Ali bana yardım etmeye söz vermedi.", "en": "Ali didn't promise to help me."},
+  {"id": 459, "tr": "Ali sana yardım etmeye söz verdi mi?", "en": "Did Ali promise to help you?"},
+  {"id": 460, "tr": "Ali ne zaman sana yardım etmeye söz verdi?", "en": "When did Ali promise to help you?"},
+
+  {"id": 461, "tr": "Takımımız geçen hafta kazandı.", "en": "Our team won last week."},
+  {"id": 462, "tr": "Takımımız geçen hafta kazanmadı.", "en": "Our team didn't win last week."},
+  {"id": 463, "tr": "Takımınız geçen hafta kazandı mı?", "en": "Did your team win last week?"},
+  {"id": 464, "tr": "Takımınız ne zaman kazandı?", "en": "When did your team win?"},
+
+  {"id": 465, "tr": "Ali geçen yıl çok para kazandı.", "en": "Ali earned a lot of money last year."},
+  {"id": 466, "tr": "Ali geçen yıl çok para kazanmadı.", "en": "Ali didn't earn a lot of money last year."},
+  {"id": 467, "tr": "Ali geçen yıl çok para kazandı mı?", "en": "Did Ali earn a lot of money last year?"},
+  {"id": 468, "tr": "Ali geçen yıl ne kadar para kazandı?", "en": "How much money did Ali earn last year?"},
+
+  {"id": 469, "tr": "Ali iki dakika önce anahtarını kaybetti.", "en": "Ali lost his key two minutes ago."},
+  {"id": 470, "tr": "Ali iki dakika önce anahtarını kaybetmedi.", "en": "Ali didn't lose his key two minutes ago."},
+  {"id": 471, "tr": "Ali iki dakika önce anahtarını kaybetti mi?", "en": "Did Ali lose his key two minutes ago?"},
+  {"id": 472, "tr": "Ali ne zaman anahtarını kaybetti?", "en": "When did Ali lose his key?"},
+
+  {"id": 473, "tr": "Ben Ayşe'yi güzel buldum.", "en": "I found Ayse beautiful."},
+  {"id": 474, "tr": "Ben Ayşe'yi güzel bulmadım.", "en": "I didn't find Ayse beautiful."},
+  {"id": 475, "tr": "Ayşe'yi güzel buldun mu?", "en": "Did you find Ayse beautiful?"},
+  {"id": 476, "tr": "Ayşe'yi nasıl buldun?", "en": "How did you find Ayse?"},
+
+  {"id": 477, "tr": "Ayşe sınavlardan geçti.", "en": "Ayse passed the exams."},
+  {"id": 478, "tr": "Ayşe sınavlardan geçmedi.", "en": "Ayse didn't pass the exams."},
+  {"id": 479, "tr": "Ayşe sınavlardan geçti mi?", "en": "Did Ayse pass the exams?"},
+  {"id": 480, "tr": "Ayşe hangi sınavlardan geçti?", "en": "Which exams did Ayse pass?"},
+
+  {"id": 481, "tr": "Murat sınavlardan kaldı.", "en": "Murat failed the exams."},
+  {"id": 482, "tr": "Murat sınavlardan kalmadı.", "en": "Murat didn't fail the exams."},
+  {"id": 483, "tr": "Murat sınavlardan kaldı mı?", "en": "Did Murat fail the exams?"},
+  {"id": 484, "tr": "Murat hangi sınavlardan kaldı?", "en": "Which exams did Murat fail?"},
+
+  {"id": 485, "tr": "Murat geçen yıl mezun oldu.", "en": "Murat graduated last year."},
+  {"id": 486, "tr": "Murat geçen yıl mezun olmadı.", "en": "Murat didn't graduate last year."},
+  {"id": 487, "tr": "Murat geçen yıl mezun oldu mu?", "en": "Did Murat graduate last year?"},
+  {"id": 488, "tr": "Murat ne zaman mezun oldu?", "en": "When did Murat graduate?"},
+
+  {"id": 489, "tr": "Bizim küçük bir kafemiz vardı.", "en": "We owned a small cafe."},
+  {"id": 490, "tr": "Bizim küçük bir kafemiz yoktu.", "en": "We didn't own a small cafe."},
+  {"id": 491, "tr": "Sizin küçük bir kafeniz var mıydı?", "en": "Did you own a small cafe?"},
+  {"id": 492, "tr": "Sizin nasıl bir kafeniz vardı?", "en": "What kind of cafe did you own?"},
+
+  {"id": 493, "tr": "Bu çanta Ayşe'ye aitti.", "en": "This bag belonged to Ayse."},
+  {"id": 494, "tr": "Bu çanta Ayşe'ye ait değildi.", "en": "This bag didn't belong to Ayse."},
+  {"id": 495, "tr": "Bu çanta Ayşe'ye ait miydi?", "en": "Did this bag belong to Ayse?"},
+  {"id": 496, "tr": "Bu çanta kime aitti?", "en": "Who did this bag belong to?"},
+
+  {"id": 497, "tr": "Annemle yemek pişirdik.", "en": "We cooked with my mother."},
+  {"id": 498, "tr": "Annemle yemek pişirmedik.", "en": "We didn't cook with my mother."},
+  {"id": 499, "tr": "Annenle yemek pişirdiniz mi?", "en": "Did you cook with your mother?"},
+  {"id": 500, "tr": "Kiminle yemek pişirdiniz?", "en": "Who did you cook with?"},
+
+  {"id": 501, "tr": "Ayşe dün yumurta kızarttı.", "en": "Ayse fried eggs yesterday."},
+  {"id": 502, "tr": "Ayşe dün yumurta kızartmadı.", "en": "Ayse didn't fry eggs yesterday."},
+  {"id": 503, "tr": "Ayşe dün yumurta kızarttı mı?", "en": "Did Ayse fry eggs yesterday?"},
+  {"id": 504, "tr": "Ayşe dün neden yumurta kızartmadı?", "en": "Why didn't Ayse fry eggs yesterday?"},
+
+  {"id": 505, "tr": "Ayşe iki gün önce yumurta kaynattı.", "en": "Ayse boiled eggs two days ago."},
+  {"id": 506, "tr": "Ayşe iki gün önce yumurta kaynatmadı.", "en": "Ayse didn't boil eggs two days ago."},
+  {"id": 507, "tr": "Ayşe iki gün önce yumurta kaynattı mı?", "en": "Did Ayse boil eggs two days ago?"},
+  {"id": 508, "tr": "Ayşe ne zaman yumurta kaynattı?", "en": "When did Ayse boil eggs?"},
+
+  {"id": 509, "tr": "Ali üç gün önce kurabiye yaptı.", "en": "Ali made cookies three days ago."},
+  {"id": 510, "tr": "Ali üç gün önce kurabiye yapmadı.", "en": "Ali didn't make cookies three days ago."},
+  {"id": 511, "tr": "Ali üç gün önce kurabiye yaptı mı?", "en": "Did Ali make cookies three days ago?"},
+  {"id": 512, "tr": "Ali ne zaman kurabiye yaptı?", "en": "When did Ali make cookies?"},
+
+  {"id": 513, "tr": "Sütü bardağa döktüm.", "en": "I poured the milk into the glass."},
+  {"id": 514, "tr": "Sütü bardağa dökmedim.", "en": "I didn't pour the milk into the glass."},
+  {"id": 515, "tr": "Sütü bardağa döktün mü?", "en": "Did you pour the milk into the glass?"},
+  {"id": 516, "tr": "Sütü nereye döktün?", "en": "Where did you pour the milk?"},
+
+  {"id": 517, "tr": "Sütü karıştırdım.", "en": "I stirred the milk."},
+  {"id": 518, "tr": "Sütü karıştırmadım.", "en": "I didn't stir the milk."},
+  {"id": 519, "tr": "Sütü karıştırdın mı?", "en": "Did you stir the milk?"},
+  {"id": 520, "tr": "Neyi karıştırdın?", "en": "What did you stir?"},
+
+  {"id": 521, "tr": "Salatayı karıştırdım.", "en": "I mixed the salad."},
+  {"id": 522, "tr": "Salatayı karıştırmadım.", "en": "I didn't mix the salad."},
+  {"id": 523, "tr": "Salatayı karıştırdın mı?", "en": "Did you mix the salad?"},
+  {"id": 524, "tr": "Salatayı nasıl karıştırdın?", "en": "How did you mix the salad?"},
+
+  {"id": 525, "tr": "Sebzeleri eski bir bıçakla kestim.", "en": "I cut the vegetables with an old knife."},
+  {"id": 526, "tr": "Sebzeleri eski bir bıçakla kesmedim.", "en": "I didn't cut the vegetables with an old knife."},
+  {"id": 527, "tr": "Sebzeleri eski bir bıçakla kestin mi?", "en": "Did you cut the vegetables with an old knife?"},
+  {"id": 528, "tr": "Sebzeleri ne ile kestin?", "en": "What did you cut the vegetables with?"},
+
+  {"id": 529, "tr": "Yemek pişirmeden önce patateslerin kabuğunu soyduk.", "en": "We peeled the potatoes before cooking."},
+  {"id": 530, "tr": "Yemek pişirmeden önce patateslerin kabuğunu soymadık.", "en": "We didn't peel the potatoes before cooking."},
+  {"id": 531, "tr": "Yemek pişirmeden önce patateslerin kabuğunu soydunuz mu?", "en": "Did you peel the potatoes before cooking?"},
+  {"id": 532, "tr": "Yemek pişirmeden önce neyin kabuğunu soydunuz?", "en": "What did you peel before cooking?"},
+
+  {"id": 533, "tr": "Onlar arabayı itti.", "en": "They pushed the car."},
+  {"id": 534, "tr": "Onlar arabayı itmedi.", "en": "They didn't push the car."},
+  {"id": 535, "tr": "Onlar arabayı itti mi?", "en": "Did they push the car?"},
+  {"id": 536, "tr": "Onlar neyi itti?", "en": "What did they push?"},
+
+  {"id": 537, "tr": "Siz arabayı çektiniz.", "en": "You pulled the car."},
+  {"id": 538, "tr": "Siz arabayı çekmediniz.", "en": "You didn't pull the car."},
+  {"id": 539, "tr": "Siz arabayı çektiniz mi?", "en": "Did you pull the car?"},
+  {"id": 540, "tr": "Siz neyi çektiniz?", "en": "What did you pull?"},
+
+  {"id": 541, "tr": "Ali benim çantamı taşıdı.", "en": "Ali carried my bag."},
+  {"id": 542, "tr": "Ali benim çantamı taşımadı.", "en": "Ali didn't carry my bag."},
+  {"id": 543, "tr": "Ali senin çantanı taşıdı mı?", "en": "Did Ali carry your bag?"},
+  {"id": 544, "tr": "Ali neyi taşıdı?", "en": "What did Ali carry?"},
+
+  {"id": 545, "tr": "Çocuklar bize el salladı.", "en": "The children waved at us."},
+  {"id": 546, "tr": "Çocuklar bize el sallamadı.", "en": "The children didn't wave at us."},
+  {"id": 547, "tr": "Çocuklar size el salladı mı?", "en": "Did the children wave at you?"},
+  {"id": 548, "tr": "Çocuklar kime el salladı?", "en": "Who did the children wave at?"},
+
+  {"id": 549, "tr": "Ali ayranı salladı.", "en": "Ali shook the ayran."},
+  {"id": 550, "tr": "Ali ayranı sallamadı.", "en": "Ali didn't shake the ayran."},
+  {"id": 551, "tr": "Ali ayranı salladı mı?", "en": "Did Ali shake the ayran?"},
+  {"id": 552, "tr": "Ali neyi salladı?", "en": "What did Ali shake?"},
+
+  {"id": 553, "tr": "Ronaldo topa vurdu.", "en": "Ronaldo hit the ball."},
+  {"id": 554, "tr": "Ronaldo topa vurmadı.", "en": "Ronaldo didn't hit the ball."},
+  {"id": 555, "tr": "Ronaldo topa vurdu mu?", "en": "Did Ronaldo hit the ball?"},
+  {"id": 556, "tr": "Ronaldo neye vurdu?", "en": "What did Ronaldo hit?"},
+
+  {"id": 557, "tr": "Ayşe anahtarlarını masaya koydu.", "en": "Ayse put her keys on the table."},
+  {"id": 558, "tr": "Ayşe anahtarlarını masaya koymadı.", "en": "Ayse didn't put her keys on the table."},
+  {"id": 559, "tr": "Ayşe anahtarlarını masaya koydu mu?", "en": "Did Ayse put her keys on the table?"},
+  {"id": 560, "tr": "Ayşe anahtarlarını nereye koydu?", "en": "Where did Ayse put her keys?"},
+
+  {"id": 561, "tr": "Biz geçen yıl İstanbul'a taşındık.", "en": "We moved to Istanbul last year."},
+  {"id": 562, "tr": "Biz geçen yıl İstanbul'a taşınmadık.", "en": "We didn't move to Istanbul last year."},
+  {"id": 563, "tr": "Siz geçen yıl İstanbul'a taşındınız mı?", "en": "Did you move to Istanbul last year?"},
+  {"id": 564, "tr": "Siz geçen yıl nereye taşındınız?", "en": "Where did you move last year?"},
+
+  {"id": 565, "tr": "Ali bardağı portakal suyuyla doldurdu.", "en": "Ali filled the glass with orange juice."},
+  {"id": 566, "tr": "Ali bardağı portakal suyuyla doldurmadı.", "en": "Ali didn't fill the glass with orange juice."},
+  {"id": 567, "tr": "Ali bardağı portakal suyuyla doldurdu mu?", "en": "Did Ali fill the glass with orange juice?"},
+  {"id": 568, "tr": "Ali bardağı ne ile doldurdu?", "en": "What did Ali fill the glass with?"},
+
+  {"id": 569, "tr": "Ayşe dün çöpü boşalttı.", "en": "Ayse emptied the garbage yesterday."},
+  {"id": 570, "tr": "Ayşe dün çöpü boşaltmadı.", "en": "Ayse didn't empty the garbage yesterday."},
+  {"id": 571, "tr": "Ayşe dün çöpü boşalttı mı?", "en": "Did Ayse empty the garbage yesterday?"},
+  {"id": 572, "tr": "Ayşe ne zaman çöpü boşalttı?", "en": "When did Ayse empty the garbage?"},
+
+  {"id": 573, "tr": "Ali bana daha iyi bir iş teklif etti.", "en": "Ali offered me a better job."},
+  {"id": 574, "tr": "Ali bana daha iyi bir iş teklif etmedi.", "en": "Ali didn't offer me a better job."},
+  {"id": 575, "tr": "Ali sana daha iyi bir iş teklif etti mi?", "en": "Did Ali offer you a better job?"},
+  {"id": 576, "tr": "Ali sana ne teklif etti?", "en": "What did Ali offer you?"},
+
+  {"id": 577, "tr": "Çocukların bahçede oynamasına izin verdim.", "en": "I let the children play in the garden."},
+  {"id": 578, "tr": "Çocukların bahçede oynamasına izin vermedim.", "en": "I didn't let the children play in the garden."},
+  {"id": 579, "tr": "Çocukların bahçede oynamasına izin verdin mi?", "en": "Did you let the children play in the garden?"},
+  {"id": 580, "tr": "Çocukların nerede oynamasına izin verdin?", "en": "Where did you let the children play?"},
+
+  {"id": 581, "tr": "Onların teklifini kabul ettim.", "en": "I accepted their offer."},
+  {"id": 582, "tr": "Onların teklifini kabul etmedim.", "en": "I didn't accept their offer."},
+  {"id": 583, "tr": "Onların teklifini kabul ettin mi?", "en": "Did you accept their offer?"},
+  {"id": 584, "tr": "Kimin teklifini kabul ettin?", "en": "Whose offer did you accept?"},
+
+  {"id": 585, "tr": "Ali benimle aynı fikirdeydi.", "en": "Ali agreed with me."},
+  {"id": 586, "tr": "Ali benimle aynı fikirde değildi.", "en": "Ali didn't agree with me."},
+  {"id": 587, "tr": "Ali seninle aynı fikirde miydi?", "en": "Did Ali agree with you?"},
+  {"id": 588, "tr": "Ali kiminle aynı fikirdeydi?", "en": "Who did Ali agree with?"},
+
+  {"id": 589, "tr": "Ayşe cevap vermeyi reddetti.", "en": "Ayse refused to answer."},
+  {"id": 590, "tr": "Ayşe cevap vermeyi reddetmedi.", "en": "Ayse didn't refuse to answer."},
+  {"id": 591, "tr": "Ayşe cevap vermeyi reddetti mi?", "en": "Did Ayse refuse to answer?"},
+  {"id": 592, "tr": "Ayşe neden cevap vermeyi reddetti?", "en": "Why did Ayse refuse to answer?"},
+
+  {"id": 593, "tr": "Okul başvurumu onayladı.", "en": "The school approved my application."},
+  {"id": 594, "tr": "Okul başvurumu onaylamadı.", "en": "The school didn't approve my application."},
+  {"id": 595, "tr": "Okul başvurunu onayladı mı?", "en": "Did the school approve your application?"},
+  {"id": 596, "tr": "Okul ne zaman başvurunu onayladı?", "en": "When did the school approve your application?"},
+
+  {"id": 597, "tr": "Tüm teklifleri reddettiler.", "en": "They rejected all the offers."},
+  {"id": 598, "tr": "Tüm teklifleri reddetmediler.", "en": "They didn't reject all the offers."},
+  {"id": 599, "tr": "Tüm teklifleri reddettiler mi?", "en": "Did they reject all the offers?"},
+  {"id": 600, "tr": "Onlar neden tüm teklifleri reddetti?", "en": "Why did they reject all the offers?"},
+
+  {"id": 601, "tr": "Ali hatasını inkar etti.", "en": "Ali denied his mistake."},
+  {"id": 602, "tr": "Ali hatasını inkar etmedi.", "en": "Ali didn't deny his mistake."},
+  {"id": 603, "tr": "Ali hatasını inkar etti mi?", "en": "Did Ali deny his mistake?"},
+  {"id": 604, "tr": "Ali neden hatasını inkar etti?", "en": "Why did Ali deny his mistake?"},
+
+  {"id": 605, "tr": "Ali benim adımı unuttu.", "en": "Ali forgot my name."},
+  {"id": 606, "tr": "Ali benim adımı unutmadı.", "en": "Ali didn't forget my name."},
+  {"id": 607, "tr": "Ali senin adını unuttu mu?", "en": "Did Ali forget your name?"},
+  {"id": 608, "tr": "Ali neyi unuttu?", "en": "What did Ali forget?"},
+
+  {"id": 609, "tr": "Anneannem her şeyi hatırladı.", "en": "My grandmother remembered everything."},
+  {"id": 610, "tr": "Anneannem her şeyi hatırlamadı.", "en": "My grandmother didn't remember everything."},
+  {"id": 611, "tr": "Anneannен her şeyi hatırladı mı?", "en": "Did your grandmother remember everything?"},
+  {"id": 612, "tr": "Anneannen neyi hatırladı?", "en": "What did your grandmother remember?"},
+
+  {"id": 613, "tr": "Dün arkadaşlarımla buluştum.", "en": "I met my friends yesterday."},
+  {"id": 614, "tr": "Dün arkadaşlarımla buluşmadım.", "en": "I didn't meet my friends yesterday."},
+  {"id": 615, "tr": "Dün arkadaşlarınla buluştun mu?", "en": "Did you meet your friends yesterday?"},
+  {"id": 616, "tr": "Dün kiminle buluştun?", "en": "Who did you meet yesterday?"},
+
+  {"id": 617, "tr": "İki gün önce Ayşe ile okulda karşılaştık.", "en": "We ran into Ayse at the school two days ago."},
+  {"id": 618, "tr": "İki gün önce Ayşe ile okulda karşılaşmadık.", "en": "We didn't run into Ayse at the school two days ago."},
+  {"id": 619, "tr": "İki gün önce Ayşe ile okulda karşılaştınız mı?", "en": "Did you run into Ayse at the school two days ago?"},
+  {"id": 620, "tr": "İki gün önce okulda kiminle karşılaştınız?", "en": "Who did you run into at the school two days ago?"},
+
+  {"id": 621, "tr": "Ali yeni arabasını bana gösterdi.", "en": "Ali showed me his new car."},
+  {"id": 622, "tr": "Ali yeni arabasını bana göstermedi.", "en": "Ali didn't show me his new car."},
+  {"id": 623, "tr": "Ali yeni arabasını sana gösterdi mi?", "en": "Did Ali show you his new car?"},
+  {"id": 624, "tr": "Ali sana ne gösterdi?", "en": "What did Ali show you?"},
+
+  {"id": 625, "tr": "Onlar bu akşam erken uyudu.", "en": "They slept early this evening."},
+  {"id": 626, "tr": "Onlar bu akşam erken uyumadı.", "en": "They didn't sleep early this evening."},
+  {"id": 627, "tr": "Onlar bu akşam erken uyudu mu?", "en": "Did they sleep early this evening?"},
+  {"id": 628, "tr": "Onlar bu akşam saat kaçta uyudu?", "en": "What time did they sleep this evening?"},
+
+  {"id": 629, "tr": "Sen geç uyandın.", "en": "You woke up late."},
+  {"id": 630, "tr": "Sen geç uyanmadın.", "en": "You didn't wake up late."},
+  {"id": 631, "tr": "Geç mi uyandın?", "en": "Did you wake up late?"},
+  {"id": 632, "tr": "Sen ne zaman uyandın?", "en": "When did you wake up?"},
+
+  {"id": 633, "tr": "Ayşe çikolataya bayılırdı.", "en": "Ayse loved chocolate."},
+  {"id": 634, "tr": "Ayşe çikolataya bayılmazdı.", "en": "Ayse didn't love chocolate."},
+  {"id": 635, "tr": "Ayşe çikolataya bayılır mıydı?", "en": "Did Ayse love chocolate?"},
+  {"id": 636, "tr": "Ayşe neye bayılırdı?", "en": "What did Ayse love?"},
+
+  {"id": 637, "tr": "Ali futbolu severdi.", "en": "Ali liked football."},
+  {"id": 638, "tr": "Ali futbolu sevmezdi.", "en": "Ali didn't like football."},
+  {"id": 639, "tr": "Ali futbolu sever miydi?", "en": "Did Ali like football?"},
+  {"id": 640, "tr": "Ali neyi severdi?", "en": "What did Ali like?"},
+
+  {"id": 641, "tr": "Ali futbol oynamayı severdi.", "en": "Ali liked playing football."},
+  {"id": 642, "tr": "Ali futbol oynamayı sevmezdi.", "en": "Ali didn't like playing football."},
+  {"id": 643, "tr": "Ali futbol oynamayı sever miydi?", "en": "Did Ali like playing football?"},
+  {"id": 644, "tr": "Ali ne oynamayı severdi?", "en": "What did Ali like playing?"},
+
+  {"id": 645, "tr": "Ben kitap okumaktan hoşlanırdım.", "en": "I enjoyed reading books."},
+  {"id": 646, "tr": "Ben kitap okumaktan hoşlanmazdım.", "en": "I didn't enjoy reading books."},
+  {"id": 647, "tr": "Kitap okumaktan hoşlanır mıydın?", "en": "Did you enjoy reading books?"},
+  {"id": 648, "tr": "Neyden hoşlanırdın?", "en": "What did you enjoy?"},
+
+  {"id": 649, "tr": "Ayşe benden nefret etti.", "en": "Ayse hated me."},
+  {"id": 650, "tr": "Ayşe benden nefret etmedi.", "en": "Ayse didn't hate me."},
+  {"id": 651, "tr": "Ayşe senden nefret etti mi?", "en": "Did Ayse hate you?"},
+  {"id": 652, "tr": "Ayşe kimden nefret etti?", "en": "Who did Ayse hate?"},
+
+  {"id": 653, "tr": "Ali evde ailesine yardım etti.", "en": "Ali helped his family at home."},
+  {"id": 654, "tr": "Ali evde ailesine yardım etmedi.", "en": "Ali didn't help his family at home."},
+  {"id": 655, "tr": "Ali evde ailesine yardım etti mi?", "en": "Did Ali help his family at home?"},
+  {"id": 656, "tr": "Ali evde kime yardım etti?", "en": "Who did Ali help at home?"},
+
+  {"id": 657, "tr": "Ayşe hatasının farkına vardı.", "en": "Ayse realized her mistake."},
+  {"id": 658, "tr": "Ayşe hatasının farkına varmadı.", "en": "Ayse didn't realize her mistake."},
+  {"id": 659, "tr": "Ayşe hatasının farkına vardı mı?", "en": "Did Ayse realize her mistake?"},
+  {"id": 660, "tr": "Ayşe neyin farkına vardı?", "en": "What did Ayse realize?"},
+
+  {"id": 661, "tr": "Ayşe dün 100 email gönderdi.", "en": "Ayse sent 100 emails yesterday."},
+  {"id": 662, "tr": "Ayşe dün 100 email göndermedi.", "en": "Ayse didn't send 100 emails yesterday."},
+  {"id": 663, "tr": "Ayşe dün 100 email gönderdi mi?", "en": "Did Ayse send 100 emails yesterday?"},
+  {"id": 664, "tr": "Ayşe dün kaç email gönderdi?", "en": "How many emails did Ayse send yesterday?"},
+
+  {"id": 665, "tr": "Ayşe geçen hafta 100 email aldı.", "en": "Ayse received 100 emails last week."},
+  {"id": 666, "tr": "Ayşe geçen hafta 100 email almadı.", "en": "Ayse didn't receive 100 emails last week."},
+  {"id": 667, "tr": "Ayşe geçen hafta 100 email aldı mı?", "en": "Did Ayse receive 100 emails last week?"},
+  {"id": 668, "tr": "Ayşe geçen hafta kaç email aldı?", "en": "How many emails did Ayse receive last week?"},
+
+  {"id": 669, "tr": "Ayşe bugün 100 emaile cevap verdi.", "en": "Ayse replied to 100 emails today."},
+  {"id": 670, "tr": "Ayşe bugün 100 emaile cevap vermedi.", "en": "Ayse didn't reply to 100 emails today."},
+  {"id": 671, "tr": "Ayşe bugün 100 emaile cevap verdi mi?", "en": "Did Ayse reply to 100 emails today?"},
+  {"id": 672, "tr": "Ayşe bugün kaç emaile cevap verdi?", "en": "How many emails did Ayse reply to today?"},
+
+  {"id": 673, "tr": "Biz her şeyi paylaştık.", "en": "We shared everything."},
+  {"id": 674, "tr": "Biz her şeyi paylaşmadık.", "en": "We didn't share everything."},
+  {"id": 675, "tr": "Her şeyi paylaştınız mı?", "en": "Did you share everything?"},
+  {"id": 676, "tr": "Neyi paylaştınız?", "en": "What did you share?"},
+
+  {"id": 677, "tr": "Ben her şeyi planladım.", "en": "I planned everything."},
+  {"id": 678, "tr": "Ben her şeyi planlamadım.", "en": "I didn't plan everything."},
+  {"id": 679, "tr": "Her şeyi planladın mı?", "en": "Did you plan everything?"},
+  {"id": 680, "tr": "Neyi planladın?", "en": "What did you plan?"},
+
+  {"id": 681, "tr": "Cebimi kontrol ettim.", "en": "I checked my pocket."},
+  {"id": 682, "tr": "Cebimi kontrol etmedim.", "en": "I didn't check my pocket."},
+  {"id": 683, "tr": "Cebini kontrol ettin mi?", "en": "Did you check your pocket?"},
+  {"id": 684, "tr": "Neyi kontrol ettin?", "en": "What did you check?"},
+
+  {"id": 685, "tr": "Onlar bu fabrikada çok iyi arabalar ürettiler.", "en": "They produced very good cars in this factory."},
+  {"id": 686, "tr": "Onlar bu fabrikada çok iyi arabalar üretmediler.", "en": "They didn't produce very good cars in this factory."},
+  {"id": 687, "tr": "Onlar bu fabrikada çok iyi arabalar ürettiler mi?", "en": "Did they produce very good cars in this factory?"},
+  {"id": 688, "tr": "Onlar bu fabrikada ne ürettiler?", "en": "What did they produce in this factory?"},
+
+  {"id": 689, "tr": "Ali pahalı evler inşa etti.", "en": "Ali built expensive houses."},
+  {"id": 690, "tr": "Ali pahalı evler inşa etmedi.", "en": "Ali didn't build expensive houses."},
+  {"id": 691, "tr": "Ali pahalı evler inşa etti mi?", "en": "Did Ali build expensive houses?"},
+  {"id": 692, "tr": "Ali ne inşa etti?", "en": "What did Ali build?"},
+
+  {"id": 693, "tr": "Annem akşam yemeğini hazırladı.", "en": "My mother prepared dinner."},
+  {"id": 694, "tr": "Annem akşam yemeğini hazırlamadı.", "en": "My mother didn't prepare dinner."},
+  {"id": 695, "tr": "Annen akşam yemeğini hazırladı mı?", "en": "Did your mother prepare dinner?"},
+  {"id": 696, "tr": "Annen ne hazırladı?", "en": "What did your mother prepare?"},
+
+  {"id": 697, "tr": "Ali her şeyi dikkatli bir şekilde planladı.", "en": "Ali planned everything carefully."},
+  {"id": 698, "tr": "Ali her şeyi dikkatli bir şekilde planlamadı.", "en": "Ali didn't plan everything carefully."},
+  {"id": 699, "tr": "Ali her şeyi dikkatli bir şekilde planladı mı?", "en": "Did Ali plan everything carefully?"},
+  {"id": 700, "tr": "Ali her şeyi nasıl planladı?", "en": "How did Ali plan everything?"},
+
+  {"id": 701, "tr": "Onlar geçen yaz evlendi.", "en": "They got married last summer."},
+  {"id": 702, "tr": "Onlar geçen yaz evlenmedi.", "en": "They didn't get married last summer."},
+  {"id": 703, "tr": "Onlar geçen yaz evlendi mi?", "en": "Did they get married last summer?"},
+  {"id": 704, "tr": "Onlar ne zaman evlendi?", "en": "When did they get married?"},
+
+  {"id": 705, "tr": "Ayşe iki yıl önce boşandı.", "en": "Ayse got divorced two years ago."},
+  {"id": 706, "tr": "Ayşe iki yıl önce boşanmadı.", "en": "Ayse didn't get divorced two years ago."},
+  {"id": 707, "tr": "Ayşe iki yıl önce boşandı mı?", "en": "Did Ayse get divorced two years ago?"},
+  {"id": 708, "tr": "Ayşe ne zaman boşandı?", "en": "When did Ayse get divorced?"},
+
+  {"id": 709, "tr": "Ali Almanya'ya taşınmaya karar verdi.", "en": "Ali decided to move to Germany."},
+  {"id": 710, "tr": "Ali Almanya'ya taşınmaya karar vermedi.", "en": "Ali didn't decide to move to Germany."},
+  {"id": 711, "tr": "Ali Almanya'ya taşınmaya karar verdi mi?", "en": "Did Ali decide to move to Germany?"},
+  {"id": 712, "tr": "Ali nereye taşınmaya karar verdi?", "en": "Where did Ali decide to move?"},
+
+  {"id": 713, "tr": "Kuşlar gökyüzünde uçtu.", "en": "The birds flew in the sky."},
+  {"id": 714, "tr": "Kuşlar gökyüzünde uçmadı.", "en": "The birds didn't fly in the sky."},
+  {"id": 715, "tr": "Kuşlar gökyüzünde uçtu mu?", "en": "Did the birds fly in the sky?"},
+  {"id": 716, "tr": "Kuşlar nerede uçtu?", "en": "Where did the birds fly?"},
+
+  {"id": 717, "tr": "Biz geçen yıl çok seyahat ettik.", "en": "We travelled a lot last year."},
+  {"id": 718, "tr": "Biz geçen yıl çok seyahat etmedik.", "en": "We didn't travel a lot last year."},
+  {"id": 719, "tr": "Siz geçen yıl çok seyahat ettiniz mi?", "en": "Did you travel a lot last year?"},
+  {"id": 720, "tr": "Siz geçen yıl nereye seyahat ettiniz?", "en": "Where did you travel last year?"},
+
+  {"id": 721, "tr": "Ayşe geçen pazar evde kaldı.", "en": "Ayse stayed at home last Sunday."},
+  {"id": 722, "tr": "Ayşe geçen pazar evde kalmadı.", "en": "Ayse didn't stay at home last Sunday."},
+  {"id": 723, "tr": "Ayşe geçen pazar evde kaldı mı?", "en": "Did Ayse stay at home last Sunday?"},
+  {"id": 724, "tr": "Ayşe geçen pazar nerede kaldı?", "en": "Where did Ayse stay last Sunday?"},
+
+  {"id": 725, "tr": "Çocuklar zili çaldı.", "en": "The children rang the bell."},
+  {"id": 726, "tr": "Çocuklar zili çalmadı.", "en": "The children didn't ring the bell."},
+  {"id": 727, "tr": "Çocuklar zili çaldı mı?", "en": "Did the children ring the bell?"},
+  {"id": 728, "tr": "Çocuklar ne zaman zili çaldı?", "en": "When did the children ring the bell?"},
+
+  {"id": 729, "tr": "Kuşlar şarkı söyledi.", "en": "The birds sang."},
+  {"id": 730, "tr": "Kuşlar şarkı söylemedi.", "en": "The birds didn't sing."},
+  {"id": 731, "tr": "Kuşlar şarkı söyledi mi?", "en": "Did the birds sing?"},
+  {"id": 732, "tr": "Kuşlar ne zaman şarkı söyledi?", "en": "When did the birds sing?"},
+
+  {"id": 733, "tr": "Onlar kulübe katıldı.", "en": "They joined the club."},
+  {"id": 734, "tr": "Onlar kulübe katılmadı.", "en": "They didn't join the club."},
+  {"id": 735, "tr": "Onlar kulübe katıldı mı?", "en": "Did they join the club?"},
+  {"id": 736, "tr": "Onlar ne zaman kulübe katıldı?", "en": "When did they join the club?"},
+
+  {"id": 737, "tr": "Ali her hafta bir toplantıya katıldı.", "en": "Ali attended a meeting every week."},
+  {"id": 738, "tr": "Ali her hafta bir toplantıya katılmadı.", "en": "Ali didn't attend a meeting every week."},
+  {"id": 739, "tr": "Ali her hafta bir toplantıya katıldı mı?", "en": "Did Ali attend a meeting every week?"},
+  {"id": 740, "tr": "Ali ne sıklıkta toplantıya katıldı?", "en": "How often did Ali attend a meeting?"},
+
+  {"id": 741, "tr": "Ali bisikletten düştü.", "en": "Ali fell off the bike."},
+  {"id": 742, "tr": "Ali bisikletten düşmedi.", "en": "Ali didn't fall off the bike."},
+  {"id": 743, "tr": "Ali bisikletten düştü mü?", "en": "Did Ali fall off the bike?"},
+  {"id": 744, "tr": "Ali neden bisikletten düştü?", "en": "Why did Ali fall off the bike?"},
+
+  {"id": 745, "tr": "Ayşe benimle tartıştı..", "en": "Ayse argued with me."},
+  {"id": 746, "tr": "Ayşe benimle tartışmadı.", "en": "Ayse didn't argue with me."},
+  {"id": 747, "tr": "Ayşe seninle tartıştı mı?", "en": "Did Ayse argue with you?"},
+  {"id": 748, "tr": "Ayşe kiminle tartıştı?", "en": "Who did Ayse argue with?"},
+
+  {"id": 749, "tr": "Beni incittin.", "en": "You hurt me."},
+  {"id": 750, "tr": "Beni incitmedin.", "en": "You didn't hurt me."},
+  {"id": 751, "tr": "Seni incittim mi?", "en": "Did I hurt you?"},
+  {"id": 752, "tr": "Kimi incittim?", "en": "Who did I hurt?"},
+
+  {"id": 753, "tr": "O (erkek), insanlardan para çaldı.", "en": "He stole money from the people."},
+  {"id": 754, "tr": "O (erkek), insanlardan para çalmadı.", "en": "He didn't steal money from the people."},
+  {"id": 755, "tr": "O (erkek), insanlardan para çaldı mı?", "en": "Did he steal money from the people?"},
+  {"id": 756, "tr": "O (erkek) kimden para çaldı?", "en": "Who did he steal money from?"},
+
+  {"id": 757, "tr": "Sözlerimi tuttum.", "en": "I kept my words."},
+  {"id": 758, "tr": "Sözlerimi tutmadım.", "en": "I didn't keep my words."},
+  {"id": 759, "tr": "Sözlerini tuttun mu?", "en": "Did you keep your words?"},
+  {"id": 760, "tr": "Ne zaman sözlerini tuttun?", "en": "When did you keep your words?"},
+
+  {"id": 761, "tr": "Anne bebeğini tuttu.", "en": "The mother held her baby."},
+  {"id": 762, "tr": "Anne bebeğini tutmadı.", "en": "The mother didn't hold her baby."},
+  {"id": 763, "tr": "Anne bebeğini tuttu mu?", "en": "Did the mother hold her baby?"},
+  {"id": 764, "tr": "Anne bebeğini nasıl tuttu?", "en": "How did the mother hold her baby?"},
+
+  {"id": 765, "tr": "Ali gerçeği sakladı.", "en": "Ali hid the truth."},
+  {"id": 766, "tr": "Ali gerçeği saklamadı.", "en": "Ali didn't hide the truth."},
+  {"id": 767, "tr": "Ali gerçeği sakladı mı?", "en": "Did Ali hide the truth?"},
+  {"id": 768, "tr": "Ali neyi sakladı?", "en": "What did Ali hide?"},
+
+  {"id": 769, "tr": "Evimi özledim.", "en": "I missed my home."},
+  {"id": 770, "tr": "Evimi özlemedim.", "en": "I didn't miss my home."},
+  {"id": 771, "tr": "Evini özledin mi?", "en": "Did you miss your home?"},
+  {"id": 772, "tr": "Neyi özledin?", "en": "What did you miss?"},
+
+  {"id": 773, "tr": "Ayşe dün sabah treni kaçırdı.", "en": "Ayse missed the train yesterday morning."},
+  {"id": 774, "tr": "Ayşe dün sabah treni kaçırmadı.", "en": "Ayse didn't miss the train yesterday morning."},
+  {"id": 775, "tr": "Ayşe dün sabah treni kaçırdı mı?", "en": "Did Ayse miss the train yesterday morning?"},
+  {"id": 776, "tr": "Ayşe neden treni kaçırdı?", "en": "Why did Ayse miss the train?"},
+
+  {"id": 777, "tr": "Murat topu yakaladı.", "en": "Murat caught the ball."},
+  {"id": 778, "tr": "Murat topu yakalamadı.", "en": "Murat didn't catch the ball."},
+  {"id": 779, "tr": "Murat topu yakaladı mı?", "en": "Did Murat catch the ball?"},
+  {"id": 780, "tr": "Murat neyi yakaladı?", "en": "What did Murat catch?"},
+
+  {"id": 781, "tr": "O (erkek), Arabamı tamir etti.", "en": "He repaired my car."},
+  {"id": 782, "tr": "O (erkek), Arabamı tamir etmedi.", "en": "He didn't repair my car."},
+  {"id": 783, "tr": "O (erkek), Arabanı tamir etti mi?", "en": "Did he repair your car?"},
+  {"id": 784, "tr": "O (erkek), Neyi tamir etti?", "en": "What did he repair?"},
+
+  {"id": 785, "tr": "Sorunlarımızı beraberce çözdük.", "en": "We solved our problems together."},
+  {"id": 786, "tr": "Sorunlarımızı beraberce çözmedik.", "en": "We didn't solve our problems together."},
+  {"id": 787, "tr": "Sorunlarınızı beraberce çözdünüz mü?", "en": "Did you solve your problems together?"},
+  {"id": 788, "tr": "Sorunlarınızı nasıl çözdünüz?", "en": "How did you solve your problems?"},
+
+  {"id": 789, "tr": "Bebek oyuncaklarını kırdı.", "en": "The baby broke the toys."},
+  {"id": 790, "tr": "Bebek oyuncaklarını kırmadı.", "en": "The baby didn't break the toys."},
+  {"id": 791, "tr": "Bebek oyuncaklarını kırdı mı?", "en": "Did the baby break the toys?"},
+  {"id": 792, "tr": "Bebek neyi kırdı?", "en": "What did the baby break?"},
+
+  {"id": 793, "tr": "Ayşe kalbimi kırdı.", "en": "Ayse broke my heart."},
+  {"id": 794, "tr": "Ayşe kalbimi kırmadı.", "en": "Ayse didn't break my heart."},
+  {"id": 795, "tr": "Ayşe kalbini kırdı mı?", "en": "Did Ayse break your heart?"},
+  {"id": 796, "tr": "Ayşe neden kalbini kırdı?", "en": "Why did Ayse break your heart?"},
+
+  {"id": 797, "tr": "Bulaşıkları yıkadım.", "en": "I did the dishes."},
+  {"id": 798, "tr": "Bulaşıkları yıkamadım.", "en": "I didn't do the dishes."},
+  {"id": 799, "tr": "Bulaşıkları yıkadın mı?", "en": "Did you do the dishes?"},
+  {"id": 800, "tr": "Bulaşıkları ne zaman yıkadın?", "en": "When did you do the dishes?"},
+
+  {"id": 801, "tr": "Çamaşırları yıkadım.", "en": "I did the laundry."},
+  {"id": 802, "tr": "Çamaşırları yıkamadım.", "en": "I didn't do the laundry."},
+  {"id": 803, "tr": "Çamaşırları yıkadın mı?", "en": "Did you do the laundry?"},
+  {"id": 804, "tr": "Çamaşırları ne zaman yıkadın?", "en": "When did you do the laundry?"},
+
+  {"id": 805, "tr": "Temizlik yaptım.", "en": "I did the cleaning."},
+  {"id": 806, "tr": "Temizlik yapmadım.", "en": "I didn't do the cleaning."},
+  {"id": 807, "tr": "Temizlik yaptın mı?", "en": "Did you do the cleaning?"},
+  {"id": 808, "tr": "Temizliği ne zaman yaptın?", "en": "When did you do the cleaning?"},
+
+  {"id": 809, "tr": "Saçlarımı yaptırdım.", "en": "I had my hair done."},
+  {"id": 810, "tr": "Saçlarımı yaptırmadım.", "en": "I didn't have my hair done."},
+  {"id": 811, "tr": "Saçlarını yaptırdın mı?", "en": "Did you have your hair done?"},
+  {"id": 812, "tr": "Saçlarını nerede yaptırdın?", "en": "Where did you have your hair done?"},
+
+  {"id": 813, "tr": "Ayşe burnunu yaptırdı.", "en": "Ayse had her nose done."},
+  {"id": 814, "tr": "Ayşe burnunu yaptırmadı.", "en": "Ayse didn't have her nose done."},
+  {"id": 815, "tr": "Ayşe burnunu yaptırdı mı?", "en": "Did Ayse have her nose done?"},
+  {"id": 816, "tr": "Ayşe ne zaman burnunu yaptırdı?", "en": "When did Ayse have her nose done?"},
+
+  {"id": 817, "tr": "Görmek istedim.", "en": "I wanted to see."},
+  {"id": 818, "tr": "Görmek istemedim.", "en": "I didn't want to see."},
+  {"id": 819, "tr": "Görmek istedin mi?", "en": "Did you want to see?"},
+  {"id": 820, "tr": "Ne görmek istedin?", "en": "What did you want to see?"},
+
+  {"id": 821, "tr": "Anlamak istedim.", "en": "I wanted to understand."},
+  {"id": 822, "tr": "Anlamak istemedim.", "en": "I didn't want to understand."},
+  {"id": 823, "tr": "Anlamak istedin mi?", "en": "Did you want to understand?"},
+  {"id": 824, "tr": "Neyi anlamak istedin?", "en": "What did you want to understand?"},
+
+  {"id": 825, "tr": "Bilmeni istedim.", "en": "I wanted you to know."},
+  {"id": 826, "tr": "Bilmeni istemedim.", "en": "I didn't want you to know."},
+  {"id": 827, "tr": "Bilmemi istedin mi?", "en": "Did you want me to know?"},
+  {"id": 828, "tr": "Kimin bilmesini istedin?", "en": "Who did you want to know?"},
+
+  {"id": 829, "tr": "Bilmemizi istediler.", "en": "They wanted us to know."},
+  {"id": 830, "tr": "Bilmemizi istemediler.", "en": "They didn't want us to know."},
+  {"id": 831, "tr": "Bilmenizi istediler mi?", "en": "Did they want you to know?"},
+  {"id": 832, "tr": "Onlar kimin bilmesini istedi?", "en": "Who did they want to know?"},
+
+  {"id": 833, "tr": "Öğrenmenizi istedim.", "en": "I wanted you to learn."},
+  {"id": 834, "tr": "Öğrenmenizi istemedim.", "en": "I didn't want you to learn."},
+  {"id": 835, "tr": "Öğrenmemizi istedin mi?", "en": "Did you want us to learn?"},
+  {"id": 836, "tr": "Neyi öğrenmemizi istedin?", "en": "What did you want us to learn?"}
+]

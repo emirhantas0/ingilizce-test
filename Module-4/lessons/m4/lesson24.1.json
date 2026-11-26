@@ -1,0 +1,1762 @@
+[
+  {
+    "id": 1,
+    "tr": "Bahçe daha demin sulandı.",
+    "en": "The garden has just been watered."
+  },
+  {
+    "id": 2,
+    "tr": "Bahçe iki aydır sulanmadı.",
+    "en": "The garden hasn't been watered for two months."
+  },
+  {
+    "id": 3,
+    "tr": "Bahçe ne zaman sulanacak?",
+    "en": "When will the garden be watered?"
+  },
+  {
+    "id": 4,
+    "tr": "Bahçe sulanmalı.",
+    "en": "The garden must be watered."
+  },
+  {
+    "id": 5,
+    "tr": "Geçen hafta bahçeyi sulamıştım.",
+    "en": "I had watered the garden last week."
+  },
+  {
+    "id": 6,
+    "tr": "Bahçemi sulamak istiyorum.",
+    "en": "I want to water my garden."
+  },
+  {
+    "id": 7,
+    "tr": "Bahçemin sulanmasını istiyorum.",
+    "en": "I want my garden watered / I want my garden to be watered."
+  },
+  {
+    "id": 8,
+    "tr": "Sorunların çözülebilir.",
+    "en": "Your problems can be solved."
+  },
+  {
+    "id": 9,
+    "tr": "Sorunların çözülebilirdi.",
+    "en": "Your problems could be solved."
+  },
+  {
+    "id": 10,
+    "tr": "Sorunların çözülmeli.",
+    "en": "Your problems must be solved."
+  },
+  {
+    "id": 11,
+    "tr": "Sorunların ne zaman çözülecek?",
+    "en": "When will your problems be solved?"
+  },
+  {
+    "id": 12,
+    "tr": "Geçen yıl sorunlarım çözüldü.",
+    "en": "My problems were solved last year."
+  },
+  {
+    "id": 13,
+    "tr": "Sorunlarımı çözmek istiyorum.",
+    "en": "I want to solve my problems."
+  },
+  {
+    "id": 14,
+    "tr": "Sorunlarımın çözülmesini istiyorum.",
+    "en": "I want my problems solved."
+  },
+  {
+    "id": 15,
+    "tr": "Yeni çözümler üretilecek.",
+    "en": "New solutions will be produced."
+  },
+  {
+    "id": 16,
+    "tr": "Yeni çözümler üretilmeli.",
+    "en": "New solutions must be produced."
+  },
+  {
+    "id": 17,
+    "tr": "Acil çözümler üretilmek zorunda.",
+    "en": "Urgent solutions have to be produced."
+  },
+  {
+    "id": 18,
+    "tr": "Acil çözümler üretilmek zorundaydı.",
+    "en": "Urgent solutions had to be produced."
+  },
+  {
+    "id": 19,
+    "tr": "Türkiye'deki eğitimin sorunlarını çözmek için hükümet tarafından acil çözümler üretilmeli.",
+    "en": "Urgent solutions must be produced by the government to solve the problems of education in Turkey."
+  },
+  {
+    "id": 20,
+    "tr": "Acil çözümler üretmek istiyorum.",
+    "en": "I want to produce urgent solutions."
+  },
+  {
+    "id": 21,
+    "tr": "Acil çözümlerin üretilmesini istiyorum.",
+    "en": "I want urgent solutions produced."
+  },
+  {
+    "id": 22,
+    "tr": "Teklifimiz reddedilmedi.",
+    "en": "Our offer wasn't rejected."
+  },
+  {
+    "id": 23,
+    "tr": "Teklifimiz şu ana kadar reddedilmedi.",
+    "en": "Our offer hasn't been rejected so far."
+  },
+  {
+    "id": 24,
+    "tr": "Teklifimiz geçen hafta reddedildi.",
+    "en": "Our offer was rejected last week."
+  },
+  {
+    "id": 25,
+    "tr": "Teklifimiz geçen hafta reddedilmedi.",
+    "en": "Our offer wasn't rejected last week."
+  },
+  {
+    "id": 26,
+    "tr": "Teklifimiz reddedilmeyecek.",
+    "en": "Our offer won't be rejected."
+  },
+  {
+    "id": 27,
+    "tr": "Teklifiniz ne zaman reddedildi?",
+    "en": "When was your offer rejected?"
+  },
+  {
+    "id": 28,
+    "tr": "Teklifimizin reddedilmesini istemiyoruz.",
+    "en": "We don't want our offer rejected."
+  },
+  {
+    "id": 29,
+    "tr": "Bu dükkan üç gün içerisinde kapatılacak.",
+    "en": "This store will be closed in three days."
+  },
+  {
+    "id": 30,
+    "tr": "Bu dükkan ne zaman kapatılacak?",
+    "en": "When will this store be closed?"
+  },
+  {
+    "id": 31,
+    "tr": "Bu dükkan ne zaman kapatıldı?",
+    "en": "When was this store closed?"
+  },
+  {
+    "id": 32,
+    "tr": "Bu dükkan neden kapatıldı?",
+    "en": "Why was this store closed?"
+  },
+  {
+    "id": 33,
+    "tr": "Bu dükkan niçin kapatılacak?",
+    "en": "Why will this store be closed?"
+  },
+  {
+    "id": 34,
+    "tr": "Burada yeni bir dükkan açılacak.",
+    "en": "A new store will be opened here."
+  },
+  {
+    "id": 35,
+    "tr": "Burada yeni bir dükkan açılmayacak.",
+    "en": "A new store won't be opened here."
+  },
+  {
+    "id": 36,
+    "tr": "Burada yeni bir dükkan açılacak mı?",
+    "en": "Will a new store be opened here?"
+  },
+  {
+    "id": 37,
+    "tr": "Burada ne zaman yeni bir dükkan açılacak?",
+    "en": "When will a new store be opened here?"
+  },
+  {
+    "id": 38,
+    "tr": "Burada ne zaman yeni bir dükkan açıldı?",
+    "en": "When was a new store opened here?"
+  },
+  {
+    "id": 39,
+    "tr": "Son zamanlarda burada yeni bir dükkan açılıyordu.",
+    "en": "A new store was being opened here recently."
+  },
+  {
+    "id": 40,
+    "tr": "Yeni yerler görülecek, yeni arkadaşlar edinilecek.",
+    "en": "New places will be seen, new friends will be made."
+  },
+  {
+    "id": 41,
+    "tr": "Yeni yerler görüldü, yeni arkadaşlar edinildi.",
+    "en": "New places were seen, new friends were made."
+  },
+  {
+    "id": 42,
+    "tr": "Türkiye'deki eğitimin geleceği bunlar tarafından planlanmamalı.",
+    "en": "The future of education in Turkey mustn't be planned by these people."
+  },
+  {
+    "id": 43,
+    "tr": "Türkiye'deki eğitimin geleceği bu insanlar tarafından planlanması iyi olmaz.",
+    "en": "The future of education in Turkey shouldn't be planned by these people."
+  },
+  {
+    "id": 44,
+    "tr": "Türkiye'deki eğitimin geleceği ne zaman planlanacak?",
+    "en": "When will the future of education in Turkey be planned?"
+  },
+  {
+    "id": 45,
+    "tr": "Türkiye'deki eğitimin geleceği kim tarafından planlanmalı?",
+    "en": "Who must the future of education in Turkey be planned by?"
+  },
+  {
+    "id": 46,
+    "tr": "Türkiye'deki eğitimin geleceği kim tarafından planlansa iyi olur?",
+    "en": "Who should the future of education in Turkey be planned by?"
+  },
+  {
+    "id": 47,
+    "tr": "Türkiye'deki eğitimin geleceği kim tarafından planlanırdı?",
+    "en": "Who would the future of education in Turkey be planned by?"
+  },
+  {
+    "id": 48,
+    "tr": "Türkiye'deki eğitimin geleceği kim tarafından planlanacak?",
+    "en": "Who will the future of education in Turkey be planned by?"
+  },
+  {
+    "id": 49,
+    "tr": "Dün arabamız polis tarafından durduruldu.",
+    "en": "Our car was stopped by the police yesterday."
+  },
+  {
+    "id": 50,
+    "tr": "Arabamız polis tarafından 2 aydır durdurulmadı.",
+    "en": "Our car hasn't been stopped by the police for 2 months."
+  },
+  {
+    "id": 51,
+    "tr": "Sizin arabanız hiç polis tarafından durduruldu mu?",
+    "en": "Has your car ever been stopped by the police?"
+  },
+  {
+    "id": 52,
+    "tr": "Sizin arabanız polis tarafından ne zaman durduruldu?",
+    "en": "When was your car stopped by the police?"
+  },
+  {
+    "id": 53,
+    "tr": "Sizin arabanız polis tarafından nerede durduruldu?",
+    "en": "Where was your car stopped by the police?"
+  },
+  {
+    "id": 54,
+    "tr": "Sizin arabanız kim tarafından durduruldu?",
+    "en": "Who was your car stopped by?"
+  },
+  {
+    "id": 55,
+    "tr": "Arabanız kim tarafından durduruldu biliyor musun?",
+    "en": "Do you know who your car was stopped by?"
+  },
+  {
+    "id": 56,
+    "tr": "Arabamız kim tarafından durdurulabilir biliyor musun?",
+    "en": "Do you know who our car can be stopped by?"
+  },
+  {
+    "id": 57,
+    "tr": "Arabamız kim tarafından durdurulabilirdi biliyor musun?",
+    "en": "Do you know who our car could be stopped by?"
+  },
+  {
+    "id": 58,
+    "tr": "Ben hiç polis tarafından durdurulmamıştım.",
+    "en": "I had never been stopped by the police."
+  },
+  {
+    "id": 59,
+    "tr": "Ben hiç polis tarafından durdurulmadım.",
+    "en": "I have never been stopped by the police."
+  },
+  {
+    "id": 60,
+    "tr": "Sen hiç polis tarafından durduruldun mu?",
+    "en": "Have you ever been stopped by the police?"
+  },
+  {
+    "id": 61,
+    "tr": "Arabalar şu anda polis tarafından durduruluyor.",
+    "en": "The cars are being stopped by the police now."
+  },
+  {
+    "id": 62,
+    "tr": "Arabalar şu anda polis tarafından durdurulmuyor.",
+    "en": "The cars aren't being stopped by the police now."
+  },
+  {
+    "id": 63,
+    "tr": "Arabalar şu an polis tarafından durduruluyor mu?",
+    "en": "Are the cars being stopped by the police now?"
+  },
+  {
+    "id": 64,
+    "tr": "Arabalar polis tarafından durduruluyordu.",
+    "en": "The cars were being stopped by the police."
+  },
+  {
+    "id": 65,
+    "tr": "Arabalar polis tarafından durdurulmuyordu.",
+    "en": "The cars weren't being stopped by the police."
+  },
+  {
+    "id": 66,
+    "tr": "Arabalar polis tarafından durduruluyor muydu?",
+    "en": "Were the cars being stopped by the police?"
+  },
+  {
+    "id": 67,
+    "tr": "Arabalar polis tarafından durdurulmuyor muydu?",
+    "en": "Weren't the cars being stopped by the police?"
+  },
+  {
+    "id": 68,
+    "tr": "Arabalar neden polis tarafından durduruluyordu?",
+    "en": "Why were the cars being stopped by the police?"
+  },
+  {
+    "id": 69,
+    "tr": "Arabalar nerede polis tarafından durduruluyordu?",
+    "en": "Where were the cars being stopped by the police?"
+  },
+  {
+    "id": 70,
+    "tr": "Burada arabalar her zaman polis tarafından durdurulur.",
+    "en": "The cars are always stopped by the police here."
+  },
+  {
+    "id": 71,
+    "tr": "Burada arabalar bazen polis tarafından durdurulur.",
+    "en": "The cars are sometimes stopped by the police here."
+  },
+  {
+    "id": 72,
+    "tr": "Burada arabalar asla polis tarafından durdurulmaz.",
+    "en": "The cars are never stopped by the police here."
+  },
+  {
+    "id": 73,
+    "tr": "Burada arabalar nadiren polis tarafından durdurulur.",
+    "en": "The cars are rarely stopped by the police here."
+  },
+  {
+    "id": 74,
+    "tr": "Kapılar kitlendi, ışıklar söndürüldü. Artık uyuma zamanı!",
+    "en": "The doors were locked, the lights were turned off, it's time to sleep now!"
+  },
+  {
+    "id": 75,
+    "tr": "Kapılar kitlenecek, ışıklar söndürülecek.",
+    "en": "The doors will be locked, the lights will be turned off."
+  },
+  {
+    "id": 76,
+    "tr": "Emailler gönderildi, raporlar yazıldı. Eve gitme zamanı geldi!",
+    "en": "The emails were sent, the reports were written, it's time to go home!"
+  },
+  {
+    "id": 77,
+    "tr": "Bulaşıklar yıkandı, mutfak temizlendi, her şey hazır.",
+    "en": "The dishes were done, the kitchen was cleaned, everything is ready."
+  },
+  {
+    "id": 78,
+    "tr": "Çantalar toplandı, her şey hazırlandı, artık çıkabiliriz.",
+    "en": "The bags were packed, everything was prepared, we can leave now."
+  },
+  {
+    "id": 79,
+    "tr": "Raporlar hazırlandı ve kontrol edildi.",
+    "en": "The reports were prepared and checked."
+  },
+  {
+    "id": 80,
+    "tr": "Veriler analiz edildi ve doğrulandı.",
+    "en": "The data was analyzed and verified."
+  },
+  {
+    "id": 81,
+    "tr": "Hatalar bulundu ve düzeltildi.",
+    "en": "The errors were found and corrected."
+  },
+  {
+    "id": 82,
+    "tr": "Sözleşmeler imzalandı ve arşivlendi.",
+    "en": "The agreements were signed and archived."
+  },
+  {
+    "id": 83,
+    "tr": "Örnekler toplandı ve laboratuvara gönderildi.",
+    "en": "The samples were collected and sent to the laboratory."
+  },
+  {
+    "id": 84,
+    "tr": "Pasaportum ve cüzdanım polis tarafından istendi.",
+    "en": "My passport and wallet were requested by the police."
+  },
+  {
+    "id": 85,
+    "tr": "Kimlik kartım güvenlik görevlisi tarafından istendi.",
+    "en": "My ID card was requested by the security guard."
+  },
+  {
+    "id": 86,
+    "tr": "Ek belgeler yönetim tarafından istendi.",
+    "en": "Additional documents were requested by the management."
+  },
+  {
+    "id": 87,
+    "tr": "Ek önlemler alınmalı.",
+    "en": "Additional precautions must be taken."
+  },
+  {
+    "id": 88,
+    "tr": "Ek önlemler alındı.",
+    "en": "Additional precautions were taken."
+  },
+  {
+    "id": 89,
+    "tr": "Ek önlemler alınabilir.",
+    "en": "Additional precautions can be taken."
+  },
+  {
+    "id": 90,
+    "tr": "Ek önlemler alınabilirdi.",
+    "en": "Additional precautions could be taken."
+  },
+  {
+    "id": 91,
+    "tr": "Ek önlemler alınması gerek.",
+    "en": "Additional precautions need to be taken."
+  },
+  {
+    "id": 92,
+    "tr": "Ek önlemler alınmak zorunda.",
+    "en": "Additional precautions have to be taken."
+  },
+  {
+    "id": 93,
+    "tr": "Ek önlemler alınsa iyi olur.",
+    "en": "Additional precautions should be taken."
+  },
+  {
+    "id": 94,
+    "tr": "Ek önlemler alınırdı.",
+    "en": "Additional precautions would be taken."
+  },
+  {
+    "id": 95,
+    "tr": "Ne zaman ek önlemler alınacak?",
+    "en": "When will additional precautions be taken?"
+  },
+  {
+    "id": 96,
+    "tr": "Neden ek önlemler alınmadı?",
+    "en": "Why weren't additional precautions taken?"
+  },
+  {
+    "id": 97,
+    "tr": "Neden tüm personel bilgilendirilmedi?",
+    "en": "Why weren't all staff members informed?"
+  },
+  {
+    "id": 98,
+    "tr": "Neden müdüre bilgi verilmedi?",
+    "en": "Why wasn't the information given to the manager?"
+  },
+  {
+    "id": 99,
+    "tr": "Neden müşteriye henüz cevap verilmedi?",
+    "en": "Why hasn't the customer been answered yet?"
+  },
+  {
+    "id": 100,
+    "tr": "Öğrencilerin sınıflara girmesine izin verilmedi.",
+    "en": "The students weren't allowed to enter the classrooms."
+  },
+  {
+    "id": 101,
+    "tr": "Öğrencilerin sınıflara girmesine neden izin verilmedi?",
+    "en": "Why weren't the students allowed to enter the classrooms?"
+  },
+  {
+    "id": 102,
+    "tr": "Öğrencilerin sınıflara girmesine henüz izin verilmedi.",
+    "en": "The students haven't been allowed to enter the classrooms yet."
+  },
+  {
+    "id": 103,
+    "tr": "Öğrencilerin sınıflara girmesine az önce izin verildi.",
+    "en": "The students have just been allowed to enter the classrooms."
+  },
+  {
+    "id": 104,
+    "tr": "Öğrencilerin sınıflara girmesine kim tarafından izin verildi?",
+    "en": "Who were the students allowed to enter the classrooms by?"
+  },
+  {
+    "id": 105,
+    "tr": "Öğrencilerin sınıflara girmesine kim tarafından izin verilecek?",
+    "en": "Who will the students be allowed to enter the classrooms by?"
+  },
+  {
+    "id": 106,
+    "tr": "Üniversitedeki öğrencilerin protesto yapmasına izin verilmedi.",
+    "en": "The students at the university weren't allowed to protest."
+  },
+  {
+    "id": 107,
+    "tr": "Üniversitedeki öğrencilerin protesto yapmasına 1 haftadır izin verilmedi.",
+    "en": "The students at the university haven't been allowed to protest for a week."
+  },
+  {
+    "id": 108,
+    "tr": "Neden üniversitedeki öğrencilerin protesto yapmasına 1 haftadır izin verilmedi?",
+    "en": "Why haven't the students at the university been allowed to protest for a week?"
+  },
+  {
+    "id": 109,
+    "tr": "Hangi üniversitedeki öğrencilerin protesto yapmasına 1 haftadır izin verilmedi?",
+    "en": "In which university haven't the students been allowed to protest for a week?"
+  },
+  {
+    "id": 110,
+    "tr": "Üniversitedeki öğrencilerin protesto yapmasına izin verilebilir.",
+    "en": "The students at the university can be allowed to protest."
+  },
+  {
+    "id": 111,
+    "tr": "Üniversitedeki öğrencilerin protesto yapmasına belki izin verilebilir.",
+    "en": "The students at the university might be allowed to protest."
+  },
+  {
+    "id": 112,
+    "tr": "Üniversitedeki öğrencilerin protesto yapmasına izin verilmeli.",
+    "en": "The students at the university must be allowed to protest."
+  },
+  {
+    "id": 113,
+    "tr": "Üniversitedeki öğrencilerin protesto yapmasına izin verilirdi.",
+    "en": "The students at the university would be allowed to protest."
+  },
+  {
+    "id": 114,
+    "tr": "Özgür bir ülkede üniversitedeki öğrencilerin protesto yapmasına izin verilmeli.",
+    "en": "The students at the university must be allowed to protest in a free country."
+  },
+  {
+    "id": 115,
+    "tr": "Özgür bir ülkede üniversitedeki öğrencilerin protesto yapmasına izin verilirdi.",
+    "en": "The students at the university would be allowed to protest in a free country."
+  },
+  {
+    "id": 116,
+    "tr": "Oğlum iyi bir üniversiteye kabul edildi.",
+    "en": "My son was accepted to a good university."
+  },
+  {
+    "id": 117,
+    "tr": "Oğlum iyi bir üniversiteye kabul edilmedi.",
+    "en": "My son wasn't accepted to a good university."
+  },
+  {
+    "id": 118,
+    "tr": "Oğlum iyi bir üniversiteye henüz kabul edilmedi.",
+    "en": "My son hasn't been accepted to a good university yet."
+  },
+  {
+    "id": 119,
+    "tr": "Oğlum gelecek yıl iyi bir üniversiteye kabul edilecek.",
+    "en": "My son will be accepted to a good university next year."
+  },
+  {
+    "id": 120,
+    "tr": "Oğlun ne zaman iyi bir üniversiteye kabul edilecek?",
+    "en": "When will your son be accepted to a good university?"
+  },
+  {
+    "id": 121,
+    "tr": "Oğlun hangi üniversite tarafından kabul edildi?",
+    "en": "Which university was your son accepted by?"
+  },
+  {
+    "id": 122,
+    "tr": "Kızım geçen hafta iyi bir üniversiteye kabul edildi.",
+    "en": "My daughter was accepted to a good university last week."
+  },
+  {
+    "id": 123,
+    "tr": "Ehliyetim onaylandı.",
+    "en": "My driver's licence was approved."
+  },
+  {
+    "id": 124,
+    "tr": "Ehliyetim az önce onaylandı.",
+    "en": "My driver's licence has just been approved."
+  },
+  {
+    "id": 125,
+    "tr": "Ehliyetim 2 aydır onaylanmadı.",
+    "en": "My driver's licence hasn't been approved for 2 months."
+  },
+  {
+    "id": 126,
+    "tr": "Ehliyetin ne zamandır onaylanmadı?",
+    "en": "How long hasn't your driver's licence been approved?"
+  },
+  {
+    "id": 127,
+    "tr": "Pasaportum onaylandı.",
+    "en": "My passport was approved."
+  },
+  {
+    "id": 128,
+    "tr": "Pasaportum onaylanmadı.",
+    "en": "My passport wasn't approved."
+  },
+  {
+    "id": 129,
+    "tr": "Pasaportum henüz onaylanmadı.",
+    "en": "My passport hasn't been approved yet."
+  },
+  {
+    "id": 130,
+    "tr": "Pasaportum 4 aydır onaylanmadı.",
+    "en": "My passport hasn't been approved for 4 months."
+  },
+  {
+    "id": 131,
+    "tr": "Neden pasaportun 1 aydır onaylanmadı?",
+    "en": "Why hasn't your passport been approved for a month?"
+  },
+  {
+    "id": 132,
+    "tr": "Bana yeni bir iş teklif edildi. Ama kabul etmeyeceğim.",
+    "en": "A new job was offered to me, but I won't accept it."
+  },
+  {
+    "id": 133,
+    "tr": "Bana henüz iyi bir iş teklif edilmedi.",
+    "en": "A good job hasn't been offered to me yet."
+  },
+  {
+    "id": 134,
+    "tr": "Bana hiç iyi bir iş teklif edilmedi.",
+    "en": "A good job has never been offered to me."
+  },
+  {
+    "id": 135,
+    "tr": "Sana hiç iyi bir iş teklif edildi mi?",
+    "en": "Has a good job ever been offered to you?"
+  },
+  {
+    "id": 136,
+    "tr": "Sana ne zaman iyi bir iş teklif edildi?",
+    "en": "When was a good job offered to you?"
+  },
+  {
+    "id": 137,
+    "tr": "Sana kim tarafından iyi bir iş teklif edildi?",
+    "en": "Who was a good job offered to you by?"
+  },
+  {
+    "id": 138,
+    "tr": "Büyük kamyon şu anda insanlar tarafından itiliyor.",
+    "en": "The big truck is being pushed by the people."
+  },
+  {
+    "id": 139,
+    "tr": "Büyük kamyon insanlar tarafından itildi.",
+    "en": "The big truck was pushed by the people."
+  },
+  {
+    "id": 140,
+    "tr": "Büyük kamyon insanlar tarafından pazartesi sabahı itiliyordu.",
+    "en": "The big truck was being pushed by the people on Monday morning."
+  },
+  {
+    "id": 141,
+    "tr": "Çarşamba öğleden sonra büyük kamyon insanlar tarafından itiliyor muydu?",
+    "en": "Was the big truck being pushed by the people on Wednesday afternoon?"
+  },
+  {
+    "id": 142,
+    "tr": "Denize düşen köpek insanlar tarafından kıyıya çekiliyor.",
+    "en": "The dog that fell into the sea is being pulled to the shore by the people."
+  },
+  {
+    "id": 143,
+    "tr": "Denize düşen köpek insanlar tarafından kıyıya çekildi.",
+    "en": "The dog that fell into the sea was pulled to the shore by the people."
+  },
+  {
+    "id": 144,
+    "tr": "Denize düşen köpek insanlar tarafından kıyıya çekilecek.",
+    "en": "The dog that fell into the sea will be pulled to the shore by the people."
+  },
+  {
+    "id": 145,
+    "tr": "Denize düşen köpek insanlar tarafından nasıl kıyıya çekilecek?",
+    "en": "How will the dog that fell into the sea be pulled to the shore by the people?"
+  },
+  {
+    "id": 146,
+    "tr": "Denize düşen köpek kıyıya nasıl çekilebilir?",
+    "en": "How can the dog that fell into the sea be pulled to the shore?"
+  },
+  {
+    "id": 147,
+    "tr": "Denize düşen köpek mümkün olan en kısa sürede kıyıya çekilmeli.",
+    "en": "The dog that fell into the sea must be pulled to the shore as soon as possible."
+  },
+  {
+    "id": 148,
+    "tr": "Patatesler haşlandı, etler kızartıldı, makarna haşlandı. Akşam yemeği için her şey hazır!",
+    "en": "The potatoes were boiled, the meat was fried, the pasta was boiled, everything is ready for dinner!"
+  },
+  {
+    "id": 149,
+    "tr": "Masum insanlar öldürüldü.",
+    "en": "Innocent people were killed."
+  },
+  {
+    "id": 150,
+    "tr": "Masum insanlar öldürülüyor.",
+    "en": "Innocent people are being killed."
+  },
+  {
+    "id": 151,
+    "tr": "Masum insanlar öldürülecek.",
+    "en": "Innocent people will be killed."
+  },
+  {
+    "id": 152,
+    "tr": "Neden masum insanlar öldürüldü?",
+    "en": "Why were the innocent people killed?"
+  },
+  {
+    "id": 153,
+    "tr": "Ne zaman masum insanlar öldürüldü?",
+    "en": "When were the innocent people killed?"
+  },
+  {
+    "id": 154,
+    "tr": "Nerede masum insanlar öldürüldü?",
+    "en": "Where were the innocent people killed?"
+  },
+  {
+    "id": 155,
+    "tr": "Masum insanlar öldürülmemeli.",
+    "en": "The innocent people mustn't be killed."
+  },
+  {
+    "id": 156,
+    "tr": "Genç insanlar savaşa gönderilecek.",
+    "en": "Young people will be sent to the war."
+  },
+  {
+    "id": 157,
+    "tr": "Genç insanlar savaşa gönderilecek mi?",
+    "en": "Will the young people be sent to the war?"
+  },
+  {
+    "id": 158,
+    "tr": "Ne zaman genç insanlar savaşa gönderilecek?",
+    "en": "When will the young people be sent to the war?"
+  },
+  {
+    "id": 159,
+    "tr": "Genç insanlar savaş için nereye gönderilecek?",
+    "en": "Where will the young people be sent for the war?"
+  },
+  {
+    "id": 160,
+    "tr": "Soruların yanıtlanmadı.",
+    "en": "Your questions weren't answered."
+  },
+  {
+    "id": 161,
+    "tr": "Soruların yanıtlandı mı?",
+    "en": "Were your questions answered?"
+  },
+  {
+    "id": 162,
+    "tr": "Soruların ne zaman yanıtlandı?",
+    "en": "When were your questions answered?"
+  },
+  {
+    "id": 163,
+    "tr": "Soruların ne zaman yanıtlanacak?",
+    "en": "When will your questions be answered?"
+  },
+  {
+    "id": 164,
+    "tr": "Sorularım yanıtlanmıyor.",
+    "en": "My questions aren't being answered."
+  },
+  {
+    "id": 165,
+    "tr": "Sorularım yanıtlanmıyordu.",
+    "en": "My questions weren't being answered."
+  },
+  {
+    "id": 166,
+    "tr": "Sorularım henüz yanıtlanmadı.",
+    "en": "My questions haven't been answered yet."
+  },
+  {
+    "id": 167,
+    "tr": "Sorularım az önce yanıtlandı.",
+    "en": "My questions have just been answered."
+  },
+  {
+    "id": 168,
+    "tr": "Sorularım şu ana kadar yanıtlanmadı.",
+    "en": "My questions haven't been answered so far."
+  },
+  {
+    "id": 169,
+    "tr": "Neden sorularım şu ana kadar yanıtlanmadı?",
+    "en": "Why haven't my questions been answered so far?"
+  },
+  {
+    "id": 170,
+    "tr": "Neden sorularım hiç yanıtlanmadı?",
+    "en": "Why haven't my questions ever been answered?"
+  },
+  {
+    "id": 171,
+    "tr": "Neden sorularımın hiçbirisine şu ana kadar yanıt verilmedi?",
+    "en": "Why haven't any of my questions been answered so far?"
+  },
+  {
+    "id": 172,
+    "tr": "Neden sorularımın bazılarına şu ana kadar yanıt verilmedi?",
+    "en": "Why haven't some of my questions been answered so far?"
+  },
+  {
+    "id": 173,
+    "tr": "Neden sorularımın tamamına şu ana kadar yanıt verilmedi?",
+    "en": "Why haven't all of my questions been answered so far?"
+  },
+  {
+    "id": 174,
+    "tr": "Sorularımın tümü yanıtlanmak zorunda.",
+    "en": "All of my questions have to be answered."
+  },
+  {
+    "id": 175,
+    "tr": "Tatilimiz ertelendi.",
+    "en": "Our holiday was postponed."
+  },
+  {
+    "id": 176,
+    "tr": "Tatilimiz ertelenecek.",
+    "en": "Our holiday will be postponed."
+  },
+  {
+    "id": 177,
+    "tr": "Tatilimiz belki ertelenebilir.",
+    "en": "Our holiday might be postponed."
+  },
+  {
+    "id": 178,
+    "tr": "Tatilimiz ertelenmeli.",
+    "en": "Our holiday must be postponed."
+  },
+  {
+    "id": 179,
+    "tr": "Tatilimiz ertelenmese iyi olur.",
+    "en": "Our holiday shouldn't be postponed."
+  },
+  {
+    "id": 180,
+    "tr": "Tatilimiz iptal edildi.",
+    "en": "Our holiday was cancelled."
+  },
+  {
+    "id": 181,
+    "tr": "Tatilimiz iptal edilebilir.",
+    "en": "Our holiday can be cancelled."
+  },
+  {
+    "id": 182,
+    "tr": "Tatilimiz iptal edilebilirdi.",
+    "en": "Our holiday could be cancelled."
+  },
+  {
+    "id": 183,
+    "tr": "Tatiliniz iptal mi edildi?",
+    "en": "Was your holiday cancelled?"
+  },
+  {
+    "id": 184,
+    "tr": "Tatiliniz ne zaman iptal edildi?",
+    "en": "When was your holiday cancelled?"
+  },
+  {
+    "id": 185,
+    "tr": "Tatiliniz neden iptal edildi?",
+    "en": "Why was your holiday cancelled?"
+  },
+  {
+    "id": 186,
+    "tr": "Rezervasyonumuz iptal edilmiş.",
+    "en": "Our reservation had been cancelled."
+  },
+  {
+    "id": 187,
+    "tr": "Rezervasyonumuz henüz iptal edilmedi.",
+    "en": "Our reservation hasn't been cancelled yet."
+  },
+  {
+    "id": 188,
+    "tr": "Rezervasyonumuz 2 haftadır iptal edilmedi.",
+    "en": "Our reservation hasn't been cancelled for 2 weeks."
+  },
+  {
+    "id": 189,
+    "tr": "Rezervasyonumuz iptal edilmeli.",
+    "en": "Our reservation must be cancelled."
+  },
+  {
+    "id": 190,
+    "tr": "Uçuşumuz belki iptal edilebilir.",
+    "en": "Our flight might be cancelled."
+  },
+  {
+    "id": 191,
+    "tr": "Uçuşumuz neden iptal edildi?",
+    "en": "Why was our flight cancelled?"
+  },
+  {
+    "id": 192,
+    "tr": "Uçuşunuz saat kaçta iptal edildi?",
+    "en": "What time was your flight cancelled?"
+  },
+  {
+    "id": 193,
+    "tr": "Güneşli günlerde çocukların bahçede oynamasına izin verilmeli.",
+    "en": "The children must be allowed to play in the garden on sunny days."
+  },
+  {
+    "id": 194,
+    "tr": "Güneşli günlerde çocukların bahçede oynamasına izin verilebilir.",
+    "en": "The children can be allowed to play in the garden on sunny days."
+  },
+  {
+    "id": 195,
+    "tr": "Güneşli günlerde çocukların bahçede oynamasına izin verilebilirdi.",
+    "en": "The children could be allowed to play in the garden on sunny days."
+  },
+  {
+    "id": 196,
+    "tr": "Güneşli günlerde çocukların bahçede oynamasına izin verilirdi.",
+    "en": "The children would be allowed to play in the garden on sunny days."
+  },
+  {
+    "id": 197,
+    "tr": "Yağmurlu günlerde çocukların bahçede oynamasına izin verilmese daha iyi olur.",
+    "en": "The children shouldn't be allowed to play in the garden on rainy days."
+  },
+  {
+    "id": 198,
+    "tr": "Yağmurlu günlerde çocukların bahçede oynamasına izin verilmemeli.",
+    "en": "The children mustn't be allowed to play in the garden on rainy days."
+  },
+  {
+    "id": 199,
+    "tr": "Bize İngilizce yanlış bir şekilde öğretildi.",
+    "en": "English was taught to us wrongly / We were taught English wrongly."
+  },
+  {
+    "id": 200,
+    "tr": "İngilizce bize bu metotla kolay bir şekilde öğretilebilirdi.",
+    "en": "English could be taught to us easily with this method."
+  },
+  {
+    "id": 201,
+    "tr": "Keşke İngilizce bize böyle öğretilmiş olsaydı.",
+    "en": "I wish English had been taught to us like this."
+  },
+  {
+    "id": 202,
+    "tr": "Cüzdanım garson tarafından masanın altında bulundu.",
+    "en": "My wallet was found under the table by the waiter."
+  },
+  {
+    "id": 203,
+    "tr": "Cüzdanın kim tarafından masanın altında bulundu?",
+    "en": "Who was your wallet found under the table by?"
+  },
+  {
+    "id": 204,
+    "tr": "Cüzdanın ne zaman bulundu?",
+    "en": "When was your wallet found?"
+  },
+  {
+    "id": 205,
+    "tr": "Bahçede küçük bir köpek bulundu.",
+    "en": "A small dog was found in the garden."
+  },
+  {
+    "id": 206,
+    "tr": "Uçaklar tecrübeli pilotlar tarafından uçurulmalı.",
+    "en": "The planes must be flown by experienced pilots."
+  },
+  {
+    "id": 207,
+    "tr": "Her şey benden saklandı.",
+    "en": "Everything was hidden from me."
+  },
+  {
+    "id": 208,
+    "tr": "Bu arabanın her parçası Almanya'da üretildi.",
+    "en": "Every part of this car was produced in Germany."
+  },
+  {
+    "id": 209,
+    "tr": "Bu arabanın her parçası Almanya'da üretilecek.",
+    "en": "Every part of this car will be produced in Germany."
+  },
+  {
+    "id": 210,
+    "tr": "Bu arabanın her parçası Almanya'da üretilebilir.",
+    "en": "Every part of this car can be produced in Germany."
+  },
+  {
+    "id": 211,
+    "tr": "Bu arabanın her parçası Almanya'da üretilir.",
+    "en": "Every part of this car is produced in Germany."
+  },
+  {
+    "id": 212,
+    "tr": "Bu arabanın her parçası Almanya'da üretiliyordu.",
+    "en": "Every part of this car was being produced in Germany."
+  },
+  {
+    "id": 213,
+    "tr": "Saçlarım yıkandı.",
+    "en": "My hair was washed."
+  },
+  {
+    "id": 214,
+    "tr": "Saçlarım yıkanacak.",
+    "en": "My hair will be washed."
+  },
+  {
+    "id": 215,
+    "tr": "Saçların ne zaman yıkanacak?",
+    "en": "When will your hair be washed?"
+  },
+  {
+    "id": 216,
+    "tr": "Kıyafetlerim kurutuldu.",
+    "en": "My clothes were dried."
+  },
+  {
+    "id": 217,
+    "tr": "Kıyafetlerim kurutulacak.",
+    "en": "My clothes will be dried."
+  },
+  {
+    "id": 218,
+    "tr": "Kıyafetlerim henüz kurutulmadı.",
+    "en": "My clothes haven't been dried yet."
+  },
+  {
+    "id": 219,
+    "tr": "Kıyafetlerimiz 2 gündür kurutulmadı.",
+    "en": "Our clothes haven't been dried for 2 days."
+  },
+  {
+    "id": 220,
+    "tr": "Tırnaklarım kesildi.",
+    "en": "My nails were cut."
+  },
+  {
+    "id": 221,
+    "tr": "Tırnaklarım kesiliyor.",
+    "en": "My nails are being cut."
+  },
+  {
+    "id": 222,
+    "tr": "Tırnaklarım kesilecek.",
+    "en": "My nails will be cut."
+  },
+  {
+    "id": 223,
+    "tr": "Tırnakların kesilmeli.",
+    "en": "Your nails must be cut."
+  },
+  {
+    "id": 224,
+    "tr": "Çimenler kesildi.",
+    "en": "The grass was cut."
+  },
+  {
+    "id": 225,
+    "tr": "Çimenler her hafta kesilir.",
+    "en": "The grass is cut every week."
+  },
+  {
+    "id": 226,
+    "tr": "Çimenler her hafta kesilmeli.",
+    "en": "The grass must be cut every week."
+  },
+  {
+    "id": 227,
+    "tr": "Geçen hafta biberler kurutuldu.",
+    "en": "The peppers were dried last week."
+  },
+  {
+    "id": 228,
+    "tr": "Biberler kurutulacak.",
+    "en": "The peppers will be dried."
+  },
+  {
+    "id": 229,
+    "tr": "Finansal sorunlarım çözüldü.",
+    "en": "My financial problems were solved."
+  },
+  {
+    "id": 230,
+    "tr": "Finansal sorunlarım çözülecek.",
+    "en": "My financial problems will be solved."
+  },
+  {
+    "id": 231,
+    "tr": "Finansal sorunların çözüldü mü?",
+    "en": "Were your financial problems solved?"
+  },
+  {
+    "id": 232,
+    "tr": "Finansal sorunların ne zaman çözüldü?",
+    "en": "When were your financial problems solved?"
+  },
+  {
+    "id": 233,
+    "tr": "Finansal sorunların ne zaman çözülecek?",
+    "en": "When will your financial problems be solved?"
+  },
+  {
+    "id": 234,
+    "tr": "Finansal sorunların çözülmek zorunda.",
+    "en": "Your financial problems have to be solved."
+  },
+  {
+    "id": 235,
+    "tr": "Finansal sorunlarının çözülmesi gerek.",
+    "en": "Your financial problems need to be solved."
+  },
+  {
+    "id": 236,
+    "tr": "Finansal sorunlarım 1 yıldır çözülmedi.",
+    "en": "My financial problems haven't been solved for a year."
+  },
+  {
+    "id": 237,
+    "tr": "Finansal sorunlarım henüz çözülmedi.",
+    "en": "My financial problems haven't been solved yet."
+  },
+  {
+    "id": 238,
+    "tr": "Finansal sorunlarım senden önce çözülmemişti.",
+    "en": "My financial problems hadn't been solved before you."
+  },
+  {
+    "id": 239,
+    "tr": "Onlara yeni bir iş teklif edildi.",
+    "en": "A new job was offered to them. / They were offered a new job."
+  },
+  {
+    "id": 240,
+    "tr": "Maaşım artırıldı.",
+    "en": "My salary was increased."
+  },
+  {
+    "id": 241,
+    "tr": "Maaşım 1000 $ artırıldı.",
+    "en": "My salary was increased by one thousand dollars."
+  },
+  {
+    "id": 242,
+    "tr": "Maaşım %10 artırıldı.",
+    "en": "My salary was increased by ten percent."
+  },
+  {
+    "id": 243,
+    "tr": "Maaşım %10 artırılacak.",
+    "en": "My salary will be increased by ten percent."
+  },
+  {
+    "id": 244,
+    "tr": "Fiyatlar %10 artırıldı.",
+    "en": "The prices were increased by ten percent."
+  },
+  {
+    "id": 245,
+    "tr": "Ev fiyatları %10 artırıldı.",
+    "en": "The prices of houses were increased by ten percent."
+  },
+  {
+    "id": 246,
+    "tr": "Benzin fiyatları savaş yüzünden %50 artırıldı.",
+    "en": "The prices of petrol were increased by fifty percent because of the war."
+  },
+  {
+    "id": 247,
+    "tr": "Benzin fiyatları neden %50 artırıldı?",
+    "en": "Why were the prices of petrol increased by fifty percent?"
+  },
+  {
+    "id": 248,
+    "tr": "Benzin fiyatları 2 aydır artırılıyor.",
+    "en": "The prices of petrol have been increased for two months."
+  },
+  {
+    "id": 249,
+    "tr": "Benzin fiyatları hiç bu kadar artırılmamıştı.",
+    "en": "The prices of petrol had never been increased this much."
+  },
+  {
+    "id": 250,
+    "tr": "Et fiyatları düşürüldü.",
+    "en": "The prices of meat were decreased."
+  },
+  {
+    "id": 251,
+    "tr": "Et fiyatları neden düşürülmedi?",
+    "en": "Why weren't the prices of meat decreased?"
+  },
+  {
+    "id": 252,
+    "tr": "Et fiyatları ne zaman düşürüldü?",
+    "en": "When were the prices of meat decreased?"
+  },
+  {
+    "id": 253,
+    "tr": "Et fiyatları ne zaman düşürülecek?",
+    "en": "When will the prices of meat be decreased?"
+  },
+  {
+    "id": 254,
+    "tr": "Et fiyatları yüzde kaç düşürüldü?",
+    "en": "By what percentage were the prices of meat decreased?"
+  },
+  {
+    "id": 255,
+    "tr": "Et fiyatları 10 doların altına düşürüldü.",
+    "en": "The prices of meat were decreased under ten dollars."
+  },
+  {
+    "id": 256,
+    "tr": "Et fiyatları 5 doların altına düşürülmeli.",
+    "en": "The prices of meat must be decreased under five dollars."
+  },
+  {
+    "id": 257,
+    "tr": "Et fiyatları 5 doların altına düşürülse iyi olur.",
+    "en": "The prices of meat should be decreased under five dollars."
+  },
+  {
+    "id": 258,
+    "tr": "Yaşam kalitemiz on yıldır düşürüldü.",
+    "en": "Our quality of life has been decreased for ten years."
+  },
+  {
+    "id": 259,
+    "tr": "Yaşam kalitemiz düşürüldü.",
+    "en": "Our quality of life was decreased."
+  },
+  {
+    "id": 260,
+    "tr": "Yaşam kalitemiz düşürülmüştü.",
+    "en": "Our quality of life had been decreased."
+  },
+  {
+    "id": 261,
+    "tr": "Yaşam kalitemiz düşürülüyor.",
+    "en": "Our quality of life is being decreased."
+  },
+  {
+    "id": 262,
+    "tr": "Yaşam kalitemiz düşürülüyordu.",
+    "en": "Our quality of life was being decreased."
+  },
+  {
+    "id": 263,
+    "tr": "Yaşam kalitemiz düşürülecek.",
+    "en": "Our quality of life will be decreased."
+  },
+  {
+    "id": 264,
+    "tr": "Yaşam kalitemiz düşürülmemeli.",
+    "en": "Our quality of life mustn't be decreased."
+  },
+  {
+    "id": 265,
+    "tr": "Neden yaşam kalitemiz düşürüldü?",
+    "en": "Why was our quality of life decreased?"
+  },
+  {
+    "id": 266,
+    "tr": "Neden yaşam kalitemiz düşürüldü bilmek ister misin?",
+    "en": "Do you want to know why our quality of life was decreased?"
+  },
+  {
+    "id": 267,
+    "tr": "Neden yaşam kalitemiz düşürüldü bana söyleyebilir misin?",
+    "en": "Can you tell me why our quality of life was decreased?"
+  },
+  {
+    "id": 268,
+    "tr": "Neden yaşam kalitemiz düşürüldü bana anlatabilir misin?",
+    "en": "Can you tell me why our quality of life was decreased?"
+  },
+  {
+    "id": 269,
+    "tr": "Neden yaşam kalitemiz düşürüldü bana açıklayabilir misin?",
+    "en": "Can you explain to me why our quality of life was decreased?"
+  },
+  {
+    "id": 270,
+    "tr": "Onun hakkındaki her şey unutulacak ama ülkeye zararı unutulmayacak.",
+    "en": "Everything about him will be forgotten but the damage to the country won't be forgotten."
+  },
+  {
+    "id": 271,
+    "tr": "Onun hakkındaki her şey unutulmayacak.",
+    "en": "Everything about him won't be forgotten."
+  },
+  {
+    "id": 272,
+    "tr": "Onun hakkındaki her şey unutulacak mı?",
+    "en": "Will everything about him be forgotten?"
+  },
+  {
+    "id": 273,
+    "tr": "Neden onun hakkındaki her şey unutulacak?",
+    "en": "Why will everything about him be forgotten?"
+  },
+  {
+    "id": 274,
+    "tr": "Sözleşmemiz iptal edildi.",
+    "en": "Our agreement was cancelled."
+  },
+  {
+    "id": 275,
+    "tr": "Sözleşmemiz iptal edilecek.",
+    "en": "Our agreement will be cancelled."
+  },
+  {
+    "id": 276,
+    "tr": "Sözleşmemiz 2 gün önce iptal edildi.",
+    "en": "Our agreement was cancelled two days ago."
+  },
+  {
+    "id": 277,
+    "tr": "Sözleşmemiz henüz iptal edilmedi.",
+    "en": "Our agreement hasn't been cancelled yet."
+  },
+  {
+    "id": 278,
+    "tr": "Sözleşmemiz son dakika iptal edildi.",
+    "en": "Our agreement was cancelled at the last minute."
+  },
+  {
+    "id": 279,
+    "tr": "Sözleşmemiz son dakika iptal edilmemeli.",
+    "en": "Our agreement mustn't be cancelled at the last minute."
+  },
+  {
+    "id": 280,
+    "tr": "Randevum son dakikada iptal edildi.",
+    "en": "My appointment was cancelled at the last minute."
+  },
+  {
+    "id": 281,
+    "tr": "Randevun ne zaman iptal edildi?",
+    "en": "When was your appointment cancelled?"
+  },
+  {
+    "id": 282,
+    "tr": "Randevun neden iptal edildi?",
+    "en": "Why was your appointment cancelled?"
+  },
+  {
+    "id": 283,
+    "tr": "Randevun saat kaçta iptal edildi?",
+    "en": "What time was your appointment cancelled?"
+  },
+  {
+    "id": 284,
+    "tr": "Randevum az önce iptal edildi.",
+    "en": "My appointment has just been cancelled."
+  },
+  {
+    "id": 285,
+    "tr": "Kira sözleşmem gelecek ay sona erdirilecek.",
+    "en": "My tenancy agreement will be terminated next month."
+  },
+  {
+    "id": 286,
+    "tr": "Anlaşmamız sonlandırılacak.",
+    "en": "Our agreement will be terminated."
+  },
+  {
+    "id": 287,
+    "tr": "Anlaşmamız sonlandırıldı.",
+    "en": "Our agreement was terminated."
+  },
+  {
+    "id": 288,
+    "tr": "Anlaşmamız son dakikada sonlandırıldı.",
+    "en": "Our agreement was terminated at the last minute."
+  },
+  {
+    "id": 289,
+    "tr": "Anlaşmamız az önce sonlandırıldı.",
+    "en": "Our agreement has just been terminated."
+  },
+  {
+    "id": 290,
+    "tr": "Bizim adımıza yeni bir hesap açılacak.",
+    "en": "A new account will be opened on our behalf."
+  },
+  {
+    "id": 291,
+    "tr": "Bizim adımıza yeni bir hesap açıldı.",
+    "en": "A new account was opened on our behalf."
+  },
+  {
+    "id": 292,
+    "tr": "Bizim adımıza yeni bir hesap açılabilir.",
+    "en": "A new account can be opened on our behalf."
+  },
+  {
+    "id": 293,
+    "tr": "Sizin adınıza yeni bir hesap açılabilirdi.",
+    "en": "A new account could be opened on your behalf."
+  },
+  {
+    "id": 294,
+    "tr": "Sizin adınıza ne zaman yeni bir hesap açıldı?",
+    "en": "When was a new account opened on your behalf?"
+  },
+  {
+    "id": 295,
+    "tr": "Bizim adımıza ne zaman yeni bir hesap açılabilir?",
+    "en": "When can a new account be opened on our behalf?"
+  },
+  {
+    "id": 296,
+    "tr": "Pasaportlarımız bir hafta içerisinde postalanacak.",
+    "en": "Our passports will be mailed within a week."
+  },
+  {
+    "id": 297,
+    "tr": "Pasaportlarımız ne zaman postalanacak?",
+    "en": "When will our passports be mailed?"
+  },
+  {
+    "id": 298,
+    "tr": "Pasaportlarınız ne zaman postalandı?",
+    "en": "When were your passports mailed?"
+  },
+  {
+    "id": 299,
+    "tr": "Yeni anlaşmalar imzalanacak.",
+    "en": "New agreements will be signed."
+  },
+  {
+    "id": 300,
+    "tr": "Yeni anlaşmalar bir hafta içinde imzalanmalı.",
+    "en": "New agreements must be signed within a week."
+  },
+  {
+    "id": 301,
+    "tr": "Yeni anlaşmaların bir hafta içinde imzalanması gerek.",
+    "en": "New agreements need to be signed within a week."
+  },
+  {
+    "id": 302,
+    "tr": "Yeni anlaşmalar bir hafta içinde imzalanmak zorunda.",
+    "en": "New agreements have to be signed within a week."
+  },
+  {
+    "id": 303,
+    "tr": "Yeni anlaşmalar az önce imzalandı.",
+    "en": "New agreements have just been signed."
+  },
+  {
+    "id": 304,
+    "tr": "Yeni anlaşmalar henüz imzalanmadı.",
+    "en": "New agreements haven't been signed yet."
+  },
+  {
+    "id": 305,
+    "tr": "Yeni yalanlar söylenecek.",
+    "en": "New lies will be told."
+  },
+  {
+    "id": 306,
+    "tr": "Gerçekler er ya da geç söylenecek.",
+    "en": "The truth will be told sooner or later."
+  },
+  {
+    "id": 307,
+    "tr": "Gerçekler tarih tarafından er ya da geç ortaya çıkarılacak.",
+    "en": "The truth will be revealed by history sooner or later."
+  },
+  {
+    "id": 308,
+    "tr": "Yeni cihazlar yaratılacak.",
+    "en": "New devices will be created."
+  },
+  {
+    "id": 309,
+    "tr": "Yeni cihazlar üretilecek.",
+    "en": "New devices will be produced."
+  },
+  {
+    "id": 310,
+    "tr": "Yeni cihazlar üretildi.",
+    "en": "New devices were produced."
+  },
+  {
+    "id": 311,
+    "tr": "Yeni cihazlar üretilmeli.",
+    "en": "New devices must be produced."
+  },
+  {
+    "id": 312,
+    "tr": "Yeni cihazlar üretilmek zorunda.",
+    "en": "New devices have to be produced."
+  },
+  {
+    "id": 313,
+    "tr": "Yeni cihazlar 2 yıldır bu fabrikada üretiliyor.",
+    "en": "New devices have been produced in this factory for 2 years."
+  },
+  {
+    "id": 314,
+    "tr": "Yeni cihazlar 2 yıldır bu fabrika tarafından üretiliyor.",
+    "en": "New devices have been produced by this factory for 2 years."
+  },
+  {
+    "id": 315,
+    "tr": "Yeni teknolojiler üretilecek.",
+    "en": "New technologies will be produced."
+  },
+  {
+    "id": 316,
+    "tr": "Yeni teknolojiler üretilmeli.",
+    "en": "New technologies must be produced."
+  },
+  {
+    "id": 317,
+    "tr": "Bu konu hakkında yeni teknolojiler üretilmeli.",
+    "en": "New technologies must be produced about this issue."
+  },
+  {
+    "id": 318,
+    "tr": "Bu konu üzerinde yeni teknolojiler geliştirilmeli.",
+    "en": "New technologies must be developed on this issue."
+  },
+  {
+    "id": 319,
+    "tr": "Bu konu üzerinde yeni teknolojiler geliştirilse iyi olur.",
+    "en": "New technologies should be developed on this issue."
+  },
+  {
+    "id": 320,
+    "tr": "Bu konu üzerinde yeni teknolojiler geliştirildi mi?",
+    "en": "Were new technologies developed on this issue?"
+  },
+  {
+    "id": 321,
+    "tr": "Ne zaman bu konu üzerinde yeni teknolojiler geliştirildi?",
+    "en": "When were new technologies developed on this issue?"
+  },
+  {
+    "id": 322,
+    "tr": "Yeni iş imkânları yaratılacak.",
+    "en": "New business opportunities will be created."
+  },
+  {
+    "id": 323,
+    "tr": "Yeni iş imkânları yaratılmalı.",
+    "en": "New business opportunities must be created."
+  },
+  {
+    "id": 324,
+    "tr": "5 yıldır yeni iş imkânları yaratılmadı.",
+    "en": "New business opportunities haven't been created for five years."
+  },
+  {
+    "id": 325,
+    "tr": "Bu tesis iki yıldır denetlenmedi.",
+    "en": "This facility hasn't been inspected for 2 years."
+  },
+  {
+    "id": 326,
+    "tr": "Bu tesis iki yıldır denetlenmedi mi?",
+    "en": "Hasn't this facility been inspected for 2 years?"
+  },
+  {
+    "id": 327,
+    "tr": "Neden bu tesis iki yıldır denetlenmedi?",
+    "en": "Why hasn't this facility been inspected for 2 years?"
+  },
+  {
+    "id": 328,
+    "tr": "Ne zamandır bu tesis denetlenmedi?",
+    "en": "How long hasn't this facility been inspected?"
+  },
+  {
+    "id": 329,
+    "tr": "Yeni iş imkânları oluşturulacak.",
+    "en": "New business opportunities will be created."
+  },
+  {
+    "id": 330,
+    "tr": "Yeni iş imkânları oluşturulmalı.",
+    "en": "New business opportunities must be created."
+  },
+  {
+    "id": 331,
+    "tr": "Yeni iş imkânları ne zaman oluşturulacak?",
+    "en": "When will new business opportunities be created?"
+  },
+  {
+    "id": 332,
+    "tr": "Ellerim bağlandı.",
+    "en": "My hands were tied."
+  },
+  {
+    "id": 333,
+    "tr": "Ellerim bağlanmadı.",
+    "en": "My hands weren't tied."
+  },
+  {
+    "id": 334,
+    "tr": "Ellerin bağlandı mı?",
+    "en": "Were your hands tied?"
+  },
+  {
+    "id": 335,
+    "tr": "Ne zaman ellerin bağlandı?",
+    "en": "When were your hands tied?"
+  },
+  {
+    "id": 336,
+    "tr": "Neden ellerimiz bağlandı?",
+    "en": "Why were our hands tied?"
+  },
+  {
+    "id": 337,
+    "tr": "Onun evi kameralar tarafından izleniyor.",
+    "en": "His house is being watched by cameras."
+  },
+  {
+    "id": 338,
+    "tr": "Onun evi kameralar tarafından izleniyordu.",
+    "en": "His house was being watched by cameras."
+  },
+  {
+    "id": 339,
+    "tr": "Onun evi kameralar tarafından izlenmişti.",
+    "en": "His house had been watched by cameras."
+  },
+  {
+    "id": 340,
+    "tr": "Sözcüklerim teyp tarafından kaydediliyor.",
+    "en": "My words are being recorded by the recorder."
+  },
+  {
+    "id": 341,
+    "tr": "Sözcüklerim teyp tarafından kaydediliyordu.",
+    "en": "My words were being recorded by the recorder."
+  },
+  {
+    "id": 342,
+    "tr": "Sözcüklerim teyp tarafından kaydedilecek.",
+    "en": "My words will be recorded by the recorder."
+  },
+  {
+    "id": 343,
+    "tr": "Sözcüklerim teyp tarafından az önce kaydedildi.",
+    "en": "My words have just been recorded by the recorder."
+  },
+  {
+    "id": 344,
+    "tr": "Mahkemede söylediğin her şey aleyhine kullanılabilir.",
+    "en": "Everything you say in court can be used against you."
+  },
+  {
+    "id": 345,
+    "tr": "Mahkemede söylediğin her şey aleyhine kullanılabilirdi.",
+    "en": "Everything you said in court could be used against you."
+  },
+  {
+    "id": 346,
+    "tr": "Bilmeni isterim ki mahkemede söylediğin her şey aleyhine kullanılabilir.",
+    "en": "I want you to know that everything you say in court can be used against you."
+  },
+  {
+    "id": 347,
+    "tr": "Bilmeni isterim ki mahkemede yaptığın her şey aleyhine kullanılabilir.",
+    "en": "I want you to know that everything you do in court can be used against you."
+  },
+  {
+    "id": 348,
+    "tr": "Bilmeni isterim ki mahkemede söylediğin her şey kaydedilir.",
+    "en": "I want you to know that everything you say in court is recorded."
+  },
+  {
+    "id": 349,
+    "tr": "Unutulmak istemiyorum. Hatırlanmak istiyorum.",
+    "en": "I don't want to be forgotten, I want to be remembered."
+  },
+  {
+    "id": 350,
+    "tr": "Öğrencilerim tarafından iyi bir öğretmen olarak hatırlanmak istiyorum.",
+    "en": "I want to be remembered as a good teacher by my students."
+  },
+  {
+    "id": 351,
+    "tr": "İngilizcenin çok kolay bir dil olduğunun öğrencilerim tarafından bilinmesini istiyorum.",
+    "en": "I want it to be known by my students that English is a very easy language."
+  },
+  {
+    "id": 352,
+    "tr": "İngilizcenin her Türk tarafından öğrenilmesini diliyorum.",
+    "en": "I wish English were learned by every Turk."
+  }
+]

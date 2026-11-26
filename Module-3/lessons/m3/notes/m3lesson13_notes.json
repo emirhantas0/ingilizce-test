@@ -1,0 +1,104 @@
+{
+  "title": "Adverbs of Manner Notes",
+  "tabs": [
+    {
+      "label": "Konu",
+      "type": "text",
+      "items": [
+        {
+          "heading": "ADVERBS OF MANNER NEDİR?",
+          "color": "purple",
+          "content": "Davranış zarflarıdır. HOW sorusunun cevabıdır. Türkçede '…bir şekilde' veya '…ce' ile karşılanır. Örneğin: Güzel bir şekilde / Güzelce."
+        },
+        {
+          "heading": "KURAL 1 — Sıfat + LY",
+          "color": "teal",
+          "content": "Tüm sıfatlarda sıfatın sonuna -LY ekle! Ya da 'in a [sıfat] way' kullan.\n\nMy son looked at my eyes beautifully.\nHe played his guitar wonderfully.\nThings ended badly."
+        },
+        {
+          "heading": "KURAL 2 — Son harf Y ise → ILY",
+          "color": "pink",
+          "content": "Son harfi Y olan sıfatlarda Y düşer, -ILY gelir!\n\neasy → easily\nangry → angrily\nnoisy → noisily\n\nI solved the questions in the exam easily.\nMy mom started to talk with me angrily.\nThe baby started to cry noisily."
+        },
+        {
+          "heading": "KURAL 3 — LATE / HARD / FAST",
+          "color": "amber",
+          "content": "Bu üç sıfatta sonuna HİÇBİR ŞEY eklenmez! Hem sıfat hem zarf olarak aynı kalırlar.\n\nThe train arrived late.\nThey made things hard for the people.\nThe horse ran fast around the shed."
+        },
+        {
+          "heading": "KURAL 4 — GOOD → WELL",
+          "color": "purple",
+          "content": "'Goodly' diye bir şey yoktur! Tüm fiillerin sonuna WELL gelir.\n\nYou did well in the exam.\nAyşe finished the law school well.\nEverything started well but ended badly.\nAyşe couldn't run well in the semi finals."
+        },
+        {
+          "heading": "KURAL 5 — FEEL / LOOK / TASTE / SMELL / SOUND → GOOD",
+          "color": "teal",
+          "content": "Bu 5 fiil arkalarına WELL değil GOOD alır! Daha iyi bir durumdan bahsediyorsan GREAT de kullanabilirsin.\n\nFEEL: I feel good. / I don't feel good.\nLOOK: You look good. / This cake looks really good!\nTASTE: This soup doesn't taste good! / Your chicken tastes good!\nSMELL: You smell good. / The food smells good.\nSOUND: Their music sounds good. / Sounds great!"
+        }
+      ]
+    },
+    {
+      "label": "Yapı",
+      "type": "table",
+      "headers": ["Kural", "Yapı", "Örnek"],
+      "rows": [
+        ["Genel kural", "Sıfat + LY", "beautiful → beautifully"],
+        ["Son harf Y", "Y → ILY", "easy → easily / angry → angrily"],
+        ["İstisnalar", "Değişmez", "late / hard / fast"],
+        ["Fiil + zarf", "Fiil + WELL", "run well / do well / finish well"],
+        ["Duyu fiilleri", "Fiil + GOOD", "feel / look / taste / smell / sound + good"]
+      ]
+    },
+    {
+      "label": "Örnekler",
+      "type": "examples",
+      "items": [
+        {
+          "tag": "Sıfat + LY",
+          "color": "purple",
+          "text": "My son looked at my eyes beautifully. → Oğlum gözlerime güzel bir şekilde baktı.\nHe played his guitar wonderfully. → Gitarını harika bir şekilde çaldı.\nThings ended badly. → Her şey kötü bir şekilde bitti."
+        },
+        {
+          "tag": "Y → ILY",
+          "color": "pink",
+          "text": "I solved the questions in the exam easily. → Sınavdaki soruları kolayca çözdüm.\nMy mom started to talk with me angrily. → Annem benimle sinirli bir şekilde konuşmaya başladı.\nThe baby started to cry noisily. → Bebek gürültülü bir şekilde ağlamaya başladı."
+        },
+        {
+          "tag": "LATE / HARD / FAST",
+          "color": "amber",
+          "text": "The train arrived late. → Tren geç geldi.\nThey made things hard for the people. → İnsanlara her şeyi zor hale getirdiler.\nThe horse ran fast around the shed. → At ahırın etrafında hızlı koştu."
+        },
+        {
+          "tag": "Fiil + WELL",
+          "color": "teal",
+          "text": "You did well in the exam. → Sınavda iyi iş çıkardın.\nAyşe finished the law school well. → Ayşe hukuk fakültesini iyi bir şekilde bitirdi.\nEverything started well but ended badly. → Her şey iyi başladı ama kötü bitti.\nAyşe couldn't run well in the semi finals. → Ayşe yarı finalde iyi koşamadı."
+        },
+        {
+          "tag": "FEEL + GOOD",
+          "color": "purple",
+          "text": "I feel good. → Kendimi iyi hissediyorum.\nAyşe feels good after the divorce. → Ayşe boşanmadan sonra iyi hissediyor.\nI don't feel good. I think I need to rest. → İyi hissetmiyorum. Sanırım dinlenmem lazım."
+        },
+        {
+          "tag": "LOOK + GOOD",
+          "color": "teal",
+          "text": "You look good. → İyi görünüyorsun.\nWow! This cake looks really good! → Vay! Bu pasta gerçekten iyi görünüyor!\nAli looks good with his new haircut. → Ali yeni saç kesimiyle iyi görünüyor."
+        },
+        {
+          "tag": "TASTE + GOOD",
+          "color": "pink",
+          "text": "This soup doesn't taste good! → Bu çorbanın tadı iyi değil!\nThe food in this shop has always tasted good. → Bu dükkândaki yemekler hep iyi tatmış.\nYour chicken tastes good! → Tavuğunun tadı iyi!"
+        },
+        {
+          "tag": "SMELL + GOOD",
+          "color": "amber",
+          "text": "You smell good. Which perfume do you use? → İyi kokuyorsun. Hangi parfümü kullanıyorsun?\nThe food smells good. → Yemek güzel kokuyor.\nThe necks of the babies smell good! → Bebeklerin boyunları güzel kokuyor!"
+        },
+        {
+          "tag": "SOUND + GOOD",
+          "color": "purple",
+          "text": "Their music sounds good. → Müzikleri iyi geliyor.\nI think you sound good. → Bence iyi sesleniyorsun.\n- Shall we meet at 7? - Sounds good! / Sounds great! → - Saat 7'de buluşalım mı? - Kulağa iyi geliyor! / Harika!"
+        }
+      ]
+    }
+  ]
+}

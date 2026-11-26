@@ -1,0 +1,16 @@
+{
+  "title": "Notes",
+  "tabs": [
+    {
+      "label": "Fiilden Fiile -2",
+      "type": "examples",
+      "items": [
+        {
+          "color": "amber",
+          "tag": "Fiillerden -> Fiil yapma: ... bir KİŞİ ye... bişey YAPTIRTMAK.. (kime yaptırdığınını belirterek birine bişey yaptırmak) (zorlama YOK!)",
+          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr style='border-bottom:1px solid #eee;'><td style='padding:8px;'><font color=\"#FFFF00\">get</font> + <font color=\"#00FF00\">someone</font> + (to) <font color=\"#00FFFF\">V1</font> + <font color=\"#BA55D3\">something</font></td><td style='padding:8px;'>Ayşe <font color=\"#FFFF00\">got</font> <font color=\"#00FF00\">the hairdresser</font> (to) <font color=\"#00FFFF\">do</font> <font color=\"#BA55D3\">her hair</font>: Ayşe saçlarını kuaföre yaptırdı.</td></tr><tr><td style='padding:8px;'><font color=\"#FFFF00\">have</font> + <font color=\"#00FF00\">someone</font> + <font color=\"#00FFFF\">V1</font> + <font color=\"#BA55D3\">something</font></td><td style='padding:8px;'>I <font color=\"#FFFF00\">had</font> <font color=\"#00FF00\">the dentist</font> <font color=\"#00FFFF\">pull</font> <font color=\"#BA55D3\">my tooth</font>: Dişimi dişçiye çektirdim.</td></tr></tbody></table><br><b>Not:</b> Sınava gireceksen \"get\" kullanılırken gramer olarak (+ to V1) kullanılır. Ama günlük konuşmada V1 kullan geç!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+[
+  {
+    "id": 1,
+    "tr": "Ali bunun önemli olduğunu söyledi.",
+    "en": "Ali said that that was important"
+  },
+  {
+    "id": 2,
+    "tr": "Ali bunun önemli olacağını söyledi.",
+    "en": "Ali said that that would be important"
+  },
+  {
+    "id": 3,
+    "tr": "Ali bunun bugün önemli olduğunu söyledi.",
+    "en": "Ali said that that was important that day"
+  },
+  {
+    "id": 4,
+    "tr": "Ali bunun yarın önemli olacağını söyledi.",
+    "en": "Ali said that that would be important the next day"
+  },
+  {
+    "id": 5,
+    "tr": "Ali bunun iki gün önce önemli olduğunu söyledi.",
+    "en": "Ali said that that had been important 2 days before"
+  },
+  {
+    "id": 6,
+    "tr": "Ali bunun iki ay sonra önemli olacağını söyledi.",
+    "en": "Ali said that that would be important 2 months later"
+  },
+  {
+    "id": 7,
+    "tr": "Ali bunun dün önemli olduğunu söyledi.",
+    "en": "Ali said that that had been important the previous day"
+  },
+  {
+    "id": 8,
+    "tr": "Ali bunun şimdi önemli olduğunu söyledi.",
+    "en": "Ali said that that was important then"
+  },
+  {
+    "id": 9,
+    "tr": "Ali bunun geçen hafta önemli olduğunu söyledi.",
+    "en": "Ali said that that had been important the week before"
+  },
+  {
+    "id": 10,
+    "tr": "Ali bunun gelecek hafta önemli olacağını söyledi.",
+    "en": "Ali said that that would be important the following week"
+  },
+  {
+    "id": 11,
+    "tr": "Ali bizi üç gün önce gördüğünü söyledi.",
+    "en": "Ali said that he had seen us three days before"
+  },
+  {
+    "id": 12,
+    "tr": "Ali bizi üç gündür görmediğini söyledi.",
+    "en": "Ali said that he hadn't seen us for three days"
+  },
+  {
+    "id": 13,
+    "tr": "Ali bizi üç hafta içerisinde göreceğini söyledi.",
+    "en": "Ali said that he would see us within 3 weeks"
+  },
+  {
+    "id": 14,
+    "tr": "Ali bizi görmek istediğini söyledi.",
+    "en": "Ali said that he wanted to see us"
+  },
+  {
+    "id": 15,
+    "tr": "Ali bizi orada göreceğini söyledi.",
+    "en": "Ali said that he would see us there"
+  },
+  {
+    "id": 16,
+    "tr": "Ali bizimle burada buluşacağını söyledi.",
+    "en": "Ali said that he would meet us there"
+  },
+  {
+    "id": 17,
+    "tr": "Ali bizi yarın göreceğini söyledi.",
+    "en": "Ali said that he would see us the next day"
+  },
+  {
+    "id": 18,
+    "tr": "Ali iki gün önce bizi görmek zorunda olduğunu söyledi.",
+    "en": "Ali said that he had to see us 2 days before"
+  },
+  {
+    "id": 19,
+    "tr": "Ali geçen hafta bizi görebildiğini söyledi.",
+    "en": "Ali said that he could see us the week before"
+  },
+  {
+    "id": 20,
+    "tr": "Ali dün bizi göremediğini söyledi.",
+    "en": "Ali said that he couldn't see us the previous day"
+  },
+  {
+    "id": 21,
+    "tr": "Görmelerini söyledim.",
+    "en": "I told them to see"
+  },
+  {
+    "id": 22,
+    "tr": "Görmemelerini söyledim.",
+    "en": "I told them not to see"
+  },
+  {
+    "id": 23,
+    "tr": "Öğrenmelerini söyledim.",
+    "en": "I told them to learn"
+  },
+  {
+    "id": 24,
+    "tr": "Öğrenmemelerini söyledim.",
+    "en": "I told them not to learn"
+  },
+  {
+    "id": 25,
+    "tr": "Anlamalarını söyledim.",
+    "en": "I told them to understand"
+  },
+  {
+    "id": 26,
+    "tr": "Anlamamalarını söyledim.",
+    "en": "I told them not to understand"
+  },
+  {
+    "id": 27,
+    "tr": "Bakmalarını söyledim.",
+    "en": "I told them to look"
+  },
+  {
+    "id": 28,
+    "tr": "Bakmalarını söylemedim.",
+    "en": "I didn't tell them to look"
+  },
+  {
+    "id": 29,
+    "tr": "Satmalarını söyledim.",
+    "en": "I told them to sell"
+  },
+  {
+    "id": 30,
+    "tr": "Satmamalarını söyledim.",
+    "en": "I told them not to sell"
+  },
+  {
+    "id": 31,
+    "tr": "Satın almalarını söyledim.",
+    "en": "I told them to buy"
+  },
+  {
+    "id": 32,
+    "tr": "Değiştirmelerini söyledim.",
+    "en": "I told them to change"
+  },
+  {
+    "id": 33,
+    "tr": "Değiştirmemelerini söyledim.",
+    "en": "I told them not to change"
+  },
+  {
+    "id": 34,
+    "tr": "Tamir etmelerini söyledim.",
+    "en": "I told them to repair"
+  },
+  {
+    "id": 35,
+    "tr": "Tamir etmemelerini söyledim.",
+    "en": "I told them not to fix"
+  },
+  {
+    "id": 36,
+    "tr": "Denemelerini söyledim.",
+    "en": "I told them to try"
+  },
+  {
+    "id": 37,
+    "tr": "Denememelerini söyledim.",
+    "en": "I told them not to try"
+  },
+  {
+    "id": 38,
+    "tr": "Kabul etmelerini söyledim.",
+    "en": "I told them to accept"
+  },
+  {
+    "id": 39,
+    "tr": "İnkar etmemelerini söyledim.",
+    "en": "I told them not to deny"
+  },
+  {
+    "id": 40,
+    "tr": "Gitmemi söylediler.",
+    "en": "They told me to go"
+  },
+  {
+    "id": 41,
+    "tr": "Gelmemizi söylediler.",
+    "en": "They told us to come"
+  },
+  {
+    "id": 42,
+    "tr": "Bize gitmeyin dediler.",
+    "en": "They told us not to go"
+  },
+  {
+    "id": 43,
+    "tr": "Onlara gelmeyin dedik.",
+    "en": "We told them not to come"
+  },
+  {
+    "id": 44,
+    "tr": "Türkiye'nın kazanacağını söylediler.",
+    "en": "They said that Turkey would win"
+  },
+  {
+    "id": 45,
+    "tr": "Türkiye'nin kazandığını söylediler.",
+    "en": "They said that Turkey had won"
+  },
+  {
+    "id": 46,
+    "tr": "Türkiye'nin asla kazanmadığını söylediler.",
+    "en": "They said that Turkey had never won"
+  },
+  {
+    "id": 47,
+    "tr": "Türkiye kazanıyordu dediler.",
+    "en": "They said that Turkey had been winning"
+  },
+  {
+    "id": 48,
+    "tr": "Türkiye'nin şimdi kazandığını söylediler.",
+    "en": "They said that Turkey was winning then"
+  },
+  {
+    "id": 49,
+    "tr": "Türkiye'nin kazanamayacağını söylediler.",
+    "en": "They said that Turkey couldn't win. / They said that Turkey wouldn't be able to win. "
+  },
+  {
+    "id": 50,
+    "tr": "Türkiye'nin kazanamayacağını söylemediler.",
+    "en": "They didn't say that Turkey couldn't win. / They didn't say that Turkey wouldn't be able to win"
+  },
+  {
+    "id": 51,
+    "tr": "Türkiye kazanmalı dediler.",
+    "en": "They said that Turkey had to win"
+  },
+  {
+    "id": 52,
+    "tr": "Türkiye kazanmak zorunda dediler.",
+    "en": "They said that Turkey had to win"
+  },
+  {
+    "id": 53,
+    "tr": "Türkiye kazansa iyi olur dediler.",
+    "en": "They said that Turkey should win"
+  },
+  {
+    "id": 54,
+    "tr": "Türkiye kazanabilirdi dediler.",
+    "en": "They said that Turkey could win"
+  },
+  {
+    "id": 55,
+    "tr": "Türkiye'nin kazanmış olduğunu söylediler.",
+    "en": "They said that Turkey had won"
+  },
+  {
+    "id": 56,
+    "tr": "Öğrencilerime İngilizcenin kolay olduğunu söyledim.",
+    "en": "I told my students that English was easy"
+  },
+  {
+    "id": 57,
+    "tr": "Öğrencilerime İngilizcenin kolay olacağını söyledim.",
+    "en": "I told my students that English would be easy"
+  },
+  {
+    "id": 58,
+    "tr": "Öğrencilerime ders çalışmalarını söyledim.",
+    "en": "I told my students to study"
+  },
+  {
+    "id": 59,
+    "tr": "Öğrencilerime videolarımı izlemelerini söyledim.",
+    "en": "I told my students to watch my videos"
+  },
+  {
+    "id": 60,
+    "tr": "Öğrencilerime podcastleri dinlemelerini önerdim.",
+    "en": "I suggested to my students to listen to the podcasts"
+  },
+  {
+    "id": 61,
+    "tr": "Özgür Hoca İngilizcenin kolay olduğunu söyledi.",
+    "en": "Teacher Özgür said that English was easy"
+  },
+  {
+    "id": 62,
+    "tr": "Özgür Hoca İngilizcenin zor olmadığını söyledi.",
+    "en": "Teacher Özgür said that English wasn't hard"
+  },
+  {
+    "id": 63,
+    "tr": "Özgür Hoca İngilizce öğrenmenin zor olmadığını söyledi.",
+    "en": "Teacher Özgür said that learning English wasn't hard"
+  },
+  {
+    "id": 64,
+    "tr": "Özgür Hoca İngilizce öğrenmenin zor olmayacağını söyledi.",
+    "en": "Teacher Özgür said that learning English wouldn't be hard"
+  },
+  {
+    "id": 65,
+    "tr": "Özgür Hoca kolayca İngilizce öğreneceğimizi söyledi.",
+    "en": "Teacher Özgür said that we would learn English easily"
+  },
+  {
+    "id": 66,
+    "tr": "Özgür Hoca bize İngilizce öğreteceğini söyledi.",
+    "en": "Teacher Özgür said that he would teach us English"
+  },
+  {
+    "id": 67,
+    "tr": "Özgür Hoca birçok öğrencinin üç ay içerisinde İngilizce öğrendiğini söyledi.",
+    "en": "Teacher Özgür said that many students had learned English in 3 months"
+  },
+  {
+    "id": 68,
+    "tr": "Özgür Hoca İngilizce öğrenmemiz gerektiğini söyledi.",
+    "en": "Teacher Özgür said that we needed to learn English"
+  },
+  {
+    "id": 69,
+    "tr": "Özgür Hoca İngilizce öğrenmek zorunda olduğumuzu söyledi.",
+    "en": "Teacher Özgür said that we had to learn English"
+  },
+  {
+    "id": 70,
+    "tr": "Özgür Hoca İngilizce öğrenmemizin iyi olduğunu söyledi.",
+    "en": "Teacher Özgür said that we should learn English"
+  },
+  {
+    "id": 71,
+    "tr": "Özgür Hoca eğer ben sizin yerinizde olsaydım İngilizce öğrenirdim dedi.",
+    "en": "Teacher Özgür said that if he were us, he would learn English"
+  },
+  {
+    "id": 72,
+    "tr": "Özgür Hoca yeni aplikasyonlar sayesinde öğrencilerinin daha kolay İngilizce öğrendiğini söyledi.",
+    "en": "Teacher Özgür said that his students had learned English more easily thanks to the new apps"
+  },
+  {
+    "id": 73,
+    "tr": "Özgür Hoca yeni aplikasyonlar sayesinde öğrencilerinin daha kolay İngilizce öğreneceğini söyledi.",
+    "en": "Teacher Özgür said that his students would learn English more easily thanks to the new apps"
+  },
+  {
+    "id": 74,
+    "tr": "Özgür Hoca yeni aplikasyonlar sayesinde İngilizce öğrenmenin daha kolay olduğunu söyledi.",
+    "en": "Teacher Özgür said that learning English was easier thanks to the new apps"
+  },
+  {
+    "id": 75,
+    "tr": "Özgür Hoca yeni aplikasyonlar sayesinde İngilizce öğrenmenin daha kolay olacağını söyledi.",
+    "en": "Teacher Özgür said that learning English would be easier thanks to the new apps"
+  },
+  {
+    "id": 76,
+    "tr": "Annem kapıyı kapatmamı söyledi.",
+    "en": "My mom told me to close the door"
+  },
+  {
+    "id": 77,
+    "tr": "Annem kapıyı kapatacağını söyledi.",
+    "en": "My mom said that she would close the door"
+  },
+  {
+    "id": 78,
+    "tr": "Babam bilgisayarımı kapatmamı söyledi.",
+    "en": "My father told me to turn off my computer"
+  },
+  {
+    "id": 79,
+    "tr": "Babam bilgisayarımı kapatacağını söyledi.",
+    "en": "My father said that he would turn off my computer"
+  },
+  {
+    "id": 80,
+    "tr": "Babam bilgisayarımı kapattığını söyledi.",
+    "en": "My father said that he had turned off my computer"
+  },
+  {
+    "id": 81,
+    "tr": "Ali Ayşe'ye pencereyi açmasını söyledi.",
+    "en": "Ali told Ayşe to open the window"
+  },
+  {
+    "id": 82,
+    "tr": "Ali Ayşe'ye pencereyi açacağını söyledi.",
+    "en": "Ali told Ayşe that he would open the window"
+  },
+  {
+    "id": 83,
+    "tr": "Annem babama onu sevdiğini söyledi.",
+    "en": "My mom told my father that she loved him"
+  },
+  {
+    "id": 84,
+    "tr": "Babam anneme onu sevdiğini söyledi.",
+    "en": "My father told my mom that he loved her"
+  },
+  {
+    "id": 85,
+    "tr": "Annem babama onu hep seveceğini söyledi.",
+    "en": "My mom told my father that she would always love him"
+  },
+  {
+    "id": 86,
+    "tr": "Babam anneme onu hep seveceğini söyledi.",
+    "en": "My father told my mom that he would always love her"
+  },
+  {
+    "id": 87,
+    "tr": "Çocuklara kediyi getirmelerini söyledim.",
+    "en": "I told the children to bring the cat"
+  },
+  {
+    "id": 88,
+    "tr": "Çocuklara kediyi getirmemelerini söyledim.",
+    "en": "I told the children not to bring the cat"
+  },
+  {
+    "id": 89,
+    "tr": "Çocuklara kediyi getireceğimi söyledim.",
+    "en": "I told the children that I would bring the cat"
+  },
+  {
+    "id": 90,
+    "tr": "Çocuklara kediyi getirdiğimi söyledim.",
+    "en": "I told the children that I had brought the cat"
+  },
+  {
+    "id": 91,
+    "tr": "Çocuklara kediyi daha demin getirdiğimi söyledim.",
+    "en": "I told the children that I had just brought the cat"
+  },
+  {
+    "id": 92,
+    "tr": "Çocuklara kediyi getirmiş olduğumu söyledim.",
+    "en": "I told the children that I had brought the cat"
+  },
+  {
+    "id": 93,
+    "tr": "Çocuklara kediyi henüz getirmediğimi söyledim.",
+    "en": "I told the children that I hadn't brought the cat yet"
+  },
+  {
+    "id": 94,
+    "tr": "Çocuklara kediyi 10 dakika önce getirdiğimi söyledim.",
+    "en": "I told the children that I had brought the cat ten minutes before"
+  },
+  {
+    "id": 95,
+    "tr": "Çocuklara kediyi 10 dakika içinde getireceğimi söyledim.",
+    "en": "I told the children that I would bring the cat in ten minutes"
+  },
+  {
+    "id": 96,
+    "tr": "Çocuklara kediyi bana getirmek zorunda olduklarını söyledim.",
+    "en": "I told the children that they had to bring me the cat"
+  },
+  {
+    "id": 97,
+    "tr": "Çocuklara kediyi bana getirebileceklerini söyledim.",
+    "en": "I told the children that they could bring me the cat"
+  },
+  {
+    "id": 98,
+    "tr": "Çocuklara kediyi bana getiremeyeceklerini söyledim.",
+    "en": "I told the children that they couldn't bring me the cat"
+  },
+  {
+    "id": 99,
+    "tr": "Madenciler daha iyi yaşam standartları istediklerini söylediler.",
+    "en": "The miners said that they wanted better living standards"
+  },
+  {
+    "id": 100,
+    "tr": "Madenciler daha iyi yaşam standartlarını hak ettiklerini söylediler.",
+    "en": "The miners said that they deserved better living standards"
+  },
+  {
+    "id": 101,
+    "tr": "Madenciler aç olduklarını söylediler.",
+    "en": "The miners said that they were hungry"
+  },
+  {
+    "id": 102,
+    "tr": "Madenciler elektrik faturalarını ödeyemediklerini söylediler.",
+    "en": "The miners said that they couldn't pay their electricity bills"
+  },
+  {
+    "id": 103,
+    "tr": "Madenciler 'Çocuklarımız aç' dediler.",
+    "en": "The miners said that their children were hungry"
+  },
+  {
+    "id": 104,
+    "tr": "Firma madencilerin parasını ödeyeceğini söyledi.",
+    "en": "The firm said that it would pay the miners' money"
+  },
+  {
+    "id": 105,
+    "tr": "Madenciler firmanın paralarını bir yıldır ödemediğini söyledi.",
+    "en": "The miners said that the firm hadn't paid their money for a year"
+  },
+  {
+    "id": 106,
+    "tr": "Gazeteler polislerin madencilere saldırdığını söyledi.",
+    "en": "Newspapers said that the police had attacked the miners"
+  },
+  {
+    "id": 107,
+    "tr": "Halk polislere madencilere saldırmaması gerektiğini söyledi.",
+    "en": "People told the police not to attack the miners"
+  },
+  {
+    "id": 108,
+    "tr": "Halk madenciler açken ben uyuyamıyorum dedi.",
+    "en": "People said that they couldn't sleep while the miners were hungry"
+  },
+  {
+    "id": 109,
+    "tr": "Televizyonda İstanbul'da yarın yağmur yağacağını söylediler.",
+    "en": "They said on TV that it would rain in Istanbul the next day"
+  },
+  {
+    "id": 110,
+    "tr": "Televizyonda İstanbul'da dün çok yağmur yağdığını söylediler.",
+    "en": "They said on TV that it had rained a lot in Istanbul the previous day"
+  },
+  {
+    "id": 111,
+    "tr": "Onlara beni dinlemelerini söyledim.",
+    "en": "I told them to listen to me"
+  },
+  {
+    "id": 112,
+    "tr": "Onlara parayı çalmamalarını söyledim.",
+    "en": "I told them not to steal the money"
+  },
+  {
+    "id": 113,
+    "tr": "Onlara parayı almamalarını söyledim.",
+    "en": "I told them not to take the money"
+  },
+  {
+    "id": 114,
+    "tr": "Ayşe hesabı ödeyeceğini söyledi.",
+    "en": "Ayşe said that she would pay the bill"
+  },
+  {
+    "id": 115,
+    "tr": "Patronum bana yeni bir pozisyon teklif edeceğini söyledi.",
+    "en": "My manager told me that he would offer me a new position"
+  },
+  {
+    "id": 116,
+    "tr": "Babam Türkiye'de hayatın 30 yıl evvel çok daha kolay olduğunu söyledi.",
+    "en": "My father said that life in Turkey had been much easier thirty years before"
+  },
+  {
+    "id": 117,
+    "tr": "Babam Türkiye'de yaşamanın 30 yıl evvel çok daha kolay olduğunu söyledi.",
+    "en": "My father said that living in Turkey had been musch easier thirty years before"
+  },
+  {
+    "id": 118,
+    "tr": "Akıllı olmanın önemli olduğunu söyledim.",
+    "en": "I said that being smart was important"
+  },
+  {
+    "id": 119,
+    "tr": "Başarılı olmanın kolay olmadığını söyledim.",
+    "en": "I said that being successful wasn't easy"
+  },
+  {
+    "id": 120,
+    "tr": "Zengin olmanın iyi bir şey olmadığını söyledim.",
+    "en": "I said that being rich wasn't a good thing"
+  },
+  {
+    "id": 121,
+    "tr": "Paranın mutluluk getirmeyeceğini söyledim.",
+    "en": "I said that money wouldn't bring happiness"
+  },
+  {
+    "id": 122,
+    "tr": "Ayşe arkadaşlarını partiye getirmeyeceğini söyledi.",
+    "en": "Ayşe said that she wouldn't bring her friends to the party"
+  },
+  {
+    "id": 123,
+    "tr": "Kocam çocukları okula götürmeyeceğini söyledi.",
+    "en": "My husband said that he wouldn't take the children to the school"
+  },
+  {
+    "id": 124,
+    "tr": "Kocam çocukları okula göndermeyeceğini söyledi.",
+    "en": "My husband said that he wouldn't send the children to the school"
+  },
+  {
+    "id": 125,
+    "tr": "Bahçıvan çiçekleri sulayacağını söyledi.",
+    "en": "The gardener said that he would water the flowers"
+  },
+  {
+    "id": 126,
+    "tr": "Bahçıvan çiçekleri dün suladığını söyledi.",
+    "en": "The gardener said that he had watered the flowers the previous day"
+  },
+  {
+    "id": 127,
+    "tr": "Bahçıvan çiçekleri üç gündür sulamadığını söyledi.",
+    "en": "The gardener said that he hadn't watered the flowers for three days"
+  },
+  {
+    "id": 128,
+    "tr": "Bahçıvan çiçekleri üç gündür sulayamadığını söyledi.",
+    "en": "The gardener said that he couldn't water the flowers for three days"
+  },
+  {
+    "id": 129,
+    "tr": "Bahçıvan çiçeklerin sulanması gerektiğini söyledi.",
+    "en": "The gardener said that the flowers needed to be watered"
+  },
+  {
+    "id": 130,
+    "tr": "Bahçıvan yeni bitkilerin daha sağlıklı olduğunu söyledi.",
+    "en": "The gardener said that new plants were healthier"
+  },
+  {
+    "id": 131,
+    "tr": "Bahçıvan yeni bitkilerin daha sağlıklı olacağını söyledi.",
+    "en": "The gardener said that the new plants would be healthier"
+  },
+  {
+    "id": 132,
+    "tr": "Araştırmalar Türkiye'de 85.000.000 insanın yaşadığını söyledi.",
+    "en": "Research said that 85 million people lived in Turkey"
+  },
+  {
+    "id": 133,
+    "tr": "Araştırmalar Türkiye'de 85.000.000 insanın olduğunu söyledi.",
+    "en": "Research said that there were 85 million people in Turkey"
+  },
+  {
+    "id": 134,
+    "tr": "Ayşe bahçede küçük bir kedi olduğunu söyledi.",
+    "en": "Ayşe said that there was a little cat in the garden"
+  },
+  {
+    "id": 135,
+    "tr": "Ayşe hiç kimsesinin olmadığını söyledi.",
+    "en": "Ayşe said that she didn't have anybody"
+  },
+  {
+    "id": 136,
+    "tr": "Ayşe hiç kimsenin ona yardım etmediğini söyledi.",
+    "en": "Ayşe said that nobody had helped her"
+  },
+  {
+    "id": 137,
+    "tr": "Ayşe bir sürü arkadaşı olduğunu söyledi.",
+    "en": "Ayşe said that she had a lot of friends"
+  },
+  {
+    "id": 138,
+    "tr": "Ayşe çok parası olmadığını söyledi.",
+    "en": "Ayşe said that she didn't have a lot of money"
+  },
+  {
+    "id": 139,
+    "tr": "Ayşe zengin olacağını söyledi.",
+    "en": "Ayşe said that she would be rich"
+  },
+  {
+    "id": 140,
+    "tr": "İnsanlar adalet istediklerini söylediler.",
+    "en": "People said that they wanted justice"
+  },
+  {
+    "id": 141,
+    "tr": "İnsanlar mutlu ve huzurlu bir ülkede yaşamak istediklerini söylediler.",
+    "en": "People said that they wanted to live in a happy and peaceful country"
+  },
+  {
+    "id": 142,
+    "tr": "Annem artık daha az çalışmak istediğini söyledi.",
+    "en": "My mom said that she wanted to work less anymore"
+  },
+  {
+    "id": 143,
+    "tr": "Babam arabasını satmayı düşündüğünü söyledi.",
+    "en": "My father said that he thought about selling his car"
+  },
+  {
+    "id": 144,
+    "tr": "Araştırmacılar insanların köylerine geri gitmek istediklerini söyledi.",
+    "en": "Researchers said that people wanted to go back to their villages"
+  },
+  {
+    "id": 145,
+    "tr": "Raporlar Türkiye'nin ihracatının azaldığını söyledi.",
+    "en": "The reports said that Turkey's exports had decreased"
+  },
+  {
+    "id": 146,
+    "tr": "Bilim adamları sigara içmenin tehlikeli olduğunu söyledi.",
+    "en": "The scientists said that smoking was dangerous"
+  },
+  {
+    "id": 147,
+    "tr": "Doktorlar onun yaşamayacağını söyledi.",
+    "en": "The doctors said that he wouldn't be able to survive"
+  },
+  {
+    "id": 148,
+    "tr": "Doktorlar onun bir hafta içinde iyi olacağını söyledi.",
+    "en": "The doctors said that he would be better in a week"
+  },
+  {
+    "id": 149,
+    "tr": "Doktorlar onun hasta olmadığını söyledi.",
+    "en": "The doctors said that he wasn't ill"
+  }
+]

@@ -1,0 +1,113 @@
+[
+  { "id": 1, "tr": "Geçen yıl Paris’e gittik.", "en": "We went to Paris last year." },
+  { "id": 2, "tr": "Paris’e şu ana kadar iki kere gittik.", "en": "We have gone to Paris twice so far." },
+  { "id": 3, "tr": "Londra’ya taşınmadan önce Paris’e gitmemiştik.", "en": "We hadn't gone to Paris before we moved to London." },
+
+  { "id": 4, "tr": "Ali, filmi dün izledi.", "en": "Ali watched the movie yesterday." },
+  { "id": 5, "tr": "Ali, filmi zaten izledi.", "en": "Ali has already watched the movie." },
+  { "id": 6, "tr": "Ali filmi bizden önce izlemişti.", "en": "Ali had watched the movie before us." },
+
+  { "id": 7, "tr": "Saat yedide akşam yemeği yedik.", "en": "We ate dinner at seven o'clock." },
+  { "id": 8, "tr": "Demin yedik.", "en": "We have just eaten." },
+  { "id": 9, "tr": "Onlar gelmeden önce yemek yemiştik.", "en": "We had eaten food before they arrived." },
+
+  { "id": 10, "tr": "Geçen hafta sonu partide onunla tanıştım.", "en": "I met him at the party last weekend." },
+  { "id": 11, "tr": "Onunla birkaç kez karşılaştım.", "en": "I have met him a few times." },
+  { "id": 12, "tr": "Birlikte çalışmaya başlamadan önce onunla tanışmamıştım.", "en": "I hadn't met him before we started working together." },
+
+  { "id": 13, "tr": "Kitabı dün gece okudu.", "en": "He read the book last night." },
+  { "id": 14, "tr": "Kitabı birçok kez okudu.", "en": "He has read the book many times." },
+  { "id": 15, "tr": "Sınavdan önce kitabı okumuştu.", "en": "He had read the book before the exam." },
+
+  { "id": 16, "tr": "Ödevlerini dün yaptılar.", "en": "They did their homework yesterday." },
+  { "id": 17, "tr": "Ödevlerini demin yaptılar.", "en": "They have just done their homework." },
+  { "id": 18, "tr": "Derse girmeden önce ödevlerini yapmışlardı.", "en": "They had done their homework before they entered the lesson." },
+
+  { "id": 19, "tr": "Geçen hafta yeni bir telefon aldı.", "en": "He bought a new phone last week." },
+  { "id": 20, "tr": "Beş yıldır yeni bir telefon almadı.", "en": "He hasn't bought a new phone for five years." },
+  { "id": 21, "tr": "İndirim bitmeden önce bir telefon almıştı.", "en": "He had bought a phone before the sales finished." },
+
+  { "id": 22, "tr": "Film saat sekizde başladı.", "en": "The movie started at eight o'clock." },
+  { "id": 23, "tr": "Film çoktan başladı.", "en": "The movie has already started." },
+  { "id": 24, "tr": "Film, biz vardığımızda başlamıştı.", "en": "The movie had started when we arrived." },
+
+  { "id": 25, "tr": "Dün gece bir şiir yazdı.", "en": "He wrote a poem last night." },
+  { "id": 26, "tr": "Bugüne dek birçok şiir yazdı.", "en": "He has written many poems until today." },
+  { "id": 27, "tr": "Teslim tarihinden önce bir şiir yazmıştı.", "en": "He had written a poem before the deadline." },
+
+  { "id": 28, "tr": "Sabah sekizde evden çıktım.", "en": "I left home at eight o'clock in the morning." },
+  { "id": 29, "tr": "Anahtarlarımı evde bıraktım.", "en": "I have left my keys at home." },
+  { "id": 30, "tr": "Onlar gelmeden önce ayrılmıştım.", "en": "I had left before they arrived." },
+
+  { "id": 31, "tr": "Camı iki gün önce kırdı.", "en": "He broke the window two days ago." },
+  { "id": 32, "tr": "Telefonunu daha demin kırdı.", "en": "He has just broken his phone." },
+  { "id": 33, "tr": "Telefonunu parasını ödemeden önce kırmıştı.", "en": "He had broken his phone before he paid for it." },
+
+  { "id": 34, "tr": "Geçen yıl yeni bir ev inşa ettiler.", "en": "They built a new house last year." },
+  { "id": 35, "tr": "Şimdiye kadar üç ev inşa ettiler.", "en": "They have built three houses until now." },
+  { "id": 36, "tr": "Fırtına çıkmadan önce bir tane ev inşa etmişlerdi.", "en": "They had built one house before the storm started." },
+
+  { "id": 37, "tr": "Dün öğretmen beni seçti.", "en": "The teacher chose me yesterday." },
+  { "id": 38, "tr": "On yıldır başarılı öğrencileri seçmediler.", "en": "They haven't chosen successful students for ten years." },
+  { "id": 39, "tr": "Riskleri bilmeden önce o yolu seçmişti.", "en": "He had chosen that way before he knew the risks." },
+
+  { "id": 40, "tr": "Bu sabah çok fazla kahve içtim.", "en": "I drank too much coffee this morning." },
+  { "id": 41, "tr": "Bugün dört fincan kahve içtim.", "en": "I have drunk four cups of coffee today." },
+  { "id": 42, "tr": "Mülakattan önce kahve içmiştim.", "en": "I had drunk coffee before the interview." },
+
+  { "id": 43, "tr": "Dün kendimi yorgun hissettim.", "en": "I felt tired yesterday." },
+  { "id": 44, "tr": "O zamandan beri daha iyi hissediyorum.", "en": "I have felt better since then." },
+  { "id": 45, "tr": "İstanbul’a taşınmadan önce de aynı şekilde hissetmiştim.", "en": "I had felt the same way before I moved to Istanbul." },
+
+  { "id": 46, "tr": "Geçen yıl Berlin’e uçtuk.", "en": "We flew to Berlin last year." },
+  { "id": 47, "tr": "Avrupa’ya iki kez uçtuk.", "en": "We have flown to Europe twice." },
+  { "id": 48, "tr": "Hava kötüleşmeden önce uçmuştuk.", "en": "We had flown before the weather got worse." },
+
+  { "id": 49, "tr": "Ali beş dakika önce merdivenlerden düştü.", "en": "Ali fell down the stairs five minutes ago." },
+  { "id": 50, "tr": "Birçok kez düştüm.", "en": "I have fallen many times." },
+  { "id": 51, "tr": "Daha önce bir kez düşmüştü.", "en": "He had fallen once before." },
+
+  { "id": 52, "tr": "Dün şifreyi unuttum.", "en": "I forgot the password yesterday." },
+  { "id": 53, "tr": "Demin adımı unuttum.", "en": "I have just forgotten my name." },
+  { "id": 54, "tr": "Kazadan önce hiçbir şeyi unutmamıştım.", "en": "I hadn't forgotten anything before the accident." },
+
+  { "id": 55, "tr": "Geçen hafta bana bir hediye verdi.", "en": "He gave me a gift last week." },
+  { "id": 56, "tr": "Ben bugüne dek arkadaşlarıma birçok hediye verdim.", "en": "I have given many gifts to my friends until today." },
+  { "id": 57, "tr": "Ben istemeden önce onu vermişti.", "en": "He had given it before I asked." },
+
+  { "id": 58, "tr": "Geçen yıl bitkiler hızlıca büyüdü.", "en": "The plants grew quickly last year." },
+  { "id": 59, "tr": "Bitkiler bu yıl daha hızlı büyüdü.", "en": "The plants have grown faster this year." },
+  { "id": 60, "tr": "Onlar savaştan önce patates yetiştirmemişlerdi.", "en": "They hadn't grown potatoes before the war." },
+
+  { "id": 61, "tr": "İki dakika önce tuhaf bir ses duydum.", "en": "I heard a strange sound two minutes ago." },
+  { "id": 62, "tr": "Şarkıyı daha önce duydum.", "en": "I have heard the song before." },
+  { "id": 63, "tr": "Şarkıyı senden önce duymamamıştım.", "en": "I hadn't heard the song before you." },
+
+  { "id": 64, "tr": "Geçen yaz ata bindim.", "en": "I rode a horse last summer." },
+  { "id": 65, "tr": "Birçok kez ata bindim.", "en": "I have ridden a horse many times." },
+  { "id": 66, "tr": "Ders almadan önce ata binmemiştim.", "en": "I hadn't ridden a horse before I took lessons." },
+
+  { "id": 67, "tr": "Telefon gece yarısı çaldı.", "en": "The phone rang at midnight." },
+  { "id": 68, "tr": "Demin telefon mu çaldı?", "en": "Has the phone just rung?" },
+  { "id": 69, "tr": "Telefon sen gelmeden önce çalmıştı.", "en": "The phone had rung before you came." },
+
+  { "id": 70, "tr": "Ali bu sabah beş kilometre koştu.", "en": "Ali ran five kilometers this morning." },
+  { "id": 71, "tr": "Ben üç yıldır koşmadım.", "en": "I haven't run for three years." },
+  { "id": 72, "tr": "Bizden önce koşmuştu.", "en": "He had run before us." },
+
+  { "id": 73, "tr": "Geçen yıl evlerini sattılar.", "en": "They sold their house last year." },
+  { "id": 74, "tr": "Arabalarını zaten sattılar.", "en": "They have already sold their car." },
+  { "id": 75, "tr": "Evlerini krizden önce satmışlardı.", "en": "They had sold their house before the crisis." },
+
+  { "id": 76, "tr": "Dün e-postayı gönderdi.", "en": "He sent the email yesterday." },
+  { "id": 77, "tr": "E-maili demin gönderdim.", "en": "I have just sent the email." },
+  { "id": 78, "tr": "E-maili öğle saatinden önce göndermişti.", "en": "He had sent the email before noon." },
+
+  { "id": 79, "tr": "Dün okulda şarkı söyledim.", "en": "I sang at school yesterday." },
+  { "id": 80, "tr": "Şarkıyı birçok kez söyledim.", "en": "I have sung that song many times." },
+  { "id": 81, "tr": "Gösteriden önce şarkı söylemiştim.", "en": "I had sung before the show." },
+
+  { "id": 82, "tr": "İki dakika önce açık konuştu.", "en": "He spoke clearly two minutes ago." },
+  { "id": 83, "tr": "Ben daha müdürle konuşmadım.", "en": "I haven't spoken to the manager yet." },
+  { "id": 84, "tr": "Benimle toplantıdan önce konuşmuştu.", "en": "He had spoken to me before the meeting." }
+]

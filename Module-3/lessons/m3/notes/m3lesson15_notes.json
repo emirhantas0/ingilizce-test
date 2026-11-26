@@ -1,0 +1,244 @@
+{
+  "title": "Adverbs of Time Notes",
+  "tabs": [
+    {
+      "label": "Yapı",
+      "type": "table",
+      "headers": [
+        "Zarf / Edat",
+        "Türkçe",
+        "Kullanım"
+      ],
+      "rows": [
+        [
+          "now",
+          "Şimdi",
+          "Present Continuous"
+        ],
+        [
+          "at the present ",
+          " Şu anda",
+          "Present Continuous"
+        ],
+        [
+          "at the moment ",
+          " Şu anda",
+          "Present Continuous"
+        ],
+        [
+          "currently",
+          "Şu anda",
+          "Present Continuous"
+        ],
+        [
+          "then",
+          "Bir zamanlar",
+          "Past Simple"
+        ],
+        [
+          "Once upon a time ",
+          "Bir zamanlar",
+          "Past Simple"
+        ],
+        [
+          "in the past",
+          "Geçmişte",
+          "Past Simple"
+        ],
+        [
+          "last week",
+          "Geçen hafta",
+          "Past Simple"
+        ],
+        [
+          "last month",
+          "Geçen ay",
+          "Past Simple"
+        ],
+        [
+          "yesterday",
+          "Dün",
+          "Past Simple"
+        ],
+        [
+          "the day before yesterday ",
+          "Evvelsi gün",
+          "Past Simple"
+        ],
+        [
+          "two days ago",
+          " 2 gün önce",
+          "Past Simple"
+        ],
+        [
+          "five years ago",
+          " 5 yıl önce",
+          "Past Simple"
+        ],
+        [
+          "soon",
+          "Yakında",
+          "Future"
+        ],
+        [
+          "in the future",
+          "Gelecekte",
+          "Future"
+        ],
+        [
+          "in a while ",
+          "Bir süre sonra ",
+          "Future"
+        ],
+        [
+          "next week ",
+          "Gelecek hafta",
+          "Future"
+        ],
+        [
+          "next month ",
+          "Gelecek ay",
+          "Future"
+        ],
+        [
+          "tomorrow ",
+          "Yarın",
+          "Future"
+        ],
+        [
+          "10 minutes later",
+          "10 dakika sonra",
+          "Future"
+        ],
+        [
+          "3 hours later ",
+          "3 saat sonra",
+          "Future"
+        ],
+        [
+          "in the morning",
+          "Sabahleyin",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "at noon",
+          "öğlenleyin",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "in the afternoon",
+          "Öğleden sonra ",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "in the evening ",
+          "Akşamleyin ",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "at night ",
+          "Geceleyin",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "this week",
+          "Bu hafta",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "at the same time",
+          "Aynı anda",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "for a while",
+          "Bir süredir",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "Before the school",
+          "Okuldan önce",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "After the break",
+          "Molanın ardından",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "all the time",
+          "Sürekli olarak",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "for the first time",
+          "İlk defa",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "for the last time",
+          "Son defa",
+          "Tüm Zamanları Sevenler"
+        ],
+        [
+          "in",
+          "de-da",
+          " Yıl - Ay"
+        ],
+        [
+          "on",
+          "de-da",
+          "Günler"
+        ],
+        [
+          "at",
+          "de-da",
+          "Saatler"
+        ]
+      ]
+    },
+    {
+      "label": "Örnekler",
+      "type": "examples",
+      "items": [
+        {
+          "tag": "Present Continuous — Now / At the moment",
+          "color": "teal",
+          "text": "I am working now. → Şimdi çalışıyorum.\nWe are having a meeting at the present. → Şu anda toplantıdayız.\nHe is running in the forest at the moment. → Şu anda ormanda koşuyor.\nI am speaking with a customer currently. → Şu anda bir müşteriyle konuşuyorum."
+        },
+        {
+          "tag": "Past Simple — Yesterday / Ago / Last...",
+          "color": "pink",
+          "text": "I was an unexperienced engineer then. → O zamanlar deneyimsiz bir mühendistim.\nI lived in Ankara in the past. → Geçmişte Ankara'da yaşadım.\nI saw Ayşe at the bazaar last week. → Geçen hafta Ayşe'yi çarşıda gördüm.\nI didn't see her yesterday. → Onu dün görmedim.\nShe was at work the day before yesterday. → Evvelsi gün işteyi.\nAli opened a new business two weeks ago. → Ali iki hafta önce yeni bir iş kurdu.\nThey moved from Germany to Turkey 5 years ago. → 5 yıl önce Almanya'dan Türkiye'ye taşındılar. \n Once upon a time, there were two brothers living in a little village. → Bir zamanlar küçük bir köyde yaşayan iki kardeş varmış."
+        },
+
+        {
+          "tag": "Future — Soon / Tomorrow / Next...",
+          "color": "amber",
+          "text": "I will be there soon. → Yakında orada olacağım.\nI won't make the same mistake in the future. → Gelecekte aynı hatayı yapmayacağım.\nI will be free as a bird in a while. → Bir süre sonra kuş gibi özgür olacağım.\nThere will be an important meeting next week. → Gelecek hafta önemli bir toplantı olacak.\nI will go to a picnic with my friends tomorrow. → Yarın arkadaşlarımla pikniğe gideceğim.\nI will be able to help you 10 minutes later. → 10 dakika sonra sana yardım edebileceğim."
+        },
+        {
+          "tag": "Hepsi — Morning / Noon / Night / At the same time / All the time / For the last time...",
+          "color": "purple",
+          "text": "I woke up in the morning. → Sabahleyin uyandım.\nWe always go to lunch at noon. → Her zaman öğlenleyin öğle yemeğine gideriz.\nYou should study in the afternoon. → Öğleden sonra çalışmalısın.\nWe will go to İftar in the evening. → Akşamleyin iftara gideceğiz.\nI didn't sleep at night. → Geceleyin uyuyamadım. \n We finished the race at the same time. → Yarışı aynı anda bitirdik.\nAli eats unhealthy food all the time. → Ali sürekli olarak sağlıksız yiyecekler yer.\nI am telling you for the last time. You must come to work on time. → Sana son kez söylüyorum. İşe zamanında gelmelisin."
+        },
+
+        {
+          "tag": "IN — Yıl / Ay / Mevsim / Süre",
+          "color": "teal",
+          "text": "In 2010 → 2010'da\nIn the spring → İlkbaharda\nIn June → Haziran'da\nIn 2 weeks → 2 hafta içinde\nIn 10 minutes → 10 dakika içinde\nIn the morning → Sabahleyin\nIn the afternoon → Öğleden sonra\nIn the evening → Akşamleyin"
+        },
+        {
+          "tag": "ON — Gün / Tarih",
+          "color": "pink",
+          "text": "On Wednesday → Çarşamba günü\nOn my birthday → Doğum günümde\nOn the 8th of May → 8 Mayıs'ta"
+        },
+        {
+          "tag": "AT — Saat / Özel An",
+          "color": "amber",
+          "text": "At 9 o'clock → Saat 9'da\nAt the beginning of March → Martın başında\nAt the end of the year → Yılın sonunda"
+        }
+      ]
+    }
+  ]
+}

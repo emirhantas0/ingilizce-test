@@ -1,0 +1,807 @@
+[
+  {
+    "id": 1,
+    "tr": "Seni avukatıma arattırtacağım.",
+    "en": "I will have my lawyer call you. / I will get my lawyer to call you."
+  },
+  {
+    "id": 2,
+    "tr": "Seni avukatıma arattırtmayacağım.",
+    "en": "I won't have my lawyer call you. / I won't get my lawyer to call you."
+  },
+  {
+    "id": 3,
+    "tr": "Avukatına Ali'yi arattırtacak mısın?",
+    "en": "Will you have your lawyer call Ali? / Will you get your lawyer to call Ali?"
+  },
+  {
+    "id": 4,
+    "tr": "Avukatına Ali'yi ne zaman arattırtacaksın?",
+    "en": "When will you have your lawyer call Ali? / When will you get your lawyer to call Ali?"
+  },
+  {
+    "id": 5,
+    "tr": "Avukatına kimi arattırtacaksın?",
+    "en": "Who will you have your lawyer call? / Who will you get your lawyer to call?"
+  },
+  {
+    "id": 6,
+    "tr": "Onları saat kaçta avukatına arattırtacaksın?",
+    "en": "What time will you have your lawyer call them? / What time will you get your lawyer to call them?"
+  },
+  {
+    "id": 7,
+    "tr": "Avukatına onları saat kaçta arattırdın?",
+    "en": "What time did you have your lawyer call them? / What time did you get your lawyer to call them?"
+  },
+  {
+    "id": 8,
+    "tr": "Avukatına onları saat kaçta arattırtabilirsin?",
+    "en": "What time can you have your lawyer call them? / What time can you get your lawyer to call them?"
+  },
+  {
+    "id": 9,
+    "tr": "Avukatına onları neden arattırdın?",
+    "en": "Why did you have your lawyer call them? / Why did you get your lawyer to call them?"
+  },
+  {
+    "id": 10,
+    "tr": "Avukatına onları neden arattırmadın?",
+    "en": "Why didn't you have your lawyer call them? / Why didn't you get your lawyer to call them?"
+  },
+  {
+    "id": 11,
+    "tr": "Avukatına onları neden arattırman gerek?",
+    "en": "Why do you need to have your lawyer call them? / Why do you need to get your lawyer to call them?"
+  },
+  {
+    "id": 12,
+    "tr": "Beni avukatına arattırmak zorunda mısın?",
+    "en": "Do you have to have your lawyer call me? / Do you have to get your lawyer to call me?"
+  },
+  {
+    "id": 13,
+    "tr": "Beni avukatına arattırmak zorunda mıydın?",
+    "en": "Did you have to have your lawyer call me? / Did you have to get your lawyer to call me?"
+  },
+  {
+    "id": 14,
+    "tr": "Hemşireye tansiyonumu ölçtürtteceğim.",
+    "en": "I will have the nurse measure my blood pressure. / I will get the nurse to measure my blood pressure."
+  },
+  {
+    "id": 15,
+    "tr": "Hemşireye tansiyonumu ölçtürttüm.",
+    "en": "I had the nurse measure my blood pressure. / I got the nurse to measure my blood pressure."
+  },
+  {
+    "id": 16,
+    "tr": "Hemşireye tansiyonumu ölçtürtmem gerek.",
+    "en": "I need to have the nurse measure my blood pressure. / I need to get the nurse to measure my blood pressure."
+  },
+  {
+    "id": 17,
+    "tr": "Hemşireye tansiyonunu ölçtürtsen iyi olur.",
+    "en": "You should have the nurse measure your blood pressure. / You should get the nurse to measure your blood pressure."
+  },
+  {
+    "id": 18,
+    "tr": "Hemşireye tansiyonunu ölçtürtmelisin.",
+    "en": "You must have the nurse measure your blood pressure. / You must get the nurse to measure your blood pressure."
+  },
+  {
+    "id": 19,
+    "tr": "Ne zaman hemşireye tansiyonunu ölçtürteceksin?",
+    "en": "When will you have the nurse measure your blood pressure? / When will you get the nurse to measure your blood pressure?"
+  },
+  {
+    "id": 20,
+    "tr": "Kaçıncı katta hemşireye tansiyonumu ölçtürtebilirim?",
+    "en": "Which floor can I have the nurse measure my blood pressure on? / Which floor can I get the nurse to measure my blood pressure on?"
+  },
+  {
+    "id": 21,
+    "tr": "Hangi odada hemşireye tansiyonumu ölçtürtebilirim?",
+    "en": "Which room can I have the nurse measure my blood pressure in? / Which room can I get the nurse to measure my blood pressure in?"
+  },
+  {
+    "id": 22,
+    "tr": "Saat kaçta hemşireye tansiyonumu ölçtürtebilirim?",
+    "en": "What time can I have the nurse measure my blood pressure? / What time can I get the nurse to measure my blood pressure?"
+  },
+  {
+    "id": 23,
+    "tr": "Oğluma ders çalıştırtıyorum.",
+    "en": "I have my son study. / I get my son to study."
+  },
+  {
+    "id": 24,
+    "tr": "Oğluma ders çalıştırtmıyorum.",
+    "en": "I don't have my son study. / I don't get my son to study."
+  },
+  {
+    "id": 25,
+    "tr": "Oğluma ders çalıştırtamıyorum.",
+    "en": "I can't have my son study. / I can't get my son to study."
+  },
+  {
+    "id": 26,
+    "tr": "Oğluma ders çalıştırtıcam.",
+    "en": "I will have my son study. / I will get my son to study."
+  },
+  {
+    "id": 27,
+    "tr": "Oğluna ne zaman ders çalıştırtıcaksın?",
+    "en": "When will you have your son study? / When will you get your son to study?"
+  },
+  {
+    "id": 28,
+    "tr": "Oğluna ders çalıştırtmanın ne kadar önemli olduğunu bilmeni isterim.",
+    "en": "I want you to know how important it is to have your son study. / I want you to know how important getting your son to study is."
+  },
+  {
+    "id": 29,
+    "tr": "Ayşe kuaföre tırnaklarını yaptırdı.",
+    "en": "Ayşe had the hairdresser do her nails. / Ayşe got the hairdresser to do her nails."
+  },
+  {
+    "id": 30,
+    "tr": "Ayşe kuaföre tırnaklarını yaptırmadı.",
+    "en": "Ayşe didn't have the hairdresser do her nails. / Ayşe didn't get the hairdresser to do her nails."
+  },
+  {
+    "id": 31,
+    "tr": "Ayşe kuaföre tırnaklarını yaptırttı mı?",
+    "en": "Did Ayşe have the hairdresser do her nails? / Did Ayşe get the hairdresser to do her nails?"
+  },
+  {
+    "id": 32,
+    "tr": "Ayşe kuaföre tırnaklarını yaptırtmadı mı?",
+    "en": "Didn't Ayşe have the hairdresser do her nails? / Didn't Ayşe get the hairdresser to do her nails?"
+  },
+  {
+    "id": 33,
+    "tr": "Ayşe kuaföre neden tırnaklarını yaptırtmadı?",
+    "en": "Why didn't Ayşe have the hairdresser do her nails? / Why didn't Ayşe get the hairdresser to do her nails?"
+  },
+  {
+    "id": 34,
+    "tr": "Ayşe kuaföre tırnaklarını ne zaman yaptırttı?",
+    "en": "When did Ayşe have the hairdresser do her nails? / When did Ayşe get the hairdresser to do her nails?"
+  },
+  {
+    "id": 35,
+    "tr": "Ayşe hangi kuaföre tırnaklarını yaptırttı?",
+    "en": "Which hairdresser did Ayşe have do her nails? / Which hairdresser did Ayşe get to do her nails?"
+  },
+  {
+    "id": 36,
+    "tr": "Ayşe hangi kuaföre tırnaklarını yaptırtacak?",
+    "en": "Which hairdresser will Ayşe have do her nails? / Which hairdresser will Ayşe get to do her nails?"
+  },
+  {
+    "id": 37,
+    "tr": "Ben dişçiye dişimi çektirdim.",
+    "en": "I had the dentist pull my tooth. / I got the dentist to pull my tooth."
+  },
+  {
+    "id": 38,
+    "tr": "Ben dişçiye dişimi çektirtmedim.",
+    "en": "I didn't have the dentist pull my tooth. / I didn't get the dentist to pull my tooth."
+  },
+  {
+    "id": 39,
+    "tr": "Sen dişçiye dişini çektirttin mi?",
+    "en": "Did you have the dentist pull your tooth? / Did you get the dentist to pull your tooth?"
+  },
+  {
+    "id": 40,
+    "tr": "Sen ne zaman dişçiye dişini çektirttin?",
+    "en": "When did you have the dentist pull your tooth? / When did you get the dentist to pull your tooth?"
+  },
+  {
+    "id": 41,
+    "tr": "Geçen yıl evimizi iyi bir adama boyattık.",
+    "en": "We had a good man paint our house last year. / We got a good man to paint our house last year."
+  },
+  {
+    "id": 42,
+    "tr": "Geçen yıl evimizi iyi bir adama boyatmıştık.",
+    "en": "We had had a good man paint our house last year. / We had gotten a good man to paint our house last year."
+  },
+  {
+    "id": 43,
+    "tr": "Az önce evimizi iyi bir adama boyattık.",
+    "en": "We have just had a good man paint our house. / We have just gotten a good man to paint our house."
+  },
+  {
+    "id": 44,
+    "tr": "Evimizi 2021'den beri iyi bir adama boyattırıyoruz.",
+    "en": "We have had a good man paint our house since 2021. / We have gotten a good man to paint our house since 2021."
+  },
+  {
+    "id": 45,
+    "tr": "Evimizi 2 yıldır iyi bir adama boyattırıyoruz.",
+    "en": "We have had a good man paint our house for 2 years. / We have gotten a good man to paint our house for 2 years."
+  },
+  {
+    "id": 46,
+    "tr": "Evimizi asla kötü bir adama boyattırmayacağız.",
+    "en": "We will never have a bad man paint our house. / We will never get a bad man to paint our house."
+  },
+  {
+    "id": 47,
+    "tr": "Evimizi kötü bir adama boyattırmayacağız.",
+    "en": "We won't have a bad man paint our house. / We won't get a bad man to paint our house."
+  },
+  {
+    "id": 48,
+    "tr": "Gelecek yıl evimizi iyi bir boyacıya boyattıracağız.",
+    "en": "We will have a good painter paint our house next year. / We will get a good painter to paint our house next year."
+  },
+  {
+    "id": 49,
+    "tr": "Ne zaman evimizi iyi bir boyacıya boyattıracağız?",
+    "en": "When will we have a good painter paint our house? / When will we get a good painter to paint our house?"
+  },
+  {
+    "id": 50,
+    "tr": "Bu sene evimizi iyi bir boyacıya boyattıracak mıyız?",
+    "en": "Will we have a good painter paint our house this year? / Will we get a good painter to paint our house this year?"
+  },
+  {
+    "id": 51,
+    "tr": "Öğrenciye kapıyı kapattırdım.",
+    "en": "I had the student close the door. / I got the student to close the door."
+  },
+  {
+    "id": 52,
+    "tr": "Öğrenciye kapıyı kapattırmadım.",
+    "en": "I didn't have the student close the door. / I didn't get the student to close the door."
+  },
+  {
+    "id": 53,
+    "tr": "Öğrenciye kapıyı kapattırdın mı?",
+    "en": "Did you have the student close the door? / Did you get the student to close the door?"
+  },
+  {
+    "id": 54,
+    "tr": "Öğrenciye kapıyı ne zaman kapattırdın?",
+    "en": "When did you have the student close the door? / When did you get the student to close the door?"
+  },
+  {
+    "id": 55,
+    "tr": "Öğrenciye kapıyı neden kapattırdın?",
+    "en": "Why did you have the student close the door? / Why did you get the student to close the door?"
+  },
+  {
+    "id": 56,
+    "tr": "Öğrenciye kapıyı ne zaman kapattırtacaksın?",
+    "en": "When will you have the student close the door? / When will you get the student to close the door?"
+  },
+  {
+    "id": 57,
+    "tr": "Temizlikçi kadına evimi temizlettim.",
+    "en": "I had the cleaning lady clean my house. / I got the cleaning lady to clean my house."
+  },
+  {
+    "id": 58,
+    "tr": "Temizlikçi kadına evimi temizletmedim.",
+    "en": "I didn't have the cleaning lady clean my house. / I didn't get the cleaning lady to clean my house."
+  },
+  {
+    "id": 59,
+    "tr": "Temizlikçi kadına evini neden temizlettirmedin?",
+    "en": "Why didn't you have the cleaning lady clean your house? / Why didn't you get the cleaning lady to clean your house?"
+  },
+  {
+    "id": 60,
+    "tr": "Temizlikçi kadına odamı temizlettirtebilir misin?",
+    "en": "Can you have the cleaning lady clean my room? / Can you get the cleaning lady to clean my room?"
+  },
+  {
+    "id": 61,
+    "tr": "Temizlikçi kadına hangi odaları temizlettirdin?",
+    "en": "Which rooms did you have the cleaning lady clean? / Which rooms did you get the cleaning lady to clean?"
+  },
+  {
+    "id": 62,
+    "tr": "Temizlikçi kadına odamı ne zaman temizlettirtebilirsin?",
+    "en": "When can you have the cleaning lady clean my room? / When can you get the cleaning lady to clean my room?"
+  },
+  {
+    "id": 63,
+    "tr": "Oğluma kitaplarımı getirttim.",
+    "en": "I had my son bring my books. / I got my son to bring my books."
+  },
+  {
+    "id": 64,
+    "tr": "Oğluma kitaplarımı getirttirmedim.",
+    "en": "I didn't have my son bring my books. / I didn't get my son to bring my books."
+  },
+  {
+    "id": 65,
+    "tr": "Oğluna kitaplarını getirttin mi?",
+    "en": "Did you have your son bring your books? / Did you get your son to bring your books?"
+  },
+  {
+    "id": 66,
+    "tr": "Oğluna kitaplarını ne zaman getirttirdin?",
+    "en": "When did you have your son bring your books? / When did you get your son to bring your books?"
+  },
+  {
+    "id": 67,
+    "tr": "Oğluna kitaplarını ne zaman getirttireceksin?",
+    "en": "When will you have your son bring your books? / When will you get your son to bring your books?"
+  },
+  {
+    "id": 68,
+    "tr": "E-maillerimi sekreterime gönderttim.",
+    "en": "I had my secretary send my emails. / I got my secretary to send my emails."
+  },
+  {
+    "id": 69,
+    "tr": "E-maillerimi sekreterime göndertirim.",
+    "en": "I have my secretary send my emails. / I get my secretary to send my emails."
+  },
+  {
+    "id": 70,
+    "tr": "E-maillerimi sekreterime gönderticem.",
+    "en": "I will have my secretary send my emails. / I will get my secretary to send my emails."
+  },
+  {
+    "id": 71,
+    "tr": "E-maillerimi sekreterime göndertebilirim.",
+    "en": "I can have my secretary send my emails. / I can get my secretary to send my emails."
+  },
+  {
+    "id": 72,
+    "tr": "E-maillerini sekreterine göndertebilirdin.",
+    "en": "You could have your secretary send your emails. / You could get your secretary to send your emails."
+  },
+  {
+    "id": 73,
+    "tr": "E-maillerini sekreterine gönderttin mi?",
+    "en": "Did you have your secretary send your emails? / Did you get your secretary to send your emails?"
+  },
+  {
+    "id": 74,
+    "tr": "Soruları öğrencilerime çözdürttüm.",
+    "en": "I had my students solve the questions. / I got my students to solve the questions."
+  },
+  {
+    "id": 75,
+    "tr": "Soruları öğrencilerime çözdürtmedim.",
+    "en": "I didn't have my students solve the questions. / I didn't get my students to solve the questions."
+  },
+  {
+    "id": 76,
+    "tr": "Soruları öğrencilerine çözdürttün mü?",
+    "en": "Did you have your students solve the questions? / Did you get your students to solve the questions?"
+  },
+  {
+    "id": 77,
+    "tr": "Soruları öğrencilerine ne zaman çözdürttün?",
+    "en": "When did you have your students solve the questions? / When did you get your students to solve the questions?"
+  },
+  {
+    "id": 78,
+    "tr": "Soruları öğrencilerine ne zaman çözdürteceksin?",
+    "en": "When will you have your students solve the questions? / When will you get your students to solve the questions?"
+  },
+  {
+    "id": 79,
+    "tr": "Soruları öğrencilerine ne zaman çözdürtebilirsin?",
+    "en": "When can you have your students solve the questions? / When can you get your students to solve the questions?"
+  },
+  {
+    "id": 80,
+    "tr": "Pencereyi kızıma açtırttım.",
+    "en": "I had my daughter open the window. / I got my daughter to open the window."
+  },
+  {
+    "id": 81,
+    "tr": "Pencereyi kızıma açtırtmadım.",
+    "en": "I didn't have my daughter open the window. / I didn't get my daughter to open the window."
+  },
+  {
+    "id": 82,
+    "tr": "Pencereyi kızına açtırtmadın mı?",
+    "en": "Didn't you have your daughter open the window? / Didn't you get your daughter to open the window?"
+  },
+  {
+    "id": 83,
+    "tr": "Pencereyi neden kızına açtırtmadın?",
+    "en": "Why didn't you have your daughter open the window? / Why didn't you get your daughter to open the window?"
+  },
+  {
+    "id": 84,
+    "tr": "Kızına hangi pencereyi açtırtmadın?",
+    "en": "Which window didn't you have your daughter open? / Which window didn't you get your daughter to open?"
+  },
+  {
+    "id": 85,
+    "tr": "Pencereyi kime açtırttın?",
+    "en": "Who did you have open the window? / Who did you get to open the window?"
+  },
+  {
+    "id": 86,
+    "tr": "Pencereyi kime açtırtacaksın?",
+    "en": "Who will you have open the window? / Who will you get to open the window?"
+  },
+  {
+    "id": 87,
+    "tr": "Rica etsem pencereyi birine açtırtabilir misiniz?",
+    "en": "Can you have someone open the window, please? / Can you get someone to open the window, please?"
+  },
+  {
+    "id": 88,
+    "tr": "Rica etsem pencereyi birine kapattırtabilir misiniz?",
+    "en": "Can you have someone close the window, please? / Can you get someone to close the window, please?"
+  },
+  {
+    "id": 89,
+    "tr": "Şarkıcıya şarkı söylettirdim.",
+    "en": "I had the singer sing a song. / I got the singer to sing a song."
+  },
+  {
+    "id": 90,
+    "tr": "Şarkıcıya şarkı söylettirmedim.",
+    "en": "I didn't have the singer sing a song. / I didn't get the singer to sing a song."
+  },
+  {
+    "id": 91,
+    "tr": "Şarkıcıya şarkı söylettirtecek misin?",
+    "en": "Will you have the singer sing a song? / Will you get the singer to sing a song?"
+  },
+  {
+    "id": 92,
+    "tr": "Şarkıcıya Tarkan'ın bir şarkısını söylettirdim.",
+    "en": "I had the singer sing a song of Tarkan. / I got the singer to sing a song of Tarkan."
+  },
+  {
+    "id": 93,
+    "tr": "Şarkıcıya Türkçe bir şarkı söylettirticem.",
+    "en": "I will have the singer sing a Turkish song. / I will get the singer to sing a Turkish song."
+  },
+  {
+    "id": 94,
+    "tr": "Çocuklara yemeklerini yedirttim.",
+    "en": "I had the children eat their food. / I got the children to eat their food."
+  },
+  {
+    "id": 95,
+    "tr": "Çocuklara yemeklerini yedirticem.",
+    "en": "I will have the children eat their food. / I will get the children to eat their food."
+  },
+  {
+    "id": 96,
+    "tr": "Çocuklara yemeklerini yedirttin mi?",
+    "en": "Did you have the children eat their food? / Did you get the children to eat their food?"
+  },
+  {
+    "id": 97,
+    "tr": "Çocuklara yemeklerini ne zaman yedirttin?",
+    "en": "When did you have the children eat their food? / When did you get the children to eat their food?"
+  },
+  {
+    "id": 98,
+    "tr": "Çocuklara yemeklerini saat kaçta yedirticeksin?",
+    "en": "What time will you have the children eat their food? / What time will you get the children to eat their food?"
+  },
+  {
+    "id": 99,
+    "tr": "Çocuklara yemeklerini yedirtebilir misin?",
+    "en": "Can you have the children eat their food? / Can you get the children to eat their food?"
+  },
+  {
+    "id": 100,
+    "tr": "Arkadaşıma parasını harcattırmadım.",
+    "en": "I didn't have my friend spend his money. / I didn't get my friend to spend his money."
+  },
+  {
+    "id": 101,
+    "tr": "Arkadaşıma bu telefon için parasını harcattırmadım.",
+    "en": "I didn't have my friend spend his money for this phone. / I didn't get my friend to spend his money for this phone."
+  },
+  {
+    "id": 102,
+    "tr": "Arkadaşına parasını harcattırtmadın mı?",
+    "en": "Didn't you have your friend spend his money? / Didn't you get your friend to spend his money?"
+  },
+  {
+    "id": 103,
+    "tr": "Çamaşırları karıma yıkattım.",
+    "en": "I had my wife do the laundry. / I got my wife to do the laundry."
+  },
+  {
+    "id": 104,
+    "tr": "Çamaşırları karıma yıkatmadım.",
+    "en": "I didn't have my wife do the laundry. / I didn't get my wife to do the laundry."
+  },
+  {
+    "id": 105,
+    "tr": "Çamaşırları kime yıkattın?",
+    "en": "Who did you have do the laundry? / Who did you get to do the laundry?"
+  },
+  {
+    "id": 106,
+    "tr": "Kirli kıyafetlerimi karıma yıkattırtıcam.",
+    "en": "I will have my wife do my dirty clothes. / I will get my wife to do my dirty clothes."
+  },
+  {
+    "id": 107,
+    "tr": "Kirli kıyafetlerini karına yıkattırtın mı?",
+    "en": "Did you have your wife do your dirty clothes? / Did you get your wife to do your dirty clothes?"
+  },
+  {
+    "id": 108,
+    "tr": "Banyodaki kirli kıyafetlerini karına mı yıkattırtacaksın?",
+    "en": "Will you have your wife do your dirty clothes in the bathroom? / Will you get your wife to do your dirty clothes in the bathroom?"
+  },
+  {
+    "id": 109,
+    "tr": "Bulaşıkları kocama yıkattım.",
+    "en": "I had my husband do the dishes. / I got my husband to do the dishes."
+  },
+  {
+    "id": 110,
+    "tr": "Bulaşıkları kocama yıkatmadım.",
+    "en": "I didn't have my husband do the dishes. / I didn't get my husband to do the dishes."
+  },
+  {
+    "id": 111,
+    "tr": "Bulaşıkları kocama yıkattırtırım.",
+    "en": "I have my husband do the dishes. / I get my husband to do the dishes."
+  },
+  {
+    "id": 112,
+    "tr": "Bulaşıkları kocama yıkattırmam.",
+    "en": "I don't have my husband do the dishes. / I don't get my husband to do the dishes."
+  },
+  {
+    "id": 113,
+    "tr": "Bulaşıkları kime yıkattırdın?",
+    "en": "Who did you have do the dishes? / Who did you get to do the dishes?"
+  },
+  {
+    "id": 114,
+    "tr": "Bulaşıkları kime yıkattırtacaksın?",
+    "en": "Who will you have do the dishes? / Who will you get to do the dishes?"
+  },
+  {
+    "id": 115,
+    "tr": "Bulaşıkları kime yıkattırtabilirsin?",
+    "en": "Who can you have do the dishes? / Who can you get to do the dishes?"
+  },
+  {
+    "id": 116,
+    "tr": "Kahvaltıyı oğluma hazırlattım.",
+    "en": "I had my son prepare the breakfast. / I got my son to prepare the breakfast."
+  },
+  {
+    "id": 117,
+    "tr": "Kahvaltıyı oğluma hazırlatmadım.",
+    "en": "I didn't have my son prepare the breakfast. / I didn't get my son to prepare the breakfast."
+  },
+  {
+    "id": 118,
+    "tr": "Kahvaltıyı oğluna mı hazırlattın?",
+    "en": "Did you have your son prepare the breakfast? / Did you get your son to prepare the breakfast?"
+  },
+  {
+    "id": 119,
+    "tr": "Kahvaltıyı oğluna mı hazırlattırtacaksın?",
+    "en": "Will you have your son prepare the breakfast? / Will you get your son to prepare the breakfast?"
+  },
+  {
+    "id": 120,
+    "tr": "Ne zaman kahvaltıyı oğluna hazırlattırtacaksın?",
+    "en": "When will you have your son prepare the breakfast? / When will you get your son to prepare the breakfast?"
+  },
+  {
+    "id": 121,
+    "tr": "Hem kahvaltıyı hem de öğle yemeğini oğluma hazırlattım.",
+    "en": "I had my son prepare both the breakfast and the lunch. / I got my son to prepare both the breakfast and the lunch."
+  },
+  {
+    "id": 122,
+    "tr": "Ya kahvaltıyı ya da öğle yemeğini oğluma hazırlattırtıcam.",
+    "en": "I will have my son prepare either breakfast or lunch. / I will get my son to prepare either breakfast or lunch."
+  },
+  {
+    "id": 123,
+    "tr": "Oğluma ne kahvaltıyı ne de öğle yemeğini hazırlattırmıcam.",
+    "en": "I will have my son prepare neither breakfast nor lunch. / I will get my son to prepare neither breakfast nor lunch."
+  },
+  {
+    "id": 124,
+    "tr": "Oğluma 2 gündür kahvaltı hazırlattırtmadım.",
+    "en": "I haven't had my son prepare breakfast for 2 days. / I haven't gotten my son to prepare breakfast for 2 days."
+  },
+  {
+    "id": 125,
+    "tr": "Oğluma doğduğundan beri kahvaltı hazırlattırtmadım.",
+    "en": "I haven't had my son prepare breakfast since he was born. / I haven't gotten my son to prepare breakfast since he was born."
+  },
+  {
+    "id": 126,
+    "tr": "Oğluma henüz kahvaltı hazırlattırtmadım.",
+    "en": "I haven't had my son prepare breakfast yet. / I haven't gotten my son to prepare breakfast yet."
+  },
+  {
+    "id": 127,
+    "tr": "Bu logoyu iyi bir tasarımcıya tasarlattım.",
+    "en": "I had a good designer design this logo. / I got a good designer to design this logo."
+  },
+  {
+    "id": 128,
+    "tr": "Bu logoyu iyi bir tasarımcıya tasarlattırtıcam.",
+    "en": "I will have a good designer design this logo. / I will get a good designer to design this logo."
+  },
+  {
+    "id": 129,
+    "tr": "Bu logoyu henüz iyi bir tasarımcıya tasarlattırtmadım.",
+    "en": "I haven't had a good designer design this logo yet. / I haven't gotten a good designer to design this logo yet."
+  },
+  {
+    "id": 130,
+    "tr": "Bu logoyu iyi bir tasarımcıya ne zaman tasarlattırtacaksın?",
+    "en": "When will you have a good designer design this logo? / When will you get a good designer to design this logo?"
+  },
+  {
+    "id": 131,
+    "tr": "Bu logoyu iyi bir tasarımcıya ne zaman tasarlattırtabilirsin?",
+    "en": "When can you have a good designer design this logo? / When can you get a good designer to design this logo?"
+  },
+  {
+    "id": 132,
+    "tr": "Bu arabayı bize ürettirdiler.",
+    "en": "They had us produce this car. / They got us to produce this car."
+  },
+  {
+    "id": 133,
+    "tr": "Bu arabayı bize ürettirtecekler.",
+    "en": "They will have us produce this car. / They will get us to produce this car."
+  },
+  {
+    "id": 134,
+    "tr": "Bu arabayı size mi ürettirtecekler?",
+    "en": "Will they have you produce this car? / Will they get you to produce this car?"
+  },
+  {
+    "id": 135,
+    "tr": "Bu arabayı size ne zaman ürettirtecekler?",
+    "en": "When will they have you produce this car? / When will they get you to produce this car?"
+  },
+  {
+    "id": 136,
+    "tr": "Bu arabayı size ne zaman ürettirdiler?",
+    "en": "When did they have you produce this car? / When did they get you to produce this car?"
+  },
+  {
+    "id": 137,
+    "tr": "Hangi arabayı size ürettirdiler?",
+    "en": "Which car did they have you produce? / Which car did they get you to produce?"
+  },
+  {
+    "id": 138,
+    "tr": "Size kaç tane araba ürettirtecekler?",
+    "en": "How many cars will they have you produce? / How many cars will they get you to produce?"
+  },
+  {
+    "id": 139,
+    "tr": "Size kim bir araba ürettirtecek?",
+    "en": "Who will have you produce a car? / Who will get you to produce a car?"
+  },
+  {
+    "id": 140,
+    "tr": "Bahçeyi bahçevana sulattım.",
+    "en": "I had the gardener water the garden. / I got the gardener to water the garden."
+  },
+  {
+    "id": 141,
+    "tr": "Bahçeyi bahçevana sulattıracağım.",
+    "en": "I will have the gardener water the garden. / I will get the gardener to water the garden."
+  },
+  {
+    "id": 142,
+    "tr": "Bahçeyi bahçevana ne zaman sulattırtacaksın?",
+    "en": "When will you have the gardener water the garden? / When will you get the gardener to water the garden?"
+  },
+  {
+    "id": 143,
+    "tr": "Bahçeyi bahçevana ne zaman sulattırtabilirsin?",
+    "en": "When can you have the gardener water the garden? / When can you get the gardener to water the garden?"
+  },
+  {
+    "id": 144,
+    "tr": "Hakeme maçı sona erdirttiler.",
+    "en": "They had the referee end the match. / They got the referee to end the match."
+  },
+  {
+    "id": 145,
+    "tr": "Hakeme maçı sona erdirtecekler.",
+    "en": "They will have the referee end the match. / They will get the referee to end the match."
+  },
+  {
+    "id": 146,
+    "tr": "Hakeme maçı ne zaman sona erdirtecekler?",
+    "en": "When will they have the referee end the match? / When will they get the referee to end the match?"
+  },
+  {
+    "id": 147,
+    "tr": "Hakeme neden maçı sona erdirttiler?",
+    "en": "Why did they have the referee end the match? / Why did they get the referee to end the match?"
+  },
+  {
+    "id": 148,
+    "tr": "Sonuçları öğrencilerime kontrol ettirttim.",
+    "en": "I had my students check the results. / I got my students to check the results."
+  },
+  {
+    "id": 149,
+    "tr": "Sonuçları öğrencilerime kontrol ettirtmedim.",
+    "en": "I didn't have my students check the results. / I didn't get my students to check the results."
+  },
+  {
+    "id": 150,
+    "tr": "Sonuçları öğrencilerine kontrol ettirttin mi?",
+    "en": "Did you have your students check the results? / Did you get your students to check the results?"
+  },
+  {
+    "id": 151,
+    "tr": "Sonuçları öğrencilerine neden kontrol ettirtmedin?",
+    "en": "Why didn't you have your students check the results? / Why didn't you get your students to check the results?"
+  },
+  {
+    "id": 152,
+    "tr": "Sonuçları öğrencilerine ne zaman kontrol ettirteceksin?",
+    "en": "When will you have your students check the results? / When will you get your students to check the results?"
+  },
+  {
+    "id": 153,
+    "tr": "Murat berbere saçlarını kestirtti.",
+    "en": "Murat had the barber cut his hair. / Murat got the barber to cut his hair."
+  },
+  {
+    "id": 154,
+    "tr": "Murat berbere saçlarını kestirtecek.",
+    "en": "Murat will have the barber cut his hair. / Murat will get the barber to cut his hair."
+  },
+  {
+    "id": 155,
+    "tr": "Murat ne zaman saçlarını berbere kestirtecek?",
+    "en": "When will Murat have the barber cut his hair? / When will Murat get the barber to cut his hair?"
+  },
+  {
+    "id": 156,
+    "tr": "Murat ne zaman saçlarını berbere kestirebilir?",
+    "en": "When can Murat have the barber cut his hair? / When can Murat get the barber to cut his hair?"
+  },
+  {
+    "id": 157,
+    "tr": "Sepeti bize doldurttular.",
+    "en": "They had us fill the basket. / They got us to fill the basket."
+  },
+  {
+    "id": 158,
+    "tr": "Sepeti bize doldurtmadılar.",
+    "en": "They didn't have us fill the basket. / They didn't get us to fill the basket."
+  },
+  {
+    "id": 159,
+    "tr": "Sepeti bize doldurtmayacaklar.",
+    "en": "They won't have us fill the basket. / They won't get us to fill the basket."
+  },
+  {
+    "id": 160,
+    "tr": "Sepeti bize elmalar ile doldurttular.",
+    "en": "They had us fill the basket with apples. / They got us to fill the basket with apples."
+  },
+  {
+    "id": 161,
+    "tr": "Sepeti size ne ile doldurttular?",
+    "en": "What did they have you fill the basket with? / What did they get you to fill the basket with?"
+  }
+]

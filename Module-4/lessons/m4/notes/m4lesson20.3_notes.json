@@ -1,0 +1,16 @@
+{
+  "title": "Notes",
+  "tabs": [
+    {
+      "label": "Fiilden Fiile -3",
+      "type": "examples",
+      "items": [
+        {
+          "color": "purple",
+          "tag": "Fiillerden -> Fiil yapma: ...bir KİŞİ ye…. ZORLA bişey YAPTIRTMAK (ZORLA!)",
+          "text": "<table style='width:100%; border-collapse: collapse; font-size:14px; table-layout: fixed;'><thead><tr style='border-bottom:2px solid #eee;'><th style='text-align:left; padding:8px; width:45%;'>FORMÜL</th><th style='text-align:left; padding:8px;'>ÖRNEK</th></tr></thead><tbody><tr><td style='padding:8px; width:45%;'><font color=\"#FFFF00\">make</font> + <font color=\"#00FF00\">someone</font> + <font color=\"#00FFFF\">V1</font> + <font color=\"#BA55D3\">something</font></td><td style='padding:8px;'>I <font color=\"#FFFF00\">made</font> <font color=\"#00FF00\">my grandfather</font> <font color=\"#00FFFF\">take</font> <font color=\"#BA55D3\">his medicine</font>: Dedeme zorla ilacını içirdim.</td></tr></tbody></table>"
+        }
+      ]
+    }
+  ]
+}

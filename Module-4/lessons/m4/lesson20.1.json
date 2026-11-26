@@ -1,0 +1,1107 @@
+[
+  {
+    "id": 1,
+    "tr": "Ayşe saçını yaptırdı.",
+    "en": "Ayşe had her hair done. / Ayşe got her hair done."
+  },
+  {
+    "id": 2,
+    "tr": "Ayşe saçını yaptırmadı.",
+    "en": "Ayşe didn't have her hair done. / Ayşe didn't get her hair done."
+  },
+  {
+    "id": 3,
+    "tr": "Ayşe saçını yaptırttı mı?",
+    "en": "Did Ayşe have her hair done? / Did Ayşe get her hair done?"
+  },
+  {
+    "id": 4,
+    "tr": "Ayşe saçını ne zaman yaptırttı?",
+    "en": "When did Ayşe have her hair done? / When did Ayşe get her hair done"
+  },
+  {
+    "id": 5,
+    "tr": "Ayşe saçını kime yaptırttı?",
+    "en": "Who did Ayşe have her hair done to? / Who did Ayşe get her hair done to?"
+  },
+  {
+    "id": 6,
+    "tr": "Ayşe saçını nerede yaptırttı?",
+    "en": "Where did Ayşe have her hair done? / Where did Ayşe get her hair done?"
+  },
+  {
+    "id": 7,
+    "tr": "Ayşe saçını nerede yaptıracak?",
+    "en": "Where will Ayşe have her hair done? / Where will Ayşe get her hair done?"
+  },
+  {
+    "id": 8,
+    "tr": "Ayşe saçını nerede yaptırabilir?",
+    "en": "Where can Ayşe have her hair done? / Where can Ayşe get her hair done?"
+  },
+  {
+    "id": 9,
+    "tr": "Ayşe saçını nerede yaptırabilirdi?",
+    "en": "Where could Ayşe have her hair done? / Where could Ayşe get her hair done?"
+  },
+  {
+    "id": 10,
+    "tr": "Ayşe saçını nerede yaptırırdı?",
+    "en": "Where would Ayşe have her hair done? / Where would Ayşe get her hair done"
+  },
+  {
+    "id": 11,
+    "tr": "Ayşe saçını nerede yaptırtsa iyi olur?",
+    "en": "Where should Ayşe have her hair done? / Where should Ayşe get her hair done"
+  },
+  {
+    "id": 12,
+    "tr": "Ayşe saçını nerede yaptırtmalı?",
+    "en": "Where must Ayşe have her hair done? / Where must Ayşe get her hair done"
+  },
+  {
+    "id": 13,
+    "tr": "Ayşenin saçını nerede yaptırtması gerek?",
+    "en": "Where does Ayşe need to have her hair done? / Where does Ayşe need to get her hair done"
+  },
+  {
+    "id": 14,
+    "tr": "Ayşe saçını ne zaman yaptırtmak zorunda?",
+    "en": "When does Ayşe have to have her hair done? / When does Ayşe have to get her hair done?"
+  },
+  {
+    "id": 15,
+    "tr": "Ayşenın saçını nerede yaptırdığını biliyorum.",
+    "en": "I know where Ayşe had her hair done. / I know where Ayşe got her hair done."
+  },
+  {
+    "id": 16,
+    "tr": "Ayşenın saçını nerede yaptırdığını bilmiyorum.",
+    "en": "I don't know where Ayşe had her hair done. / I don't know where Ayşe got her hair done"
+  },
+  {
+    "id": 17,
+    "tr": "Ayşenın saçını nerede yaptırdığını biliyor musun?",
+    "en": "Do you know where Ayşe had her hair done? / Do you know where Ayşe got her hair done?"
+  },
+  {
+    "id": 18,
+    "tr": "Ayşenin saçını ne zaman yaptırmak zorunda olduğunu biliyor musun?",
+    "en": "Do you know when Ayşe has to have her hair done? / Do you know when Ayşe has to get her hair done?"
+  },
+  {
+    "id": 19,
+    "tr": "Arabamı tamir ettirdim.",
+    "en": "I had my car fixed / I got my car fixed"
+  },
+  {
+    "id": 20,
+    "tr": "Arabamı tamir ettirmedim.",
+    "en": "I didn't have my car fixed / I didn't get my car fixed"
+  },
+  {
+    "id": 21,
+    "tr": "Arabanı tamir ettirdin mi?",
+    "en": "Did you have your car fixed? / Did you get your car fixed?"
+  },
+  {
+    "id": 22,
+    "tr": "Arabanı ne zaman tamir ettirdin?",
+    "en": "When did you have your car fixed? / When did you get your car fixed?"
+  },
+  {
+    "id": 23,
+    "tr": "Arabanı kime tamir ettirdin?",
+    "en": "Who did you have your car fixed to? / Who did you get your car fixed to?"
+  },
+  {
+    "id": 24,
+    "tr": "Arabanı neden tamir ettirmedin?",
+    "en": "Why didn't you have your car fixed? / Why didn't you get your car fixed?"
+  },
+  {
+    "id": 25,
+    "tr": "Arabanı ne zaman tamir ettireceksin?",
+    "en": "When will you have your car fixed? / When will you get your car fixed?"
+  },
+  {
+    "id": 26,
+    "tr": "Arabanı ne zaman tamir ettirebilirsin?",
+    "en": "When can you have your car fixed? / When can you get your car fixed?"
+  },
+  {
+    "id": 27,
+    "tr": "Arabanı tamir ettirmen gerek mi?",
+    "en": "Do you need to have your car fixed? / Do you need to get your car fixed?"
+  },
+  {
+    "id": 28,
+    "tr": "Arabanı tamir ettirtmek zorunda mısın?",
+    "en": "Do you have to have your car fixed? / Do you have to get your car fixed?"
+  },
+  {
+    "id": 29,
+    "tr": "Arabanı tamir ettirmek kaç para tutuyor?",
+    "en": "How much does it cost to have your car fixed? / How much does it cost to get your car fixed?"
+  },
+  {
+    "id": 30,
+    "tr": "Arabanı tamir ettirmek kaç para tuttu?",
+    "en": "How much did it cost to have your car fixed? / How much did it cost to get your car fixed?"
+  },
+  {
+    "id": 31,
+    "tr": "Arabanı nerede tamir ettirirdin?",
+    "en": "Where would you have your car fixed? / Where would you get your car fixed?"
+  },
+  {
+    "id": 32,
+    "tr": "Arabanı nerede tamir ettirmelisin?",
+    "en": "Where must you have your car fixed? / Where must you get your car fixed?"
+  },
+  {
+    "id": 33,
+    "tr": "Arabamı ne zaman tamir ettirsem iyi olur?",
+    "en": "When should I have my car fixed? / When should I get my car fixed"
+  },
+  {
+    "id": 34,
+    "tr": "Arabamı nerede tamir ettirsem iyi olur?",
+    "en": "Where should I have my car fixed? / Where should I get my car fixed?"
+  },
+  {
+    "id": 35,
+    "tr": "Ali’nin arabasını nerede tamir ettirtiğini biliyor musun?",
+    "en": "Do you know where Ali had his car fixed? / Do you know where Ali got his car fixed?"
+  },
+  {
+    "id": 36,
+    "tr": "Ali’nin arabasını ne zaman tamir ettirtiğini biliyor musun?",
+    "en": "Do you know when Ali had his car fixed? / Do you know when Ali got his car fixed?"
+  },
+  {
+    "id": 37,
+    "tr": "Ali’nin arabasını nerede tamir ettirtiğini bilmiyorum.",
+    "en": "I don't know where Ali had his car fixed. / I don't know where Ali got his car fixed."
+  },
+  {
+    "id": 38,
+    "tr": "Ali’nin arabasını nerede tamir ettirtiğini bilmiyordum.",
+    "en": "I didn't know where Ali had his car fixed / I didn't know where Ali got his car fixed."
+  },
+  {
+    "id": 39,
+    "tr": "Çimenleri kestirttim.",
+    "en": "I had the grass cut. / I got the grass cut"
+  },
+  {
+    "id": 40,
+    "tr": "Çimenleri kestirtmedim.",
+    "en": "I didn't have the grass cut. / I didn't get the grass cut."
+  },
+  {
+    "id": 41,
+    "tr": "Dün çimenleri kestirttin mi?",
+    "en": "Did you have the grass cut yesterday? / Did you get the grass cut yesterday?"
+  },
+  {
+    "id": 42,
+    "tr": "Çimenleri ne zaman kestirttin?",
+    "en": "When did you have the grass cut? / When did you get the grass cut?"
+  },
+  {
+    "id": 43,
+    "tr": "Çimenleri ne zaman kestirteceksin?",
+    "en": "When will you have the grass cut? / When will you get the grass cut?"
+  },
+  {
+    "id": 44,
+    "tr": "Çimenleri ne zaman kestirtebilirsin?",
+    "en": "When can you have the grass cut? / When can you get the grass cut?"
+  },
+  {
+    "id": 45,
+    "tr": "Çimenleri ne zaman kestirteceğini bana söyleyebilir misin?",
+    "en": "Can you tell me when you will have the grass cut? / Can you tell me when you will get the grass cut?"
+  },
+  {
+    "id": 46,
+    "tr": "Çimenleri ne zaman kestirteceğimi bilmiyorum.",
+    "en": "I don't know when I will have the grass cut. / I don't know when I will get the grass cut."
+  },
+  {
+    "id": 47,
+    "tr": "Çimleri kestirtmenin ne kadar önemli olduğunu bilmeni istiyorum.",
+    "en": "I want you to know how important it is to have the grass cut. / I want you to know how important getting the grass cut is."
+  },
+  {
+    "id": 48,
+    "tr": "Çimleri kestirtmenin neden önemli olduğunu anlamanı istiyorum.",
+    "en": "I want you to understand why it is important to have the grass cut. / I want you to understand why getting the grass cut is important."
+  },
+  {
+    "id": 49,
+    "tr": "Saçımı kestirtmemin neden bu kadar pahalı olduğunu anlayamıyorum.",
+    "en": "I can't understand why it is so expensive to have my hair cut. / I can't understand why getting my hair cut is so expensive."
+  },
+  {
+    "id": 50,
+    "tr": "Saç kestirtmenin ne kadar pahalı olduğunu biliyor musun?",
+    "en": "Do you know how expensive it is to have a hair cut? / Do you know how expensive it is to get a hair cut? / Do you know how expensive getting a hair cut is?"
+  },
+  {
+    "id": 51,
+    "tr": "Londra'da saç kestirtmenin ne kadar pahalı olduğunu tahmin bile edemezsin.",
+    "en": "You can't even guess how expensive it is to have hair cut in London. / You can't even guess how expensive getting hair cut is in London."
+  },
+  {
+    "id": 52,
+    "tr": "Ayşe makyajını yaptırdı.",
+    "en": "Ayşe had her makeup done / Ayşe got her makeup done"
+  },
+  {
+    "id": 53,
+    "tr": "Ayşe makyajını yaptırtmadı.",
+    "en": "Ayşe didn't have her makeup done / Ayşe didn't get her makeup done"
+  },
+  {
+    "id": 54,
+    "tr": "Ayşe makyajını yaptırttı mı?",
+    "en": "Did Ayşe have her makeup done? / Did Ayşe get her makeup done?"
+  },
+  {
+    "id": 55,
+    "tr": "Ayşe ne zaman makyajını yaptırttı?",
+    "en": "When did Ayşe have her makeup done? / When did Ayşe get her makeup done?"
+  },
+  {
+    "id": 56,
+    "tr": "Ayşe ne zaman makyajını yaptırtacak?",
+    "en": "When will Ayşe have her makeup done? / When will Ayşe get her makeup done?"
+  },
+  {
+    "id": 57,
+    "tr": "Ayşe ne zaman makyajını yaptırabilir?",
+    "en": "When can Ayşe have her makeup done? / When can Ayşe get her makeup done?"
+  },
+  {
+    "id": 58,
+    "tr": "Ayşe nerede makyajını yaptırtabilir?",
+    "en": "Where can Ayşe have her makeup done? / Where can Ayşe get her makeup done?"
+  },
+  {
+    "id": 59,
+    "tr": "Ayşe nerede makyajını yaptırtsa iyi olur?",
+    "en": "Where should Ayşe have her makeup done? / Where should Ayşe get her makeup done?"
+  },
+  {
+    "id": 60,
+    "tr": "Ayşe makyajını nerede yaptırtması gerek?",
+    "en": "Where does Ayşe need to have her makeup done? / Where does Ayşe need to get her makeup done?"
+  },
+  {
+    "id": 61,
+    "tr": "Ayşe makyajını nerede yaptırtmalı?",
+    "en": "Where must Ayşe have her makeup done? / Where must Ayşe get her makeup done?"
+  },
+  {
+    "id": 62,
+    "tr": "Ayşe makyajını nerede yaptırmak zorunda?",
+    "en": "Where does Ayşe have to have her makeup done? / Where does Ayşe have to get her makeup done?"
+  },
+  {
+    "id": 63,
+    "tr": "Ayşe burnunu yaptırttı.",
+    "en": "Ayşe had her nose done. /  Ayşe got her nose done."
+  },
+  {
+    "id": 64,
+    "tr": "Ayşe burnunu yaptırtmadı.",
+    "en": "Ayşe didn't have her nose done. / Ayşe didn't get her nose done"
+  },
+  {
+    "id": 65,
+    "tr": "Ayşe burnunu yaptırttı mı?",
+    "en": "Did Ayşe have her nose done? / Did Ayşe get her nose done?"
+  },
+  {
+    "id": 66,
+    "tr": "Ayşe nerede burnunu yaptırttı?",
+    "en": "Where did Ayşe have her nose done? / Where did Ayşe get her nose done?"
+  },
+  {
+    "id": 67,
+    "tr": "Ayşe ne zaman burnunu yaptırttı?",
+    "en": "When did Ayşe have her nose done? / When did Ayşe get her nose done?"
+  },
+  {
+    "id": 68,
+    "tr": "Murat evini kiralattı.",
+    "en": "Murat had his house rented / Murat got his house rented"
+  },
+  {
+    "id": 69,
+    "tr": "Murat evini kiralatmadı.",
+    "en": "Murat didn't have his house rented / Murat didn't get his house rented"
+  },
+  {
+    "id": 70,
+    "tr": "Murat evini kiralattı mı?",
+    "en": "Did Murat have his house rented? / Did Murat get his house rented?"
+  },
+  {
+    "id": 71,
+    "tr": "Murat ne zaman evini kiralattı?",
+    "en": "When did Murat have his house rented? / When did Murat get his house rented?"
+  },
+  {
+    "id": 72,
+    "tr": "Murat evini kime kiralattı?",
+    "en": "Who did Murat have his house rented to? / Who did Murat get his house rented to?"
+  },
+  {
+    "id": 73,
+    "tr": "Murat evini kaç paraya kiralattı?",
+    "en": "How much did Murat have his house rented for? / How much did Murat get his house rented for?"
+  },
+  {
+    "id": 74,
+    "tr": "Muratın evini kaç paraya kiralattığını bilmiyorum.",
+    "en": "I don't know how much Murat had his house rented for. / I don't know how much Murat got his house rented for."
+  },
+  {
+    "id": 75,
+    "tr": "Muratın evini kaç paraya kiralattığını biliyor musun?",
+    "en": "Do you know how much Murat had his house rented for? / Do you know how much Murat got his house rented for?"
+  },
+  {
+    "id": 76,
+    "tr": "Parti için ayakkabılarımı cilalattım.",
+    "en": "I had my shoes polished for the party /  I got my shoes polished for the party"
+  },
+  {
+    "id": 77,
+    "tr": "Parti için ayakkabılarımı cilalatmadım.",
+    "en": "I didn't have my shoes polished for the party / I didn't get my shoes polished for the party."
+  },
+  {
+    "id": 78,
+    "tr": "Parti için ayakkabılarını cilalattın mı?",
+    "en": "Did you have your shoes polished for the party? / Did you get your shoes polished for the party?"
+  },
+  {
+    "id": 79,
+    "tr": "Neden parti için ayakkabılarını cilalatmadın?",
+    "en": "Why didn't you have your shoes polished for the party? / Why didn't you get your shoes polished for the party?"
+  },
+  {
+    "id": 80,
+    "tr": "Parti için ayakkabılarını nerede cilalattın?",
+    "en": "Where did you have your shoes polished for the party? / Where did you get your shoes polished for the party?"
+  },
+  {
+    "id": 81,
+    "tr": "Parti için ayakkabılarını cilalattırman gerektiğini bilmen gerek.",
+    "en": "You need to know that you need to have your shoes polished for the party. / You need to know that you need to get your shoes polished for the party."
+  },
+  {
+    "id": 82,
+    "tr": "Müdür maaşları ödetti.",
+    "en": "The manager had the salaries paid. / The manager got the salaries paid."
+  },
+  {
+    "id": 83,
+    "tr": "Müdür maaşları ödettirmedi.",
+    "en": "The manager didn't have the salaries paid. / The manager didn't get the salaries paid."
+  },
+  {
+    "id": 84,
+    "tr": "Müdür maaşları ödetti mi?",
+    "en": "Did the manager have the salaries paid? / Did the manager get the salaries paid?"
+  },
+  {
+    "id": 85,
+    "tr": "Müdür maaşları ödetecek mi?",
+    "en": "Will the manager have the salaries paid? / Will the manager get the salaries paid?"
+  },
+  {
+    "id": 86,
+    "tr": "Müdür maaşları ne zaman ödettirtecek?",
+    "en": "When will the manager have the salaries paid? / When will the manager get the salaries paid?"
+  },
+  {
+    "id": 87,
+    "tr": "Müdür maaşları ödetebilirdi.",
+    "en": "The manager could have the salaries paid. / The manager could get the salaries paid."
+  },
+  {
+    "id": 88,
+    "tr": "Yeni bir banka hesabı açtırtım.",
+    "en": "I had a new bank account opened. / I got a new bank account opened."
+  },
+  {
+    "id": 89,
+    "tr": "Yeni bir banka hesabı açtırtmadım.",
+    "en": "I didn't have a new bank account opened. / I didn't get a new bank account opened."
+  },
+  {
+    "id": 90,
+    "tr": "Yeni bir banka hesabı mı açtırtın?",
+    "en": "Did you have a new bank account opened? / Did you get a new bank account opened?"
+  },
+  {
+    "id": 91,
+    "tr": "Neden yeni bir banka hesabı açtırtın?",
+    "en": "Why did you have a new bank account opened? / Why did you get a new bank account opened?"
+  },
+  {
+    "id": 92,
+    "tr": "Neden yeni bir banka hesabı açtırtmadın?",
+    "en": "Why didn't you have a new bank account opened? / Why didn't you get a new bank account opened?"
+  },
+  {
+    "id": 93,
+    "tr": "Ne zaman yeni bir banka hesabı açtırtın?",
+    "en": "When did you have a new bank account opened? / When did you get a new bank account opened?"
+  },
+  {
+    "id": 94,
+    "tr": "Hangi bankadan yeni bir hesap açtırtın?",
+    "en": "Which bank did you have a new bank account opened at? / Which bank did you get a new bank account opened at?"
+  },
+  {
+    "id": 95,
+    "tr": "Hangi bankadan yeni bir hesap açtırtacaksın?",
+    "en": "Which bank will you have a new account opened at? / Which bank will you get a new account opened at?"
+  },
+  {
+    "id": 96,
+    "tr": "Hangi bankadan yeni bir hesap açtırtmalıyım?",
+    "en": "Which bank must I have a new account opened at? / Which bank must I get a new account opened at?"
+  },
+  {
+    "id": 97,
+    "tr": "Hangi bankadan yeni bir hesap açtırtsam iyi olur?",
+    "en": "Which bank should I have a new account opened at? / Which bank should I get a new account opened at?"
+  },
+  {
+    "id": 98,
+    "tr": "Hangi bankadan yeni bir hesap açtırtmam gerek?",
+    "en": "Which bank do I need to have a new account opened at? / Which bank do I need to get a new account opened at?"
+  },
+  {
+    "id": 99,
+    "tr": "Hangi bankadan yeni bir hesap açtırtmak zorundasın?",
+    "en": "Which bank do you have to have a new account opened at? / Which bank do you have to get a new account opened at?"
+  },
+  {
+    "id": 100,
+    "tr": "Hangi bankadan yeni bir hesap açtırırdın?",
+    "en": "Which bank would you have a new account opened at? / Which bank would you get a new account opened at?"
+  },
+  {
+    "id": 101,
+    "tr": "Hangi bankalardan yeni bir hesap açtırtabiliriz?",
+    "en": "Which banks can we have a new account opened at? / Which banks can we get a new account opened at?"
+  },
+  {
+    "id": 102,
+    "tr": "Dişimi çektirdim.",
+    "en": "I had my tooth pulled / I got my tooth pulled"
+  },
+  {
+    "id": 103,
+    "tr": "Dişimi çektirmedim.",
+    "en": "I didn't have my tooth pulled / I didn't get my tooth pulled"
+  },
+  {
+    "id": 104,
+    "tr": "Sen dişini çektirdin mi?",
+    "en": "Did you have your tooth pulled? / Did you get your tooth pulled?"
+  },
+  {
+    "id": 105,
+    "tr": "Sen ne zaman dişini çektirdin?",
+    "en": "When did you have your tooth pulled? / When did you get your tooth pulled?"
+  },
+  {
+    "id": 106,
+    "tr": "Sen nerede dişini çektirdin?",
+    "en": "Where did you have your tooth pulled ? / Where did you get your tooth pulled?"
+  },
+  {
+    "id": 107,
+    "tr": "Neden dişini çektirmedin?",
+    "en": "Why didn't you have your tooth pulled? / Why didn't you get your tooth pulled?"
+  },
+  {
+    "id": 108,
+    "tr": "Kaç tane dişini çektirdin?",
+    "en": "How many teeth did you have pulled? / How many teeth did you get pulled?"
+  },
+  {
+    "id": 109,
+    "tr": "Kaç paraya dişini çektirdin?",
+    "en": "How much did you have your tooth pulled for? / How much did you get your tooth pulled for?"
+  },
+  {
+    "id": 110,
+    "tr": "Dişini çektirmek için kaç para ödedin?",
+    "en": "How much did you pay to have your tooth pulled? / How much did you pay to get your tooth pulled?"
+  },
+  {
+    "id": 111,
+    "tr": "Dişini çektirtmek için hastanede ne kadar bekledin?",
+    "en": "How long did you wait to have your tooth pulled at the hospital? / How long did you wait to get your tooth pulled at the hospital?"
+  },
+  {
+    "id": 112,
+    "tr": "Geçen yıl evimizi boyattık.",
+    "en": "We had our house painted last year / We got our house painted last year"
+  },
+  {
+    "id": 113,
+    "tr": "Geçen yıl evimizi boyatmadık.",
+    "en": "We didn't have our house painted last year  / We didn't get our house painted last year"
+  },
+  {
+    "id": 114,
+    "tr": "Geçen yıl evinizi boyattınız mı?",
+    "en": "Did you have your house painted last year? / Did you get your house painted last year?"
+  },
+  {
+    "id": 115,
+    "tr": "Neden geçen yıl evimizi boyatmadık?",
+    "en": "Why didn't we have our house painted last year? / Why didn't we get our house painted last year?"
+  },
+  {
+    "id": 116,
+    "tr": "Evinizi ne zaman boyatacaksınız?",
+    "en": "When will you have your house painted? / When will you get your house painted?"
+  },
+  {
+    "id": 117,
+    "tr": "Yerinde olsam evimi boyattırırdım.",
+    "en": "If I were you, I would have my house painted. / If I were you, I would get my house painted."
+  },
+  {
+    "id": 118,
+    "tr": "Bu şehirde yaşayan insanlar için evlerini boyattırmalarının ne kadar önemli olduğunu bilmeni isterim.",
+    "en": " I want you to know how important it is for the people living in this city to have their houses painted. / I want you to know how important getting their houses painted is for the people living in this city"
+  },
+  {
+    "id": 119,
+    "tr": "Evi ne zaman boyattığını biliyorum.",
+    "en": "I know when you had the house painted. / I know when you got the house painted."
+  },
+  {
+    "id": 120,
+    "tr": "Evini neden boyattığını bana söylemedin.",
+    "en": "You didn't tell me why you had your house painted. / You didn't tell me why you got your house painted."
+  },
+  {
+    "id": 121,
+    "tr": "Evini neden boyatmadığını bana söylemedin.",
+    "en": "You didn't tell me why you didn't have your house painted. / You didn't tell me why you didn't get your house painted."
+  },
+  {
+    "id": 122,
+    "tr": "Evinizi boyatacağınızı Aliye ne zaman söyleyeceksin?",
+    "en": "When will you tell Ali that you will have your house painted? / When will you tell Ali that you will get your house painted?"
+  },
+  {
+    "id": 123,
+    "tr": "Evinizi boyatacağınızı neden Aliye söylemedin?",
+    "en": "Why didn't you tell Ali that you would have your house painted? / Why didn't you tell Ali that you would get your house painted?"
+  },
+  {
+    "id": 124,
+    "tr": "Evinizi boyattırmanın ne kadar önemli olduğunu Aliye söylesen iyi olur.",
+    "en": "You should tell Ali how important it is to have your house painted. / You should tell Ali how important getting your house painted is."
+  },
+  {
+    "id": 125,
+    "tr": "Evinizi boyatmanın ne kadar önemli olduğunu Aliye söylemen gerek.",
+    "en": "You need to tell Ali how important it is to have your house painted. / You need to tell Ali how important it is to get your house painted. / You need to tell Ali how important getting your house painted is"
+  },
+  {
+    "id": 126,
+    "tr": "Evini boyattırmanın ne kadar stresli bir şey olduğunu biliyorum.",
+    "en": "I know how stressful it is to have your house painted. / I know how stressful it is to get your house painted. / I know how stressful getting your house painted is."
+  },
+  {
+    "id": 127,
+    "tr": "Kapıyı kapattırdım.",
+    "en": "I had the door closed / I got the door closed"
+  },
+  {
+    "id": 128,
+    "tr": "Kapıyı kapattırtmadım.",
+    "en": "I didn't have the door closed / I didn't get the door closed"
+  },
+  {
+    "id": 129,
+    "tr": "Kapıyı kapattırdın mı?",
+    "en": "Did you have the door closed? / Did you get the door closed?"
+  },
+  {
+    "id": 130,
+    "tr": "Neden kapıyı kapattırdın?",
+    "en": "Why did you have the door closed? / Why did you get the door closed?"
+  },
+  {
+    "id": 131,
+    "tr": "Ne zaman kapıyı kapattırdın?",
+    "en": "When did you have the door closed? / When did you get the door closed?"
+  },
+  {
+    "id": 132,
+    "tr": "Neden kapıyı kapattırmadın?",
+    "en": "Why didn't you have the door closed? / Why didn't you get the door closed?"
+  },
+  {
+    "id": 133,
+    "tr": "Kapıyı senin kapattırtığını biliyorum.",
+    "en": "I know that you had the door closed. / I know that you got the door closed."
+  },
+  {
+    "id": 134,
+    "tr": "Kapıyı kimin kapattırdığını biliyor musun?",
+    "en": "Do you know who had the door closed? / Do you know who got the door closed?"
+  },
+  {
+    "id": 135,
+    "tr": "Evimi temizlettirdim.",
+    "en": "I had my house cleaned /  I got my house cleaned"
+  },
+  {
+    "id": 136,
+    "tr": "Evimi temizlettirmedim.",
+    "en": "I didn't have my house cleaned. / I didn't get my house cleaned."
+  },
+  {
+    "id": 137,
+    "tr": "Odanı temizlettirdin mi?",
+    "en": "Did you have your room cleaned? / Did you get your room cleaned?"
+  },
+  {
+    "id": 138,
+    "tr": "Neden mutfağı temizlettirtmedin?",
+    "en": "Why didn't you have the kitchen cleaned? / Why didn't you get the kitchen cleaned?"
+  },
+  {
+    "id": 139,
+    "tr": "Ne zaman evi temizlettireceksin?",
+    "en": "When will you have the house cleaned? / When will you get the house cleaned?"
+  },
+  {
+    "id": 140,
+    "tr": "Ne zaman evi temizlettirtebilirsin?",
+    "en": "When can you have the house cleaned? / When can you get the house cleaned?"
+  },
+  {
+    "id": 141,
+    "tr": "Lütfen benim odamı da temizlettirin.",
+    "en": "Please have my room cleaned too. / Please get my room cleaned too."
+  },
+  {
+    "id": 142,
+    "tr": "Lütfen benim odamı da temizlettirmeyin.",
+    "en": "Please don't have my room cleaned either. / Please don't get my room cleaned either."
+  },
+  {
+    "id": 143,
+    "tr": "İkimizin de odasını temizlettirin lütfen.",
+    "en": "Please have both of our rooms cleaned. / Please get both of our rooms cleaned."
+  },
+  {
+    "id": 144,
+    "tr": "Hem mutfağı hem de banyoyu temizlettirin lütfen.",
+    "en": "Please have both the kitchen and the bathroom cleaned. / Please get both the kitchen and the bathroom cleaned."
+  },
+  {
+    "id": 145,
+    "tr": "Ya mutfağı ya da banyoyu temizlettirin lütfen.",
+    "en": "Please have either the kitchen or bathroom cleaned. / Please get either the kitchen or the bathroom cleaned."
+  },
+  {
+    "id": 146,
+    "tr": "Ne benim odamı ne de onun odasını temizlettirmeyin lütfen.",
+    "en": "Please have neither my room nor his room cleaned. / Please get neither my room nor his room cleaned"
+  },
+  {
+    "id": 147,
+    "tr": "Kitaplarımı getirttim.",
+    "en": "I had my books brought / I got my books brought"
+  },
+  {
+    "id": 148,
+    "tr": "Kitaplarımı getirtmedim.",
+    "en": "I didn't have my books brought / I didn't get my books brought"
+  },
+  {
+    "id": 149,
+    "tr": "Kitaplarımı getirttin mi?",
+    "en": "Did you have my books brought? / Did you get my books brought?"
+  },
+  {
+    "id": 150,
+    "tr": "Kitaplarını neden getirttin?",
+    "en": "Why did you have your books brought? / Why did you get your books brought?"
+  },
+  {
+    "id": 151,
+    "tr": "Kitaplarımı neden getirtmedin?",
+    "en": "Why didn't you have my books brought? / Why didn't you get your books brought?"
+  },
+  {
+    "id": 152,
+    "tr": "Kitaplarını ne zaman getirttin?",
+    "en": "When did you have your books brought? / When did you get your books brought?"
+  },
+  {
+    "id": 153,
+    "tr": "Kitaplarını nereden getirttin?",
+    "en": "Where did you have your books brought from? / Where did you get your books brought from?"
+  },
+  {
+    "id": 154,
+    "tr": "Hem benim hem de senin kitaplarını getirttim.",
+    "en": "I had both my books and your books brought. / I got both my books and your books brought."
+  },
+  {
+    "id": 155,
+    "tr": "Ya benim ya da onun kitaplarını getirttirebilir misin?",
+    "en": "Can you have either my books or his books brought? / Can you get either my books or his books brought?"
+  },
+  {
+    "id": 156,
+    "tr": "Ne senin ne de onun kitaplarını getirtemem.",
+    "en": "I can have neither your books nor his books brought. / I can get neither your books nor his books brought."
+  },
+  {
+    "id": 157,
+    "tr": "E-postalarımı göndertttim.",
+    "en": "I had my emails sent / I got my emails sent"
+  },
+  {
+    "id": 158,
+    "tr": "E-postalarımı henüz göndertmedim.",
+    "en": "I haven’t had my emails sent yet. / I haven’t gotten my emails sent yet."
+  },
+  {
+    "id": 159,
+    "tr": "E-postalarını gönderttin mi?",
+    "en": "Did you have your emails sent? / Did you get your emails sent?"
+  },
+  {
+    "id": 160,
+    "tr": "E-postalarını ne zaman gönderttin?",
+    "en": "When did you have your emails sent ? / When did you get your emails sent?"
+  },
+  {
+    "id": 161,
+    "tr": "Hem benim hem de kendi e-postalarını gönderttin mi?",
+    "en": "Did you have both my emails and your emails sent? / Did you get both of my emails and your emails sent?"
+  },
+  {
+    "id": 162,
+    "tr": "Ya benim e-postalarımı ya da müdürün e-postalarını göndertmen gerek",
+    "en": "You need to have either my emails or the manager's emails sent. / You need to get either my emails or the manager's emails sent."
+  },
+  {
+    "id": 163,
+    "tr": "İkimizin de e-postalarını göndertttim.",
+    "en": "I had both of our emails sent. / I got both of our emails sent"
+  },
+  {
+    "id": 164,
+    "tr": "İkimizin de e-postalarını göndertmedim.",
+    "en": "I had neither of our emails sent. / I got neither of our emails sent."
+  },
+  {
+    "id": 165,
+    "tr": "Soruları çözdürttüm.",
+    "en": "I had the questions solved. / I got the questions solved."
+  },
+  {
+    "id": 166,
+    "tr": "Soruları çözdürtmedim.",
+    "en": "I didn't have the questions solved. / I didn't get the questions solved."
+  },
+  {
+    "id": 167,
+    "tr": "Soruları çözdürttün mü?",
+    "en": "Did you have the questions solved? / Did you get the questions solved?"
+  },
+  {
+    "id": 168,
+    "tr": "Ne zaman soruları çözdürttün?",
+    "en": "When did you have the questions solved? / When did you get the questions solved?"
+  },
+  {
+    "id": 169,
+    "tr": "Soruları saat kaçta çözdürttün?",
+    "en": "What time did you have the questions solved? / What time did you get the questions solved?"
+  },
+  {
+    "id": 170,
+    "tr": "Soruları neden çözdürtmedin?",
+    "en": "Why didn't you have the questions solved? / Why didn't you get the questions solved?"
+  },
+  {
+    "id": 171,
+    "tr": "Soruların ikisini de çözdürttüm.",
+    "en": "I had both of the questions solved. / I got both of the questions solved."
+  },
+  {
+    "id": 172,
+    "tr": "Ya bu ya da diğer soruyu çözdürtmem gerek.",
+    "en": "I need to have either this question or the other question solved. / I need to get either this question or the other question solved."
+  },
+  {
+    "id": 173,
+    "tr": "Çocukları okuldan aldırttım.",
+    "en": "I had the children taken from the school. / I got the children taken from the school"
+  },
+  {
+    "id": 174,
+    "tr": "Çocukları okuldan aldırtmadım.",
+    "en": "I didn't have the children taken from the school / I didn't get the children taken from the school"
+  },
+  {
+    "id": 175,
+    "tr": "Çocukları okuldan aldırttın mı?",
+    "en": "Did you have the children taken from the school? / Did you get the children taken from the school?"
+  },
+  {
+    "id": 176,
+    "tr": "Çocukları ne zaman okuldan aldırttın?",
+    "en": "When did you have the children taken from the school? / When did you get the children taken from the school?"
+  },
+  {
+    "id": 177,
+    "tr": "Çocukları neden okuldan aldırtmadın?",
+    "en": "Why didn't you have the children taken from the school? / Why didn't you get the children taken from the school?"
+  },
+  {
+    "id": 178,
+    "tr": "Çocukların ikisini de okuldan aldırttım.",
+    "en": "I had both of the children taken from the school / I got both of the children taken from the school"
+  },
+  {
+    "id": 179,
+    "tr": "Çocukların ikisini de okuldan aldırtmadım.",
+    "en": "I had neither of the children taken from the school / I got neither of the children taken from the school"
+  },
+  {
+    "id": 180,
+    "tr": "Çamaşırlarımı yıkattım.",
+    "en": "I had my laundry done. / I got my laundry done."
+  },
+  {
+    "id": 181,
+    "tr": "Çamaşırlarımı yıkatmadım.",
+    "en": "I didn't have my laundry done. / I didn't get my laundry done."
+  },
+  {
+    "id": 182,
+    "tr": "Çamaşırlarımı yıkattın mı?",
+    "en": "Did you have my laundry done? / Did you get my laundry done?"
+  },
+  {
+    "id": 183,
+    "tr": "Çamaşırlarımı neden yıkatmadın?",
+    "en": "Why didn't you have my laundry done / Why didn't you get my laundry done"
+  },
+  {
+    "id": 184,
+    "tr": "Çamaşırlarını ne zaman yıkattın?",
+    "en": "When did you have your laundry done? / When did you get your laundry done?"
+  },
+  {
+    "id": 185,
+    "tr": "Çamaşırlarını nerede yıkattın?",
+    "en": "Where did you have your laundry done? / Where did you get your laundry done?"
+  },
+  {
+    "id": 186,
+    "tr": "Çamaşırlarımı nerede yıkattırabilirim?",
+    "en": "Where can I have my laundry done? / Where can I get my laundry done?"
+  },
+  {
+    "id": 187,
+    "tr": "Çamaşırlarını nerede yıkattıracaksın?",
+    "en": "Where will you have your laundry done? / Where will you get your laundry done?"
+  },
+  {
+    "id": 188,
+    "tr": "Bulaşıkları yıkattım.",
+    "en": "I had the dishes done / I got the dishes done"
+  },
+  {
+    "id": 189,
+    "tr": "Bulaşıkları yıkatmadım.",
+    "en": "I didn't have the dishes done / I didn't get the dishes done"
+  },
+  {
+    "id": 190,
+    "tr": "Bulaşıkları yıkattın mı?",
+    "en": "Did you have the dishes done? / Did you get the dishes done?"
+  },
+  {
+    "id": 191,
+    "tr": "Bulaşıkları ne zaman yıkattın?",
+    "en": "When did you have the dishes done? / When did you get the dishes done?"
+  },
+  {
+    "id": 192,
+    "tr": "Kahvaltıyı hazırlattım.",
+    "en": "I had the breakfast prepared / I got the breakfast prepared"
+  },
+  {
+    "id": 193,
+    "tr": "Kahvaltıyı hazırlatmadım.",
+    "en": "I didn't have the breakfast prepared / I didn't get the breakfast prepared"
+  },
+  {
+    "id": 194,
+    "tr": "Kahvaltıyı hazırlattın mı?",
+    "en": "Did you have the breakfast prepared? / Did you get the breakfast prepared?"
+  },
+  {
+    "id": 195,
+    "tr": "Kahvaltıyı ne zaman hazırlattın?",
+    "en": "When did you have the breakfast prepared? / When did you get the breakfast prepared?"
+  },
+  {
+    "id": 196,
+    "tr": "Kahvaltıyı ne zaman hazırlattırtacaksın?",
+    "en": "When will you have the breakfast prepared? / When will you get the breakfast prepared?"
+  },
+  {
+    "id": 197,
+    "tr": "Kahvaltıyı neden hazırlatmadın?",
+    "en": "Why didn't you have the breakfast prepared? / Why didn't you get the breakfast prepared?"
+  },
+  {
+    "id": 198,
+    "tr": "Saat kaçta kahvaltıyı hazırlattın?",
+    "en": "What time did you have the breakfast prepared? / What time did you get the breakfast prepared?"
+  },
+  {
+    "id": 199,
+    "tr": "Kahvaltıyı saat kaçta hazırlattırtabilirsin?",
+    "en": "What time can you have the breakfast prepared? / What time can you get the breakfast prepared?"
+  },
+  {
+    "id": 200,
+    "tr": "Bu logoyu tasarlattım.",
+    "en": "I had this logo designed /  I got this logo designed"
+  },
+  {
+    "id": 201,
+    "tr": "Bu logoyu tasarlatmadım.",
+    "en": "I didn't have this logo designed / I didn't get this logo designed."
+  },
+  {
+    "id": 202,
+    "tr": "Bu logoyu sen mi tasarlattın?",
+    "en": "Did you have this logo designed? / Did you get this logo designed?"
+  },
+  {
+    "id": 203,
+    "tr": "Bu logoyu kim tasarlattı?",
+    "en": "Who had this logo designed? /  Who got this logo designed?"
+  },
+  {
+    "id": 204,
+    "tr": "Bu logoyu niçin tasarlattın?",
+    "en": "Why did you have this logo designed? / Why did you get this logo designed?"
+  },
+  {
+    "id": 205,
+    "tr": "Bu logoyu kim için tasarlattın?",
+    "en": "Who did you have this logo designed for? / Who did you get this logo designed for?"
+  },
+  {
+    "id": 206,
+    "tr": "Bu logoyu tasarlatmak için ne kadar ödedin?",
+    "en": "How much did you pay to have this logo designed? / How much did you pay to get this logo designed?"
+  },
+  {
+    "id": 207,
+    "tr": "Bu logoyu tasarlatmak ne kadara mal olur?",
+    "en": "How much does it cost to have this logo designed / How much does it cost to get this logo designed"
+  },
+  {
+    "id": 208,
+    "tr": "Bu logoyu tasarlatmak ne kadara mal oldu?",
+    "en": "How much did it cost to have this logo designed? / How much did it cost to get this logo designed?"
+  },
+  {
+    "id": 209,
+    "tr": "Bu logoyu tasarlatmak ne kadara mal olacak?",
+    "en": "How much will it cost to have this logo designed? / How much will it cost to get this logo designed?"
+  },
+  {
+    "id": 210,
+    "tr": "Sence bu logoyu tasarlatmak ne kadara mal olacak?",
+    "en": "How much do you think that it will cost to have this logo designed? / How much do you think that it will cost to get this logo designed?"
+  },
+  {
+    "id": 211,
+    "tr": "Bu arabayı ürettirdiler.",
+    "en": "They had this car produced. / They got this car produced."
+  },
+  {
+    "id": 212,
+    "tr": "Bu arabayı ürettirtmediler.",
+    "en": "They didn't have this car produced. /They didn't get this car produced."
+  },
+  {
+    "id": 213,
+    "tr": "Bu arabayı ürettirttiler mi?",
+    "en": "Did they have this car produced? / Did they get this car produced?"
+  },
+  {
+    "id": 214,
+    "tr": "Bu arabayı ürettirtecekler mi?",
+    "en": "Will they have this car produced? / Will they get this car produced?"
+  },
+  {
+    "id": 215,
+    "tr": "Bu arabayı ne zaman ürettirtecekler?",
+    "en": "When will they have this car produced? / When will they get this car produced?"
+  },
+  {
+    "id": 216,
+    "tr": "Bu arabayı ürettirtmeleri kaç paraya mal olacak?",
+    "en": "How much will it cost them to have this car produced? / How much will it cost them to get this car produced?"
+  },
+  {
+    "id": 217,
+    "tr": "Bu arabayı ürettirtmeleri kaç paraya mal olur?",
+    "en": "How much does it cost them to have this car produced? / How much does it cost them to get this car produced?"
+  },
+  {
+    "id": 218,
+    "tr": "Bu arabayı ürettirtmeleri kaç paraya mal oldu?",
+    "en": "How much did it cost them to have this car produced? / How much did it cost them to get this car produced?"
+  },
+  {
+    "id": 219,
+    "tr": "Bu arabayı ürettirtmeleri ne kadar zaman alacak?",
+    "en": "How long will it take them to have this car produced? / How long will it take them to get this car produced?"
+  },
+  {
+    "id": 220,
+    "tr": "Bu arabayı ürettirtmeleri ne kadar zaman alır?",
+    "en": "How long does it take them to have this car produced? / How long does it take them to get this car produced?"
+  },
+  {
+    "id": 221,
+    "tr": "Bu arabayı ürettirtmeleri ne kadar zaman aldı?",
+    "en": "How long did it take them to have this car produced? / How long did it take them to get this car produced?"
+  }
+]

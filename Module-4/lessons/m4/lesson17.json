@@ -1,0 +1,339 @@
+[
+  {
+    "id": 1,
+    "tr": "Türkiye'de yaşamanın ne kadar pahalı olduğunu tecrübe etmek ister misin? (it is...)",
+    "en": "Do you want to experience how expensive it is to live in Turkey?"
+  },
+  {
+    "id": 2,
+    "tr": "Türkiye'de yaşamanın ne kadar pahalı olduğunu tecrübe etmek ister misin? (...ing)",
+    "en": "Do you want to experience how expensive living in Turkey is?"
+  },
+  {
+    "id": 3,
+    "tr": "Arkadaşıma sınavdaki soruların ne kadar zor olduğunu anlattım.",
+    "en": "I told my friend how difficult the questions in the exam were"
+  },
+  {
+    "id": 4,
+    "tr": "Yeni bir dil öğrenmenin sandığın kadar zor olmadığını fark etmeni istiyorum. (it is ...)",
+    "en": "I want you to realize that it isn't as difficult as you think to learn a new language."
+  },
+  {
+    "id": 5,
+    "tr": "Yeni bir dil öğrenmenin sandığın kadar zor olmadığını fark etmeni istiyorum. (...ing)",
+    "en": "I want you to realize that learning a new language isn't as difficult as you think."
+  },
+  {
+    "id": 6,
+    "tr": "Yurt dışında yaşamanın ne kadar farklı olduğunu tecrübe etmek ister misin? (it is...)",
+    "en": "Do you want to experience how different it is to live abroad?"
+  },
+  {
+    "id": 7,
+    "tr": "Yurt dışında yaşamanın ne kadar farklı olduğunu tecrübe etmek ister misin? (...ing)",
+    "en": "Do you want to experience how different living abroad is?"
+  },
+  {
+    "id": 8,
+    "tr": "Büyük bir şehirde yaşamanın ne kadar stresli olduğunu bilmeni isterim. (it is ...)",
+    "en": "I want  you to know how stressful it is to live in a big city."
+  },
+  {
+    "id": 9,
+    "tr": "Büyük bir şehirde yaşamanın ne kadar stresli olduğunu bilmeni isterim. (...ing)",
+    "en": "I want you to know how stressful living in a big city is."
+  },
+  {
+    "id": 10,
+    "tr": "Bu kitabı okumanın ne kadar faydalı olduğunu anlamanı istiyorum. (it is...)",
+    "en": "I want you to understand how useful it is to read this book."
+  },
+  {
+    "id": 11,
+    "tr": "Bu kitabı okumanın ne kadar faydalı olduğunu anlamanı istiyorum. (...ing)",
+    "en": "I want you to understand how useful reading this book is."
+  },
+  {
+    "id": 12,
+    "tr": "Bu kursa katılmanın ne kadar etkili olduğunu görmek ister misin? (it is...)",
+    "en": "Do you want to see how effective it is to join this course?"
+  },
+  {
+    "id": 13,
+    "tr": "Bu kursa katılmanın ne kadar etkili olduğunu görmek ister misin? (...ing)",
+    "en": "Do you want to see how effective joining this course is?"
+  },
+  {
+    "id": 14,
+    "tr": "Aileme yeni işimin ne kadar yoğun olduğunu anlattım.",
+    "en": "I told my family how busy my new job was."
+  },
+  {
+    "id": 15,
+    "tr": "Ders çalışmanın ne kadar önemli olduğunu fark ettin mi? (it is...)",
+    "en": "Did you realize how important it is to study?"
+  },
+  {
+    "id": 16,
+    "tr": "Ders çalışmanın ne kadar önemli olduğunu fark ettin mi? (...ing)",
+    "en": "Did you realize how important studying is?"
+  },
+  {
+    "id": 17,
+    "tr": "İstanbul'da taşınmanın ne kadar pahalı olduğunu fark ettin mi? (it is...)",
+    "en": "Did you realize how expensive it is to move in Istanbul?"
+  },
+  {
+    "id": 18,
+    "tr": "İstanbul'da taşınmanın ne kadar pahalı olduğunu fark ettin mi? (...ing)",
+    "en": "Did you realize how expensive moving in Istanbul is?"
+  },
+  {
+    "id": 19,
+    "tr": "İstanbul'da taşınmak düşündüğümden daha zordu. (it is...)",
+    "en": "It was harder than I thought to move in Istanbul"
+  },
+  {
+    "id": 20,
+    "tr": "İstanbul'da taşınmak düşündüğümden daha zordu. (...ing)",
+    "en": "Moving in Istanbul was harder than I thought."
+  },
+  {
+    "id": 21,
+    "tr": "İstanbul'da taşınmak düşündüğüm kadar zordu. (it is...)",
+    "en": "It was as hard as I thought to move in Istanbul."
+  },
+  {
+    "id": 22,
+    "tr": "İstanbul'da taşınmak düşündüğüm kadar zordu. (...ing)",
+    "en": "Moving in Istanbul was as hard as I thought."
+  },
+  {
+    "id": 23,
+    "tr": "Yeni bir işe başlamanın sandığın kadar korkutucu olmadığını fark etmeni istiyorum. (it is...)",
+    "en": "I want you to realize that it isn't as frightening as you think to start a new job."
+  },
+  {
+    "id": 24,
+    "tr": "Yeni bir işe başlamanın sandığın kadar korkutucu olmadığını fark etmeni istiyorum. (...ing)",
+    "en": "I want you to realize that starting a new job isn't as frightening as you think."
+  },
+  {
+    "id": 25,
+    "tr": "Bu sınav sandığımdan daha zor çıktı.",
+    "en": "This exam was harder than I thought."
+  },
+  {
+    "id": 26,
+    "tr": "Yalnız yaşamak sandığın kadar kötü değil. (it is...)",
+    "en": "It isn't as bad as you think to live alone."
+  },
+  {
+    "id": 27,
+    "tr": "Yalnız yaşamak sandığın kadar kötü değil. (...ing)",
+    "en": "Living alone isn't as bad as you think."
+  },
+  {
+    "id": 28,
+    "tr": "İstanbul'da yaşamak düşündüğümden daha pahalıydı. (it is...)",
+    "en": "It was more expensive than I thought to live in Istanbul."
+  },
+  {
+    "id": 29,
+    "tr": "İstanbul'da yaşamak düşündüğümden daha pahalıydı. (...ing)",
+    "en": "Living in Istanbul was more expensive than I thought."
+  },
+  {
+    "id": 30,
+    "tr": "Bu konuyu anlamak sandığın kadar karmaşık değil. (it is...)",
+    "en": "It isn't as complicated as you think to understand this subject."
+  },
+  {
+    "id": 31,
+    "tr": "Bu konuyu anlamak sandığın kadar karmaşık değil. (...ing)",
+    "en": "Understanding this subject isn't as complicated as you think."
+  },
+  {
+    "id": 32,
+    "tr": "Topluluk önünde konuşmak sandığın kadar zor değil. (it is...)",
+    "en": "It isn't as hard as you think to speak in public."
+  },
+  {
+    "id": 33,
+    "tr": "Topluluk önünde konuşmak sandığın kadar zor değil. (...ing)",
+    "en": "Speaking in public isn't as hard as you think."
+  },
+  {
+    "id": 34,
+    "tr": "Yeni eve taşınmak düşündüğümden daha yorucuydu. (it is...)",
+    "en": "It was more tiring than I thought to move to a new house."
+  },
+  {
+    "id": 35,
+    "tr": "Yeni eve taşınmak düşündüğümden daha yorucuydu. (...ing)",
+    "en": "Moving to a new house was more tiring than I thought."
+  },
+  {
+    "id": 36,
+    "tr": "Bu filmi anlamak sandığın kadar zor değil. (it is ...)",
+    "en": "It isn't as hard as you think to understand this movie."
+  },
+  {
+    "id": 37,
+    "tr": "Bu filmi anlamak sandığın kadar zor değil. (...ing)",
+    "en": "Understanding this movie isn't as hard as you think."
+  },
+  {
+    "id": 38,
+    "tr": "Sınav sonuçları umduğumdan daha iyiydi.",
+    "en": "The exam results were better than I hoped."
+  },
+  {
+    "id": 39,
+    "tr": "Yabancılarla iletişim kurmak sandığın kadar stresli değil. (it is...)",
+    "en": "It isn't as stressful as you think to communicate with foreigners."
+  },
+  {
+    "id": 40,
+    "tr": "Yabancılarla iletişim kurmak sandığın kadar stresli değil. (...ing)",
+    "en": "Communicating with foreigners isn't as stressful as you think."
+  },
+  {
+    "id": 41,
+    "tr": "Bu şehirde iş bulmak düşündüğümden daha kolay oldu. (it is...)",
+    "en": "It was easier than I thought to find a job in this city."
+  },
+  {
+    "id": 42,
+    "tr": "Bu şehirde iş bulmak düşündüğümden daha kolay oldu. (...ing)",
+    "en": "Finding a job in this city was easier than I thought."
+  },
+  {
+    "id": 43,
+    "tr": "Bu kitabı okumak sandığım kadar sıkıcı değil. (it is...)",
+    "en": "It isn't as boring as I thought to read this book."
+  },
+  {
+    "id": 44,
+    "tr": "Bu kitabı okumak sandığım kadar sıkıcı değil. (...ing)",
+    "en": "Reading this book isn't as boring as I thought."
+  },
+  {
+    "id": 45,
+    "tr": "Yalnız seyahat etmenin ne kadar öğretici olduğunu deneyimlemek ister misin? (it is...)",
+    "en": "Do you want to experience how educational it is to travel alone?"
+  },
+  {
+    "id": 46,
+    "tr": "Yalnız seyahat etmenin ne kadar öğretici olduğunu deneyimlemek ister misin? (...ing)",
+    "en": "Do you want to experience how educational traveling alone is?"
+  },
+  {
+    "id": 47,
+    "tr": "Anneme bu kararın ne kadar önemli olduğunu anlattım.",
+    "en": "I told my mother how important this decision was."
+  },
+  {
+    "id": 48,
+    "tr": "Spor yapmanın ne kadar faydalı olduğunu anlamanı istiyorum. (it is...)",
+    "en": "I want you to understand how beneficial it is to do exercise."
+  },
+  {
+    "id": 49,
+    "tr": "Spor yapmanın ne kadar faydalı olduğunu anlamanı istiyorum. (...ing)",
+    "en": "I want you to understand how beneficial doing exercise is"
+  },
+  {
+    "id": 50,
+    "tr": "Bu filmi izlemenin ne kadar duygusal olduğunu tahmin edebilir misin? (it is...)",
+    "en": "Can you guess how emotional it is to watch this movie?"
+  },
+  {
+    "id": 51,
+    "tr": "Bu filmi izlemenin ne kadar duygusal olduğunu tahmin edebilir misin? (...ing)",
+    "en": "Can you guess how emotional watching this movie is?"
+  },
+  {
+    "id": 52,
+    "tr": "Öğrencilere bu konunun ne kadar karmaşık olduğunu açıkladım.",
+    "en": "I explained to the students how complicated this subject was."
+  },
+  {
+    "id": 53,
+    "tr": "Yeni bir işe başlamanın ne kadar stresli olabileceğini biliyor musun? (it can be...)",
+    "en": "Do you know how stressful it can be to start a new job?"
+  },
+  {
+    "id": 54,
+    "tr": "Yeni bir işe başlamanın ne kadar stresli olabileceğini biliyor musun? (...ing)",
+    "en": "Do you know how stressful starting a new job can be?"
+  },
+  {
+    "id": 55,
+    "tr": "Uzun süre yalnız kalmanın ne kadar zor olduğunu tecrübe ettim. (it is...)",
+    "en": "I experienced how difficult it is to be alone for a long time."
+  },
+  {
+    "id": 56,
+    "tr": "Uzun süre yalnız kalmanın ne kadar zor olduğunu tecrübe ettim. (...ing)",
+    "en": "I experienced how difficult being alone for a long time is."
+  },
+  {
+    "id": 57,
+    "tr": "Arkadaşıma bu hatanın ne kadar ciddi olduğunu söyledim.",
+    "en": "I told my friend how serious this mistake was."
+  },
+  {
+    "id": 58,
+    "tr": "Bu projeyi tamamlamak için ne kadar efor harcamış olduğumu anlatmaya çalıştım. ( I verb)",
+    "en": "I tried to explain how much effort I spent to complete this project."
+  },
+
+  {
+    "id": 59,
+    "tr": "Bu projeyi tamamlamak için ne kadar efor harcamış olduğumu anlatmaya çalıştım.(...ing)",
+    "en": "I tried to explain how much effort I spent completing this project."
+  },
+
+  {
+    "id": 60,
+    "tr": "Bu alışkanlığı bırakmanın ne kadar zor olacağını hayal edebiliyorum. (it will be...)",
+    "en": "I can imagine how difficult it will be to leave this habit."
+  },
+  {
+    "id": 61,
+    "tr": "Bu alışkanlığı bırakmanın ne kadar zor olacağını hayal edebiliyorum. (...ing)",
+    "en": "I can imagine how difficult leaving this habit will be"
+  },
+  {
+    "id": 62,
+    "tr": "Öğretmen, bize bu konuyu anlamanın ne kadar önemli olduğunu söyledi. (it is...)",
+    "en": "The teacher told us how important it was to understand this subject."
+  },
+  {
+    "id": 63,
+    "tr": "Öğretmen, bize bu konuyu anlamanın ne kadar önemli olduğunu söyledi. (...ing)",
+    "en": "The teacher told us how important understanding this subject was."
+  },
+  {
+    "id": 64,
+    "tr": "Kendine inanmanın ne kadar önemli olduğunu anlamanı istiyorum. (it is...)",
+    "en": "I want you to understand how important it is to believe in yourself."
+  },
+  {
+    "id": 65,
+    "tr": "Kendine inanmanın ne kadar önemli olduğunu anlamanı istiyorum. (...ing)",
+    "en": "I want you to understand how important believing in yourself is."
+  },
+  {
+    "id": 66,
+    "tr": "Para kazanmanın bu hayatta ne kadar önemli olduğunu bilmeni istiyorum. (it is...)",
+    "en": "I want you to know how important it is to earn money in this life."
+  },
+  {
+    "id": 67,
+    "tr": "Para kazanmanın bu hayatta ne kadar önemli olduğunu bilmeni istiyorum. (...ing)",
+    "en": "I want you to know how important earning money in this life is."
+  }
+]
