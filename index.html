@@ -285,6 +285,7 @@ const Match = (() => {
   const SAME = { okay: 'ok', alright: 'all right', colour: 'color', favourite: 'favorite', centre: 'center', theatre: 'theater', neighbour: 'neighbor', mum: 'mom', grey: 'gray', travelling: 'traveling', cancelled: 'canceled', programme: 'program', realise: 'realize', organise: 'organize', mr: 'mister', mrs: 'missus', ms: 'miss', dr: 'doctor', st: 'street', cannot: 'can not', gonna: 'going to', wanna: 'want to', gotta: 'got to' };
   const TR_NAMES = new Set(['ali','mehmet','ahmet','fatma','zeynep','elif','emre','murat','mustafa','hasan','huseyin','hakan','kemal','selim','burak','ece','merve','esra','ayten','aylin','berk','cem','deniz','kerem','oguz','serkan','tolga','volkan','yusuf','ataturk','istanbul','ankara','izmir','bakirkoy','kadikoy','besiktas','galatasaray','fenerbahce','trabzon','antalya','bursa']);
   const NAME = 'qqname';
+  const NEG = new Set(['not', 'no', 'never', 'nothing', 'nobody', 'none']);
 
   // Hedef cümlede: Türkçe harf içeren kelimeler ve bilinen Türkçe özel isimler → joker
   function markNames(s) {
@@ -330,11 +331,10 @@ const Match = (() => {
   // T tam olarak S'ye uyuyor mu? (joker isim 1-3 kelimeyi karşılar)
   function fullMatch(T, S, i = 0, j = 0) {
     if (i === T.length) return j === S.length;
-    if (T[i] === NAME) { for (let k = 1; k <= 3 && j + k <= S.length; k++) if (fullMatch(T, S, i + 1, j + k)) return true; return false; }
+    if (T[i] === NAME) { for (let k = 1; k <= 3 && j + k <= S.length; k++) { if (NEG.has(S[j + k - 1])) break; if (fullMatch(T, S, i + 1, j + k)) return true; } return false; }
     return j < S.length && T[i] === S[j] && fullMatch(T, S, i + 1, j + 1);
   }
   // Baş ve sonda en fazla 2 fazladan kelimeye ("yes", "uh" gibi) izin ver; ortada değil.
-  const NEG = new Set(['not', 'no', 'never', 'nothing', 'nobody', 'none']);
   function tokensMatch(T, S) {
     if (fullMatch(T, S)) return true;
     if (T.length < 3) return false;           // kısa cümlelerde fazlalığa izin yok
