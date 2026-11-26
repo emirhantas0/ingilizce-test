@@ -1,0 +1,19 @@
+5 Dakikada İngilizce — Modül 2, yeni sürüm (2.0)
+
+KURULUM (GitHub Pages)
+1. github.com/5dakikadaingilizce/Module-2 deposunu açın.
+2. Bu klasördeki 5 dosyayı depoya yükleyin (Add file → Upload files):
+   index.html, sw.js, manifest.json, icon-192.png, icon-512.png
+   index.html ve manifest.json eskilerinin yerine geçer.
+3. Ders dosyalarına (data.json, lessons/, logos/, changelog.json) dokunmayın;
+   yeni sürüm aynı dosyaları okur.
+4. Birkaç dakika sonra https://5dakikadaingilizce.github.io/Module-2/ yeni sürümle açılır.
+
+Öğrencilerin eski ilerlemesi (kaldıkları cümle) otomatik olarak taşınır.
+Aynı index.html Modül 1 deposunda da çalışır (adresten modül numarasını kendisi bulur).
+
+DERS DOSYALARI İÇİN NOTLAR
+- "alt" alanına eklenen her cümle de doğru cevap sayılır.
+- "Turn on / Switch on" gibi "/" ile yazılan cevapların her biri ayrı ayrı doğru sayılır.
+- İngilizce cümledeki Türkçe isimler (Ayşe, Özgür...) hangi şekilde duyulursa duyulsun kabul edilir.
+- Kısaltmalar otomatik açılır: "I'm" ile "I am" aynı sayılır.

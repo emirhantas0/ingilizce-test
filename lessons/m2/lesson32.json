@@ -1,0 +1,1127 @@
+[
+  {
+    "id": 1,
+    "tr": "Gitmek",
+    "en": "go, went, gone"
+  },
+  {
+    "id": 2,
+    "tr": "Yapmak",
+    "en": "do, did, done"
+  },
+  {
+    "id": 3,
+    "tr": "olmak",
+    "en": "be/am-is-are, was-were, been"
+  },
+  {
+    "id": 4,
+    "tr": "Var/sahip olmak",
+    "en": "have, had, had"
+  },
+  {
+    "id": 5,
+    "tr": "Yapmak",
+    "en": "make, made, made"
+  },
+  {
+    "id": 6,
+    "tr": "Buluşmak/tanışmak/karşılaşmak",
+    "en": "meet, met, met"
+  },
+  {
+    "id": 7,
+    "tr": "Gelmek",
+    "en": "come, came, come"
+  },
+  {
+    "id": 8,
+    "tr": "dönüşmek",
+    "en": "become, became, become"
+  },
+  {
+    "id": 9,
+    "tr": "kazanmak",
+    "en": "win, won, won"
+  },
+  {
+    "id": 10,
+    "tr": "okumak",
+    "en": "read, read, read"
+  },
+  {
+    "id": 11,
+    "tr": "Demek/söylemek/anlatmak",
+    "en": "say, said, said"
+  },
+  {
+    "id": 12,
+    "tr": "ödemek",
+    "en": "pay, paid, paid"
+  },
+  {
+    "id": 13,
+    "tr": "Demek/söylemek/anlatmak",
+    "en": "tell, told, told"
+  },
+  {
+    "id": 14,
+    "tr": "Satmak",
+    "en": "sell, sold, sold"
+  },
+  {
+    "id": 15,
+    "tr": "kaybetmek",
+    "en": "lose, lost, lost"
+  },
+  {
+    "id": 16,
+    "tr": "Uyumak",
+    "en": "sleep, slept, slept"
+  },
+  {
+    "id": 17,
+    "tr": "Hissetmek",
+    "en": "feel, felt, felt"
+  },
+  {
+    "id": 18,
+    "tr": "Saklamak/korumak/tutmak",
+    "en": "keep, kept, kept"
+  },
+  {
+    "id": 19,
+    "tr": "Göndermek",
+    "en": "send, sent, sent"
+  },
+  {
+    "id": 20,
+    "tr": "Elinde tutmak/sarılmak",
+    "en": "hold, held, held"
+  },
+  {
+    "id": 21,
+    "tr": "Harcamak",
+    "en": "spend, spent, spent"
+  },
+  {
+    "id": 22,
+    "tr": "öğrenmek",
+    "en": "learn, learnt, learnt"
+  },
+  {
+    "id": 23,
+    "tr": "Terk etmek/ayrılmak",
+    "en": "leave, left, left"
+  },
+  {
+    "id": 24,
+    "tr": "İnşa etmek",
+    "en": "build, built, built"
+  },
+  {
+    "id": 25,
+    "tr": "Duymak",
+    "en": "hear, heard, heard"
+  },
+  {
+    "id": 26,
+    "tr": "Konuşmak",
+    "en": "speak, spoke, spoken"
+  },
+  {
+    "id": 27,
+    "tr": "Uyanmak",
+    "en": "wake up, woke up, woken up"
+  },
+  {
+    "id": 28,
+    "tr": "almak",
+    "en": "get, got, gotten"
+  },
+  {
+    "id": 29,
+    "tr": "binmek",
+    "en": "get on, got on, gotten on"
+  },
+  {
+    "id": 30,
+    "tr": "inmek",
+    "en": "get off, got off, gotten off"
+  },
+  {
+    "id": 31,
+    "tr": "unutmak",
+    "en": "forget, forgot, forgotten"
+  },
+  {
+    "id": 32,
+    "tr": "sallamak",
+    "en": "shake, shook, shaken"
+  },
+  {
+    "id": 33,
+    "tr": "seçmek",
+    "en": "choose, chose, chosen"
+  },
+  {
+    "id": 34,
+    "tr": "kırmak",
+    "en": "break, broke, broken"
+  },
+  {
+    "id": 35,
+    "tr": "vermek",
+    "en": "give, gave, given"
+  },
+  {
+    "id": 36,
+    "tr": "vaz geçmek",
+    "en": "give up, gave up, given up"
+  },
+  {
+    "id": 37,
+    "tr": "araba sürmek",
+    "en": "drive, drove, driven"
+  },
+  {
+    "id": 38,
+    "tr": "at/bisiklet sürmek",
+    "en": "ride, rode, ridden"
+  },
+  {
+    "id": 39,
+    "tr": "yazmak",
+    "en": "write, wrote, written"
+  },
+  {
+    "id": 40,
+    "tr": "konuşmak",
+    "en": "speak, spoke, spoken"
+  },
+  {
+    "id": 41,
+    "tr": "saklamak/saklanmak",
+    "en": "hide, hid, hidden"
+  },
+  {
+    "id": 42,
+    "tr": "düşmek",
+    "en": "fall, fell, fallen"
+  },
+  {
+    "id": 43,
+    "tr": "yemek yemek",
+    "en": "eat, ate, eaten"
+  },
+  {
+    "id": 44,
+    "tr": "Almak",
+    "en": "take, took, taken"
+  },
+  {
+    "id": 45,
+    "tr": "Giysiyi çıkartmak",
+    "en": "take off, took off, taken off"
+  },
+  {
+    "id": 46,
+    "tr": "giymek",
+    "en": "wear, wore, worn"
+  },
+  {
+    "id": 47,
+    "tr": "Bilmek/tanımak",
+    "en": "know, knew, known"
+  },
+  {
+    "id": 48,
+    "tr": "Uçmak",
+    "en": "fly, flew, flown"
+  },
+  {
+    "id": 49,
+    "tr": "Esmek/üflemek",
+    "en": "blow, blew, blown"
+  },
+  {
+    "id": 50,
+    "tr": "çizmek",
+    "en": "draw, drew, drawn"
+  },
+  {
+    "id": 51,
+    "tr": "Büyümek/büyütmek",
+    "en": "grow, grew, grown"
+  },
+  {
+    "id": 52,
+    "tr": "fırlatmak",
+    "en": "throw, threw, thrown"
+  },
+  {
+    "id": 53,
+    "tr": "göstermek",
+    "en": "show, showed, shown"
+  },
+  {
+    "id": 54,
+    "tr": "görmek",
+    "en": "see, saw, seen"
+  },
+  {
+    "id": 55,
+    "tr": "Başlamak",
+    "en": "begin, began, begun"
+  },
+  {
+    "id": 56,
+    "tr": "Şarkı söylemek",
+    "en": "sing, sang, sung"
+  },
+  {
+    "id": 57,
+    "tr": "Zil çalmak",
+    "en": "ring, rang, rung"
+  },
+  {
+    "id": 58,
+    "tr": "içmek",
+    "en": "drink, drank, drunk"
+  },
+  {
+    "id": 59,
+    "tr": "yüzmek",
+    "en": "swim, swam, swum"
+  },
+  {
+    "id": 60,
+    "tr": "Kötü kokmak",
+    "en": "stink, stank, stunk"
+  },
+  {
+    "id": 61,
+    "tr": "oturmak",
+    "en": "sit, sat, sat"
+  },
+  {
+    "id": 62,
+    "tr": "kalkmak/ayağa kalkmak",
+    "en": "stand, stood, stood"
+  },
+  {
+    "id": 63,
+    "tr": "anlamak",
+    "en": "understand, understood, understood"
+  },
+  {
+    "id": 64,
+    "tr": "bulmak",
+    "en": "find, found, found"
+  },
+  {
+    "id": 65,
+    "tr": "Getirmek",
+    "en": "bring, brought, brought"
+  },
+  {
+    "id": 66,
+    "tr": "Satın almak",
+    "en": "buy, bought, bought"
+  },
+  {
+    "id": 67,
+    "tr": "Öğretmek",
+    "en": "teach, taught, taught"
+  },
+  {
+    "id": 68,
+    "tr": "düşünmek",
+    "en": "think, thoughtt, thoughtt"
+  },
+  {
+    "id": 69,
+    "tr": "Kavga etmek/dövüşmek",
+    "en": "fight, fought, fought"
+  },
+  {
+    "id": 70,
+    "tr": "yakalamak",
+    "en": "catch, caught, caught"
+  },
+  {
+    "id": 71,
+    "tr": "Kesmek",
+    "en": "cut, cut, cut"
+  },
+  {
+    "id": 72,
+    "tr": "İzin vermek",
+    "en": "let, let, let"
+  },
+  {
+    "id": 73,
+    "tr": "Kurmak",
+    "en": "set, set, set"
+  },
+  {
+    "id": 74,
+    "tr": "vurmak",
+    "en": "hit, hit, hit"
+  },
+  {
+    "id": 75,
+    "tr": "Koymak",
+    "en": "put, put, put"
+  },
+  {
+    "id": 76,
+    "tr": "incitmek",
+    "en": "hurt, hurt, hurt"
+  },
+  {
+    "id": 77,
+    "tr": "Giymek",
+    "en": "put on, put on, put on"
+  },
+  {
+    "id": 78,
+    "tr": "ertelemek",
+    "en": "put off, put off, put off"
+  },
+  {
+    "id": 79,
+    "tr": "bırakmak",
+    "en": "quit, quit, quit"
+  },
+  {
+    "id": 80,
+    "tr": "kapatmak",
+    "en": "shut, shut, shut"
+  },
+  {
+    "id": 81,
+    "tr": "Ders çalışmak",
+    "en": "study, studied, studied"
+  },
+  {
+    "id": 82,
+    "tr": "Çeki düzen vermek",
+    "en": "tidy, tidied, tidied"
+  },
+  {
+    "id": 83,
+    "tr": "Ağlamak",
+    "en": "cry, cried, cried"
+  },
+  {
+    "id": 84,
+    "tr": "denemek",
+    "en": "try, tried, tried"
+  },
+  {
+    "id": 85,
+    "tr": "Kurutmak",
+    "en": "dry, dried, dried"
+  },
+  {
+    "id": 86,
+    "tr": "Kızartmak",
+    "en": "fry, fried, fried"
+  },
+  {
+    "id": 87,
+    "tr": "İnkar etmek",
+    "en": "deny, denied, denied"
+  },
+  {
+    "id": 88,
+    "tr": "yanıtlamak",
+    "en": "reply, replied, replied"
+  },
+  {
+    "id": 89,
+    "tr": "Taşımak",
+    "en": "carry, carried, carried"
+  },
+  {
+    "id": 90,
+    "tr": "evlenmek",
+    "en": "marry, married, married"
+  },
+  {
+    "id": 91,
+    "tr": "Boşalmak/boşaltmak",
+    "en": "empty, emptied, emptied"
+  },
+  {
+    "id": 92,
+    "tr": "İstemek",
+    "en": "want, wanted, wanted"
+  },
+  {
+    "id": 93,
+    "tr": "Konuşmak",
+    "en": "talk, talked, talked"
+  },
+  {
+    "id": 94,
+    "tr": "Sormak",
+    "en": "ask, asked, asked"
+  },
+  {
+    "id": 95,
+    "tr": "Yanıtlamak/yanıt vermek",
+    "en": "answer, answered, answered"
+  },
+  {
+    "id": 96,
+    "tr": "Çalışmak",
+    "en": "work, worked, worked"
+  },
+  {
+    "id": 97,
+    "tr": "Girmek",
+    "en": "enter, entered, entered"
+  },
+  {
+    "id": 98,
+    "tr": "Kiralamak",
+    "en": "rent, rented, rented"
+  },
+  {
+    "id": 99,
+    "tr": "Başlamak/başlatmak",
+    "en": "start, started, started"
+  },
+  {
+    "id": 100,
+    "tr": "Bitmek/bitirmek",
+    "en": "end, ended, ended"
+  },
+  {
+    "id": 101,
+    "tr": "Bitmek/bitirmek",
+    "en": "finish, finished, finished"
+  },
+  {
+    "id": 102,
+    "tr": "Tamamlamak",
+    "en": "complete, completed, completed"
+  },
+  {
+    "id": 103,
+    "tr": "Görünmek/bakmak",
+    "en": "look, looked, looked"
+  },
+  {
+    "id": 104,
+    "tr": "Bakmak",
+    "en": "look at, looked at, looked at"
+  },
+  {
+    "id": 105,
+    "tr": "Aramak",
+    "en": "look for, looked for, looked for"
+  },
+  {
+    "id": 106,
+    "tr": "Bakmak/ilgilenmek",
+    "en": "look after, looked after, looked after"
+  },
+  {
+    "id": 107,
+    "tr": "Görünmek",
+    "en": "appear, appeared, appeared"
+  },
+  {
+    "id": 108,
+    "tr": "Görünmek",
+    "en": "seem, seemed, seemed"
+  },
+  {
+    "id": 109,
+    "tr": "İzlemek",
+    "en": "watch, watched, watched"
+  },
+  {
+    "id": 110,
+    "tr": "Dinlemek",
+    "en": "listen, listened, listened"
+  },
+  {
+    "id": 111,
+    "tr": "Oynamak",
+    "en": "play, played, played"
+  },
+  {
+    "id": 112,
+    "tr": "Koklamak/kokmak",
+    "en": "smell, smelled, smelled"
+  },
+  {
+    "id": 113,
+    "tr": "Dokunmak",
+    "en": "touch, touched, touched"
+  },
+  {
+    "id": 114,
+    "tr": "Yürümek",
+    "en": "walk, walked, walked"
+  },
+  {
+    "id": 115,
+    "tr": "Dönmek/döndürmek",
+    "en": "turn, turned, turned"
+  },
+  {
+    "id": 116,
+    "tr": "Açmak",
+    "en": "turn on, turned on, turned on"
+  },
+  {
+    "id": 117,
+    "tr": "Kapatmak",
+    "en": "turn off, turned off, turned off"
+  },
+  {
+    "id": 118,
+    "tr": "Geri dönmek/geri döndürmek",
+    "en": "return, returned, returned"
+  },
+  {
+    "id": 119,
+    "tr": "Tırmanmak",
+    "en": "climb, climbed, climbed"
+  },
+  {
+    "id": 120,
+    "tr": "Olmak/meydana gelmek",
+    "en": "happen, happened, happened"
+  },
+  {
+    "id": 121,
+    "tr": "Temizlemek",
+    "en": "clean, cleaned, cleaned"
+  },
+  {
+    "id": 122,
+    "tr": "Öldürmek",
+    "en": "kill, killed, killed"
+  },
+  {
+    "id": 123,
+    "tr": "Tozunu almak",
+    "en": "dust, dusted, dusted"
+  },
+  {
+    "id": 124,
+    "tr": "Yıkamak",
+    "en": "wash, washed, washed"
+  },
+  {
+    "id": 125,
+    "tr": "Çağırmak/aramak/seslenmek",
+    "en": "call, called, called"
+  },
+  {
+    "id": 126,
+    "tr": "Bağırmak",
+    "en": "shout, shouted, shouted"
+  },
+  {
+    "id": 127,
+    "tr": "Fısıldamak",
+    "en": "whisper, whispered, whispered"
+  },
+  {
+    "id": 128,
+    "tr": "Kahkaha atmak",
+    "en": "laugh, laughed, laughed"
+  },
+  {
+    "id": 129,
+    "tr": "Somurtmak",
+    "en": "frown, frowned, frowned"
+  },
+  {
+    "id": 130,
+    "tr": "Göz kırpmak",
+    "en": "wink, winked, winked"
+  },
+  {
+    "id": 131,
+    "tr": "Boyamak",
+    "en": "paint, painted, painted"
+  },
+  {
+    "id": 132,
+    "tr": "Davranmak",
+    "en": "act, acted, acted"
+  },
+  {
+    "id": 133,
+    "tr": "Açmak",
+    "en": "open, opened, opened"
+  },
+  {
+    "id": 134,
+    "tr": "Tahmin etmek",
+    "en": "guess, guessed, guessed"
+  },
+  {
+    "id": 135,
+    "tr": "Ümit etmek/beklemek",
+    "en": "expect, expected, expected"
+  },
+  {
+    "id": 136,
+    "tr": "Dilemek",
+    "en": "wish, wished, wished"
+  },
+  {
+    "id": 137,
+    "tr": "Kazanmak",
+    "en": "earn, earned, earned"
+  },
+  {
+    "id": 138,
+    "tr": "Geçmek",
+    "en": "pass, passed, passed"
+  },
+  {
+    "id": 139,
+    "tr": "Başarısız olmak",
+    "en": "fail, failed, failed"
+  },
+  {
+    "id": 140,
+    "tr": "Sahip olmak",
+    "en": "own, owned, owned"
+  },
+  {
+    "id": 141,
+    "tr": "Ait olmak",
+    "en": "belong, belonged, belonged"
+  },
+  {
+    "id": 142,
+    "tr": "Pişirmek",
+    "en": "cook, cooked, cooked"
+  },
+  {
+    "id": 143,
+    "tr": "Kaynatmak/pişirmek",
+    "en": "boil, boiled, boiled"
+  },
+  {
+    "id": 144,
+    "tr": "Mangalda pişirmek",
+    "en": "grill, grilled, grilled"
+  },
+  {
+    "id": 145,
+    "tr": "Isıtmak",
+    "en": "heat, heated, heated"
+  },
+  {
+    "id": 146,
+    "tr": "Dökmek",
+    "en": "pour, poured, poured"
+  },
+  {
+    "id": 147,
+    "tr": "Dökmek/saçmak",
+    "en": "spill, spilled, spilled"
+  },
+  {
+    "id": 148,
+    "tr": "Karıştırmak",
+    "en": "mix, mixed, mixed"
+  },
+  {
+    "id": 149,
+    "tr": "Soymak/doğramak",
+    "en": "peel, peeled, peeled"
+  },
+  {
+    "id": 150,
+    "tr": "İtmek",
+    "en": "push, pushed, pushed"
+  },
+  {
+    "id": 151,
+    "tr": "Çekmek",
+    "en": "pull, pulled, pulled"
+  },
+  {
+    "id": 152,
+    "tr": "Doldurmak",
+    "en": "fill, filled, filled"
+  },
+  {
+    "id": 153,
+    "tr": "Basmak/bastırmak",
+    "en": "press, pressed, pressed"
+  },
+  {
+    "id": 154,
+    "tr": "Teklif etmek",
+    "en": "offer, offered, offered"
+  },
+  {
+    "id": 155,
+    "tr": "Önermek",
+    "en": "suggest, suggested, suggested"
+  },
+  {
+    "id": 156,
+    "tr": "İzin vermek",
+    "en": "allow, allowed, allowed"
+  },
+  {
+    "id": 157,
+    "tr": "Sipariş etmek/emretmek",
+    "en": "order, ordered, ordered"
+  },
+  {
+    "id": 158,
+    "tr": "Kabul etmek",
+    "en": "accept, accepted, accepted"
+  },
+  {
+    "id": 159,
+    "tr": "Reddetmek",
+    "en": "reject, rejected, rejected"
+  },
+  {
+    "id": 160,
+    "tr": "İyi vakit geçirmek/eğlenmek",
+    "en": "enjoy, enjoyed, enjoyed"
+  },
+  {
+    "id": 161,
+    "tr": "Hatırlamak",
+    "en": "remember, remembered, remembered"
+  },
+  {
+    "id": 162,
+    "tr": "Basmak",
+    "en": "print, printed, printed"
+  },
+  {
+    "id": 163,
+    "tr": "Kontrol etmek",
+    "en": "check, checked, checked"
+  },
+  {
+    "id": 164,
+    "tr": "Katılmak",
+    "en": "join, joined, joined"
+  },
+  {
+    "id": 165,
+    "tr": "Katılmak",
+    "en": "attend, attended, attended"
+  },
+  {
+    "id": 166,
+    "tr": "Seçmek",
+    "en": "select, selected, selected"
+  },
+  {
+    "id": 167,
+    "tr": "Ziyaret etmek",
+    "en": "visit, visited, visited"
+  },
+  {
+    "id": 168,
+    "tr": "Rezervasyon yapmak",
+    "en": "book, booked, booked"
+  },
+  {
+    "id": 169,
+    "tr": "Kalmak",
+    "en": "stay, stayed, stayed"
+  },
+  {
+    "id": 170,
+    "tr": "Ayrılmak",
+    "en": "depart, departed, departed"
+  },
+  {
+    "id": 171,
+    "tr": "Beklemek",
+    "en": "wait, waited, waited"
+  },
+  {
+    "id": 172,
+    "tr": "Park etmek",
+    "en": "park, parked, parked"
+  },
+  {
+    "id": 173,
+    "tr": "Açıklamak",
+    "en": "explain, explained, explained"
+  },
+  {
+    "id": 174,
+    "tr": "Özlemek/kaçırmak",
+    "en": "miss, missed, missed"
+  },
+  {
+    "id": 175,
+    "tr": "Yardım etmek",
+    "en": "help, helped, helped"
+  },
+  {
+    "id": 176,
+    "tr": "Tamir etmek",
+    "en": "fix, fixed, fixed"
+  },
+  {
+    "id": 177,
+    "tr": "Tamir etmek",
+    "en": "repair, repaired, repaired"
+  },
+  {
+    "id": 178,
+    "tr": "Korumak",
+    "en": "protect, protected, protected"
+  },
+  {
+    "id": 179,
+    "tr": "Kilitlemek",
+    "en": "lock, locked, locked"
+  },
+  {
+    "id": 180,
+    "tr": "Kilidini açmak",
+    "en": "unlock, unlocked, unlocked"
+  },
+  {
+    "id": 181,
+    "tr": "Durmak/durdurmak",
+    "en": "stop, stopped, stopped"
+  },
+  {
+    "id": 182,
+    "tr": "Planlamak/plan yapmak",
+    "en": "plan, planned, planned"
+  },
+  {
+    "id": 183,
+    "tr": "Karıştırmak",
+    "en": "stir, stirred, stirred"
+  },
+  {
+    "id": 184,
+    "tr": "İptal etmek",
+    "en": "cancel, cancelled, cancelled"
+  },
+  {
+    "id": 185,
+    "tr": "Kontrol etmek",
+    "en": "control, controlled, controlled"
+  },
+  {
+    "id": 186,
+    "tr": "Seyahat etmek",
+    "en": "travel, travelled, travelled"
+  },
+  {
+    "id": 187,
+    "tr": "Tercih etmek",
+    "en": "prefer, preferred, preferred"
+  },
+  {
+    "id": 188,
+    "tr": "Devam etmek",
+    "en": "continue, continued, continued"
+  },
+  {
+    "id": 189,
+    "tr": "Tadına bakmak/tadı olmak",
+    "en": "taste, tasted, tasted"
+  },
+  {
+    "id": 190,
+    "tr": "Varmak",
+    "en": "arrive, arrived, arrived"
+  },
+  {
+    "id": 191,
+    "tr": "Kullanmak",
+    "en": "use, used, used"
+  },
+  {
+    "id": 192,
+    "tr": "Yaşamak",
+    "en": "live, lived, lived"
+  },
+  {
+    "id": 193,
+    "tr": "Ölmek",
+    "en": "die, died, died"
+  },
+  {
+    "id": 194,
+    "tr": "Yalan söylemek",
+    "en": "lie, lied, lied"
+  },
+  {
+    "id": 195,
+    "tr": "Silmek",
+    "en": "wipe, wiped, wiped"
+  },
+  {
+    "id": 196,
+    "tr": "Gülümsemek",
+    "en": "smile, smiled, smiled"
+  },
+  {
+    "id": 197,
+    "tr": "Kapatmak",
+    "en": "close, closed, closed"
+  },
+  {
+    "id": 198,
+    "tr": "İnanmak",
+    "en": "believe, believed, believed"
+  },
+  {
+    "id": 199,
+    "tr": "Ummak",
+    "en": "hope, hoped, hoped"
+  },
+  {
+    "id": 200,
+    "tr": "Söz vermek/yemin etmek",
+    "en": "promise, promised, promised"
+  },
+  {
+    "id": 201,
+    "tr": "Pratik yapmak",
+    "en": "practice, practiced, practiced"
+  },
+  {
+    "id": 202,
+    "tr": "Fırınlamak",
+    "en": "bake, baked, baked"
+  },
+  {
+    "id": 203,
+    "tr": "Dilimlemek",
+    "en": "slice, sliced, sliced"
+  },
+  {
+    "id": 204,
+    "tr": "El sallamak",
+    "en": "wave, waved, waved"
+  },
+  {
+    "id": 205,
+    "tr": "Hareket etmek/taşınmak",
+    "en": "move, moved, moved"
+  },
+  {
+    "id": 206,
+    "tr": "Değişmek/değiştirmek",
+    "en": "change, changed, changed"
+  },
+  {
+    "id": 207,
+    "tr": "Karar vermek",
+    "en": "decide, decided, decided"
+  },
+  {
+    "id": 208,
+    "tr": "Boşanmak/boşamak",
+    "en": "divorce, divorced, divorced"
+  },
+  {
+    "id": 209,
+    "tr": "Aynı fikirde olmak/anlaşmak",
+    "en": "agree, agreed, agreed"
+  },
+  {
+    "id": 210,
+    "tr": "Onaylamak",
+    "en": "approve, approved, approved"
+  },
+  {
+    "id": 211,
+    "tr": "Reddetmek",
+    "en": "refuse, refused, refused"
+  },
+  {
+    "id": 212,
+    "tr": "Karşı olmak/aynı fikirde olmamak",
+    "en": "disagree, disagreed, disagreed"
+  },
+  {
+    "id": 213,
+    "tr": "Sevmek/aşık olmak",
+    "en": "love, loved, loved"
+  },
+  {
+    "id": 214,
+    "tr": "Sevmek/hoşlanmak",
+    "en": "like, liked, liked"
+  },
+  {
+    "id": 215,
+    "tr": "Nefret etmek",
+    "en": "hate, hated, hated"
+  },
+  {
+    "id": 216,
+    "tr": "Mezun olmak",
+    "en": "graduate, graduated, graduated"
+  },
+  {
+    "id": 217,
+    "tr": "Almak",
+    "en": "receive, received, received"
+  },
+  {
+    "id": 218,
+    "tr": "Paylaşmak",
+    "en": "share, shared, shared"
+  },
+  {
+    "id": 219,
+    "tr": "Üretmek",
+    "en": "produce, produced, produced"
+  },
+  {
+    "id": 220,
+    "tr": "Yaratmak",
+    "en": "create, created, created"
+  },
+  {
+    "id": 221,
+    "tr": "Hazırlamak",
+    "en": "prepare, prepared, prepared"
+  },
+  {
+    "id": 222,
+    "tr": "Kaçmak",
+    "en": "escape, escaped, escaped"
+  },
+  {
+    "id": 223,
+    "tr": "Kurtarmak/kaydetmek/biriktirmek",
+    "en": "save, saved, saved"
+  },
+  {
+    "id": 224,
+    "tr": "Çözmek",
+    "en": "solve, solved, solved"
+  },
+  {
+    "id": 225,
+    "tr": "Fark etmek",
+    "en": "notice, noticed, noticed"
+  }
+]
