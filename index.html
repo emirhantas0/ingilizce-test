@@ -285,6 +285,9 @@ const Match = (() => {
   const SAME = { okay: 'ok', alright: 'all right', colour: 'color', favourite: 'favorite', centre: 'center', theatre: 'theater', neighbour: 'neighbor', mum: 'mom', grey: 'gray', travelling: 'traveling', cancelled: 'canceled', programme: 'program', realise: 'realize', organise: 'organize', mr: 'mister', mrs: 'missus', ms: 'miss', dr: 'doctor', st: 'street', cannot: 'can not', gonna: 'going to', wanna: 'want to', gotta: 'got to' };
   const TR_NAMES = new Set(['ali','mehmet','ahmet','fatma','zeynep','elif','emre','murat','mustafa','hasan','huseyin','hakan','kemal','selim','burak','ece','merve','esra','ayten','aylin','berk','cem','deniz','kerem','oguz','serkan','tolga','volkan','yusuf','ataturk','istanbul','ankara','izmir','bakirkoy','kadikoy','besiktas','galatasaray','fenerbahce','trabzon','antalya','bursa']);
   const NAME = 'qqname';
+  // Telaffuzu birebir aynı kelimeler (CMU telaffuz sözlüğünden): konuşma tanıma "hour" yerine "our" yazabilir
+  const HOMO = {"a":["uh","uhh"],"air":["err","heir"],"ali":["ollie"],"allowed":["aloud"],"an":["ann","anne"],"and":["und"],"are":["ar"],"ate":["eight"],"aunt":["ant"],"aunts":["ants"],"ay":["ae"],"bak":["back"],"be":["bea","bee"],"bee":["be","bea"],"been":["bin"],"bird":["byrd"],"blew":["blue"],"blue":["blew"],"boil":["boyle"],"bored":["board"],"born":["borne","bourne"],"bread":["bred"],"break":["brake"],"brown":["browne"],"build":["billed"],"but":["butt"],"buy":["bae","bi","by","bye"],"by":["bae","bi","buy","bye"],"calm":["com","comm"],"can":["kan"],"cancelled":["canceled"],"cans":["cannes"],"car":["carr"],"carrey":["carey","carrie","cary","kerry"],"cat":["kat"],"cats":["katz"],"caught":["cot"],"center":["centre"],"check":["cheque","czech"],"color":["colour"],"colors":["colours"],"colour":["color"],"come":["cum"],"coming":["cumming"],"cook":["cooke"],"course":["coarse"],"day":["dae"],"deer":["dear"],"die":["dai","dye"],"died":["dyed"],"do":["dew","doo","du","due"],"done":["dun","dunn"],"drive":["dr"],"e":["ee"],"earn":["urn"],"eaten":["eaton"],"eid":["eyed"],"eight":["ate"],"eye":["ai","aye","i"],"favorite":["favourite"],"favourite":["favorite"],"february":["feb"],"feet":["feat"],"fill":["fil","phil"],"find":["fined"],"finish":["finnish"],"flew":["flu"],"flour":["flower"],"flower":["flour"],"for":["fore","four"],"forest":["forrest"],"four":["for","fore"],"fourth":["forth"],"fur":["fir"],"g":["gee","je","ji"],"go":["gogh"],"grass":["gras"],"gray":["grey"],"greece":["grease"],"green":["greene"],"guessed":["guest"],"guest":["guessed"],"hair":["hare","herr"],"he":["hee"],"hear":["here"],"heard":["herd"],"heart":["hart"],"here":["hear"],"hide":["hyde"],"high":["hi","hye"],"higher":["hire"],"him":["hymn"],"hour":["our"],"hours":["ours"],"how":["howe"],"i":["ai","aye","eye"],"ill":["il"],"in":["inn"],"jeans":["genes"],"jim":["gym"],"june":["joon"],"knew":["new","nu"],"know":["no"],"knows":["nose"],"l":["el","elle"],"less":["les"],"lesson":["lessen"],"lie":["lai","ly"],"light":["lite"],"lion":["lyon"],"lock":["loch","locke"],"lose":["luiz"],"low":["lo","lowe"],"m":["em"],"made":["maid"],"man":["mann"],"marry":["mary","merry"],"may":["mae","mei"],"me":["mi"],"meat":["meet"],"meet":["meat"],"meets":["meats"],"mind":["mined"],"miss":["mis"],"missed":["mist"],"morning":["mourning"],"mount":["mt"],"my":["mai"],"n":["en"],"neighborhood":["neighbourhood"],"neighbors":["neighbours"],"new":["knew","nu"],"night":["knight"],"nights":["knights"],"no":["know"],"nose":["knows"],"not":["knot"],"o":["au","aux","oh","ohh","ow","owe"],"okay":["ok"],"one":["won"],"our":["hour"],"ours":["hours"],"passed":["past"],"past":["passed"],"pick":["pic"],"pie":["pi"],"piece":["peace"],"plane":["plain"],"please":["pleas"],"pour":["por","pore"],"r":["ar","are"],"rain":["reign","rein"],"read":["red"],"real":["reel"],"realized":["realised"],"red":["read"],"right":["rite","wright","write"],"road":["rhode","rode"],"roads":["rhodes"],"rode":["rhode","road"],"rose":["rows"],"say":["se"],"sea":["sci","see","si"],"seas":["sees","seize"],"see":["sci","sea","si"],"seem":["seam"],"seen":["scene"],"sees":["seas","seize"],"sell":["cell"],"sells":["cells"],"sent":["cent","scent"],"share":["cher"],"she":["shi","xi"],"shown":["shone"],"sick":["sic"],"sing":["singh"],"sky":["skye"],"so":["sew"],"socks":["sox"],"some":["sum"],"son":["sun"],"sons":["suns"],"star":["starr"],"steal":["steel","steele"],"story":["storey"],"street":["st"],"sun":["son"],"sunny":["sonny"],"t":["te","tea","tee","ti"],"tea":["te","tee","ti"],"tell":["tel"],"theater":["theatre"],"their":["there"],"there":["their"],"threw":["through","thru"],"through":["threw","thru"],"thrown":["throne"],"to":["too","tu","tue","two"],"toe":["tow"],"traveled":["travelled"],"travelled":["traveled"],"try":["tri"],"two":["to","too","tu","tue"],"very":["vary"],"wait":["weight"],"waited":["weighted"],"wall":["wal"],"war":["wore"],"wave":["waive"],"waved":["waived"],"we":["wee","wii"],"weak":["week"],"wear":["ware","where"],"weather":["whether"],"week":["weak"],"when":["wen"],"where":["ware","wear"],"which":["witch"],"white":["wight"],"who":["hoo","hu"],"wild":["wilde"],"will":["wil"],"wine":["whine"],"wolf":["wolfe","wolff"],"won":["one"],"wore":["war"],"worn":["warn"],"would":["wood"],"write":["right","rite","wright"],"y":["why"],"you":["yoo","yu"],"zoo":["xu"]};
+  const eq = (t, s) => t === s || (HOMO[t] ? HOMO[t].includes(s) : false);
   const NEG = new Set(['not', 'no', 'never', 'nothing', 'nobody', 'none']);
 
   // Hedef cümlede: Türkçe harf içeren kelimeler ve bilinen Türkçe özel isimler → joker
@@ -332,7 +335,7 @@ const Match = (() => {
   function fullMatch(T, S, i = 0, j = 0) {
     if (i === T.length) return j === S.length;
     if (T[i] === NAME) { for (let k = 1; k <= 3 && j + k <= S.length; k++) { if (NEG.has(S[j + k - 1])) break; if (fullMatch(T, S, i + 1, j + k)) return true; } return false; }
-    return j < S.length && T[i] === S[j] && fullMatch(T, S, i + 1, j + 1);
+    return j < S.length && eq(T[i], S[j]) && fullMatch(T, S, i + 1, j + 1);
   }
   // Baş ve sonda en fazla 2 fazladan kelimeye ("yes", "uh" gibi) izin ver; ortada değil.
   function tokensMatch(T, S) {
@@ -351,11 +354,13 @@ const Match = (() => {
     // "Turn on / Switch on" → her biri ayrı doğru cevap
     return list.flatMap(t => String(t).includes('/') ? [...String(t).split('/').map(x => x.trim()).filter(Boolean), String(t).replace(/\//g, ' ')] : [t]);
   }
-  function check(item, heardList) {
+  // Eşleşen tahminin metnini döndürür (yoksa null). Tarayıcı 5'e kadar tahmin verir; ekranda eşleşeni göstermek için.
+  function match(item, heardList) {
     const targets = targetsOf(item).flatMap(t => variants(t, true));
-    for (const h of heardList) for (const S of variants(h, false)) for (const T of targets) if (T.length && tokensMatch(T, S)) return true;
-    return false;
+    for (const h of heardList) for (const S of variants(h, false)) for (const T of targets) if (T.length && tokensMatch(T, S)) return h;
+    return null;
   }
+  const check = (item, heardList) => match(item, heardList) !== null;
   // Yanlışta: hedef cümlenin hangi kelimeleri duyulmadı?
   function diff(item, heard) {
     const heardToks = variants(heard, false)[0] || [];
@@ -364,7 +369,7 @@ const Match = (() => {
       const pool = heardToks.slice();
       const words = String(t).split(/\s+/).filter(Boolean).map(w => {
         const v = variants(w, true)[0] || [];
-        const ok = v.length > 0 && v.every(x => { if (x === NAME) return pool.length > 0; const k = pool.indexOf(x); if (k < 0) return false; pool.splice(k, 1); return true; });
+        const ok = v.length > 0 && v.every(x => { if (x === NAME) return pool.length > 0; const k = pool.findIndex(y => eq(x, y)); if (k < 0) return false; pool.splice(k, 1); return true; });
         return { w, ok };
       });
       const score = words.filter(x => x.ok).length / Math.max(words.length, 1);
@@ -372,7 +377,7 @@ const Match = (() => {
     }
     return best;
   }
-  return { check, diff, variants, targetsOf };
+  return { check, match, diff, variants, targetsOf };
 })();
 
 /* =========================================================
@@ -667,14 +672,17 @@ function startListening() {
     if (finalHeard && finalHeard.length) {
       silentStreak = 0;
       const item = curItem();
-      if (Match.check(item, finalHeard)) {
-        setFb('ok', 'Harika, doğru!', el('span', 'heard', '“' + finalHeard[0] + '”'));
+      const hit = Match.match(item, finalHeard);
+      if (hit !== null) {
+        setFb('ok', 'Harika, doğru!', el('span', 'heard', '“' + hit + '”'));
         markCorrect(settings.autoListen);
       } else {
         if (settings.sound) beep(false);
         const d = Match.diff(item, finalHeard[0]);
         const box = el('div');
         box.appendChild(el('div', 'heard', 'Duyulan: “' + finalHeard[0] + '”'));
+        const others = [...new Set(finalHeard.slice(1).filter(x => x && x !== finalHeard[0]))].slice(0, 3);
+        if (others.length) box.appendChild(el('div', 'heard', 'Diğer tahminler: ' + others.map(x => '“' + x + '”').join(', ')));
         if (revealed && d) {
           const dv = el('div', 'diff'); dv.lang = 'en';
           d.words.forEach((w, i) => { if (i) dv.appendChild(document.createTextNode(' ')); dv.appendChild(el('span', w.ok ? '' : 'miss', w.w)); });
