@@ -86,7 +86,7 @@ svg.i{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:2;stroke
 .lhead p{margin:0;font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .lprog{display:flex;align-items:center;gap:10px;padding:0 0 10px;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
 .lprog .bar{flex:1;margin:0}
-.lmain{flex:1;display:flex;flex-direction:column;gap:12px;padding-bottom:12px}
+.lmain{flex:1;display:flex;flex-direction:column;gap:12px;padding-bottom:12px;width:100%}  /* genişlik içeriğe göre değişmesin */
 .card{background:var(--surface);border-radius:22px;box-shadow:var(--shadow);padding:20px 18px;display:flex;flex-direction:column;gap:14px;min-height:200px}
 .card .lbl{font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);display:flex;align-items:center;gap:8px}
 .tr{font-size:clamp(22px,6.2vw,30px);font-weight:700;line-height:1.3;overflow-wrap:anywhere;margin:0}
@@ -95,16 +95,17 @@ svg.i{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:2;stroke
 .en{font-size:clamp(18px,5vw,22px);font-weight:600;color:var(--brand);line-height:1.35;overflow-wrap:anywhere;margin:0}
 .alts{margin:6px 0 0;padding:0;list-style:none;font-size:15px;color:var(--muted)}
 .alts li::before{content:"ya da: ";font-weight:600}
-.fb{border-radius:16px;padding:12px 14px;min-height:56px;font-size:15px;display:flex;flex-direction:column;justify-content:center;gap:4px;background:var(--surface);box-shadow:var(--shadow)}
+/* Geri bildirim kutusu sabit yükseklikte: dinlerken/sonuçta büyüyüp küçülmez, kart ve butonlar yerinden oynamaz */
+.fb{border-radius:16px;padding:12px 14px;height:96px;font-size:15px;display:flex;flex-direction:column;justify-content:center;gap:4px;background:var(--surface);box-shadow:var(--shadow);overflow:hidden;transition:background-color .2s}
 .fb.ok{background:var(--ok-soft)}
 .fb.bad{background:var(--bad-soft)}
 .fb.info{background:var(--surface-2)}
-.fb .h{font-weight:700;display:flex;align-items:center;gap:6px}
+.fb .h{font-weight:700;display:flex;align-items:center;gap:6px;line-height:22px;white-space:nowrap}
 .fb.ok .h{color:var(--ok)} .fb.bad .h{color:var(--bad)}
-.fb .heard{color:var(--muted);overflow-wrap:anywhere}
-.fb .diff{overflow-wrap:anywhere;line-height:1.6}
-.fb .diff span{padding:1px 3px;border-radius:4px}
-.fb .diff .miss{background:color-mix(in srgb,var(--bad) 22%,transparent);color:var(--text);font-weight:700}
+.fb .heard{color:var(--muted);line-height:20px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;overflow-wrap:anywhere}
+.fb.info .heard{-webkit-line-clamp:3}
+.fb .heard.one{display:block;white-space:nowrap;text-overflow:ellipsis}
+.en .miss{background:color-mix(in srgb,var(--bad) 22%,transparent);color:var(--text);border-radius:4px;padding:0 2px}
 .controls>.wrap{width:100%}
 .controls{position:sticky;bottom:0;z-index:4;background:linear-gradient(to top,var(--bg) 82%,transparent);padding:14px 0 calc(12px + env(safe-area-inset-bottom));display:flex;flex-direction:column;gap:10px}
 .mic{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;min-height:60px;border-radius:18px;background:var(--brand);color:#fff;font-size:18px;font-weight:700;box-shadow:0 6px 18px color-mix(in srgb,var(--brand) 40%,transparent)}
@@ -282,11 +283,13 @@ const Match = (() => {
   const ONES = ['zero','one','two','three','four','five','six','seven','eight','nine','ten','eleven','twelve','thirteen','fourteen','fifteen','sixteen','seventeen','eighteen','nineteen'];
   const TENS = ['','','twenty','thirty','forty','fifty','sixty','seventy','eighty','ninety'];
   const numWords = n => n < 20 ? ONES[n] : TENS[Math.floor(n / 10)] + (n % 10 ? ' ' + ONES[n % 10] : '');
+  const ORD = { one: 'first', two: 'second', three: 'third', five: 'fifth', eight: 'eighth', nine: 'ninth', twelve: 'twelfth' };
+  const ordWords = n => { const w = numWords(n).split(' '); const last = w.pop(); return w.concat(ORD[last] || (last.endsWith('y') ? last.slice(0, -1) + 'ieth' : last + 'th')).join(' '); };
   const SAME = { okay: 'ok', alright: 'all right', colour: 'color', favourite: 'favorite', centre: 'center', theatre: 'theater', neighbour: 'neighbor', mum: 'mom', grey: 'gray', travelling: 'traveling', cancelled: 'canceled', programme: 'program', realise: 'realize', organise: 'organize', mr: 'mister', mrs: 'missus', ms: 'miss', dr: 'doctor', st: 'street', cannot: 'can not', gonna: 'going to', wanna: 'want to', gotta: 'got to' };
   const TR_NAMES = new Set(['ali','mehmet','ahmet','fatma','zeynep','elif','emre','murat','mustafa','hasan','huseyin','hakan','kemal','selim','burak','ece','merve','esra','ayten','aylin','berk','cem','deniz','kerem','oguz','serkan','tolga','volkan','yusuf','ataturk','istanbul','ankara','izmir','bakirkoy','kadikoy','besiktas','galatasaray','fenerbahce','trabzon','antalya','bursa']);
   const NAME = 'qqname';
   // Telaffuzu birebir aynı kelimeler (CMU telaffuz sözlüğünden): konuşma tanıma "hour" yerine "our" yazabilir
-  const HOMO = {"a":["uh","uhh"],"air":["err","heir"],"ali":["ollie"],"allowed":["aloud"],"an":["ann","anne"],"and":["und"],"are":["ar"],"ate":["eight"],"aunt":["ant"],"aunts":["ants"],"ay":["ae"],"bak":["back"],"be":["bea","bee"],"bee":["be","bea"],"been":["bin"],"bird":["byrd"],"blew":["blue"],"blue":["blew"],"boil":["boyle"],"bored":["board"],"born":["borne","bourne"],"bread":["bred"],"break":["brake"],"brown":["browne"],"build":["billed"],"but":["butt"],"buy":["bae","bi","by","bye"],"by":["bae","bi","buy","bye"],"calm":["com","comm"],"can":["kan"],"cancelled":["canceled"],"cans":["cannes"],"car":["carr"],"carrey":["carey","carrie","cary","kerry"],"cat":["kat"],"cats":["katz"],"caught":["cot"],"center":["centre"],"check":["cheque","czech"],"color":["colour"],"colors":["colours"],"colour":["color"],"come":["cum"],"coming":["cumming"],"cook":["cooke"],"course":["coarse"],"day":["dae"],"deer":["dear"],"die":["dai","dye"],"died":["dyed"],"do":["dew","doo","du","due"],"done":["dun","dunn"],"drive":["dr"],"e":["ee"],"earn":["urn"],"eaten":["eaton"],"eid":["eyed"],"eight":["ate"],"eye":["ai","aye","i"],"favorite":["favourite"],"favourite":["favorite"],"february":["feb"],"feet":["feat"],"fill":["fil","phil"],"find":["fined"],"finish":["finnish"],"flew":["flu"],"flour":["flower"],"flower":["flour"],"for":["fore","four"],"forest":["forrest"],"four":["for","fore"],"fourth":["forth"],"fur":["fir"],"g":["gee","je","ji"],"go":["gogh"],"grass":["gras"],"gray":["grey"],"greece":["grease"],"green":["greene"],"guessed":["guest"],"guest":["guessed"],"hair":["hare","herr"],"he":["hee"],"hear":["here"],"heard":["herd"],"heart":["hart"],"here":["hear"],"hide":["hyde"],"high":["hi","hye"],"higher":["hire"],"him":["hymn"],"hour":["our"],"hours":["ours"],"how":["howe"],"i":["ai","aye","eye"],"ill":["il"],"in":["inn"],"jeans":["genes"],"jim":["gym"],"june":["joon"],"knew":["new","nu"],"know":["no"],"knows":["nose"],"l":["el","elle"],"less":["les"],"lesson":["lessen"],"lie":["lai","ly"],"light":["lite"],"lion":["lyon"],"lock":["loch","locke"],"lose":["luiz"],"low":["lo","lowe"],"m":["em"],"made":["maid"],"man":["mann"],"marry":["mary","merry"],"may":["mae","mei"],"me":["mi"],"meat":["meet"],"meet":["meat"],"meets":["meats"],"mind":["mined"],"miss":["mis"],"missed":["mist"],"morning":["mourning"],"mount":["mt"],"my":["mai"],"n":["en"],"neighborhood":["neighbourhood"],"neighbors":["neighbours"],"new":["knew","nu"],"night":["knight"],"nights":["knights"],"no":["know"],"nose":["knows"],"not":["knot"],"o":["au","aux","oh","ohh","ow","owe"],"okay":["ok"],"one":["won"],"our":["hour"],"ours":["hours"],"passed":["past"],"past":["passed"],"pick":["pic"],"pie":["pi"],"piece":["peace"],"plane":["plain"],"please":["pleas"],"pour":["por","pore"],"r":["ar","are"],"rain":["reign","rein"],"read":["red"],"real":["reel"],"realized":["realised"],"red":["read"],"right":["rite","wright","write"],"road":["rhode","rode"],"roads":["rhodes"],"rode":["rhode","road"],"rose":["rows"],"say":["se"],"sea":["sci","see","si"],"seas":["sees","seize"],"see":["sci","sea","si"],"seem":["seam"],"seen":["scene"],"sees":["seas","seize"],"sell":["cell"],"sells":["cells"],"sent":["cent","scent"],"share":["cher"],"she":["shi","xi"],"shown":["shone"],"sick":["sic"],"sing":["singh"],"sky":["skye"],"so":["sew"],"socks":["sox"],"some":["sum"],"son":["sun"],"sons":["suns"],"star":["starr"],"steal":["steel","steele"],"story":["storey"],"street":["st"],"sun":["son"],"sunny":["sonny"],"t":["te","tea","tee","ti"],"tea":["te","tee","ti"],"tell":["tel"],"theater":["theatre"],"their":["there"],"there":["their"],"threw":["through","thru"],"through":["threw","thru"],"thrown":["throne"],"to":["too","tu","tue","two"],"toe":["tow"],"traveled":["travelled"],"travelled":["traveled"],"try":["tri"],"two":["to","too","tu","tue"],"very":["vary"],"wait":["weight"],"waited":["weighted"],"wall":["wal"],"war":["wore"],"wave":["waive"],"waved":["waived"],"we":["wee","wii"],"weak":["week"],"wear":["ware","where"],"weather":["whether"],"week":["weak"],"when":["wen"],"where":["ware","wear"],"which":["witch"],"white":["wight"],"who":["hoo","hu"],"wild":["wilde"],"will":["wil"],"wine":["whine"],"wolf":["wolfe","wolff"],"won":["one"],"wore":["war"],"worn":["warn"],"would":["wood"],"write":["right","rite","wright"],"y":["why"],"you":["yoo","yu"],"zoo":["xu"]};
+  const HOMO = {"a":["uh","uhh"],"able":["abel"],"air":["err","heir"],"ali":["ollie"],"allowed":["aloud"],"an":["ann","anne"],"and":["und"],"ants":["aunts"],"apologise":["apologize"],"apologised":["apologized"],"apologize":["apologise"],"are":["ar"],"ate":["eight"],"aunt":["ant"],"aunts":["ants"],"ay":["ae"],"bak":["back"],"band":["banned"],"banned":["band"],"bar":["barr"],"bazaar":["bizarre"],"be":["bea","bee"],"beach":["beech"],"bear":["bare"],"bee":["be","bea"],"been":["bin"],"behaviour":["behavior"],"bell":["bel","belle"],"bin":["been"],"bird":["byrd"],"birth":["berth"],"blew":["blue"],"blue":["blew"],"board":["bored"],"boil":["boyle"],"bomb":["balm","bom"],"bored":["board"],"born":["borne","bourne"],"bread":["bred"],"break":["brake"],"breaking":["braking"],"breaks":["brakes"],"brown":["browne"],"build":["billed"],"burn":["byrne"],"bury":["berry"],"but":["butt"],"buy":["bae","bi","by","bye"],"by":["bae","bi","buy","bye"],"calm":["com","comm"],"can":["kan"],"canceled":["cancelled"],"cancelled":["canceled"],"cans":["cannes"],"car":["carr"],"carrey":["carey","carrie","cary","kerry"],"cash":["cache"],"cat":["kat"],"cats":["katz"],"caught":["cot"],"ceiling":["sealing"],"center":["centre"],"centre":["center"],"cereal":["serial"],"check":["cheque","czech"],"cheque":["check","czech"],"color":["colour"],"colors":["colours"],"colour":["color"],"come":["cum"],"coming":["cumming"],"cook":["cooke"],"cool":["kool"],"course":["coarse"],"court":["ct"],"cozy":["cosy"],"daily":["daly"],"day":["dae"],"dear":["deer"],"deer":["dear"],"defence":["defense"],"die":["dai","dye"],"died":["dyed"],"do":["dew","doo","du","due"],"done":["dun","dunn"],"drive":["dr"],"due":["dew","do","doo","du"],"e":["ee"],"earn":["urn"],"eaten":["eaton"],"eid":["eyed"],"eight":["ate"],"eye":["ai","aye","i"],"fair":["fare"],"favorite":["favourite"],"favour":["favor"],"favourite":["favorite"],"february":["feb"],"feet":["feat"],"fill":["fil","phil"],"find":["fined"],"finish":["finnish"],"flew":["flu"],"flour":["flower"],"flow":["flo"],"flower":["flour"],"flu":["flew"],"for":["fore","four"],"forest":["forrest"],"four":["for","fore"],"fourth":["forth"],"fur":["fir"],"g":["gee","je","ji"],"go":["gogh"],"grass":["gras"],"gray":["grey"],"greece":["grease"],"green":["greene"],"guard":["garde"],"guessed":["guest"],"guest":["guessed"],"gun":["gunn"],"gym":["jim"],"hair":["hare","herr"],"hall":["haul"],"harbor":["harbour"],"he":["hee"],"hear":["here"],"heard":["herd"],"heart":["hart"],"here":["hear"],"hide":["hyde"],"high":["hi","hye"],"higher":["hire"],"him":["hymn"],"hire":["higher"],"hour":["our"],"hours":["ours"],"how":["howe"],"i":["ai","aye","eye"],"ill":["il"],"in":["inn"],"ink":["inc"],"jeans":["genes"],"jim":["gym"],"june":["joon"],"k":["kay"],"key":["ki","qi","quay","qui"],"kid":["kidd"],"knee":["ne","nee","ni"],"knew":["new","nu"],"knot":["not"],"know":["no"],"knows":["nose"],"l":["el","elle"],"least":["leased"],"less":["les"],"lesson":["lessen"],"licence":["license"],"license":["licence"],"lie":["lai","ly"],"light":["lite"],"lion":["lyon"],"loan":["lone"],"lock":["loch","locke"],"lorry":["laurie","lori"],"lose":["luiz"],"low":["lo","lowe"],"m":["em"],"madam":["madame"],"made":["maid"],"mail":["male"],"mails":["males"],"main":["maine","mane"],"male":["mail"],"man":["mann"],"mark":["marc"],"marry":["mary","merry"],"marvellous":["marvelous"],"may":["mae","mei"],"me":["mi"],"mean":["mein"],"meat":["meet"],"meet":["meat"],"meets":["meats"],"melon":["mellon"],"metre":["meter"],"mind":["mined"],"miners":["minors"],"miss":["mis"],"missed":["mist"],"mom":["mam"],"morning":["mourning"],"mount":["mt"],"moustache":["mustache"],"my":["mai"],"n":["en"],"neck":["nec"],"neighbor":["neighbour"],"neighborhood":["neighbourhood"],"neighbors":["neighbours"],"neighbour":["neighbor"],"neighbourhood":["neighborhood"],"neighbours":["neighbors"],"new":["knew","nu"],"night":["knight"],"nights":["knights"],"no":["know"],"none":["nun"],"nose":["knows"],"not":["knot"],"o":["au","aux","oh","ohh","ow","owe"],"okay":["ok"],"one":["won"],"or":["ore","orr"],"our":["hour"],"ours":["hours"],"owe":["au","aux","oh","ohh","ow"],"pack":["pac","pak"],"packed":["pact"],"page":["paige"],"pain":["payne"],"pair":["pear"],"passed":["past"],"past":["passed"],"pause":["paws"],"pea":["pee"],"peace":["piece"],"pear":["pair"],"pen":["penn"],"pick":["pic"],"pie":["pi"],"piece":["peace"],"plane":["plain"],"planes":["plains"],"please":["pleas"],"pool":["poole"],"pour":["por","pore"],"pray":["prey"],"program":["programme"],"queue":["cue","que"],"r":["ar","are"],"rain":["reign","rein"],"raining":["reigning"],"rains":["reigns","reins"],"raise":["rays","res"],"rak":["rack"],"raw":["ra"],"read":["red"],"real":["reel"],"realise":["realize"],"realize":["realise"],"realized":["realised"],"recognise":["recognize"],"recognize":["recognise"],"red":["read"],"right":["rite","wright","write"],"road":["rhode","rode"],"roads":["rhodes"],"rob":["robb"],"rock":["roc"],"rode":["rhode","road"],"rome":["roam"],"rose":["rows"],"s":["es"],"sale":["sail"],"sales":["sails"],"say":["se"],"sea":["sci","see","si"],"seas":["sees","seize"],"see":["sci","sea","si"],"seem":["seam"],"seen":["scene"],"sees":["seas","seize"],"sell":["cell"],"sells":["cells"],"sent":["cent","scent"],"share":["cher"],"sharp":["sharpe"],"she":["shi","xi"],"shepherd":["shepard","sheppard"],"shown":["shone"],"sick":["sic"],"sight":["cite","site"],"sin":["sinn"],"sing":["singh"],"sink":["sync"],"size":["sighs"],"sky":["skye"],"so":["sew"],"socks":["sox"],"some":["sum"],"son":["sun"],"sons":["suns"],"soul":["seoul","sole"],"stairs":["stares"],"star":["starr"],"steak":["stake"],"steal":["steel","steele"],"story":["storey"],"street":["st"],"sum":["some"],"sun":["son"],"sunny":["sonny"],"t":["te","tea","tee","ti"],"tea":["te","tee","ti"],"tell":["tel"],"theater":["theatre"],"theatre":["theater"],"their":["there"],"there":["their"],"threw":["through","thru"],"through":["threw","thru"],"thrown":["throne"],"tide":["tied"],"tie":["pty","tai","thai","ty"],"tied":["tide"],"till":["til"],"to":["too","tu","tue","two"],"toe":["tow"],"too":["to","tu","tue","two"],"traveled":["travelled"],"traveling":["travelling"],"travelled":["traveled"],"try":["tri"],"two":["to","too","tu","tue"],"very":["vary"],"wait":["weight"],"waited":["weighted"],"wall":["wal"],"war":["wore"],"warn":["worn"],"waste":["waist"],"wave":["waive"],"waved":["waived"],"way":["wei","weigh"],"we":["wee","wii"],"weak":["week"],"weakly":["weekly"],"wear":["ware","where"],"weather":["whether"],"web":["webb"],"week":["weak"],"weigh":["way","wei"],"weight":["wait"],"when":["wen"],"where":["ware","wear"],"which":["witch"],"white":["wight"],"who":["hoo","hu"],"whole":["hole"],"wil":["will"],"wild":["wilde"],"will":["wil"],"wine":["whine"],"wolf":["wolfe","wolff"],"won":["one"],"wood":["would"],"wore":["war"],"worn":["warn"],"would":["wood"],"write":["right","rite","wright"],"writes":["rights","rites"],"y":["why"],"you":["yoo","yu"],"zoo":["xu"]};
   const eq = (t, s) => t === s || (HOMO[t] ? HOMO[t].includes(s) : false);
   const NEG = new Set(['not', 'no', 'never', 'nothing', 'nobody', 'none']);
 
@@ -312,6 +315,7 @@ const Match = (() => {
          .replace(/\bain't\b/g, 'is not').replace(/n't\b/g, ' not').replace(/'m\b/g, ' am').replace(/'re\b/g, ' are')
          .replace(/'ve\b/g, ' have').replace(/'ll\b/g, ' will').replace(/\bo'clock\b/g, 'oclock');
     if (isTarget) s = s.replace(new RegExp(NAME + "'?s\\b", 'g'), NAME);
+    s = s.replace(/\b(\d{1,2})(st|nd|rd|th)\b/g, (m, n) => ' ' + ordWords(+n) + ' ');   // 29th = twenty ninth
     s = s.replace(/[^a-z0-9' ]+/g, ' ');
     let toks = s.split(/\s+/).filter(Boolean).flatMap(t => {
       if (/^\d+$/.test(t)) { const n = +t; return n < 100 ? numWords(n).split(' ') : [t]; }
@@ -340,6 +344,7 @@ const Match = (() => {
   // Baş ve sonda en fazla 2 fazladan kelimeye ("yes", "uh" gibi) izin ver; ortada değil.
   function tokensMatch(T, S) {
     if (fullMatch(T, S)) return true;
+    if (!T.includes(NAME) && T.join('') === S.join('')) return true;   // "every day" = "everyday", "to night" = "tonight"
     if (T.length < 3) return false;           // kısa cümlelerde fazlalığa izin yok
     for (let a = 0; a <= 2; a++) for (let b = 0; b <= 2; b++) {
       if (a + b === 0 || a + b > S.length) continue;
@@ -350,7 +355,8 @@ const Match = (() => {
     return false;
   }
   function targetsOf(item) {
-    const list = [item.en, ...(item.alt || [])];
+    // "The young student (object form)": parantez içindeki açıklama söylenmez
+    const list = [item.en, ...(item.alt || [])].map(t => String(t).replace(/\s*\([^)]*\)\s*/g, ' ').trim() || String(t));
     // "Turn on / Switch on" → her biri ayrı doğru cevap
     return list.flatMap(t => String(t).includes('/') ? [...String(t).split('/').map(x => x.trim()).filter(Boolean), String(t).replace(/\//g, ' ')] : [t]);
   }
@@ -544,7 +550,7 @@ function renderCard(speak) {
   const item = curItem();
   revealed = false;
   $('trText').textContent = item.tr;
-  $('enText').textContent = item.en;
+  lastDiff = null; $('enText').textContent = item.en;
   const al = $('altList'); al.textContent = '';
   item.alt.forEach(a => al.appendChild(el('li', null, a)));
   setReveal(false);
@@ -563,9 +569,17 @@ function updateStats() {
   $('sCorrect').textContent = c; $('sPass').textContent = p; $('sLeft').textContent = Math.max(total - P.pos, 0);
   $('prevBtn').disabled = P.pos <= 0;
 }
+let lastDiff = null;   // son yanlış denemede duyulmayan kelimeler (kartta kırmızı)
+function paintEn() {
+  const en = $('enText'); en.textContent = '';
+  const item = curItem();
+  if (!lastDiff) { en.textContent = item.en; return; }
+  lastDiff.words.forEach((w, i) => { if (i) en.appendChild(document.createTextNode(' ')); en.appendChild(el('span', w.ok ? '' : 'miss', w.w)); });
+}
 function setReveal(on) {
   revealed = on;
   $('enWrap').hidden = !on;
+  if (on) paintEn();
   const b = $('revealBtn'); b.textContent = '';
   b.append(icon(on ? 'eyeoff' : 'eye'), el('span', null, on ? 'Gizle' : 'İngilizcesini göster'));
   b.setAttribute('aria-expanded', on);
@@ -651,7 +665,7 @@ function startListening() {
     r = new SR(); r.lang = 'en-US'; r.continuous = false; r.interimResults = true; r.maxAlternatives = 5;
   } catch { return; }
   rec = r; let finalHeard = null, outcome = null;
-  r.onstart = () => { listening = true; setMic('on'); setFb('info', 'Dinliyorum… cümleyi söyle.'); };
+  r.onstart = () => { listening = true; setMic('on'); if (!/\b(ok|bad)\b/.test($('fb').className)) setFb('info', 'Dinliyorum… cümleyi söyle.'); };
   r.onresult = e => {
     const res = e.results[e.results.length - 1];
     if (!res.isFinal) { setFb('info', '“' + res[0].transcript.trim() + '”'); return; }
@@ -678,22 +692,20 @@ function startListening() {
         markCorrect(settings.autoListen);
       } else {
         if (settings.sound) beep(false);
-        const d = Match.diff(item, finalHeard[0]);
-        const box = el('div');
-        box.appendChild(el('div', 'heard', 'Duyulan: “' + finalHeard[0] + '”'));
+        lastDiff = Match.diff(item, finalHeard[0]);
+        if (revealed) paintEn();
         const others = [...new Set(finalHeard.slice(1).filter(x => x && x !== finalHeard[0]))].slice(0, 3);
-        if (others.length) box.appendChild(el('div', 'heard', 'Diğer tahminler: ' + others.map(x => '“' + x + '”').join(', ')));
-        if (revealed && d) {
-          const dv = el('div', 'diff'); dv.lang = 'en';
-          d.words.forEach((w, i) => { if (i) dv.appendChild(document.createTextNode(' ')); dv.appendChild(el('span', w.ok ? '' : 'miss', w.w)); });
-          box.appendChild(dv);
-        } else box.appendChild(el('div', 'heard', 'İpucu için “İngilizcesini göster”e dokun.'));
+        const box = document.createDocumentFragment();
+        box.appendChild(el('div', 'heard one', 'Duyulan: “' + finalHeard[0] + '”'));
+        box.appendChild(el('div', 'heard one', !revealed ? 'İpucu için “İngilizcesini göster”e dokun.'
+          : others.length ? 'Diğer tahminler: ' + others.map(x => '“' + x + '”').join(', ') : 'Eksik ya da yanlış kelimeler kartta işaretli.'));
         setFb('bad', 'Tam olmadı, tekrar dene', box);
         if (settings.autoListen && wantAuto) setTimeout(() => wantAuto && startListening(), 1200);
       }
     } else if (!outcome || outcome === 'no-speech') {
       silentStreak++;
-      setFb('info', 'Ses duyulmadı. Mikrofona dokunup tekrar dene.');
+      // Ekranda bir sonuç (doğru/yanlış) varsa öğrenci onu okuyor olabilir: silme
+      if (!/\b(ok|bad)\b/.test($('fb').className)) setFb('info', 'Ses duyulmadı. Mikrofona dokunup tekrar dene.');
       if (settings.autoListen && wantAuto && silentStreak < 2) setTimeout(() => wantAuto && startListening(), 400);
       else wantAuto = false;
     }
